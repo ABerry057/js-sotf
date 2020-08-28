@@ -1,0 +1,3449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">26</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i387646</issue-id>
+         <article-id pub-id-type="doi">10.2307/4131697</article-id>
+      
+         <title-group>
+            <article-title>
+           The Reception of the "Shulḥan 'Arukh" and the Formation of Ashkenazic Jewish Identity 
+        </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Joseph</given-names>
+                  <surname>Davis</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2002</year>
+         </pub-date>
+         <fpage>251</fpage>
+         <lpage>276</lpage>
+         <page-range>251-276</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2002 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4131697"/>
+      
+      
+         <custom-meta-group>
+        
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d2067e129a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d2067e136" publication-type="journal">
+Isadore Twersky, &amp;quot;The Shulhan &amp;apos;Arukh: Enduring Code of Jewish Law,&amp;quot; Judaism 16 (1967),
+141-158<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>141</fpage>
+                  <volume>16</volume>
+                  <source>Judaism</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e167" publication-type="book">
+The Jewish Expression, ed. Judah Goldin (New Haven, 1976), pp. 322-343<person-group>
+                     <string-name>
+                        <surname>Goldin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>322</fpage>
+                  <source>The Jewish Expression</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e191" publication-type="journal">
+Isadore Twersky, &amp;quot;Ha-Rav Yosef Qaro ba&amp;apos;al ha-Shulhan &amp;apos;Arukh;&amp;apos; Asufot 3 (1989), 245-262<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>245</fpage>
+                  <volume>3</volume>
+                  <source>Asufot</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e220" publication-type="book">
+Chaim Tchernowitz, Toledot ha-Posqim, vol. 3 (New York, 1947)<person-group>
+                     <string-name>
+                        <surname>Tchernowitz</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>3</volume>
+                  <source>Toledot ha-Posqim</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e244" publication-type="book">
+Yizhaq Raphael, ed., Rabi Yosef
+Qaro: &amp;apos;Iyunim u-mehqarim be-mishnat Maran Ba&amp;apos;al ha-Shulhan &amp;apos;Arukh (Jerusalem, 1969)<person-group>
+                     <string-name>
+                        <surname>Raphael</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Rabi Yosef Qaro: &amp;apos;Iyunim u-mehqarim be-mishnat Maran Ba&amp;apos;al ha-Shulhan &amp;apos;Arukh</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e268" publication-type="book">
+Menachem
+Elon, Ha-Mishpat ha-&amp;apos;Ivri: toledotav, meqorotav, &amp;apos;eqronotav, &lt;latex&gt;$2^{nd}$&lt;/latex&gt; ed. (Jerusalem, 1978)<person-group>
+                     <string-name>
+                        <surname>Elon</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <source>Ha-Mishpat ha-&amp;apos;Ivri: toledotav, meqorotav, &amp;apos;eqronotav</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e296" publication-type="book">
+Asher Siev
+(Ziv), Rabeinu Mosheh Isserles (Rema) (New York, 1972)<person-group>
+                     <string-name>
+                        <surname>Siev</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Rabeinu Mosheh Isserles (Rema)</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e320" publication-type="book">
+R. J. Zwi Werblowsky, Joseph Karo: Lawyer
+and Mystic, rev. ed. (Philadelphia, 1977)<person-group>
+                     <string-name>
+                        <surname>Werblowsky</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Joseph Karo: Lawyer and Mystic</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e344" publication-type="book">
+Meir Benayahu, Yosef Behiri: Maran Rabi Yosef Qaro (Je-
+rusalem, 1991)<person-group>
+                     <string-name>
+                        <surname>Benayahu</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Yosef Behiri: Maran Rabi Yosef Qaro</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e369" publication-type="book">
+Israel Ta-Shma, &amp;quot;Rabbi Joseph Caro and His Beit Yosef. Between Spain and Germany,&amp;quot;
+in Moreshet Sepharad: The Sep hardi Legacy, ed. Haim Beinart, vol. 2 (Jerusalem, 1992), pp. 192-206<person-group>
+                     <string-name>
+                        <surname>Ta-Shma</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Rabbi Joseph Caro and His Beit Yosef. Between Spain and Germany</comment>
+                  <fpage>192</fpage>
+                  <volume>2</volume>
+                  <source>Moreshet Sepharad: The Sep hardi Legacy</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e403" publication-type="journal">
+Tarbiz 59 [1990] : 153 -170<fpage>153</fpage>
+                  <volume>59</volume>
+                  <source>Tarbiz</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e421" publication-type="book">
+Eric (Yizhaq) Zimmer, Gaha-
+latan shel Hakhamim: peraqim be-toledot ha-rabanut be-Germanyah ba-me &amp;apos;ah ha-shesh- &amp;apos;esreh uva-
+me&amp;apos;ah ha-sheva&amp;apos;-&amp;apos;esreh (Jerusalem, 1999), pp. 177-237<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>177</fpage>
+                  <source>Gahalatan shel Hakhamim: peraqim be-toledot ha-rabanut be-Germanyah ba-me &amp;apos;ah ha-shesh- &amp;apos;esreh uvame&amp;apos;ah ha-sheva&amp;apos;-&amp;apos;esreh</source>
+                  <year>1999</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e453a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d2067e460" publication-type="book">
+Miri-
+am Bodian, Hebrews of the Portuguese Nation: Conversos and Community in Early Modern Amsterdam
+(Bloomington, IN, 1997)<person-group>
+                     <string-name>
+                        <surname>Bodian</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Hebrews of the Portuguese Nation: Conversos and Community in Early Modern Amsterdam</source>
+                  <year>1997</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e488" publication-type="book">
+Ismar Schorsch,
+&amp;quot;The Myth of Sephardic Supremacy,&amp;quot; Leo Baeck Institute Year Book 34 (1989), 47-66<person-group>
+                     <string-name>
+                        <surname>Schorsch</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>47</fpage>
+                  <volume>34</volume>
+                  <source>The Myth of Sephardic Supremacy</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e519" publication-type="book">
+Hirsch Jacob Zimmels, Ashkenazim and Sephardim:
+Their Relations, Differences, and Problems as Reflected in the Rabbinical Responsa (Oxford, 1958)<person-group>
+                     <string-name>
+                        <surname>Zimmels</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ashkenazim and Sephardim: Their Relations, Differences, and Problems as Reflected in the Rabbinical Responsa</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e544a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d2067e551" publication-type="book">
+Richard Helgersen among others; see his Forms of Nationhood:
+The Elizabethan Writing of England (Chicago, 1992), pp. 65-104<person-group>
+                     <string-name>
+                        <surname>Helgersen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>65</fpage>
+                  <source>Forms of Nationhood: The Elizabethan Writing of England</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e579" publication-type="book">
+Charlotte Catherine Wells, Law and Citizenship in
+Early Modern France (Baltimore, 1995)<person-group>
+                     <string-name>
+                        <surname>Wells</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Law and Citizenship in Early Modern France</source>
+                  <year>1995</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e603" publication-type="book">
+Rainer Babel and Jean-Marie Moeglin, eds., Identité ré-
+gionale et conscience nationale en France et en Allemagne du Moyen Age à l&amp;apos;Epoque Moderne (Sig-
+maringen, 1997)<person-group>
+                     <string-name>
+                        <surname>Babel</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Identité régionale et conscience nationale en France et en Allemagne du Moyen Age à l&amp;apos;Epoque Moderne</source>
+                  <year>1997</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e632" publication-type="book">
+Brenden Bradshaw and Peter Robert, eds., British Consciousness and Identity: The
+Making of Britain, 1533—1707 (Cambridge, 1998)<person-group>
+                     <string-name>
+                        <surname>Bradshaw</surname>
+                     </string-name>
+                  </person-group>
+                  <source>British Consciousness and Identity: The Making of Britain, 1533—1707</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e656" publication-type="journal">
+Harvard Ukrainian Studies,
+vol. 10, nos. 3-4 (1986), ed. Ivo Banac and Frank Sysyn, entitled Concepts of Nationhood in Early
+Modern Eastern Europe<person-group>
+                     <string-name>
+                        <surname>Banac</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <volume>10</volume>
+                  <source>Harvard Ukrainian Studies</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e690" publication-type="book">
+Orest Ranum, ed., National Consciousness, History, and Political Culture in
+Early Modern Europe (Baltimore, 1975)<person-group>
+                     <string-name>
+                        <surname>Ranum</surname>
+                     </string-name>
+                  </person-group>
+                  <source>National Consciousness, History, and Political Culture in Early Modern Europe</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e714" publication-type="journal">
+David Bell, &amp;quot;Recent Works on Early Modern
+French National Identity,&amp;quot; Journal of Modern History 68(1996), 84-113<object-id pub-id-type="jstor">10.2307/2124334</object-id>
+                  <fpage>84</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e730a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d2067e737" publication-type="book">
+Manlio Bellomo, The Common Legal Past of Europe, 1000—1800, trans. Lydia G.
+Cochrane (Washington, D.C., 1995), pp. 78-84<person-group>
+                     <string-name>
+                        <surname>Bellomo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>78</fpage>
+                  <source>The Common Legal Past of Europe, 1000—1800</source>
+                  <year>1995</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e765" publication-type="journal">
+John P. Dawson, &amp;quot;The Codification of the French Cus-
+toms,&amp;quot; Michigan Law Review 38 (1940), 765-800<object-id pub-id-type="doi">10.2307/1283019</object-id>
+                  <fpage>765</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e780" publication-type="compound">
+René Filhol, &amp;quot;La rédaction des coutumes en France
+aux XVe et XVIe siècles,&amp;quot; and John Gilissen, &amp;quot;La redaction des coutumes en Belgique aux XVIe et
+XVIIe siècles,&amp;quot; both to be found in John Gillisen, ed., La rédaction des coutumes dans le passé et dans
+le présent (Brussels, 1962), pp. 63-78 and 87-109</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e796" publication-type="book">
+Richard L. Kagan, Lawsuits and Litigants in
+Castile, 1500-1700 (Chapel Hill, NC, 1988), pp. 25-26<person-group>
+                     <string-name>
+                        <surname>Kagan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Lawsuits and Litigants in Castile, 1500-1700</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e824" publication-type="book">
+Helgerson, Forms of Nationhood; Gerald
+Straus, Law, Resistance, and the State: The Opposition to Roman Law in Reformation Germany (Prince-
+ton, 1986), pp. 86-87<person-group>
+                     <string-name>
+                        <surname>Helgerson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>86</fpage>
+                  <source>Forms of Nationhood; Gerald Straus, Law, Resistance, and the State: The Opposition to Roman Law in Reformation Germany</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e855" publication-type="journal">
+Waclaw Uruszczak, &amp;quot;Essais de codification du droit polonais dans la première
+moitié du XVIe siècle,&amp;quot; Revue historique du droit francais et étranger 59 (1981), 419-430<person-group>
+                     <string-name>
+                        <surname>Uruszczak</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>419</fpage>
+                  <volume>59</volume>
+                  <source>Revue historique du droit francais et étranger</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e886" publication-type="journal">
+H. Inalcik,
+&amp;quot;Suleiman the Lawgiver and Ottoman Law,&amp;quot; Archivum Ottomanicum 1 (1969), 105-138<person-group>
+                     <string-name>
+                        <surname>Inalcik</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>105</fpage>
+                  <volume>1</volume>
+                  <source>Archivum Ottomanicum</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e919a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d2067e926" publication-type="journal">
+Helgerson, Forms of Nationhood, p. 70<person-group>
+                     <string-name>
+                        <surname>Helgerson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>70</fpage>
+                  <source>Forms of Nationhood</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e948a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d2067e955" publication-type="book">
+Konstanty Grzybowski, &amp;quot;La loi et la coutume en Pologne depuis le X-ème siècle
+jusqu&amp;apos;à 1795,&amp;quot; in Rapport polonais présenté au sixième Congres international de droit comparé (War-
+saw, 1962), p. 51<person-group>
+                     <string-name>
+                        <surname>Grzybowski</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">La loi et la coutume en Pologne depuis le X-ème siècle jusqu&amp;apos;à 1795</comment>
+                  <fpage>51</fpage>
+                  <source>Rapport polonais présenté au sixième Congres international de droit comparé</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e989" publication-type="book">
+Waclaw W. Soroka, &amp;quot;Historical Studies of Polish Law,&amp;quot; in Polish Law Through-
+out the Ages, ed. Wenceslas J. Wagner (Stanford, 1970), pp. 23-31<person-group>
+                     <string-name>
+                        <surname>Soroka</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Historical Studies of Polish Law</comment>
+                  <fpage>23</fpage>
+                  <source>Polish Law Throughout the Ages</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1021a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d2067e1028" publication-type="journal">
+Uruszczak, &amp;quot;Essais de codification du droit polonais,&amp;quot; p. 422.<person-group>
+                     <string-name>
+                        <surname>Uruszczak</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>422</fpage>
+                  <source>Essais de codification du droit polonais</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1050a1310">
+            <label>8</label>
+          
+          
+            <p>
+               <mixed-citation id="d2067e1059" publication-type="book">
+Peter R. Roberts, &amp;quot;Wales and England after the Tudor &amp;apos;Union&amp;apos;: Crown, Principality, and Par-
+liament, 1543 -1624,&amp;quot; in Law and Government under the Tudors: Essays Presented to Sir Geoffrey El-
+ton, ed. Claire Cross et al. (Cambridge, 1988), pp. 111-138<person-group>
+                     <string-name>
+                        <surname>Roberts</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Wales and England after the Tudor &amp;apos;Union&amp;apos;: Crown, Principality, and Par- liament, 1543 -1624</comment>
+                  <fpage>111</fpage>
+                  <source>Law and Government under the Tudors: Essays Presented to Sir Geoffrey Elton</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1093" publication-type="journal">
+Brendan Bradshaw, &amp;quot;Robe and Sword in the Conquest of Ireland,&amp;quot;
+pp. 139-162<person-group>
+                     <string-name>
+                        <surname>Bradshaw</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>139</fpage>
+                  <source>Robe and Sword in the Conquest of Ireland</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1118a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d2067e1125" publication-type="other">
+n. 6</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1132a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d2067e1139" publication-type="other">
+Dawson, &amp;quot;Codification of the French Customs&amp;quot;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1145" publication-type="other">
+Filhol, &amp;quot;La rédaction des coutumes en
+France&amp;quot;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1154" publication-type="other">
+Gilissen, &amp;quot;La redaction des coutumes en Beligique&amp;quot; (all above n. 4)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1162a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d2067e1169" publication-type="book">
+Anthony Pagden, Lords of All the World: Ideologies of Empire in Spain, Britain, and
+France, c. 1500-c. 1800 (New Haven, 1995), pp. 23, 53-60.<person-group>
+                     <string-name>
+                        <surname>Pagden</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <source>Lords of All the World: Ideologies of Empire in Spain, Britain, and France, c. 1500-c. 1800</source>
+                  <year>1995</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1198a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d2067e1205" publication-type="journal">
+Elanan Reiner, &amp;quot;Bein Ashkenaz li-yrushalayim—Hakhamim Ashkenazim be-&amp;apos;Eres Yis-
+ra&amp;apos;el le-ahar ha-mavet ha-shahor&amp;apos;,&amp;quot; Shalem 4 (1984), 27-62.<person-group>
+                     <string-name>
+                        <surname>Reiner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>27</fpage>
+                  <volume>4</volume>
+                  <source>Shalem</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1237a1310">
+            <label>13</label>
+          
+          
+            <p>
+               <mixed-citation id="d2067e1246" publication-type="journal">
+Zimmels, Ashkenazim and Sephardim, pp. 41-45<person-group>
+                     <string-name>
+                        <surname>Zimmels</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <source>Ashkenazim and Sephardim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1267" publication-type="book">
+Salomon Rosanes, Divreiyemei Yisra &amp;apos;el
+be-Togarmah (Tel Aviv, 1930), vol. 1, n. 5 (pp. 163-175)<person-group>
+                     <string-name>
+                        <surname>Rosanes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>163</fpage>
+                  <volume>1</volume>
+                  <source>Divreiyemei Yisra &amp;apos;el be-Togarmah</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1299" publication-type="compound">
+Shelomoh Spitzer, &amp;quot;Ha-Ashkenazim be-hasi
+ha-i ha-Balqani ba-me&amp;apos;ot ha-15 veha-16,&amp;quot; and Leah Bornstein, &amp;quot;Ha-Ashkenazim ba-Imperyah ha-Oth-
+manit ba-me&amp;apos;ot ha-16 veha-17,&amp;quot; both in Mi-Mizrah umi-Ma &amp;apos;arav 1 (1974), 59-79, 81-104</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1311" publication-type="journal">
+Abraham
+David, &amp;quot;Qavim li-demuto shel ha-qehilah ha-Ashkenazit bi-Yerushalayim ba-me&amp;apos;ah ha-16,&amp;quot; Sixth World
+Congress of Jewish Studies, vol. 2, Hebrew sec., pp. 331-341<person-group>
+                     <string-name>
+                        <surname>David</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>331</fpage>
+                  <volume>2</volume>
+                  <source>Sixth World Congress of Jewish Studies</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1342" publication-type="book">
+Minna Rozen, Ha-Qehilah ha-Yehudit
+bi-Yerushalayim ba-me&amp;apos;ah ha-17 (Tel Aviv, 1985), pp. 99-102<person-group>
+                     <string-name>
+                        <surname>Rozen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>99</fpage>
+                  <source>Ha-Qehilah ha-Yehudit bi-Yerushalayim ba-me&amp;apos;ah ha-17</source>
+                  <year>1985</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1370" publication-type="journal">
+Moses Shulvass, &amp;quot;Dos Ashkenazishe
+Yidntum in Italye,&amp;quot; Yivobleter 34 (1950), 157-181<person-group>
+                     <string-name>
+                        <surname>Shulvass</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>157</fpage>
+                  <volume>34</volume>
+                  <source>Yivobleter</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1401" publication-type="journal">
+&amp;quot;Ashkenazic Jewry in
+Italy,&amp;quot; YIVO Annual of Jewish Social Science 7 ( 1952), 110-131<fpage>110</fpage>
+                  <volume>7</volume>
+                  <source>YIVO Annual of Jewish Social Science</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1424a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d2067e1431" publication-type="journal">
+Kenneth Stow, &amp;quot;Ethnic
+Rivalry or Melting Pot: The Edot in the Roman Ghetto,&amp;quot; Judaism 41(1992), 286-296<person-group>
+                     <string-name>
+                        <surname>Stow</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>286</fpage>
+                  <volume>41</volume>
+                  <source>Judaism</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1462" publication-type="book">
+Ariel Toaff, &amp;quot;The
+Jewish Communities of Catalonia, Aragon, and Castile in &lt;latex&gt;$16^{th}$&lt;/latex&gt; Century Rome,&amp;quot; in The Mediterranean
+and the Jews: Banking, Finance, and International Trade (XVI-XVIII Centuries), ed. Ariel Toaff and
+Simon Schwartzfuchs (Tel Aviv, 1989), pp. 249-270<person-group>
+                     <string-name>
+                        <surname>Toaff</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Jewish Communities of Catalonia, Aragon, and Castile in &lt;latex&gt;$16^{th}$&lt;/latex&gt; Century Rome</comment>
+                  <fpage>249</fpage>
+                  <source>The Mediterranean and the Jews: Banking, Finance, and International Trade (XVI-XVIII Centuries)</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1499" publication-type="book">
+Salo Baron, A Social and Religious History of
+the Jews, vol. v, &lt;latex&gt;$2^{nd}$&lt;/latex&gt; ed. (New York, 1983), pp. 55-67<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>55</fpage>
+                  <source>A Social and Religious History of the Jews</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1531" publication-type="book">
+Bernard Weinryb, The Jews of Poland (Philadelphia, 1973),
+pp. 91-92<person-group>
+                     <string-name>
+                        <surname>Weinryb</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>91</fpage>
+                  <source>The Jews of Poland</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1560a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d2067e1567" publication-type="book">
+David Malkiel, A Separate Republic: The Mechanics and Dynamics of Vene-
+tian Jewish Self-Government, 1607-1624 (Jerusalem, 1991), pp. 92-113<person-group>
+                     <string-name>
+                        <surname>Malkiel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>92</fpage>
+                  <source>A Separate Republic: The Mechanics and Dynamics of Venetian Jewish Self-Government, 1607-1624</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1595" publication-type="book">
+Daniel Carpi, &amp;quot;&amp;apos;Taqanone-
+ha&amp;apos; shel qehilat Venesyah 1591-1607,&amp;quot; in Galut ahar golah: mehqarim be-toledot &amp;apos;am Yisra&amp;apos;el mu-
+gashim le-Prof Hayim Beinart..., ed. Aaron Mirski et al. (Jerusalem, 1988), pp. 443-469<person-group>
+                     <string-name>
+                        <surname>Carpi</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Taqanoneha&amp;apos; shel qehilat Venesyah 1591-1607</comment>
+                  <fpage>443</fpage>
+                  <source>Galut ahar golah: mehqarim be-toledot &amp;apos;am Yisra&amp;apos;el mugashim le-Prof Hayim Beinart...</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1629" publication-type="book">
+Carpi, Be-Tarbut ha-Renesans u-vein homot ha-gito (Tel Aviv, 1989), pp. 168-208<person-group>
+                     <string-name>
+                        <surname>Carpi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>168</fpage>
+                  <source>Be-Tarbut ha-Renesans u-vein homot ha-gito</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1654a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d2067e1661" publication-type="book">
+Amnon Cohen and Bernard Lewis, Population and Revenue in the Towns of Palestine in the
+Sixteenth Century (Princeton, 1978), p. 159.<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>159</fpage>
+                  <source>Population and Revenue in the Towns of Palestine in the Sixteenth Century</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1691a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d2067e1698" publication-type="book">
+Bernard Lewis, Notes and Documents from the Turkish Archives (Jerusalem, 1952), pp. 25-
+28<person-group>
+                     <string-name>
+                        <surname>Lewis</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Notes and Documents from the Turkish Archives</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1726" publication-type="book">
+Rivka Cohen, Qushta-Saloniqi-Patros: hit&amp;apos;argenut qehalit ve-&amp;apos;al-qehalit shel Yehudei Yavan
+taat shilton ha-&amp;apos;Othmani ba-me&amp;apos;ot ha-15 veha-16 (Tel Aviv, 1984), pp. 15 ff<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>Qushta-Saloniqi-Patros: hit&amp;apos;argenut qehalit ve-&amp;apos;al-qehalit shel Yehudei Yavan taat shilton ha-&amp;apos;Othmani ba-me&amp;apos;ot ha-15 veha-16</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1755a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d2067e1762" publication-type="other">
+Ta-Shma, &amp;quot;Rabbi Joseph Caro and his Beit Yosef (above n. 1)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1768" publication-type="journal">
+Benayahu (Yosef Beiri,
+p. 28<person-group>
+                     <string-name>
+                        <surname>Benayahu</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>28</fpage>
+                  <source>Yosef Beiri</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1792" publication-type="other">
+p. 140</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1799" publication-type="other">
+Karo &amp;quot;wished the Sefardim to exercise hegemony&amp;quot; in Safed</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1805" publication-type="journal">
+Karo, She&amp;apos;elot
+u-teshuvot Beit Yosef dinei ketubah 3<person-group>
+                     <string-name>
+                        <surname>Karo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>She&amp;apos;elot u-teshuvot Beit Yosef dinei ketubah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1829" publication-type="journal">
+Karo, She&amp;apos;elot u-teshuvot &amp;apos;Avqat rokhel 32<person-group>
+                     <string-name>
+                        <surname>Karo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>32</fpage>
+                  <source>She&amp;apos;elot u-teshuvot &amp;apos;Avqat rokhel</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1850" publication-type="journal">
+Toledano in Raphael, Rabi Yosef Qaro, p. 184<person-group>
+                     <string-name>
+                        <surname>Raphael</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>184</fpage>
+                  <source>Rabi Yosef Qaro</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1871" publication-type="other">
+Dienstag in the same volume, pp. 173-174</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1877" publication-type="book">
+&amp;quot;Sephardic Philo- and Anti-Semitism in the Early Modern Era: The Jewish
+Adoption of Christian Attitudes,&amp;quot; in Jewish Christians and Christian Jews from the Renaissance to the
+Enlightenment, ed. Richard Popkin and Gordon Weiner (Dordrecht, 1994), p. 199<person-group>
+                     <string-name>
+                        <surname>Popkin</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sephardic Philo- and Anti-Semitism in the Early Modern Era: The Jewish Adoption of Christian Attitudes</comment>
+                  <fpage>199</fpage>
+                  <source>Jewish Christians and Christian Jews from the Renaissance to the Enlightenment</source>
+                  <year>1994</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1912a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d2067e1919" publication-type="other">
+Karo&amp;apos;s introduction to Beit Yosef</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1925" publication-type="journal">
+José Faur in Raphael, Rabi Yosef Qaro, pp. 192-193<person-group>
+                     <string-name>
+                        <surname>Raphael</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>192</fpage>
+                  <source>Rabi Yosef Qaro</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e1947a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d2067e1954" publication-type="other">
+Karo&amp;apos;s comment in Kesef Mishneh</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1960" publication-type="other">
+Maimonides, Mishneh Torah</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1966" publication-type="journal">
+Hilkhot &amp;apos;Avodat
+Kokhavim 12:14<person-group>
+                     <string-name>
+                        <surname>Hilkhot</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <volume>12</volume>
+                  <source>Avodat Kokhavim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e1995" publication-type="other">
+She&amp;apos;elot u-teshuvot &amp;apos;Avqat rokhel nos. 32 and 191</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2001" publication-type="other">
+n. 32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2007" publication-type="other">
+Rivka Cohen, Qushta-Saloniqi-Patros (above n. 17), p. 148</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2014a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d2067e2021" publication-type="book">
+Joseph Karo, She&amp;apos;elot u-teshuvot &amp;apos;Avqat rokhel, no. 212 (ed. New York, 1959, p. 193)<person-group>
+                     <string-name>
+                        <surname>Karo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>193</fpage>
+                  <source>She&amp;apos;elot u-teshuvot &amp;apos;Avqat rokhel</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2045" publication-type="journal">
+Zimmels, Ashkenazim and Sephardim, p. 304<person-group>
+                     <string-name>
+                        <surname>Zimmels</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>304</fpage>
+                  <source>Ashkenazim and Sephardim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2066" publication-type="other">
+Rosanes, Divrei Yemei Yisra &amp;apos;el be-
+Togarmah (above n. 13), p. 167</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2076" publication-type="book">
+Elyakim Elinson, Ish ve-ishto (Jerusalem, 1981), p. 20, n. 12<person-group>
+                     <string-name>
+                        <surname>Elinson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>Ish ve-ishto</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2100" publication-type="other">
+p. 24,
+n. 31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2109" publication-type="book">
+Asher Siev, ed., She&amp;apos;elot u-teshuvot ha-Rema (Jerusalem, 1971), p. 335, n. 2<person-group>
+                     <string-name>
+                        <surname>Siev</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>335</fpage>
+                  <source>She&amp;apos;elot u-teshuvot ha-Rema</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2134a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d2067e2141" publication-type="book">
+Morris Goodblatt,
+Jewish Life in Turkey in the XVI Century: As Reflected in the Legal Writings of Samuel de Medina (New
+York, 1952)<person-group>
+                     <string-name>
+                        <surname>Goodblatt</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Jewish Life in Turkey in the XVI Century: As Reflected in the Legal Writings of Samuel de Medina</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2171a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d2067e2178" publication-type="book">
+Hayyim Vital, Sha &amp;apos;ar ha-Kavanot in Kol kitve ha- &amp;apos;Ari z&amp;quot;l, ed. Judah Zvi Brandwein,
+vol. 8 (Jerusalem, 1988), p. 328<person-group>
+                     <string-name>
+                        <surname>Vital</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>328</fpage>
+                  <volume>8</volume>
+                  <source>Sha &amp;apos;ar ha-Kavanot in Kol kitve ha- &amp;apos;Ari z&amp;quot;l</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2209" publication-type="journal">
+Zimmels, Ashkenazim and Sephardim, p. 116,
+n. 6<person-group>
+                     <string-name>
+                        <surname>Zimmels</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>116</fpage>
+                  <source>Ashkenazim and Sephardim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2233" publication-type="book">
+Joseph Hahn Nördlingen, Yosif &amp;apos;ornes
+(Frankfurt am Main, 1928), p. 12<person-group>
+                     <string-name>
+                        <surname>Nördlingen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>Yosif &amp;apos;ornes</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2262" publication-type="book">
+Abraham Gombiner, Magen Avraham on Shulhan &amp;apos;arukh, Ora
+ayim, sec. 68<person-group>
+                     <string-name>
+                        <surname>Gombiner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Magen Avraham on Shulhan &amp;apos;arukh</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2284a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d2067e2291" publication-type="other">
+halakhic view
+of Samuel de Medina, below n. 35</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2300" publication-type="book">
+Joseph ben Hayyim Moses Nazir, She &amp;apos;elot u-teshuvot Mateh Yosef(Constantino-
+ple, 1717), pt. 1, no. 3<person-group>
+                     <string-name>
+                        <surname>Nazir</surname>
+                     </string-name>
+                  </person-group>
+                  <source>She &amp;apos;elot u-teshuvot Mateh Yosef</source>
+                  <year>1717</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2324" publication-type="book">
+Dov Baer of Mezhirech, Magid devarav le-Ya&amp;apos;akov, ed. Rivka Schatz-Uffen-
+heimer (Jerusalem, 1990), p. 167<person-group>
+                     <string-name>
+                        <surname>Dov Baer of Mezhirech</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>167</fpage>
+                  <source>Magid devarav le-Ya&amp;apos;akov</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2353" publication-type="journal">
+Zimmels, Ashkenazim and Sephardim pp. 118-119<person-group>
+                     <string-name>
+                        <surname>Zimmels</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>118</fpage>
+                  <source>Ashkenazim and Sephardim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2374" publication-type="book">
+E. Daniel Gold-
+schmidt, &amp;apos;&amp;quot;Al nusah ha-tefilot shel qehilot ha-Hasidim,&amp;quot; in his Mehqerei tefllah u-flyut (Jerusalem,
+1980), pp. 315-321<person-group>
+                     <string-name>
+                        <surname>Goldschmidt</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Al nusah ha-tefilot shel qehilot ha-Hasidim</comment>
+                  <fpage>315</fpage>
+                  <source>Mehqerei tefllah u-flyut</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2409a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d2067e2416" publication-type="book">
+Castro, &amp;apos;Erekh lehem (Constantinople, 1718)<person-group>
+                     <string-name>
+                        <surname>Castro</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Erekh lehem</source>
+                  <year>1718</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2437" publication-type="other">
+&amp;apos;Even ha- &amp;apos;ezer 1:1 (p. 55b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2443" publication-type="journal">
+Yizhak Nissim in Raphael, ed., R. Yosef Qaro, pp. 64, 75-81<person-group>
+                     <string-name>
+                        <surname>Raphael</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>64</fpage>
+                  <source>R. Yosef Qaro</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2465" publication-type="journal">
+&amp;quot; &amp;apos;Ilot le-hatarat
+herem de-Rabeinu Gershom be-Italyah ba-me&amp;apos;ot ha-hamesh ve-ha-shesh &amp;apos;esreh,&amp;quot; Mehqere mishpat, 9
+(1991), pp. 227-256<fpage>227</fpage>
+                  <volume>9</volume>
+                  <source>Mehqere mishpat</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2490" publication-type="journal">
+&amp;quot;The Ban on Polygamy in Polish Rabbinic Thought,&amp;quot; Polin 10 (1997), pp. 66-
+84<fpage>66</fpage>
+                  <volume>10</volume>
+                  <source>Polin</source>
+                  <year>1997</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2512" publication-type="other">
+She&amp;apos;elot u-teshuvot Beit Yosef, dine ketubot, no. 14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2518" publication-type="book">
+Osar ha-posqim, &amp;apos;Even ha-&amp;apos;ezer, vol. 1 (Jerusalem, 1956), p. 70<fpage>70</fpage>
+                  <volume>1</volume>
+                  <source>Osar ha-posqim, &amp;apos;Even ha-&amp;apos;ezer</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2537a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d2067e2544" publication-type="other">
+Talmud Bavli, Pesahim 50a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2550" publication-type="other">
+Yoreh de&amp;apos;ah 214</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2556" publication-type="journal">
+R. Moses Alashkar in
+his Responsa, no.49<person-group>
+                     <string-name>
+                        <surname>Alashkar</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>49</issue>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2581" publication-type="journal">
+R. Joseph Furman, quoted by Rivka Cohen, Qushta-Saloniqi-Patros, p. 150<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>150</fpage>
+                  <source>Qushta-Saloniqi-Patros</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2603a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d2067e2610" publication-type="book">
+Donald R. Kelley, &amp;quot;Second Nature: The Idea of Custom in European Law, Society, and
+Culture,&amp;quot; in The Transmission of Culture in Early Modern Europe, ed. Anthony Grafton and Ann Blair
+(Philadelphia, 1990), pp. 150-157.<person-group>
+                     <string-name>
+                        <surname>Kelley</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Second Nature: The Idea of Custom in European Law, Society, and Culture</comment>
+                  <fpage>150</fpage>
+                  <source>The Transmission of Culture in Early Modern Europe</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2645a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d2067e2652" publication-type="other">
+Talmud Bavli, Yevamot 13b- 14a and elsewhere</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2660a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d2067e2667" publication-type="journal">
+Talmud Bavli, Besah 4b<person-group>
+                     <string-name>
+                        <surname>Bavli</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4b</fpage>
+                  <source>Besah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2688" publication-type="book">
+Yedidyah Denari, Hakhmei Ashkenaz be-shilhei yemei ha-beinayim (Jerusalem, 1984),
+pp. 190-191, especially n. 5<person-group>
+                     <string-name>
+                        <surname>Denari</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>190</fpage>
+                  <source>Hakhmei Ashkenaz be-shilhei yemei ha-beinayim</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2716" publication-type="journal">
+Jeffrey Woolf, &amp;quot;The Authority of Custom in the Responsa of Joseph Colon
+(Maharik),&amp;quot; Dine Israel 19 (1998), English sec., pp. 43-93<person-group>
+                     <string-name>
+                        <surname>Woolf</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <volume>19</volume>
+                  <source>Dine Israel</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2748" publication-type="book">
+Joseph ibn Ezra, Masa Melekh:
+dinei misim u-minhagim (ed. princ. Salonika, 1601), pt. 8, Ne&amp;apos;ilat She&amp;apos;arim (ed. Ya&amp;apos;aqov Shemu&amp;apos;el
+Spiegel, [Jerusalem, 1989], pp. 200-205)<person-group>
+                     <string-name>
+                        <surname>Ezra</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>200</fpage>
+                  <source>Masa Melekh: dinei misim u-minhagim</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2779" publication-type="other">
+responsum 1: 307</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2785" publication-type="journal">
+Rivka Cohen,
+Qushta-Saloniqi-Patros, p. 16<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Qushta-Saloniqi-Patros</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2810a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d2067e2817" publication-type="other">
+responsum 78</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2823" publication-type="other">
+R. Elijah Mizrahi: &amp;quot;The name &amp;apos;Ashkenazi&amp;apos; in this place does not sig-
+nify that its bearer came from the kingdom of Germany, but rather that he is a member of the qehilah
+of the Ashkenazim who live in the city of Constantinople.&amp;quot;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2835" publication-type="journal">
+Joseph ben Moses Nazir, Mateh Yosef, pt.
+2, Yoreh de &amp;apos;ah, no. 1<person-group>
+                     <string-name>
+                        <surname>Nazir</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <source>Yoreh de &amp;apos;ah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2860" publication-type="book">
+Abraham ben Mordechai, She &amp;apos;elot u-teshuvot Ginat veradim (Constantinople,
+1717), Yoreh de&amp;apos;ah 3:5<person-group>
+                     <string-name>
+                        <surname>Mordechai</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <volume>3</volume>
+                  <source>She &amp;apos;elot u-teshuvot Ginat veradim</source>
+                  <year>1717</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2891" publication-type="book">
+Isaac Lampronti, Pahad Yishaq, vol. 4
+(Livorno, 1839; reprint ed., Jerusalem, 1969), pp. 138a-b<person-group>
+                     <string-name>
+                        <surname>Lampronti</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>138a</fpage>
+                  <volume>4</volume>
+                  <source>Pahad Yishaq</source>
+                  <year>1839</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e2923a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d2067e2930" publication-type="journal">
+Wells, Law and Citizenship in Early Modern France, pp. 4-6<person-group>
+                     <string-name>
+                        <surname>Wells</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <source>Law and Citizenship in Early Modern France</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2951" publication-type="book">
+Salo Baron, The
+Jewish Community, vol. 2 (Philadelphia, 1945), pp. 4-23<fpage>4</fpage>
+                  <volume>2</volume>
+                  <source>The Jewish Community</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e2973" publication-type="journal">
+Martin Golding, &amp;quot;The Juridical Basis of
+Communal Association in Medieval Rabbinic Legal Thought,&amp;quot; Jewish Social Studies 28 (1966), 67-
+76<person-group>
+                     <string-name>
+                        <surname>Golding</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>67</fpage>
+                  <volume>28</volume>
+                  <source>Jewish Social Studies</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3008" publication-type="journal">
+Menachem Elon, &amp;quot;Demoqratyah, zekhuyot yesod, u-minhal taqin bi-fesiqatam shel
+hakhmei ha-Mizrah be-mos&amp;apos;ei gerush Sefarad,&amp;quot; Shenaton ha-mishpat ha-&amp;apos;Ivri 18-19 (1992-94),
+pp. 9-64<person-group>
+                     <string-name>
+                        <surname>Elon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <volume>18</volume>
+                  <source>Shenaton ha-mishpat ha-&amp;apos;Ivri</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3043a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d2067e3050" publication-type="journal">
+R. David ben Hayyim of Corfu, Responsa no. 11<person-group>
+                     <string-name>
+                        <surname>Hayyim</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>11</issue>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3071" publication-type="other">
+R. Elijah Mizrahi, Responsa #13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3077" publication-type="journal">
+R.
+David ibn Abi Zimra (Radbaz), Responsa, pt. III, no. 472<person-group>
+                     <string-name>
+                        <surname>David</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>472</issue>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3102" publication-type="journal">
+R. Samuel de Medina, Responsa, pt. I, nos.
+40 and 153<person-group>
+                     <string-name>
+                        <surname>de Medina</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3123" publication-type="journal">
+R. Joseph ibn Lev, in his Responsa, pt. II, no. 72<person-group>
+                     <string-name>
+                        <surname>Lev</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>72</issue>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3144" publication-type="other">
+notes 20 and 30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3150" publication-type="other">
+Responsa, no. 185</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3156" publication-type="journal">
+Kenneth Stow, &amp;quot;Corporate
+Double Talk: Kehillat Kodesh and Universitas in the Roman Jewish Sixteenth Century Environment,&amp;quot;
+Journal of Jewish Thought and Philosophy 8 (1999), pp. 283-303<person-group>
+                     <string-name>
+                        <surname>Stow</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>283</fpage>
+                  <volume>8</volume>
+                  <source>Journal of Jewish Thought and Philosophy</source>
+                  <year>1999</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3191a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d2067e3198" publication-type="journal">
+Cohen, Qushta-Saloniqi-Patros, p. 16<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Qushta-Saloniqi-Patros</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3219" publication-type="journal">
+Isaac Adarbi, She&amp;apos;elot u-
+teshuvot Divrei rivot, no. 56<person-group>
+                     <string-name>
+                        <surname>Adarbi</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>56</issue>
+                  <source>She&amp;apos;elot uteshuvot Divrei rivot</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3244a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d2067e3251" publication-type="book">
+A Social
+and Religious History of the Jews, &lt;latex&gt;$2^{nd}$&lt;/latex&gt; ed., vol. 18, p. 59<edition>2</edition>
+                  <fpage>59</fpage>
+                  <volume>18</volume>
+                  <source>A Social and Religious History of the Jews</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3273" publication-type="journal">
+Baron (Jewish Community, pp. 19-20)<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Jewish Community</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3294" publication-type="other">
+Stow, &amp;quot;Ethnic Rivalry or Melting Pot&amp;quot;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3301" publication-type="other">
+Westreich, &amp;apos;&amp;quot;Ilot le-hatarat herem de-Rabeinu Gershom.&amp;quot;</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3309a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d2067e3316" publication-type="journal">
+She&amp;apos;elot u-teshuvot Maharshdam 1:35<fpage>35</fpage>
+                  <volume>1</volume>
+                  <source>She&amp;apos;elot u-teshuvot Maharshdam</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3331" publication-type="other">
+no. 36</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3337" publication-type="other">
+She &amp;apos;elot u-teshuvot Maharshdam, Yoreh de &amp;apos;ah 40</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3344" publication-type="other">
+nn. 22, 26</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3351a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d2067e3358" publication-type="other">
+Wells, Law and Citizenship in Early Modern France</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3365a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d2067e3372" publication-type="journal">
+Siev, Rabeinu Mosheh Isserles and the extensive bibliography
+there, pp. 267-300<person-group>
+                     <string-name>
+                        <surname>Siev</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>267</fpage>
+                  <source>Rabeinu Mosheh Isserles</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3396" publication-type="book">
+Jonah Ben Sasson, Mishnato ha- &amp;apos;iyunit shel ha-Rema (Jerusalem, 1984)<person-group>
+                     <string-name>
+                        <surname>Sasson</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Mishnato ha- &amp;apos;iyunit shel ha-Rema</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3417" publication-type="journal">
+Elhanan
+Reiner, &amp;quot;The Ashkenazi Elite at the Beginning of the Modern Era: Manuscript vs. Printed Book,&amp;quot; Polin
+10(1997), 93-98<person-group>
+                     <string-name>
+                        <surname>Reiner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>93</fpage>
+                  <volume>10</volume>
+                  <source>Polin</source>
+                  <year>1997</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3452a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d2067e3459" publication-type="other">
+Cracow edition (Jerusalem, 1974)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3465" publication-type="journal">
+Raphael, ed., Rabi Yosef Qaro, p. 96<person-group>
+                     <string-name>
+                        <surname>Raphael</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>96</fpage>
+                  <source>Rabi Yosef Qaro</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3486" publication-type="book">
+R. Yom Tov Lipman Heller, She &amp;apos;elot
+u-teshuvot Ge&amp;apos;onei batra&amp;apos;ei, ed. Elijah b. Moses of Pinczow (ed. princ. Turka, 1764), no. 10<person-group>
+                     <string-name>
+                        <surname>Heller</surname>
+                     </string-name>
+                  </person-group>
+                  <source>She &amp;apos;elot u-teshuvot Ge&amp;apos;onei batra&amp;apos;ei</source>
+                  <year>1764</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3511a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d2067e3518" publication-type="book">
+Hayyim ben Besalel in Vikuah Mayim Hayim (in Tchernowitz, Tole-
+dot ha-Posqim, vol. 2, p. 98)<person-group>
+                     <string-name>
+                        <surname>Besalel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>98</fpage>
+                  <volume>2</volume>
+                  <source>Vikuah Mayim Hayim</source>
+                  <year>1603</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3549" publication-type="other">
+Hay-
+yim Benveniste (1603-1673)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3558" publication-type="other">
+n. 77</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3565a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d2067e3572" publication-type="journal">
+Jeffrey Woolf, &amp;quot;The Authority of Custom in the Responsa of R. Joseph Colon (Ma-
+harik),&amp;quot; Dine Israel 19 (1998), English section, pp. 43-93<person-group>
+                     <string-name>
+                        <surname>Woolf</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <volume>19</volume>
+                  <source>Dine Israel</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3603" publication-type="journal">
+Zimmels, Ashkenazim and
+Sephardim, pp. 281-282<person-group>
+                     <string-name>
+                        <surname>Zimmels</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>281</fpage>
+                  <source>Ashkenazim and Sephardim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3627" publication-type="other">
+nn. 26, 29</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3635a1310">
+            <label>41</label>
+          
+          
+            <p>
+               <mixed-citation id="d2067e3644" publication-type="other">
+Sefer ha-Tishbi, s.v. qeruvas (sic)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3650" publication-type="book">
+Max Weinrich, Geshikhtefun deryidishe sh-
+prakh (New York, 1973), vol. 1, p. 349<person-group>
+                     <string-name>
+                        <surname>Weinrich</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>349</fpage>
+                  <volume>1</volume>
+                  <source>Geshikhtefun deryidishe shprakh</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3682" publication-type="book">
+Shlomo Noble and Joshua Fishman, History of the Yid-
+dish Language [Chicago, 1980], p. 342<person-group>
+                     <string-name>
+                        <surname>Noble</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>342</fpage>
+                  <source>History of the Yiddish Language</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3710" publication-type="other">
+Shabbetai Sofer: &amp;quot;The German Jews are the French Jews&amp;quot;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3716" publication-type="book">
+Stefan Reif, Shab-
+bethai Sofer and His Prayer Book (Cambridge, 1979), p. 80, n. 86<person-group>
+                     <string-name>
+                        <surname>Reif</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>80</fpage>
+                  <source>Shabbethai Sofer and His Prayer Book</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3745a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d2067e3752" publication-type="book">
+Abraham Grossman, Hakhmei Ashkenaz ha-rishonim &amp;apos;ad ... tatnu
+[= 1096] (Jerusalem, 1981), pp. 2-5<person-group>
+                     <string-name>
+                        <surname>Grossman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <source>Hakhmei Ashkenaz ha-rishonim &amp;apos;ad ... tatnu</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3780" publication-type="journal">
+Maharil in his
+Responsa, no. 100 [ed. Satz, p. 172]<person-group>
+                     <string-name>
+                        <surname>Maharil</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>100</issue>
+                  <fpage>172</fpage>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3808" publication-type="other">
+R. Hayyim ben Besalel [in Tchernowitz (above n.l),
+p. 98]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3818a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d2067e3825" publication-type="journal">
+Siev, Isserles, pp. 8-10<person-group>
+                     <string-name>
+                        <surname>Siev</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <source>Isserles</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3846" publication-type="book">
+Israel Yuval,
+Hakhamim be-doram: manhigut ha-ruhanit shel Yehudei Germanyah be-shilhei yemei ha-beinayim
+(Jerusalem, 1989), pp. 249-252<person-group>
+                     <string-name>
+                        <surname>Yuval</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>249</fpage>
+                  <source>Hakhamim be-doram: manhigut ha-ruhanit shel Yehudei Germanyah be-shilhei yemei ha-beinayim</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3878a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d2067e3885" publication-type="book">
+Elhanan Reiner in &amp;quot;Temurot bi-shivot Polin ve-Ashkenaz
+ba-me&amp;apos;ot ha-16-ha-17 veha-vikuah &amp;apos;al ha-pilpul,&amp;quot; in Israel Bartal et al., eds., Ke-minhag Ashkenaz
+u-Folin: seferyovelle-Chone Shmeruk: qoves mehqarim be-tarbut Yehudit (Jerusalem, 1993), pp. 47-
+53<person-group>
+                     <string-name>
+                        <surname>Reiner</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Temurot bi-shivot Polin ve-Ashkenaz ba-me&amp;apos;ot ha-16-ha-17 veha-vikuah &amp;apos;al ha-pilpul</comment>
+                  <fpage>47</fpage>
+                  <source>Ke-minhag Ashkenaz u-Folin: seferyovelle-Chone Shmeruk: qoves mehqarim be-tarbut Yehudit</source>
+                  <year>1993</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3922" publication-type="other">
+Jewish foundation myths cited on p. 49, n. 62</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3928" publication-type="book">
+Haya Bar-Itzhak, Polin-agadot reshit: etno-
+po&amp;apos;etiqah ve-qorot agadim (Tel Aviv, 1996)<person-group>
+                     <string-name>
+                        <surname>Bar-Itzhak</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Polin-agadot reshit: etnopo&amp;apos;etiqah ve-qorot agadim</source>
+                  <year>1996</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e3953" publication-type="book">
+Jewish Poland-Legends of Origin:
+Ethnopoetics and Legendary Chronicles (Detroit: Wayne State University Press, 2001)<source>Jewish Poland-Legends of Origin: Ethnopoetics and Legendary Chronicles</source>
+                  <year>2001</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e3969a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d2067e3976" publication-type="book">
+Glenn Burgess, The Politics of the Ancient Constitution: An Introduction to English Political Thought
+1603-1642 (University Park, PA, 1993), pp. 73-78<person-group>
+                     <string-name>
+                        <surname>Burgess</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>73</fpage>
+                  <source>The Politics of the Ancient Constitution: An Introduction to English Political Thought 1603-1642</source>
+                  <year>1993</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4004" publication-type="book">
+Colette Beaune, The Birth of an Ideology: Myths and
+Symbols of Nation in Late-Medieval France, trans. Susan Ross Huston, ed. Fredric L. Cheyette (Berke-
+ley, 1991), pp. 242-243<person-group>
+                     <string-name>
+                        <surname>Beaune</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>242</fpage>
+                  <source>The Birth of an Ideology: Myths and Symbols of Nation in Late-Medieval France</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4036a1310">
+            <label>46</label>
+          
+          
+            <p>
+               <mixed-citation id="d2067e4045" publication-type="book">
+Luria, see Simah Assaf, &amp;quot;Mashehu le-toledot Maharshal,&amp;quot; in Louis Ginzberg Jubilee Vol-
+urne (New York, 1945), Hebrew section, pp. 45 -63<person-group>
+                     <string-name>
+                        <surname>Assaf</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Mashehu le-toledot Maharshal</comment>
+                  <fpage>45</fpage>
+                  <source>Louis Ginzberg Jubilee Volurne</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4076" publication-type="book">
+Jacob Elbaum, Petihut
+ve-histagrut: ha-yesirah ha-ruhanit-ha-sifrutit be-Folin uve-arasot Ashkenaz be-shilhei ha-me&amp;apos;ah ha-
+16 (Jerusalem, 1990), p. 19, n. 20<person-group>
+                     <string-name>
+                        <surname>Elbaum</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Petihut ve-histagrut: ha-yesirah ha-ruhanit-ha-sifrutit be-Folin uve-arasot Ashkenaz be-shilhei ha-me&amp;apos;ah halé</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4108" publication-type="other">
+Meir Rafeld&amp;apos;s Ph.D. dissertation (Bar Ilan University, 1991),
+&amp;quot;Ha-Maharshal veha-Yam shel Shelomoh.&amp;quot;</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4119a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d2067e4126" publication-type="other">
+Solomon Luria, Yam shel Shelomoh</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4132" publication-type="other">
+Reiner, &amp;quot;Temurot&amp;quot; (above n. 44), pp. 53-56</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4139a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d2067e4146" publication-type="journal">
+Bellomo, Common Legal Past of Europe, p. 78<person-group>
+                     <string-name>
+                        <surname>Bellomo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>78</fpage>
+                  <source>Common Legal Past of Europe</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4168a1310">
+            <label>49</label>
+          
+            <p>
+               <mixed-citation id="d2067e4175" publication-type="other">
+Ta-Shma, above n. 1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4181" publication-type="other">
+n. 94</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4188a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d2067e4195" publication-type="other">
+Isseries&amp;apos; intro-
+duction to Torat ha-Hatat</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4204" publication-type="journal">
+Darkhei Mosheh on Yoreh de&amp;apos;ah 35:7<fpage>7</fpage>
+                  <volume>35</volume>
+                  <source>Darkhei Mosheh on Yoreh de&amp;apos;ah</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4220a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d2067e4227" publication-type="other">
+Tur, Orah hayim, para. 47, 48, 49, 51, 59, 60, 114, 129, 131, 147, etc</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4233" publication-type="journal">
+R. Jacob contrasted Spain to &amp;quot;France and Germany,&amp;quot; Sarefat ve-Ashkenaz<person-group>
+                     <string-name>
+                        <surname>Jacob</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sarefat ve-Ashkenaz</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4251" publication-type="journal">
+Israel Ta-
+Shma, &amp;quot;Rabeinu Asher u-veno R. Ya&amp;apos;aqov ba&amp;apos;al ha-turim: bein Ashkenaz li-Sefarad,&amp;quot; Pe &amp;apos;amim 46-47
+(1991), pp. 75-91<person-group>
+                     <string-name>
+                        <surname>Ta-Shma</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>75</fpage>
+                  <volume>46</volume>
+                  <source>Pe &amp;apos;amim</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4286a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d2067e4293" publication-type="other">
+Orah hayim 10, 28, 60, 114, 474, 547, 552, 581</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4299" publication-type="other">
+Yoreh de&amp;apos;ah 1, 58</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4305" publication-type="other">
+&amp;quot;the cus-
+tom of the Rhineland Jews&amp;quot; in Yoreh de &amp;apos;ah 64</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4315" publication-type="other">
+n. 60</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4323a1310">
+            <label>53</label>
+          
+            <p>
+               <mixed-citation id="d2067e4330" publication-type="other">
+Yiddish poem &amp;quot;Di beshraybung fun Ashkenaz un Polak,&amp;quot;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4336" publication-type="journal">
+Max
+Weinreich, &amp;quot;Tzvay Yiddishe shpotlider oyfYidn,&amp;quot; Yivofilologishe shriftn 3 [1929], pp. 537-554<person-group>
+                     <string-name>
+                        <surname>Weinreich</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>537</fpage>
+                  <volume>3</volume>
+                  <source>Yivofilologishe shriftn</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4367" publication-type="book">
+Chone Shmeruk, Sifrut Yidish:peraqim le-tole-
+doteha (Tel Aviv, 1978), p. 72, n. 1<person-group>
+                     <string-name>
+                        <surname>Shmeruk</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>72</fpage>
+                  <source>Sifrut Yidish:peraqim le-toledoteha</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4396" publication-type="book">
+Steven Aschheim, Brothers and Strangers: The East European Jew in German and
+German Jewish Consciousness 1800-1923 (Madison, y)<person-group>
+                     <string-name>
+                        <surname>Aschheim</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Brothers and Strangers: The East European Jew in German and German Jewish Consciousness 1800-1923</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4418a1310">
+            <label>54</label>
+          
+            <p>
+               <mixed-citation id="d2067e4425" publication-type="other">
+Naftali Ben Menahem, &amp;quot;Ha-defusim ha-rishonim shel ha-shulhan &amp;apos;arukh,&amp;quot; in Raphael,
+ed., Rabi Yosef Qaro (above n. 1), p. 114</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4434" publication-type="book">
+Samuel ben Isaac&amp;apos;s note at the end of Yoreh de&amp;apos;ah (Cra-
+cow, 1578), p. 114a<person-group>
+                     <string-name>
+                        <surname>Isaac</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>114a</fpage>
+                  <source>Yoreh de&amp;apos;ah</source>
+                  <year>1578</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4463a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d2067e4470" publication-type="book">
+Bernhard (Hayyim) Friedberg, Toledot ha-defus ha-&amp;apos;Ivri be-Folanyah (rev. ed., Tel Aviv,
+1950), pp. 5-6<person-group>
+                     <string-name>
+                        <surname>Friedberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>Toledot ha-defus ha-&amp;apos;Ivri be-Folanyah</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4498" publication-type="other">
+Naftali Ben Menahem in Raphael, ed., Rabi Yosef Qaro (above n. 1), p. 104</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4505a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d2067e4512" publication-type="journal">
+Byron L. Sherwin, &amp;quot;In the Shadows of Greatness: Rabbi Hayyim ben
+Besalel of Friedberg,&amp;quot; Jewish Social Studies 37 (1975: 35-61<person-group>
+                     <string-name>
+                        <surname>Sherwin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>35</fpage>
+                  <volume>37</volume>
+                  <source>Jewish Social Studies</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4543" publication-type="book">
+Eric (Yizhaq) Zimmer, R. Hayim b.
+Besalel mi-Friedberg: ahi Maharal mi-Prag (Jerusalem, 1987)<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <source>R. Hayim b. Besalel mi-Friedberg: ahi Maharal mi-Prag</source>
+                  <year>1987</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4567" publication-type="other">
+Zimmer, Gahalatan shel hakhamim
+(above n. 1), pp. 177-219</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4577" publication-type="other">
+pp. 210-216</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4583" publication-type="journal">
+Reiner,
+&amp;quot;Ashkenazi Elite,&amp;quot; pp. 85-90<person-group>
+                     <string-name>
+                        <surname>Reiner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>85</fpage>
+                  <source>Ashkenazi Elite</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4608a1310">
+            <label>57</label>
+          
+            <p>
+               <mixed-citation id="d2067e4615" publication-type="other">
+Hayyim ben Besalel, Introduction to Vikuah mayim hayim, printed in Tchernowitz (above
+n. l), p. 98.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4625a1310">
+            <label>58</label>
+          
+            <p>
+               <mixed-citation id="d2067e4632" publication-type="journal">
+Professor Twersky argues (&amp;quot;The Shulhan arukh,&amp;quot; p. 151)<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>151</fpage>
+                  <source>The Shulhan arukh</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4655a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d2067e4662" publication-type="book">
+Sefer ha-minhagim le-Rabeinu Ayziq Tirna, ed. Shelomoh Spitzer (Jerusalem, 1979), p. 3<person-group>
+                     <string-name>
+                        <surname>Spitzer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>Sefer ha-minhagim le-Rabeinu Ayziq Tirna</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4686" publication-type="other">
+p. 11, n. 9</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4693a1310">
+            <label>60</label>
+          
+            <p>
+               <mixed-citation id="d2067e4700" publication-type="other">
+Shulhan &amp;apos;arukh: Orah hayim,
+par. 28, 31, 128, 291, 366, 447, 608, 646, 892, 894</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4709" publication-type="other">
+Yoreh de &amp;apos;ah par. 39, 55, 68, 115, 196, 316, 322</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4715" publication-type="other">
+Even
+ha- &amp;apos;ezer par. 1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4725" publication-type="other">
+Hoshen mishpat par. 207</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4732a1310">
+            <label>61</label>
+          
+            <p>
+               <mixed-citation id="d2067e4739" publication-type="book">
+She&amp;apos;elot u-teshuvot ha-Rema, ed. Asher Siev (Jerusalem, 1971), nos. 53 (contrast with
+Italy), 95 (with Germany), 124 (with Moravia)<person-group>
+                     <string-name>
+                        <surname>Siev</surname>
+                     </string-name>
+                  </person-group>
+                  <source>She&amp;apos;elot u-teshuvot ha-Rema</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4763" publication-type="other">
+Asher Siev, pp. 263, 417, 484</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4770a1310">
+            <label>62</label>
+          
+            <p>
+               <mixed-citation id="d2067e4777" publication-type="journal">
+Grossman, Hakhmei Ashkenaz ha-rishonim, p. 1, n. 1<person-group>
+                     <string-name>
+                        <surname>Grossman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>Hakhmei Ashkenaz ha-rishonim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4798" publication-type="journal">
+Karl Ferdinand Werner, &amp;quot;Les nations et la
+sentiment nationale dans l&amp;apos;Europe médiévale,&amp;quot; Revue Historique 244 (1970), 285-304<person-group>
+                     <string-name>
+                        <surname>Werner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>285</fpage>
+                  <volume>244</volume>
+                  <source>Revue Historique</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4830a1310">
+            <label>63</label>
+          
+            <p>
+               <mixed-citation id="d2067e4837" publication-type="other">
+Weinreich, Geshikhte (above n. 41), vol. 1, p. 5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4843" publication-type="other">
+vol. 1, p. 323</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4849" publication-type="other">
+vol. 3, p. 5, n. 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4856" publication-type="book">
+R. Anshel,
+Mirkevet ha-mishneh (Cracow, 1534)<person-group>
+                     <string-name>
+                        <surname>Anshel</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Mirkevet ha-mishneh</source>
+                  <year>1534</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4880" publication-type="journal">
+István Bejczy, &amp;quot;Erasmus Becomes a Netherlander,&amp;quot; The Sixteenth Century Journal
+28 (1997), pp. 387-400<object-id pub-id-type="doi">10.2307/2543449</object-id>
+                  <fpage>387</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4896a1310">
+            <label>64</label>
+          
+            <p>
+               <mixed-citation id="d2067e4903" publication-type="other">
+Babel and
+Moeglin, eds. (above n. 3)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4912" publication-type="book">
+Rüdiger Schnell, &amp;quot;Deutsche Literatur und Deutsches Nationsbewußtsein in
+Spätmittelalter und Frühen Neuzeit,&amp;quot; in Joachim Ehlers, ed., Ansätze und Diskontinuität Deutscher Na-
+tionsbildung im Mittelalter (Sigmaringen, 1989), pp. 247-319<person-group>
+                     <string-name>
+                        <surname>Schnell</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Deutsche Literatur und Deutsches Nationsbewußtsein in Spätmittelalter und Frühen Neuzeit</comment>
+                  <fpage>247</fpage>
+                  <source>Ansätze und Diskontinuität Deutscher Nationsbildung im Mittelalter</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e4946" publication-type="book">
+&amp;quot;Public Law and Patriotism in
+the Holy Roman Empire,&amp;quot; in Max Reinhart, ed., Infinite Boundaries: Order, Disorder, and Reorder in
+Early Modern German Culture (Kirksville, MO, 1998), pp. 11-33<comment content-type="section">Public Law and Patriotism in the Holy Roman Empire</comment>
+                  <fpage>11</fpage>
+                  <source>Infinite Boundaries: Order, Disorder, and Reorder in Early Modern German Culture</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e4973a1310">
+            <label>65</label>
+          
+            <p>
+               <mixed-citation id="d2067e4980" publication-type="book">
+She&amp;apos;elot u-teshuvot Maharil ha-hadashot, ed. Yitzchok Satz (Jerusalem, 1977), no. 187
+(p. 291)<person-group>
+                     <string-name>
+                        <surname>Satz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>291</fpage>
+                  <source>She&amp;apos;elot u-teshuvot Maharil ha-hadashot</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5008" publication-type="other">
+38:6 (p. 44)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5014" publication-type="book">
+Eric Zimmer (Harmony and Discord: An Analysis of the Decline of Jewish Self Government in 15th
+Century Central Europe [New York, 1970], pp. 128-142)<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>128</fpage>
+                  <source>Harmony and Discord: An Analysis of the Decline of Jewish Self Government in 15th Century Central Europe</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5043" publication-type="book">
+Dovid Katz, &amp;quot;East and
+West, Khes and Shin, and the Origin of Yiddish,&amp;quot; in Israel Bartal et al., eds., Ke-minhag Ashkenaz u-
+Folin, English section, pp. 15-19.<person-group>
+                     <string-name>
+                        <surname>Katz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">East and West, Khes and Shin, and the Origin of Yiddish</comment>
+                  <fpage>15</fpage>
+                  <source>Ke-minhag Ashkenaz u-Folin</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5075a1310">
+            <label>66</label>
+          
+            <p>
+               <mixed-citation id="d2067e5082" publication-type="journal">
+Sefer Maharil (ed. Satz, p. 159)<person-group>
+                     <string-name>
+                        <surname>Satz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>159</fpage>
+                  <source>Sefer Maharil</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5103" publication-type="other">
+Adam Teller&amp;apos;s
+article (above n. 2)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5113a1310">
+            <label>67</label>
+          
+            <p>
+               <mixed-citation id="d2067e5120" publication-type="book">
+Eric (Yishaq) Zimmer, &amp;apos;Olam ke-minhago noheg: peraqim be-toledot ha-min-
+hagim, hilkhoteihem, ve-gilguleihem (Jerusalem, 1996), pp. 217-295<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>217</fpage>
+                  <source>Olam ke-minhago noheg: peraqim be-toledot ha-minhagim, hilkhoteihem, ve-gilguleihem</source>
+                  <year>1996</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5148" publication-type="journal">
+Shelomoh Spitzer, &amp;quot;Minhag
+benei Ostraykh: meqoro ve-hitpathuto be-meshekh yemei ha-beinayim,&amp;quot; Sinai 87 (1980), 55-64<person-group>
+                     <string-name>
+                        <surname>Spitzer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>55</fpage>
+                  <volume>87</volume>
+                  <source>Sinai</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5179" publication-type="book">
+Benjamin Hamburger, introduction to Juspa Shammes, Minhagim di-qehila qadish Varmaisa (Jerusa-
+lem, 1988), vol. 1, pp. 69-105<person-group>
+                     <string-name>
+                        <surname>Hamburger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>69</fpage>
+                  <volume>1</volume>
+                  <source>Minhagim di-qehila qadish Varmaisa</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5211" publication-type="other">
+Zimmer (p. 217)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5217" publication-type="book">
+Halakhot u-minhagei Rabeinu Shalom mi-Neustadt (Derashot Ma-
+harash), ed. Shelomoh Spitzer (Jerusalem, 1977), p. 41<person-group>
+                     <string-name>
+                        <surname>Spitzer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <source>Halakhot u-minhagei Rabeinu Shalom mi-Neustadt (Derashot Maharash)</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5245" publication-type="book">
+Israel Ta-
+Shma, Minhag Ashkenaz ha-qadmon: heqer ve- &amp;apos;Iyun (Jerusalem, 1992)<person-group>
+                     <string-name>
+                        <surname>Ta-Shma</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Minhag Ashkenaz ha-qadmon: heqer ve- &amp;apos;Iyun</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5270a1310">
+            <label>68</label>
+          
+            <p>
+               <mixed-citation id="d2067e5277" publication-type="book">
+Leqet yosher, ed. Jacob Freimann (Berlin,
+1903-1904)<person-group>
+                     <string-name>
+                        <surname>Freimann</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Leqet yosher</source>
+                  <year>1903</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5301" publication-type="book">
+&amp;quot;Ashkenaz&amp;quot; in Sefer minhagim le-Rabeinu
+Avraham Klausner, ed. Yosef Dissen (Jerusalem, 1978)<person-group>
+                     <string-name>
+                        <surname>Dissen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Ashkenaz</comment>
+                  <source>Sefer minhagim le-Rabeinu Avraham Klausner</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5329" publication-type="other">
+Sefer Maharil (relying on the index in
+the Spitzer edition [below, n. 69])</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5339a1310">
+            <label>69</label>
+          
+            <p>
+               <mixed-citation id="d2067e5346" publication-type="book">
+Sefer Maharil, ed. Shelomoh Spitzer (Jerusalem, 1989)<person-group>
+                     <string-name>
+                        <surname>Spitzer</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sefer Maharil</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5367" publication-type="journal">
+Hilkhot Yom Kippur, no. 11
+(p. 339)<issue>11</issue>
+                  <fpage>339</fpage>
+                  <source>Hilkhot Yom Kippur</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5385" publication-type="other">
+p. 261 (Hilkhotyamim nora&amp;apos;im, #7)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5392" publication-type="book">
+She&amp;apos;elot u-teshuvot Maharil, no. 76 (ed. Yitzchok
+Satz [Jerusalem, 1980], p. 124<person-group>
+                     <string-name>
+                        <surname>Satz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>124</fpage>
+                  <source>She&amp;apos;elot u-teshuvot Maharil</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5420" publication-type="other">
+Denari, Hakhmei Ashkenaz (above n. 29), pp. 284-285</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5427a1310">
+            <label>70</label>
+          
+            <p>
+               <mixed-citation id="d2067e5434" publication-type="journal">
+A. Kober, &amp;quot;Documents selected from the
+Pinkas of Friedberg ...&amp;quot; PAAJR 17 (1947), pp. 45-46<object-id pub-id-type="doi">10.2307/3622162</object-id>
+                  <fpage>45</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5449" publication-type="other">
+Juspa Schammes, Minhagim de-qehila qadisha Varmaisa</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5455" publication-type="other">
+Zimmer, Gahalatan shel hakhamim (above n. 1), passim</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5463a1310">
+            <label>71</label>
+          
+            <p>
+               <mixed-citation id="d2067e5470" publication-type="book">
+Eric Zimmer, Jewish Synods in Germany during the Late Middle Ages
+(1286-1603) (New York, 1978), pp. 148-149, nos. 5 and 13<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>148</fpage>
+                  <source>Jewish Synods in Germany during the Late Middle Ages (1286-1603)</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5498" publication-type="journal">
+Zimmer, &amp;quot;Rabanei Germanyah ba-
+me&amp;apos;ah ha-16 ve-ziqatam la-rabanim bi-tefu sot &amp;apos;aherot,&amp;quot; in Ninth WCJS (1986) Division B. vol. I, He-
+brew section, pp. 127-134<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>127</fpage>
+                  <volume>I</volume>
+                  <source>Ninth WCJS</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5532" publication-type="journal">
+Zimmer, Gahalatan shel hakhamim, p. 263<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>263</fpage>
+                  <source>Gahalatan shel hakhamim</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5554a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d2067e5561" publication-type="other">
+Vikuah mayim hayim in Tchernowitz (above n. 1), p. 94</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5567" publication-type="journal">
+Zimmer, Gahalatan shel hakhamim, pp. 91-94, 228-236<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>91</fpage>
+                  <source>Gahalatan shel hakhamim</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5589a1310">
+            <label>73</label>
+          
+            <p>
+               <mixed-citation id="d2067e5596" publication-type="book">
+She &amp;apos;elot u-teshuvot Yefeh nof, ed. Avigdor Berger (Jerusalem, 1985), Yoreh de&amp;apos;ah 155
+(p. 147)<person-group>
+                     <string-name>
+                        <surname>Berger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>147</fpage>
+                  <source>She &amp;apos;elot u-teshuvot Yefeh nof</source>
+                  <year>1985</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5624" publication-type="other">
+Eric Zimmer, p. 18</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5630" publication-type="other">
+Zimmer, p. 17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5637" publication-type="journal">
+Zimmer, Gahalatan shel hakhamim, pp. 84-105, 257<person-group>
+                     <string-name>
+                        <surname>Zimmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>84</fpage>
+                  <source>Gahalatan shel hakhamim</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5659a1310">
+            <label>74</label>
+          
+            <p>
+               <mixed-citation id="d2067e5666" publication-type="other">
+Jaffe, Levush malkhut</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5672" publication-type="other">
+Zimmer, &amp;apos;Olam ke-Minhago
+Noheg (above n. 67), pp. 140, 202</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5681" publication-type="book">
+Semah David, pt. 1, for the year
+1530 (ed. Mordechai Breuer [Jerusalem, 1983], p. 138)<person-group>
+                     <string-name>
+                        <surname>Breuer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>138</fpage>
+                  <source>Semah David</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5710" publication-type="other">
+Reiner, &amp;quot;Temurot&amp;quot;
+(above n. 44), p. 48</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5720a1310">
+            <label>75</label>
+          
+            <p>
+               <mixed-citation id="d2067e5727" publication-type="other">
+&amp;apos;Emeq berakhah, p. 116b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5733" publication-type="other">
+Siev, Isserles (above
+n. 1), p. 77</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5743a1310">
+            <label>76</label>
+          
+            <p>
+               <mixed-citation id="d2067e5750" publication-type="book">
+She&amp;apos;elot u-teshuvot Mas&amp;apos;at Binyamin (Vilna, 1894; ed. princ. Cracow, 1632), no. 27<source>She&amp;apos;elot u-teshuvot Mas&amp;apos;at Binyamin</source>
+                  <year>1894</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5762" publication-type="journal">
+Siev, Isserles, p. 82<person-group>
+                     <string-name>
+                        <surname>Siev</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <source>Isserles</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5783" publication-type="book">
+Nisson Shulman, Authority and Community: Polish Jew-
+ry in the Sixteenth Century (New York, 1985), p. 192<person-group>
+                     <string-name>
+                        <surname>Shulman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>192</fpage>
+                  <source>Authority and Community: Polish Jewry in the Sixteenth Century</source>
+                  <year>1985</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5813a1310">
+            <label>77</label>
+          
+            <p>
+               <mixed-citation id="d2067e5820" publication-type="other">
+Introduction to Sefer me&amp;apos;irat &amp;apos;einayim, published in many editions of Shulhan &amp;apos;arukh, Hos-
+hen mishpat.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5830a1310">
+            <label>78</label>
+          
+          
+            <p>
+               <mixed-citation id="d2067e5839" publication-type="other">
+Bodian, Hebrews of the Portuguese Nation (above n. 2),
+pp. 125-131</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5848" publication-type="journal">
+Yosef Kaplan, &amp;quot;The Portuguese Community in the Seventeenth Century Amsterdam and
+the Ashkenazi World,&amp;quot; Dutch Jewish History 2 (1989), p. 42<person-group>
+                     <string-name>
+                        <surname>Kaplan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <volume>2</volume>
+                  <source>Dutch Jewish History</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5880" publication-type="journal">
+Moshe Rosman, &amp;quot;Samkhut shel Va&amp;apos;ad
+&amp;apos;Arba &amp;apos;Ara sot mi-hus le-Folin,&amp;quot; Bar Ilan 24-25 (1989), 19-20<person-group>
+                     <string-name>
+                        <surname>Rosman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <volume>24</volume>
+                  <source>Bar Ilan</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5911" publication-type="journal">
+D. M. Sluys, &amp;quot;Yehudei Ashkenaz be-
+Amsterdam mi-shenat 1635 &amp;apos;ad shenat 1795,&amp;quot; in Mehqarim &amp;apos;al-toledot Yahadut Holand, vol. 1 (1975),
+pp. 69-87<person-group>
+                     <string-name>
+                        <surname>Sluys</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>69</fpage>
+                  <volume>1</volume>
+                  <source>Mehqarim &amp;apos;al-toledot Yahadut Holand</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e5945" publication-type="book">
+&amp;quot;Hoogduits-Joods Amsterdam van 1635 tot
+1795,&amp;quot; in Geschiednis der Joden in Nederland, ed. H. Brugmans and A. Frank, vol. 1 [Amsterdam,
+1940], pp. 306-381.<person-group>
+                     <string-name>
+                        <surname>Brugmans</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Hoogduits-Joods Amsterdam van 1635 tot 1795</comment>
+                  <fpage>306</fpage>
+                  <volume>1</volume>
+                  <source>Geschiednis der Joden in Nederland</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e5983a1310">
+            <label>79</label>
+          
+            <p>
+               <mixed-citation id="d2067e5990" publication-type="journal">
+Responsa, pt. III, no. 472<issue>472</issue>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6002" publication-type="journal">
+R. Joseph ibn Lev, Responsa, pt. II, no. 72<person-group>
+                     <string-name>
+                        <surname>Lev</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>72</issue>
+                  <source>Responsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6023" publication-type="journal">
+Salo Baron quotes the passage in his Social and Religious History of the Jews, vol. 18, pp. 55-
+56<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>55</fpage>
+                  <volume>18</volume>
+                  <source>Social and Religious History of the Jews</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6052a1310">
+            <label>80</label>
+          
+            <p>
+               <mixed-citation id="d2067e6059" publication-type="book">
+Menahem Kellner, Maimonides on the
+&amp;apos;Decline of the Generations&amp;apos; and the Nature of Rabbinic Authority (Albany, 1996)<person-group>
+                     <string-name>
+                        <surname>Kellner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Maimonides on the &amp;apos;Decline of the Generations&amp;apos; and the Nature of Rabbinic Authority</source>
+                  <year>1996</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6083" publication-type="journal">
+Esther 9:27<fpage>27</fpage>
+                  <volume>9</volume>
+                  <source>Esther</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6099a1310">
+            <label>81</label>
+          
+          
+            <p>
+               <mixed-citation id="d2067e6108" publication-type="other">
+She&amp;apos;elot u-teshuvot
+&amp;apos;Avqat rokhel, no. 32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6117" publication-type="other">
+n. 19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6124" publication-type="book">
+Jacob Katz, &amp;quot;Maloqet ha-semikhah bein Rabi Ya&amp;apos;aqov Berav veha-Ralbah,&amp;quot; in his Halakhah
+ve-qabalah (Jerusalem, 1984), pp. 213-236<person-group>
+                     <string-name>
+                        <surname>Katz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Maloqet ha-semikhah bein Rabi Ya&amp;apos;aqov Berav veha-Ralbah</comment>
+                  <fpage>213</fpage>
+                  <source>Halakhah ve-qabalah</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6155" publication-type="other">
+Twersky, &amp;quot;R. Yosef Qaro,&amp;quot; above n. 1</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6162a1310">
+            <label>82</label>
+          
+            <p>
+               <mixed-citation id="d2067e6169" publication-type="other">
+R. Joshua Falk Cohen, in his discussion of the Talmud&amp;apos;s authority in the
+introduction to Sefer Me&amp;apos;irat &amp;apos;Einayim</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6180a1310">
+            <label>83</label>
+          
+            <p>
+               <mixed-citation id="d2067e6187" publication-type="journal">
+Toledano in Raphael, ed., Rabi Yosef
+Qaro, p. 185<person-group>
+                     <string-name>
+                        <surname>Raphael</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>185</fpage>
+                  <source>Rabi Yosef Qaro</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6212a1310">
+            <label>84</label>
+          
+            <p>
+               <mixed-citation id="d2067e6219" publication-type="other">
+Abraham Horowitz (n. 75 above)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6225" publication-type="journal">
+Israel Ta-Shma, &amp;quot;Hilkheta ke-vatra&amp;apos;ei: behinot historiyot shel ke-
+lal mishpati,&amp;quot; Shenaton ha-mishpat ha-&amp;apos;Ivri 6-7 (1980), pp. 405-425<person-group>
+                     <string-name>
+                        <surname>Ta-Shma</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>405</fpage>
+                  <volume>6</volume>
+                  <source>Shenaton ha-mishpat ha-&amp;apos;Ivri</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6256" publication-type="journal">
+Meir Rafeld, &amp;quot; &amp;apos;Hilkheta ke-
+vatra&amp;apos;ei&amp;apos; es el Hakhmei Ashkenaz u-Folin ba-Me&amp;apos;ot ha-15-16: Meqorot u-Sefihin,&amp;quot; Sidra 8 (1992),
+pp. 119-140<person-group>
+                     <string-name>
+                        <surname>Rafeld</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>119</fpage>
+                  <volume>8</volume>
+                  <source>Sidra</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6291" publication-type="journal">
+Israel Yuval, &amp;quot;Rishonim ve-&amp;apos;aharonim, Antiqui et moderni: toda&amp;apos;at ha-zeman ve-toda&amp;apos;ah
+&amp;apos;asmit be-Ashkenaz,&amp;quot; Zion 57 (1992: 369-394)<person-group>
+                     <string-name>
+                        <surname>Yuval</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>369</fpage>
+                  <volume>57</volume>
+                  <source>Zion</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6323a1310">
+            <label>85</label>
+          
+            <p>
+               <mixed-citation id="d2067e6330" publication-type="book">
+Shenei luhot ha-berit (Warsaw, 1878), I, 54a-b<fpage>54a</fpage>
+                  <volume>I</volume>
+                  <source>Shenei luhot ha-berit</source>
+                  <year>1878</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6348" publication-type="journal">
+Zimmels, Ashkenazim and Sephardim, p. 57<person-group>
+                     <string-name>
+                        <surname>Zimmels</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>57</fpage>
+                  <source>Ashkenazim and Sephardim</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6370a1310">
+            <label>86</label>
+          
+            <p>
+               <mixed-citation id="d2067e6377" publication-type="other">
+Zimmels, Ashkenazim and Sephardim</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6383" publication-type="other">
+&amp;quot;it was only
+through Caro and Isserles that the Sephardim and Ashkenazim became united among themselves&amp;quot;
+(p. 58)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6396a1310">
+            <label>87</label>
+          
+            <p>
+               <mixed-citation id="d2067e6403" publication-type="other">
+Zimmer in Gahalatan shel
+hakhamim (above n. 1), pp. 257-258</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6412" publication-type="other">
+Siev (above n. 1), pp. 286-296</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6418" publication-type="other">
+Reiner, &amp;quot;Temurot&amp;quot;
+(above n. 44), pp. 21-22, n. 20</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6428a1310">
+            <label>88</label>
+          
+          
+            <p>
+               <mixed-citation id="d2067e6437" publication-type="book">
+Buchner&amp;apos;s Orot Hayim (Cracow, 1654)<person-group>
+                     <string-name>
+                        <surname>Buchner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Orot Hayim</source>
+                  <year>1654</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6458" publication-type="journal">
+Yizhak Yudlov
+in Moriah 14 (1985-86), nos. 5-8, p. 19<person-group>
+                     <string-name>
+                        <surname>Yudlov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <volume>14</volume>
+                  <source>Moriah</source>
+                  <year>1985</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6490" publication-type="book">
+Keneset ha-gedolah (Livorno, 1658)<source>Keneset ha-gedolah</source>
+                  <year>1658</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6504a1310">
+            <label>89</label>
+          
+            <p>
+               <mixed-citation id="d2067e6511" publication-type="other">
+Bornstein (above n. 13), pp. 82-86</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6517" publication-type="other">
+Hungarian and
+Ashkenazic Jews in Constantinople as well (p. 82, n. 6)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6526" publication-type="other">
+&amp;quot;Ashkenazim&amp;quot; (pp. 83-84)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6533a1310">
+            <label>90</label>
+          
+            <p>
+               <mixed-citation id="d2067e6540" publication-type="journal">
+Ephraim ben Jacob ha-Kohen, She &amp;apos;elot u-teshuvot Sha &amp;apos;ar Efrayim, no. 113<person-group>
+                     <string-name>
+                        <surname>ha-Kohen</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>113</issue>
+                  <source>She &amp;apos;elot u-teshuvot Sha &amp;apos;ar Efrayim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6561" publication-type="other">
+Siev, p. 291</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6567" publication-type="other">
+Tchernowitz, p. 157 (both above n. 1)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6574" publication-type="other">
+Friedberg, above n. 70</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6581a1310">
+            <label>91</label>
+          
+            <p>
+               <mixed-citation id="d2067e6588" publication-type="other">
+R. Asher ben Yeiel&amp;apos;s Pisqe ha-Rosh</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6594" publication-type="other">
+Shulhan &amp;apos;arukh was not published in Prague</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6600" publication-type="other">
+R. Asher&amp;apos;s Digest</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6607" publication-type="other">
+R. Asher were published in 1619 and 1628</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6613" publication-type="other">
+Tchernowitz (above n. 1), pp. 185-186</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6620a1310">
+            <label>92</label>
+          
+            <p>
+               <mixed-citation id="d2067e6627" publication-type="book">
+Liah Greenfeld, Nationalism: Five Roads to Modernity (Cambridge, MA, 1992).<person-group>
+                     <string-name>
+                        <surname>Greenfeld</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Nationalism: Five Roads to Modernity</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6649a1310">
+            <label>93</label>
+          
+            <p>
+               <mixed-citation id="d2067e6656" publication-type="other">
+Elbaum, Petihut ve-histagrut (above n. 46), passim.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6663a1310">
+            <label>94</label>
+          
+            <p>
+               <mixed-citation id="d2067e6670" publication-type="other">
+Schorsch (above n. 2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6676" publication-type="journal">
+&amp;quot;Hezyonotav shel R. Asher be-R. Meir ha-mekhuneh Lemlein Reutlingen,&amp;quot; ed. Ephraim
+Kupfer, Qoves&amp;apos;al y ad 18 [1976], p. 406<person-group>
+                     <string-name>
+                        <surname>Kupfer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>406</fpage>
+                  <volume>18</volume>
+                  <source>Qoves&amp;apos;al y ad</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6707" publication-type="other">
+Jonah Ben Sasson (above n. 37)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6714" publication-type="other">
+Twersky, &amp;quot;The
+Shulhan &amp;apos;Arukh&amp;quot; (above n. 1), p. 150, n. 29</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6725a1310">
+            <label>95</label>
+          
+            <p>
+               <mixed-citation id="d2067e6732" publication-type="other">
+Bodian (above n. 2)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6739a1310">
+            <label>96</label>
+          
+            <p>
+               <mixed-citation id="d2067e6746" publication-type="book">
+Benedict R. O&amp;apos;G. Anderson, Imagined Communities: Reflections on the Origin and Spread
+of Nationalism, rev. ed. (London, 1991)<person-group>
+                     <string-name>
+                        <surname>Anderson</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Imagined Communities: Reflections on the Origin and Spread of Nationalism</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6770" publication-type="book">
+Rogers Brubaker, &amp;quot;Myths and Misconceptions in
+the Study of Nationalism,&amp;quot; in John Hall, ed., The State of the Nation: Ernest Gellner and the Study of
+Nationalism (Cambridge, 1998), pp. 272-309<person-group>
+                     <string-name>
+                        <surname>Brubaker</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Myths and Misconceptions in the Study of Nationalism</comment>
+                  <fpage>272</fpage>
+                  <source>The State of the Nation: Ernest Gellner and the Study of Nationalism</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6805a1310">
+            <label>97</label>
+          
+            <p>
+               <mixed-citation id="d2067e6812" publication-type="other">
+Shmeruk, Sifrut Yidish (above n. 53), pp. 72-89</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6818" publication-type="other">
+Elbaum, Petihut ve-histagrut (above n. 46), p. 14, n. 9</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6825a1310">
+            <label>98</label>
+          
+            <p>
+               <mixed-citation id="d2067e6832" publication-type="book">
+M. T. Jones-Davies, ed., Langues et
+Nations au Temps de la Renaissance (Paris, 1991)<person-group>
+                     <string-name>
+                        <surname>Jones-Davies</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Langues et Nations au Temps de la Renaissance</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6856" publication-type="book">
+Fredi Chiapelli, ed., The Fairest Flower: The Emer-
+gence of Linguistic National Consciousness in Renaissance Europe: International Conference (Flor-
+ence, 1985)<person-group>
+                     <string-name>
+                        <surname>Chiapelli</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Fairest Flower: The Emergence of Linguistic National Consciousness in Renaissance Europe: International Conference</source>
+                  <year>1985</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6884" publication-type="book">
+Roy Porter and Mikulás Teich, The Renaissance in National Context (Cambridge, 1992),
+pp. 78, 130, 158, 174<person-group>
+                     <string-name>
+                        <surname>Porter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>78</fpage>
+                  <source>The Renaissance in National Context</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6913" publication-type="other">
+n. 3</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2067e6920a1310">
+            <label>99</label>
+          
+            <p>
+               <mixed-citation id="d2067e6927" publication-type="other">
+Elon, Ha-Mishpat ha- &amp;apos;Ivri, &lt;latex&gt;$2^{ed}$&lt;/latex&gt; ed. (above n. 1), vol. 2, p. 1183</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6933" publication-type="book">
+Heinrich Graetz, Divrei
+yemei Yisra&amp;apos;el, Saul Pinas Rabinowitz trans, and ed., vol. 8 (Warsaw, 1902), p. 156<person-group>
+                     <string-name>
+                        <surname>Graetz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>156</fpage>
+                  <volume>8</volume>
+                  <source>Divrei yemei Yisra&amp;apos;el</source>
+                  <year>1902</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6964" publication-type="other">
+Rabinowitz&amp;apos;s
+note, p. 157</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e6974" publication-type="journal">
+Moshe Rosman, &amp;quot;De-
+muyav shel beit Yisra&amp;apos;el be-Folin ke-merkaz Torah aharei gezerot tah ve-tat,&amp;quot; Zion 51 (1986), pp. 442-
+448<person-group>
+                     <string-name>
+                        <surname>Rosman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>442</fpage>
+                  <volume>51</volume>
+                  <source>Zion</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e7008" publication-type="other">
+Zimmer, R. Hayim ben Besalel (above n. 56), p. 41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2067e7014" publication-type="other">
+Elbaum, Petihut
+ve-histagrut (above n. 46), pp. 13-14 and n. 8</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

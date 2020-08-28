@@ -1,0 +1,227 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486796</article-id>
+         <title-group>
+            <article-title>The Historiographical Legacy of Salo Wittmayer Baron: The Medieval Period</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robert</given-names>
+                  <surname>Chazan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">18</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i265531</issue-id>
+         <fpage>29</fpage>
+         <lpage>37</lpage>
+         <page-range>29-37</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486796"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d120e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d120e121" publication-type="book">
+Jeanette Meisel Baron, "A Bibliography of the Printed Writings of Salo Wittmayer
+Baron," Salo Wittmayer Baron Jubilee Volume, 3 vols. (Jerusalem, 1974), 1:1.<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">A Bibliography of the Printed Writings of Salo Wittmayer Baron</comment>
+                  <fpage>1</fpage>
+                  <volume>1</volume>
+                  <source>Salo Wittmayer Baron Jubilee Volume</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e156a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d120e163" publication-type="journal">
+Salo Wittmayer Baron, "The Historical Outlook of Maimonides," Proceedings of the
+American Academy for Jewish Research 6 (1934-35):5-113.<object-id pub-id-type="doi">10.2307/3622274</object-id>
+                  <fpage>5</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e179a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d120e188" publication-type="journal">
+Baron in Zion 55
+(1990): 325<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>325</fpage>
+                  <volume>55</volume>
+                  <source>Zion</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e220a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d120e227" publication-type="book">
+Salo Wittmayer Baron, A Social and Religious History of the Jews, 2nd ed., 18 vols. (New
+York, 1952-83), 9:3-4.<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>3</fpage>
+                  <volume>9</volume>
+                  <source>A Social and Religious History of the Jews</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e263a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d120e270" publication-type="book">
+Friedrich Heer, The Medieval World.
+Europe 1100-1350, trans. Janet Sondheimer (London, 1961)<person-group>
+                     <string-name>
+                        <surname>Heer</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Medieval World. Europe 1100-1350</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e295a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d120e302" publication-type="book">
+Salo Wittmayer Baron, Modern Nationalism and Religion (New York, 1947) .<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Modern Nationalism and Religion</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e324a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d120e331" publication-type="journal">
+Heinrich Graetz, Geschichte der Juden von den iltesten Zeiten bis auf die Gegenwart, 7:4<person-group>
+                     <string-name>
+                        <surname>Graetz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <volume>7</volume>
+                  <source>Geschichte der Juden von den iltesten Zeiten bis auf die Gegenwart</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d120e355" publication-type="other">
+second edition (Leipzig. 1873)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e362a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d120e369" publication-type="book">
+Salo Wittmayer Baron, "The Israelite Population under the Kings" (Hebrew), Abhand-
+lungen zur Erinnerung an Hirsch Perez Chayes (Vienna, 1933), pp. 76-136.<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Israelite Population under the Kings</comment>
+                  <fpage>76</fpage>
+                  <source>Abhandlungen zur Erinnerung an Hirsch Perez Chayes</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e401a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d120e408" publication-type="journal">
+Baron, A Social and Religious History of the Jews, 4:89-9 1 and 147-149<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>89</fpage>
+                  <volume>4</volume>
+                  <source>A Social and Religious History of the Jews</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d120e432" publication-type="other">
+European Jewry and the First Crusade (Berkeley, 1987)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d120e439a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d120e446" publication-type="journal">
+Graetz, Geschichte der Juden, 4:2<person-group>
+                     <string-name>
+                        <surname>Graetz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <volume>4</volume>
+                  <source>Geschichte der Juden</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d120e470" publication-type="other">
+second edition (Leipzig, 1865)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i23319550</issue-id>
+         <article-id pub-id-type="doi">10.2307/23319563</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+               <subj-group>
+                  <subject>Modern Jewish History and Culture</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Benjamin</given-names>
+                  <surname>Brown</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2012</year>
+         </pub-date>
+         <fpage>352</fpage>
+         <lpage>354</lpage>
+         <product>
+            <source>Untold Tales of the Hasidim: Crisis and Discontent in the History of Hasidism</source>
+            <string-name>
+               <given-names>David</given-names>
+               <surname>Assaf</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>© Association for Jewish Studies 2012</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/23319563"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

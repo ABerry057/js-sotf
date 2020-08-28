@@ -1,0 +1,68 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486623</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review Essay</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Ancient Israelite Cult in History, Tradition, and Interpretation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Victor Avigdor</given-names>
+                  <surname>Hurowitz</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1994</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">19</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i265534</issue-id>
+         <fpage>213</fpage>
+         <lpage>236</lpage>
+         <page-range>213-236</page-range>
+         <product>
+            <source>Leviticus 1-16: A New Translation with Introduction and Commentary</source>
+            <string-name>
+               <given-names>Jacob</given-names>
+               <surname>Milgrom</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1994 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486623"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

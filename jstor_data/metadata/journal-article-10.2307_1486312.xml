@@ -1,0 +1,592 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486312</article-id>
+         <title-group>
+            <article-title>Reading Medieval Hebrew Love Poetry</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Neal</given-names>
+                  <surname>Kozodoy</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1977</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"/>
+         <issue-id>i265509</issue-id>
+         <fpage>111</fpage>
+         <lpage>129</lpage>
+         <page-range>111-129</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1977 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486312"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d50e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d50e121" publication-type="other">
+Mishnah Avot 1:17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e127" publication-type="book">
+Arthur David, The Commentary to Mishnah
+Aboth (New York, 1968), pp. 18-22<person-group>
+                     <string-name>
+                        <surname>David</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>18</fpage>
+                  <source>The Commentary to Mishnah Aboth</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e155" publication-type="book">
+Chaim (Jefim) Schirmann, "Maimonides and Hebrew
+Poetry" (Hebrew), Moznayim 3 (1935): 433-36<fpage>433</fpage>
+                  <volume>3</volume>
+                  <source>Maimonides and Hebrew Poetry</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e178a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d50e185" publication-type="book">
+St. Augustine in On
+Christian Doctrine, especially Book 4<person-group>
+                     <string-name>
+                        <surname>Augustine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <source>On Christian Doctrine</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e209" publication-type="book">
+Erich Auerbach, Literary Language and Its Public in Late Latin Antiquity and in the Middle
+Ages, trans. Ralph Manheim (New York, 1965), pp. 25-66<person-group>
+                     <string-name>
+                        <surname>Auerbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Literary Language and Its Public in Late Latin Antiquity and in the Middle Ages</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e238a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d50e245" publication-type="book">
+Richard Walzer, Greek into Arabic (Oxford, 1962)<person-group>
+                     <string-name>
+                        <surname>Walzer</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Greek into Arabic</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e267a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d50e274" publication-type="book">
+Book of Beliefs and Opinion, trans. Samuel Rosenblatt (New
+Haven, 1948), pp. 373ff<person-group>
+                     <string-name>
+                        <surname>Rosenblatt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>373</fpage>
+                  <source>Book of Beliefs and Opinion</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e304a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d50e311" publication-type="book">
+"The
+Ephebe in Medieval Hebrew Poetry," Sefarad 15 (1955): 55-68<comment content-type="section">The Ephebe in Medieval Hebrew Poetry</comment>
+                  <fpage>55</fpage>
+                  <volume>15</volume>
+                  <source>Sefarad</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e337a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d50e344" publication-type="book">
+Moses ibn Ezra, The Secular Poems (Hebrew), ed. Heinrich Brody (Berlin, 1935), p. 321.<person-group>
+                     <string-name>
+                        <surname>Moses ibn Ezra</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>321</fpage>
+                  <source>The Secular Poems</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e368" publication-type="book">
+Israel Davidson, Thesaurus of Mediaeval Hebrew Poetry (New York, 1924-1938<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Thesaurus of Mediaeval Hebrew Poetry</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e389" publication-type="other">
+reprint ed.,
+New York, 1970), letter n, no.173 (2:123)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e399a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d50e406" publication-type="book">
+Gerson D. Cohen, "The Typology of the Rabbinate," in his edition of
+Sefer ha-Qabbalah by Abraham ibn Daud (Philadelphia, 1967), pp. 263-303<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Typology of the Rabbinate</comment>
+                  <fpage>263</fpage>
+                  <source>Sefer ha-Qabbalah</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e438a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d50e445" publication-type="book">
+Yitzhak Baer, A History of the Jews in Christian Spain, trans. Louis Schoffman
+(Philadelphia, 1961), 1:64.<person-group>
+                     <string-name>
+                        <surname>Baer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>64</fpage>
+                  <volume>1</volume>
+                  <source>A History of the Jews in Christian Spain</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e477a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d50e484" publication-type="book">
+Gershom G. Scholem, Major Trends in Jewish Mysticism (New York, 1941), p. 17.<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>17</fpage>
+                  <source>Major Trends in Jewish Mysticism</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e508" publication-type="journal">
+Kuzari 2:66-70<fpage>66</fpage>
+                  <volume>2</volume>
+                  <source>Kuzari</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e524a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d50e531" publication-type="book">
+Scholem, Major Trends, p. 14.<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e554a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d50e561" publication-type="book">
+Louis Ginzberg,
+"Allegorical Interpretation of Scripture," included in his On Jewish Law and Lore
+(Philadelphia, 1955), p. 144<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Allegorical Interpretation of Scripture</comment>
+                  <fpage>144</fpage>
+                  <source>On Jewish Law and Lore</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e595" publication-type="book">
+Gershom G. Scholem, "The Meaning of the Torah in Jewish
+Mysticism," On the Kabbalah and Its Symbolism (New York, 1965), especially pp. 50ff<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Meaning of the Torah in Jewish Mysticism</comment>
+                  <fpage>50</fpage>
+                  <source>On the Kabbalah and Its Symbolism</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e626" publication-type="book">
+Dante's analysis of the verse from Psalms 114, "When Israel went out of Egypt,"<person-group>
+                     <string-name>
+                        <surname>Dante</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>114</fpage>
+                  <source>When Israel went out of Egypt</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e648a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d50e655" publication-type="book">
+"Tradition and
+the Individual Talent," in T. S. Eliot, Selected Essays (New York, 1950)<person-group>
+                     <string-name>
+                        <surname>Eliot</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Tradition and the Individual Talent</comment>
+                  <source>Selected Essays</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e684a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d50e691" publication-type="other">
+Musivstil ("mosaic style")</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e697" publication-type="book">
+Yellin's discussion is in his Theory of Spanish
+Poetry (Hebrew; Jerusalem, 1940; 2d ed., 1972), pp. 118ff.<person-group>
+                     <string-name>
+                        <surname>Yellin</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>118</fpage>
+                  <source>Theory of Spanish Poetry</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e728" publication-type="book">
+Dan Pagis, Innovation and
+Tradition in Secular Poetry (Hebrew; Jerusalem, 1976), pp. 70ff.<person-group>
+                     <string-name>
+                        <surname>Pagis</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>70</fpage>
+                  <source>Innovation and Tradition in Secular Poetry</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e757" publication-type="book">
+Ezra Fleischer, Hebrew Liturgical Poetry in the Middle Ages (Hebrew;
+Jerusalem, 1975), pp. 103-4<person-group>
+                     <string-name>
+                        <surname>Fleischer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>103</fpage>
+                  <source>Hebrew Liturgical Poetry in the Middle Ages</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e785" publication-type="book">
+Ben-Zion Halper
+(under the title The Poetry of Israel, Leipzig, 1924), pp. 205-6<person-group>
+                     <string-name>
+                        <surname>Halper</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>205</fpage>
+                  <source>The Poetry of Israel</source>
+                  <year>1924</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e813" publication-type="book">
+Abraham Halkin (under the title Book of Reflections and Deliberations, Jerusalem,
+1975), pp. 297-99<person-group>
+                     <string-name>
+                        <surname>Halkin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>297</fpage>
+                  <source>Book of Reflections and Deliberations</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e842a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d50e849" publication-type="other">
+Exodus 39:9-13.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e856a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d50e863" publication-type="book">
+Dan Pagis, Innovation and Tradition, p. 72<person-group>
+                     <string-name>
+                        <surname>Pagis</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>72</fpage>
+                  <source>Innovation and Tradition</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e885a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d50e892" publication-type="other">
+Exodus 39:2-3.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e900a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d50e907" publication-type="book">
+Chaim
+(Jefim) Schirmann in his General Introduction to Hebrew Poetry in Spain and Provence
+(Hebrew; Jerusalem, 1954, 1960), p. 31<person-group>
+                     <string-name>
+                        <surname>Schirmann</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">General Introduction</comment>
+                  <fpage>31</fpage>
+                  <source>Hebrew Poetry in Spain and Provence</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e942a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d50e951" publication-type="other">
+Moses ibn Ezra, The Secular Poems, p. 5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e957" publication-type="other">
+Davidson's Thesaurus of Mediaeval
+Hebrew Poetry, letter D, no. 578 (2:490)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e967" publication-type="book">
+Commentary to the Secular Poems of Moses ibn Ezra (Hebrew; Jerusalem, 1941), pp. 8-9<fpage>8</fpage>
+                  <source>Commentary to the Secular Poems of Moses ibn Ezra</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e982" publication-type="other">
+David
+Yellin discusses the poem, Theory of Spanish Poetry, p. 129</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e991" publication-type="book">
+Dan Pagis (who points out
+the "royal" theme in it) in The Secular Poetry and Poetic Theory of Moses ibn Ezra and his
+Contemporaries (Hebrew; Jerusalem, 1970), pp. 265-66<person-group>
+                     <string-name>
+                        <surname>Pagis</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>265</fpage>
+                  <source>The Secular Poetry and Poetic Theory of Moses ibn Ezra and his Contemporaries</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1023a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d50e1030" publication-type="other">
+Genesis 37:3.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1037a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d50e1044" publication-type="other">
+Leviticus 6:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e1050" publication-type="other">
+Exodus 28:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1057a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d50e1064" publication-type="other">
+Isaiah 14:9.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1071a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d50e1078" publication-type="other">
+Micah 2:13.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1086a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d50e1093" publication-type="other">
+2 Samuel 23:1.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1100a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d50e1107" publication-type="other">
+2 Kings 25:27-30.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1114a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d50e1121" publication-type="other">
+Genesis 41:14, 41-43.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1128a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d50e1135" publication-type="other">
+Ezekiel 16:10.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1142a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d50e1149" publication-type="other">
+Numbers 9:13.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1156a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d50e1163" publication-type="book">
+Mishnah Yadayim 3:5<fpage>5</fpage>
+                  <volume>3</volume>
+                  <source>Mishnah Yadayim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e1178" publication-type="book">
+Saul
+Lieberman, "Mishnat Shir ha-Shirim" (Hebrew) in Gershom G. Scholem, Jewish Gnosticism,
+Merkabah Mysticism, and Talmudic Tradition (New York, 1960), pp. 118-26.<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Mishnat Shir ha-Shirim</comment>
+                  <fpage>118</fpage>
+                  <source>Jewish Gnosticism, Merkabah Mysticism, and Talmudic Tradition</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e1212" publication-type="book">
+Gerson D.
+Cohen, "The Song of Songs and the Jewish Religious Mentality," in The Samuel Friedland Lec-
+tures (New York, 1967), pp. 1-21.<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Song of Songs and the Jewish Religious Mentality</comment>
+                  <fpage>1</fpage>
+                  <source>The Samuel Friedland Lectures</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e1248a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d50e1255" publication-type="other">
+Guide of the Perplexed 3:51.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

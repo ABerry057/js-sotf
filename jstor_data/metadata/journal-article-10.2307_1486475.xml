@@ -1,0 +1,736 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486475</article-id>
+         <title-group>
+            <article-title> Three Unknown "Piyyutim" by David Ben Ḥasin </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>André E.</given-names>
+                  <surname>Elbaz</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Ephraim</given-names>
+                  <surname>Hazan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1995</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">20</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i265535</issue-id>
+         <fpage>87</fpage>
+         <lpage>97</lpage>
+         <page-range>87-97</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1995 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486475"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d148e165a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d148e172" publication-type="journal">
+André E. Elbaz, "Quelques précisions
+inedites sur la vie et l'oeuvre de David Ben Hassine," Revue des etudes juives 149 (1990):
+449-456<person-group>
+                     <string-name>
+                        <surname>Elbaz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>449</fpage>
+                  <volume>149</volume>
+                  <source>Revue des etudes juives</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e206" publication-type="book">
+idem, "L'exil marocain dans la poésie de David Ben Hassine," in Recherches sur la
+culture des Juifs d'Afrique du Nord , ed. Issachar Ben-Ami (Jerusalem, 1991), pp. Ivii-lxii<person-group>
+                     <string-name>
+                        <surname>Elbaz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">L'exil marocain dans la poésie de David Ben Hassine</comment>
+                  <fpage>Ivii</fpage>
+                  <source>Recherches sur la culture des Juifs d'Afrique du Nord</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e237" publication-type="journal">
+Ephraim Hazan, "Hebrew and Aramaic in the Poetry of R. David Ben Aharon Hasin-The Poet
+of Moroccan Jewry" (Heb.], East and Maghreb 4 (1983): 111-123<person-group>
+                     <string-name>
+                        <surname>Ephraim Hazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>111</fpage>
+                  <volume>4</volume>
+                  <source>East and Maghreb</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e269" publication-type="journal">
+idem, "Language Layers
+in the Poetry of R. David b. Aharon Hasin" (Heb.], Massorot 1 (1984): 19-39<person-group>
+                     <string-name>
+                        <surname>Ephraim Hazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <volume>1</volume>
+                  <source>Massorot</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e300" publication-type="journal">
+idem, "Chants
+liturgiques du patrimoine de Rabbi David Hassine" [Heb.], in Recherches sur la culture des
+Juifs d'Afrique du Nord, pp. 65-73<person-group>
+                     <string-name>
+                        <surname>Ephraim Hazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>65</fpage>
+                  <source>Recherches sur la culture des Juifs d'Afrique du Nord</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e328" publication-type="book">
+idem, "Shirav ha'ishiyim shel Rabbi David Ben Aharon
+Hasin" [The personal poems of David Ben Aharon Hasin], in Mehqarin besifrut 'am Yisra'el
+ubetarbut Teinian [Studies in the literature of the Jewish people and the culture of Yemen],
+ed. Yehudit Dishon and Ephraim Hazan (Ramat-Gan, 1991), pp. 279-299<person-group>
+                     <string-name>
+                        <surname>Ephraim Hazan</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Shirav ha'ishiyim shel Rabbi David Ben Aharon Hasin</comment>
+                  <fpage>279</fpage>
+                  <source>Mehqarin besifrut 'am Yisra'el ubetarbut Teinian [Studies in the literature of the Jewish people and the culture of Yemen]</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e365" publication-type="journal">
+idem, "The Elegy
+Poems of R. David Hasin-Their Quality and Singularity," Miqqedemn Umniyyant 4 (1991):
+13-23<person-group>
+                     <string-name>
+                        <surname>Ephraim Hazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <volume>4</volume>
+                  <source>Miqqedemn Umniyyant</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e399" publication-type="journal">
+idem, "Hariza umivta beshirat Rabbi David Hasin" [Rhyme and accent in the poetry of
+Rabbi David Hasin], Massorot 7 (1993): 77-85<person-group>
+                     <string-name>
+                        <surname>Ephraim Hazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>77</fpage>
+                  <volume>7</volume>
+                  <source>Massorot</source>
+                  <year>1993</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e431a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d148e440" publication-type="journal">
+Abraham Alnakar,
+EftaH pi beshir vezimnra, in MS Jewish Theological Seminary of America Library 5417, p. 29v<person-group>
+                     <string-name>
+                        <surname>Abraham Alnakar</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>29v</fpage>
+                  <source>MS Jewish Theological Seminary of America Library 5417</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e464" publication-type="book">
+Hayyim David Serero, 'Ashira na livedidi, in Tehilla leDavid (Amsterdam, 1807), p. Ir<person-group>
+                     <string-name>
+                        <surname>Hayyim David Serero</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>Ir</fpage>
+                  <source>Ashira na livedidi, in Tehilla leDavid</source>
+                  <year>1807</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e489" publication-type="journal">
+Shelomo Halewa (MS
+JTS 1237), pp. 147r-149r<person-group>
+                     <string-name>
+                        <surname>Shelomo Halewa</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>147r</fpage>
+                  <source>MS JTS</source>
+                  <year>1237</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e517" publication-type="journal">
+Joseph Chetrit, "The Personal and Socio-Historical Poetry of
+R. Shelomo Halewa ... and the Tradition of Hebrew Poetic Discourse in Morocco" [Heb.],
+Miqqedem Umiyyam 4 (1991): 63-65<person-group>
+                     <string-name>
+                        <surname>Joseph Chetrit</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>63</fpage>
+                  <volume>4</volume>
+                  <source>Miqqedem Umiyyam</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e552a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d148e559" publication-type="book">
+Tehilla leDavid (Casablanca, 1931), pp. 17v-18r.<fpage>17v</fpage>
+                  <source>Tehilla leDavid</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e575a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d148e582" publication-type="book">
+Shir Yedidot (Marrakesh, 1921), pp. 231v-232v.<fpage>231v</fpage>
+                  <source>Shir Yedidot</source>
+                  <year>1921</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e599a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d148e606" publication-type="other">
+Ibid., pp. 184v-185r.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e613a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d148e620" publication-type="other">
+MS JTS 8576, pp. 55r-57r.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e627a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d148e634" publication-type="other">
+MS Ben Zvi Institute Library 52, pp. 27r-27v.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e641a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d148e650" publication-type="book">
+Sefer tovat mar'e (Jerusalem, 1896), pp. 96r-96v<fpage>96r</fpage>
+                  <source>Sefer tovat mar'e</source>
+                  <year>1896</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e665" publication-type="other">
+MS Cambridge
+University library, T.-S. H 10/1882-10, and MS British Library, BM 5557 R 72</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e675" publication-type="book">
+Baqqal and Mansur
+Editions in Jerusalem; in Sefer 'ot brit qodesh (Leghorn, 1894)<person-group>
+                     <string-name>
+                        <surname>Baqqal</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sefer 'ot brit qodesh</source>
+                  <year>1894</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e699" publication-type="other">
+'Efseha
+shir hadash, 'E'erokh shir tehilla, and 'El barukh gedol de'a; in Sefer siyah Yishaq (Jerusalem,
+1923)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e711" publication-type="other">
+'E'erokh shir tehilla; and in Sefer tehillot la'el (Jerusalem, 1932)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e717" publication-type="other">
+Ohil vonm yonm 'eshta'e and 'Inm 'amnarti 'asappera. Sefer henmed Elohinm
+(Leghorn, 1852)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e727a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d148e734" publication-type="book">
+Yosef Benaim,
+Malkhe Rabbanan, Kevod Melakhim (Jerusalem, 1931), p. 22v<person-group>
+                     <string-name>
+                        <surname>Yosef Benaim</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>22v</fpage>
+                  <source>Malkhe Rabbanan, Kevod Melakhim</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e762" publication-type="other">
+Tehilla leDavid (Casablanca, 1931)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e769a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d148e776" publication-type="journal">
+"Une 616gie de David ben Aron Ibn Houssein sur les souffrances des juifs au Maroc en
+1790," Revue des dtudes juives (1898): 120-126.<fpage>120</fpage>
+                  <source>Revue des dtudes juives</source>
+                  <year>1898</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e796a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d148e803" publication-type="other">
+MS JTS 3089 (dated 1819), pp. 4r--4v and 17v-18v</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e810a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d148e817" publication-type="other">
+Isa. 41:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e824a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d148e831" publication-type="other">
+Job 36:22</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e838a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d148e845" publication-type="other">
+Ps. 95:7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e852a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d148e859" publication-type="other">
+Ps. 22:32</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e866a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d148e873" publication-type="other">
+Ps. 19:10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e881a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d148e888" publication-type="other">
+Josh. 21:43</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e895a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d148e902" publication-type="other">
+Deut. 10:17</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e909a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d148e916" publication-type="other">
+2 Sam. 23:5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e923a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d148e932" publication-type="other">
+Deut. 33:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e939a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d148e946" publication-type="other">
+Ps. 66:16</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e953a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d148e960" publication-type="other">
+Ps. 19:9</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e968a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d148e975" publication-type="other">
+'Oter Yisra'el betif'ara, from B.T. Berakhot 60b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e982a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d148e989" publication-type="other">
+Exod. 13:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e995" publication-type="other">
+Num. 15:40</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1002a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d148e1009" publication-type="other">
+B.T. Makkot Ila.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1016a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d148e1023" publication-type="other">
+B.T. Pesahim 4a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1030a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d148e1037" publication-type="other">
+Deut. 28:10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1044a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d148e1051" publication-type="other">
+Ps. 139.17</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1059a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d148e1066" publication-type="other">
+Zech. 4:7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1073a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d148e1080" publication-type="other">
+Isa. 38:16</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1087a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d148e1094" publication-type="other">
+Num. 6:26</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1101a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d148e1108" publication-type="other">
+Job 38:13</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1115a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d148e1122" publication-type="other">
+Ps. 105:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1129a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d148e1136" publication-type="other">
+Zech. 9:12</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1144a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d148e1151" publication-type="other">
+Isa. 58:1</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1158a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d148e1165" publication-type="other">
+1 Sam. 20:30</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1172a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d148e1179" publication-type="other">
+Hab. 2:3</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1186a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d148e1193" publication-type="other">
+Prov. 13:12</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1200a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d148e1207" publication-type="other">
+Esther 7:10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1214a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d148e1221" publication-type="other">
+Jer. 50:17</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1229a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d148e1236" publication-type="other">
+Deut. 29:23</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1243a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d148e1250" publication-type="other">
+Ps. 15:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1257a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d148e1264" publication-type="other">
+Deut. 28:31</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1271a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d148e1278" publication-type="other">
+B.T. Ketubbot 112b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1285a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d148e1292" publication-type="other">
+Isa. 9:11</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1299a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d148e1306" publication-type="other">
+Num 21:22</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1314a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d148e1321" publication-type="other">
+Ps. 45:14</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1328a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d148e1335" publication-type="other">
+Ps. 16:5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1342a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d148e1349" publication-type="other">
+Ps. 55:23</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1356a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d148e1363" publication-type="other">
+Lam. 4:22</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1370a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d148e1377" publication-type="other">
+Ps. 122:7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1384a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d148e1391" publication-type="other">
+The Temple of Jerusalem, as in Isa. 29:1.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1399a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d148e1406" publication-type="other">
+Ps. 14:7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1413a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d148e1420" publication-type="journal">
+Tefilla leDavid, in Tehilla leDavid, pp. 62v-68r<person-group>
+                     <string-name>
+                        <surname>leDavid</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>62v</fpage>
+                  <source>Tehilla leDavid</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1442a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d148e1449" publication-type="book">
+Hiqqabesu veshim 'u bnei
+Ya'aqov, in Heinrich Brody, ed., Diwan ... Yehuda Ben Shenmu'el Halevi (Berlin, 1894-1930),
+4:53<comment content-type="section">Hiqqabesu veshim 'u bnei Ya'aqov</comment>
+                  <fpage>53</fpage>
+                  <volume>4</volume>
+                  <source>Heinrich Brody, ed., Diwan ... Yehuda Ben Shenmu'el Halevi</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e1477" publication-type="book">
+Ephraim Hazan and Binyamin Bar-Tikva, Shirat hahalakha
+(Ramat-Gan, 1991)<person-group>
+                     <string-name>
+                        <surname>Ephraim Hazan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Shirat hahalakha</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1502a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d148e1509" publication-type="other">
+Exod. 12:28</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1516a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d148e1523" publication-type="other">
+Isa. 59:20</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1530a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d148e1537" publication-type="book">
+Ezra Fleischer, Hebrew Liturgical
+Poetry in the Middle Ages [Heb.] (Jerusalem, 1975), pp. 395-402<person-group>
+                     <string-name>
+                        <surname>Ezra Fleischer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>395</fpage>
+                  <source>Hebrew Liturgical Poetry in the Middle Ages</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e1567a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d148e1574" publication-type="other">
+Ibid., p. 401</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

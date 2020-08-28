@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">35</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i40059251</issue-id>
+         <article-id pub-id-type="doi">10.2307/41310652</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Review Essay</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Reclaiming Halakhah: On the Recent Works of Aharon Shemesh</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Beth</given-names>
+                  <surname>Berkowitz</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2011</year>
+         </pub-date>
+         <fpage>125</fpage>
+         <lpage>135</lpage>
+         <product>
+            <source>Halakhah in the Making: The Development of Jewish Law from Qumran to the Rabbis</source>
+            <string-name>
+               <given-names>Aharon</given-names>
+               <surname>Shemesh</surname>
+            </string-name>
+         </product>
+         <product>
+            <source>Onashim ve-hata 'im: min ha-mikra le-sifrut hazal [Punishments and Sins: From Scripture to the Rabbis]</source>
+            <string-name>
+               <given-names>Aharon</given-names>
+               <surname>Shemesh</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>© Association for Jewish Studies 2011</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/41310652"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

@@ -1,0 +1,1680 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486299</article-id>
+         <title-group>
+            <article-title>The Meaning of 'Ein Lo Domeh and Similar Phrases in Medieval Biblical Exegesis</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Frederick E.</given-names>
+                  <surname>Greenspahn</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1979</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"/>
+         <issue-id>i265511</issue-id>
+         <fpage>59</fpage>
+         <lpage>70</lpage>
+         <page-range>59-70</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1979 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486299"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Note</title>
+         <ref id="d85e114a1310">
+            <mixed-citation id="d85e118" publication-type="other">
+Aaron ben Elijah, Keter Torah (Eupatoria, 1866-67).</mixed-citation>
+         </ref>
+         <ref id="d85e125a1310">
+            <mixed-citation id="d85e129" publication-type="book">
+Aaron ben Joseph, Mivbar yesharim (Eupatoria, 1766).<person-group>
+                  <string-name>
+                     <surname>Joseph</surname>
+                  </string-name>
+               </person-group>
+               <source>Mivbar yesharim</source>
+               <year>1766</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e151a1310">
+            <mixed-citation id="d85e155" publication-type="book">
+Abraham ibn Ezra, The Commentary of Ibn Ezra on Isaiah, ed. Michael Friedlander (New
+York, 1964).<person-group>
+                  <string-name>
+                     <surname>Ezra</surname>
+                  </string-name>
+               </person-group>
+               <source>The Commentary of Ibn Ezra on Isaiah</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e180a1310">
+            <mixed-citation id="d85e184" publication-type="book">
+---, Ibn Ezra 'al ha-Torah, ed. Asher Weiser, 3 vols. (Jerusalem, 1976).<person-group>
+                  <string-name>
+                     <surname>Ezra</surname>
+                  </string-name>
+               </person-group>
+               <source>Ibn Ezra 'al ha-Torah</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e207a1310">
+            <mixed-citation id="d85e211" publication-type="book">
+Isaiah of Trani, Perush nevi'im u-khetuvim le-Rabbenu Yesha'ya ha-rishon mi-Trani, ed. A.
+L. Wertheimer, 3 vols. (Jerusalem, 1958-78).<person-group>
+                  <string-name>
+                     <surname>Isaiah of Trani</surname>
+                  </string-name>
+               </person-group>
+               <source>Perush nevi'im u-khetuvim le-Rabbenu Yesha'ya ha-rishon mi-Trani</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e236a1310">
+            <mixed-citation id="d85e240" publication-type="book">
+---in Sefer 'asarah me'orot ha-gedolim, ed. Joseph Gad (Johannesburg, 1952).<person-group>
+                  <string-name>
+                     <surname>Isaiah of Trani</surname>
+                  </string-name>
+               </person-group>
+               <source>Sefer 'asarah me'orot ha-gedolim</source>
+               <year>1952</year>
+            </mixed-citation>
+            <mixed-citation id="d85e261" publication-type="book">
+Jacob ben Reuben, Sefer ha-'osher (Eupatoria, 1766).<person-group>
+                  <string-name>
+                     <surname>Reuben</surname>
+                  </string-name>
+               </person-group>
+               <source>Sefer ha-'oshe</source>
+               <year>1766</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e283a1310">
+            <mixed-citation id="d85e287" publication-type="book">
+Joseph ben Abba Mari ibn Kaspi, 'Adnei kesef ed. Isaac Last (London, 1911).<person-group>
+                  <string-name>
+                     <surname>Abba Mari ibn Kaspi</surname>
+                  </string-name>
+               </person-group>
+               <source>Adnei kesef</source>
+               <year>1911</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e309a1310">
+            <mixed-citation id="d85e313" publication-type="book">
+Joseph ben Isaac Bekhor Shor, Perush 'al ha-torah, ed. Adolph Jellinek (Leipzig, 1856).<person-group>
+                  <string-name>
+                     <surname>Isaac Bekhor Shor</surname>
+                  </string-name>
+               </person-group>
+               <source>Perush 'al ha-torah</source>
+               <year>1856</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e335a1310">
+            <mixed-citation id="d85e339" publication-type="book">
+Joseph Qimbi, Sefer buqqah, ed. Ber Dubrowo (Breslau, 1868).<person-group>
+                  <string-name>
+                     <surname>Qimbi</surname>
+                  </string-name>
+               </person-group>
+               <source>Sefer buqqah</source>
+               <year>1868</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e361a1310">
+            <mixed-citation id="d85e365" publication-type="book">
+Judah ibn Bal'am, Gloses d'Abou Zakariya ben Bilam sur Isaie, ed. Joseph Derenbourg
+(Paris, 1892).<person-group>
+                  <string-name>
+                     <surname>Bal'am</surname>
+                  </string-name>
+               </person-group>
+               <source>Gloses d'Abou Zakariya ben Bilam sur Isaie</source>
+               <year>1892</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e391a1310">
+            <mixed-citation id="d85e395" publication-type="book">
+Levi ben Gershon, Perush 'al bamesh megillot (Kénigsberg, 1860).<person-group>
+                  <string-name>
+                     <surname>Gershon</surname>
+                  </string-name>
+               </person-group>
+               <source>Perush 'al bamesh megillot</source>
+               <year>1860</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e417a1310">
+            <mixed-citation id="d85e421" publication-type="book">
+Moses ben Nahman in Sefer 'lyyov (New York, n.d.).<person-group>
+                  <string-name>
+                     <surname>Nahman</surname>
+                  </string-name>
+               </person-group>
+               <source>Sefer 'lyyov</source>
+            </mixed-citation>
+            <mixed-citation id="d85e439" publication-type="book">
+Sa'adiah ben Joseph, 'lyyov 'im tirgum u-ferush, ed. Yosef Qafib (Jerusalem, 1966).<person-group>
+                  <string-name>
+                     <surname>Joseph</surname>
+                  </string-name>
+               </person-group>
+               <source>'lyyov 'im tirgum u-ferush</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e461a1310">
+            <mixed-citation id="d85e465" publication-type="book">
+---, Tehillim 'im tirgum u-ferush, ed. Yosef Qafib (New York, 1966).<person-group>
+                  <string-name>
+                     <surname>Joseph</surname>
+                  </string-name>
+               </person-group>
+               <source>Tehillim 'im tirgum u-ferush</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e487a1310">
+            <mixed-citation id="d85e491" publication-type="book">
+Samuel ben Meir, Perush ha-Torah, ed. David Rosin (Breslau, 1881).<person-group>
+                  <string-name>
+                     <surname>Meir</surname>
+                  </string-name>
+               </person-group>
+               <source>Perush ha-Torah</source>
+               <year>1881</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e513a1310">
+            <mixed-citation id="d85e517" publication-type="book">
+Schwartz, Israel, ed., Tiqvat 'enosh (Berlin, 1868) includes commentaries to Job by Isaiah
+of Trani and Moses Qimbi.<person-group>
+                  <string-name>
+                     <surname>Schwartz</surname>
+                  </string-name>
+               </person-group>
+               <source>Tiqvat 'enosh</source>
+               <year>1868</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d85e542a1310">
+            <mixed-citation id="d85e546" publication-type="other">
+Solomon ben Isaac, Parshandata, ed. Isaac Maarsen (Jerusalem, 1972).</mixed-citation>
+         </ref>
+         <ref id="d85e554a1310">
+            <mixed-citation id="d85e558" publication-type="book">
+---, Rashi 'al ha-Torah, ed. Abraham Berliner (Frankfurt, 1905).<person-group>
+                  <string-name>
+                     <surname>Isaac</surname>
+                  </string-name>
+               </person-group>
+               <source>Rashi 'al ha-Torah</source>
+               <year>1905</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d85e589a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d85e596" publication-type="book">
+Encyclopedia Judaica (Jerusalem, 1972), s.v. "Hapax Legomena"<source>Encyclopedia Judaica</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e608" publication-type="book">
+Harry Tor-
+czyner, Encyclopedia Judaica (Berlin, 1931), s.v. "Hapax Legomena"<person-group>
+                     <string-name>
+                        <surname>Torczyner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Encyclopedia Judaica</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e632" publication-type="book">
+Leo Prijs, Die Gram-
+matikalische Terminologie des Abraham ibn Esra (Basel, 1950), pp. 24, 44<person-group>
+                     <string-name>
+                        <surname>Prijs</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>24</fpage>
+                  <source>Die Gram matikalische Terminologie des Abraham ibn Esra</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e661" publication-type="book">
+Chaim Rabin,
+Ensiqlopediya miqra'it (Jerusalem, 1962), s.v. "Millim bodedot."<person-group>
+                     <string-name>
+                        <surname>Rabin</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ensiqlopediya miqra'it</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e685" publication-type="book">
+Simon Eppenstein, 'lyyun ve-heqer
+(Jerusalem, 1976), p. 200<person-group>
+                     <string-name>
+                        <surname>Eppenstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>200</fpage>
+                  <source>'lyyun ve-heqer</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e713" publication-type="other">
+David Qimbi to Ps. 109:22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e719" publication-type="other">
+QSh, s.v. 'RK</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e726a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d85e733" publication-type="other">
+To Ps. 64:2, 68:18</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e739" publication-type="other">
+Job 30:13, 33:24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e745" publication-type="other">
+SS, pp. 146 and 170</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e752a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d85e759" publication-type="other">
+Lane, pp. 2363ff.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e765" publication-type="book">
+John A.
+Haywood, Arabic Lexicography (Leiden, 1965), especially pp. 18-19, 42ff., 95-96, 105, and
+113<person-group>
+                     <string-name>
+                        <surname>Haywood</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>18</fpage>
+                  <source>Arabic Lexicography</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e796" publication-type="other">
+AFD, s.v. 'LS</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e803" publication-type="other">
+IJSh, s.v. 'BK</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e809" publication-type="other">
+David Qimbi to Ps. 119:131</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e815" publication-type="other">
+Moses Qimbi to Job 26:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e821" publication-type="other">
+IPM, s.v. RTPSh, SQD, ShNS, ShSh'</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e828a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d85e835" publication-type="other">
+IQR, p. 2 bis</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e841" publication-type="other">
+Lane, pp. 2780ff.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e849a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d85e856" publication-type="other">
+Lane, p. 2813</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e862" publication-type="other">
+AFD, s.v. TNF, 'BSh, SKT, SQ, SPD, RPQ, SQD, SQR, TZZ</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e868" publication-type="other">
+SS, p.
+145</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e878" publication-type="other">
+IQR, p. 3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e884" publication-type="other">
+Judah ibn Bal'am to Isa. 56:10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e891a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d85e898" publication-type="other">
+IQR, p. 2 bis</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e904" publication-type="other">
+Lane, pp. 1499-1500</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e911a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d85e918" publication-type="other">
+AFD, s.vo L'T</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e924" publication-type="other">
+Lane. pp. 1479ff.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e931a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d85e938" publication-type="other">
+MM, s.v. 'BH, 'BRK, 'GL, 'TWN, 'L$, 'PL, GLB, GB'L, GP, GRD, GRZ, DHM, ZBD,
+ZHM, ZNQ, Z'K, ZRB, ZRZYP, URG, T'H, TPSh, KSM, MHL, MRH</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e947" publication-type="other">
+MM*, s.v.'TM</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e953" publication-type="other">
+PSM and SNM</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e960" publication-type="other">
+Rashi to Gen. 41:45</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e966" publication-type="other">
+Judg. 16:16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e972" publication-type="other">
+1 Sam. 15:33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e978" publication-type="other">
+1 Kings 18:46</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e984" publication-type="other">
+Isa. 1:22, 9:18,
+44:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e993" publication-type="other">
+Ezek. 16:40</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1000" publication-type="other">
+Hos. 11:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1006" publication-type="other">
+Ps. 63:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1012" publication-type="other">
+Job 6:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1018" publication-type="other">
+Ruth 2:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1024" publication-type="other">
+Lam. 4:8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1031a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d85e1038" publication-type="other">
+DST, p. 57</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1044" publication-type="other">
+QG, pp. 33 and 45</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1051a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d85e1058" publication-type="other">
+DST, p. 33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1064" publication-type="other">
+Rashi to Exod. 16:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1070" publication-type="other">
+Jacob ben Reuben to Isa. 3:16, 33:20, 44:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1077" publication-type="other">
+Ibn Ezra
+to Isa. 9:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1086" publication-type="other">
+Job 29:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1092" publication-type="other">
+Cant. 3:9, 4:1, 8:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1098" publication-type="other">
+IPM, s.v. SBT</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1104" publication-type="other">
+Moses Qimbi to Job 6:10, 33:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1110" publication-type="other">
+Moses
+ben Nabman to Job 6:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1120" publication-type="other">
+Isaiah of Trani to 1 Sam. 15:33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1126" publication-type="other">
+Isa. 3:16, 9:17f., 11:8, 18:6, 33:20,
+44:8, 47:13, 56:10f.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1135" publication-type="other">
+Jer. 14:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1141" publication-type="other">
+Ezek. 16:40, 17:9, 39:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1147" publication-type="other">
+Amos 5:11, 7:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1153" publication-type="other">
+Ps. 55:9, 63:2, 68:17,
+99:1, 119:103, 119:131</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1163" publication-type="other">
+Job 17:1, 19:3, 26:9, 30:11, 33:26, 39:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1169" publication-type="other">
+Ruth 2:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1175" publication-type="other">
+Lam. 1:14, 4:8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1183a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d85e1190" publication-type="other">
+SS, pp. 151 and 170</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1196" publication-type="other">
+AFD, s.v. ZRB, IJSh, s.v. BShS</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1202" publication-type="other">
+Lane, pp. 1577 and 1680-81</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1209" publication-type="other">
+Ibn Janab to Isa. 18:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1215" publication-type="other">
+Ibn Barun regarding HBR</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1221" publication-type="book">
+Pavel Kokovtsov, Mi-sifrei
+ha-balshanut ha-'ivrit bi-yemei ha-beinayim [Jerusalem, 1970], pp. 19 and 168a<person-group>
+                     <string-name>
+                        <surname>Kokovtsov</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Mi-sifrei ha-balshanut ha-'ivrit bi-yemei ha-beinayim</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1249" publication-type="other">
+Ibn Tibbon
+translates Id ishtiqdq as 'ein gizrah</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1258" publication-type="other">
+MM, s.v. 'PL</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1265a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d85e1272" publication-type="other">
+Moses Qimbi to Job 39:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1278" publication-type="other">
+Aaron ben Joseph to 1 Sam. 21:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1284" publication-type="other">
+Judah ibn Bal'am to Isa.
+3:1</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1294a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d85e1301" publication-type="other">
+IQR, p. 31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1307" publication-type="other">
+Lane, p. 2315</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1314a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d85e1321" publication-type="other">
+DST, p. 79</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1327" publication-type="other">
+MM, s.v. SNM and PSM</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1333" publication-type="other">
+Ibn Ezra to Gen. 25:30, 41:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1340" publication-type="other">
+Exod. 12:9, 16:14,
+16:31f., 32:16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1349" publication-type="other">
+Isa. 7:19, 48:19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1355" publication-type="other">
+Hos. 13:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1361" publication-type="other">
+Joel 1:17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1367" publication-type="other">
+Amos 6:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1373" publication-type="other">
+Ps. 63:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1380" publication-type="other">
+Job 15:12, 21:32, 26:9,
+30:25, 33:20, 33:24, 40:12, 40:31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1389" publication-type="other">
+Cant. 1:10, 7:2, 7:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1395" publication-type="other">
+Ruth 1:13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1401" publication-type="other">
+David Qimbi to 1 Sam. 21:9, 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1407" publication-type="other">
+Sam. 17:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1413" publication-type="other">
+Isa. 9:4, 11:15, 33:20, 56:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1420" publication-type="other">
+Ezek. 6:1, 21:20, 23:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1426" publication-type="other">
+Joel 2:7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1432" publication-type="other">
+Amos 3:12, 5:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1438" publication-type="other">
+Ps.
+55:9, 63:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1447" publication-type="other">
+Jacob ben Reuben to Isa. 1:22 and 50:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1453" publication-type="other">
+Samuel ben Meir to Gen. 41:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1460" publication-type="other">
+Exod. 16:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1466" publication-type="other">
+Moses Qimbi to Job 2:8, 9:3, 30:25, 40:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1472" publication-type="other">
+Joseph ibn Kaspi to Amos 7:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1478" publication-type="other">
+Aaron
+ben Elijah to Gen. 25:30 and 40:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1487" publication-type="other">
+Levi ben Gershon to Cant. 8:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1493" publication-type="other">
+Joseph Bekhor Shor to
+Exod. 16:14</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1503a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d85e1510" publication-type="other">
+Ibn Ezra to Gen. 26:20, 35:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1516" publication-type="other">
+Exod. 29:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1522" publication-type="other">
+Lev. 25:21</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1529" publication-type="other">
+Deut. 22:8,
+32:25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1538" publication-type="other">
+Isa. 10:15, 33:20, 44:8, 44:19, 47:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1544" publication-type="other">
+Amos 5:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1550" publication-type="other">
+Ps. 18:46, 60:4, 140:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1556" publication-type="other">
+Job 41:14, 41:21</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1562" publication-type="other">
+David Qimbi (e.g., to Isa. 1:22)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1569" publication-type="other">
+Aaron ben Elijah (e.g., to Deut. 27:9)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1575" publication-type="other">
+Ibn Ezra to Gen. 30:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1581" publication-type="other">
+Lev. 6:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1587" publication-type="other">
+Deut. 32:15, 33:19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1593" publication-type="other">
+Job 2:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1599" publication-type="other">
+Lam.
+3:16, 6:14</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1609a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d85e1616" publication-type="other">
+Ibn Ezra to Lev. 14:37</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1622" publication-type="other">
+Isa. 11:8, 14:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1628" publication-type="other">
+Lam. 1:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1635" publication-type="other">
+Deut. 32:34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1641" publication-type="other">
+Job 40:17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1647" publication-type="other">
+Eccles. 10:8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1655a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d85e1662" publication-type="other">
+Lev. 19:19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1668" publication-type="other">
+Num. 11:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1674" publication-type="other">
+Isa. 3:19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1681" publication-type="other">
+Hos. 11:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1687" publication-type="other">
+Job 17:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1693" publication-type="other">
+Lam. 4:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1699" publication-type="other">
+Ibn Ezra's millah zarah</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1705" publication-type="other">
+Arabic al-alfdr al-gharfb</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1711" publication-type="other">
+Sa'adiah to Job 6:6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1718" publication-type="other">
+SS, p. 164</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1724" publication-type="other">
+IQR, pp. 1, 2, 111</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1730" publication-type="other">
+Isa. 9:17, 15:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1736" publication-type="other">
+Isa. 50:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1742" publication-type="other">
+IQR, p. 110</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1748" publication-type="other">
+Esther
+1:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1758" publication-type="other">
+Dan. 1:3</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1765a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d85e1772" publication-type="other">
+Isa. 9:17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1778" publication-type="other">
+Isa. 1:22, 61:6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1784" publication-type="other">
+Joel 1:17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1791" publication-type="other">
+Amos 6:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1797" publication-type="other">
+IKSh, s.v. D WB and
+HZH</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1806" publication-type="book">
+A. S. Halkin, "The Medieval Jewish Attitude Toward Hebrew,"
+in Biblical and Other Studies, ed. Alexander Altmann (Cambridge, 1963)<person-group>
+                     <string-name>
+                        <surname>Halkin</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Medieval Jewish Attitude Toward Hebrew</comment>
+                  <source>Biblical and Other Studies</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1834" publication-type="other">
+David Qimhi (to Isa. 9:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1840" publication-type="other">
+Ezek. 5:1, 9:4, 23:23, 33:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1846" publication-type="other">
+Amos 3:12</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1853a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d85e1860" publication-type="book">
+Franco Martinazzoli, Hapax Legomenon (Rome, 1953)<person-group>
+                     <string-name>
+                        <surname>Martinazzoli</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Hapax Legomenon</source>
+                  <year>1953</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1882a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d85e1889" publication-type="other">
+DST, p. 33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1895" publication-type="other">
+Jacob ben Reuben to Isa. 3:10, 33:20, 44:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1901" publication-type="other">
+Ibn Ezra to Cant. 3:9, 4:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1908" publication-type="other">
+IPM, s.v. SBT</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1914" publication-type="other">
+Moses ben Nabman to Job 6:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1920" publication-type="other">
+Aaron ben Elijah to Gen. 41:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1926" publication-type="other">
+above, n. 10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1933a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d85e1940" publication-type="other">
+Isa. 33:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1946" publication-type="other">
+Ps. 63:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1952" publication-type="other">
+Rashi to
+Exod. 16:14</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1962a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d85e1969" publication-type="other">
+Ibn Ezra to Isa. 9:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1975" publication-type="other">
+Moses Qimbi to Job 33:25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e1981" publication-type="other">
+Job 33:24</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e1989a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d85e1996" publication-type="other">
+Ibn Ezra to Job 29:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2002" publication-type="other">
+IPM, s.v. RSD</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2008" publication-type="other">
+'TM and RNH</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2015" publication-type="other">
+Moses Qimbi to Job
+6:10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2025a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d85e2032" publication-type="other">
+MM, s.v. Z'K, ZRB, ZRZYP, KSM, MRfI</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2039a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d85e2046" publication-type="other">
+IPM, s.v. RNH</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2052" publication-type="other">
+'TM, RSD</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2058" publication-type="other">
+above n. 17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2065" publication-type="other">
+Arabic, e.g., hadhihi 1-kalima min al-kalimat al-mufrada al-ghariba fi -'ibrant
+allati la nazfr lahu</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2074" publication-type="other">
+IQR, p. 100</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2080" publication-type="other">
+p. 2 bis</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2087a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d85e2094" publication-type="other">
+Viz. 'BK, BShS, HDH, HZH, Z'K, Y'B, KMH, MLS, NWT, PRShZ, S'N, SPD, RHH,
+SQD</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2103" publication-type="other">
+Ibn Ezra alone notes GRD, DWS, HDK, ZHM, HTM, USPS, URG, URT, TPSh, Y'Z,
+KMS, KPSh, KSH, L'T, MHL, SRP, 'BSh, 'GM, 'GN, 'WT, 'ZQ, "R, 'SQ, PD', PSM, SNM,
+RZM, RPQ, SPN</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2115" publication-type="other">
+BLS, HBR, HKR, NTS, S'H, 'TM, SBT,
+RTPSh, RNH, RSD, SQR, TZZ</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2125" publication-type="other">
+BTQ, DHM, QSS, ShSP</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2132a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d85e2139" publication-type="book">
+Benjamin Klar, Mebqarim ve-'iyyunim (Tel Aviv, 1954), p. 260<person-group>
+                     <string-name>
+                        <surname>Klar</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>260</fpage>
+                  <source>Mebqarim ve-'iyyunim</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2164a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d85e2171" publication-type="other">
+MM, pp. 22 and 56</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2177" publication-type="other">
+DST, p. 57</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2185a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d85e2192" publication-type="other">
+Exod. 32:16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2198" publication-type="other">
+Exod. 12:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2204" publication-type="other">
+Deut. 32:15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2211" publication-type="other">
+Isa. 5:2, 9:4, 11:8, 25:11, 46:6, 47:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2217" publication-type="other">
+Cant. 4:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2223" publication-type="other">
+Jacob ben Reuben to Isa. 50:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2230a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d85e2239" publication-type="other">
+DST, p. 57</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2245" publication-type="other">
+Rashi to Isa. 33:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2252" publication-type="other">
+'Abot is similarly used by Ibn Ezra at Isa. 24:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2258" publication-type="other">
+IQR, pp. 11,
+17, 18, 48, 107</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2267" publication-type="other">
+p. 14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2273" publication-type="other">
+pp. 107-15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2279" publication-type="other">
+al-
+abraffallati laha ishtiqdqdt and also p. 27</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2289a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d85e2296" publication-type="other">
+Gen. 26:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2302" publication-type="other">
+DST, p. 33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2308" publication-type="other">
+Rashi to Lam. 3:16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2315" publication-type="other">
+n. 27</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2322a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d85e2329" publication-type="other">
+AFD, s.v. TZ and SPD</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2335" publication-type="other">
+s.v. 'PL, GB'L, GRD, TH, SLD, and SPD</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2341" publication-type="other">
+s.v. GP</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2348" publication-type="other">
+Job 6:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2354" publication-type="other">
+Ruth 2:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2360" publication-type="other">
+Isaiah of Trani (to Isa. 18:5)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2367a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d85e2374" publication-type="other">
+AFD, s.v. SQ</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2380" publication-type="other">
+s.v. SKT</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2386" publication-type="other">
+Ibn Ezra to Hos. 13:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2393" publication-type="other">
+Isa. 14:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2399" publication-type="other">
+MM, p. 23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2405" publication-type="other">
+IQR, p. 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2411" publication-type="journal">
+Nehemiah Allony, "Hashqafot qara'iyyot be-mahberet Menabem," in 'Oyar yehudei
+Sefarad 5 (1962): 51<person-group>
+                     <string-name>
+                        <surname>Allony</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>51</fpage>
+                  <volume>5</volume>
+                  <source>Oyar yehudei Sefarad</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2443a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d85e2450" publication-type="other">
+AFD, s.v. 'BSh</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2456" publication-type="other">
+David Qimhi to Isa. 1:22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2462" publication-type="other">
+Ibn Ezra to Hos. 13:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2469" publication-type="other">
+Joseph
+Qimhli to Prov. 10:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2478" publication-type="other">
+Ibn Bal'am to Isa. 6:10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2486a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d85e2493" publication-type="other">
+MM, p. 56</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2499" publication-type="other">
+s.v. 'BU</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2505" publication-type="book">
+E. Z. Melamed, Mefareshei ha-miqra (Jerusalem, 1975), p. 625<person-group>
+                     <string-name>
+                        <surname>Melamed</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Mefareshei ha-miqra</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2527a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d85e2534" publication-type="other">
+IPM, p. 74b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2541a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d85e2548" publication-type="other">
+Num. 11:7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2554" publication-type="other">
+Exod. 29:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2560" publication-type="other">
+Gen. 40:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2567" publication-type="other">
+Ibn Ezra to Job 17:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2573" publication-type="other">
+Ruth 1:13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2579" publication-type="other">
+QG, p. 45</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2585" publication-type="other">
+Joseph
+Bekhor Shor to Exod. 16:14</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2595a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d85e2602" publication-type="other">
+Ibn Ezra to Deut. 21:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2608" publication-type="other">
+Job 39:19</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2615a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d85e2622" publication-type="other">
+Ibn Ezra to Gen. 7:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2628" publication-type="other">
+Eccles. 2:16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2634" publication-type="other">
+Esther 1:3, 1:20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2641" publication-type="other">
+Dan. 1:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2647" publication-type="other">
+Gen.
+40:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2656" publication-type="other">
+Joseph Qimbi to Prov. 10:8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2663a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d85e2670" publication-type="other">
+Ibn Ezra to Isa. 64:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2676" publication-type="other">
+Joel 1:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2682" publication-type="other">
+Lam. 4:17</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2690a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d85e2697" publication-type="other">
+DGH (Gen. 48:16)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2703" publication-type="other">
+HP' (2 Kings 17:9)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2709" publication-type="other">
+Y'H(Jer. 10:7)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2716" publication-type="other">
+S'S' (Isa. 27:8)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2722" publication-type="other">
+RPP (Job
+26:11)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2731" publication-type="other">
+SWH (Gen. 24:63)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2738a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d85e2745" publication-type="other">
+hapax legomena SMN</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2751" publication-type="other">
+Isa. 28:25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2757" publication-type="other">
+PNQ (Prov. 29:21)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2764" publication-type="other">
+SS, pp. 149
+and 155</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2773" publication-type="other">
+n. 27</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2779" publication-type="other">
+KUL (Ezek. 23:40)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2785" publication-type="other">
+PShH (Lam. 3:11)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2791" publication-type="other">
+MSh (p. 81)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2797" publication-type="other">
+bakhlili (Gen. 49:12)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2804" publication-type="other">
+Jacob ben Reuben (to Lam. 3:11)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2811a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d85e2818" publication-type="book">
+Nehemiah Allony, "Hashqafot qara'iyyot," p. 53<person-group>
+                     <string-name>
+                        <surname>Allony</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>53</fpage>
+                  <source>Hashqafot qara'iyyot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2839" publication-type="other">
+David Qimbi's comment (to Ezek. 2:20)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2845" publication-type="other">
+TBY that 'ein la-millah ha-zot haver le-fi
+ha-'inyan. Similar criteria must have governed his identification of demeseq (Amos 3:12)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2855" publication-type="other">
+'BT (Joel 2:7)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2861" publication-type="other">
+GPR, URK, TRP, 'SH, SRK (MM, s.v.
+GLB)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2870" publication-type="other">
+Gen. 35:16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2876" publication-type="other">
+na' (Exod. 12:9)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2882" publication-type="other">
+ShQ' (Num.
+11:2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2891" publication-type="other">
+'orbot (Isa. 25:11)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2898" publication-type="other">
+bul (Isa. 44:19)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2904" publication-type="other">
+shovel (Isa. 47:2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2910" publication-type="other">
+,elayal (Deut. 28:42</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2916" publication-type="other">
+Job 40:31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2922" publication-type="other">
+Isa. 18:1)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2928" publication-type="other">
+'aman (Cant. 7:2)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2935a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d85e2942" publication-type="other">
+'RGZ,
+ZBD, PSL, QRM, SD YM, ShTY, and ShTM</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2951" publication-type="other">
+ZBD (Gen.
+30:20)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2960" publication-type="other">
+QR Y (Lev. 26:21)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2967" publication-type="other">
+TT' (Isa. 14:23)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2973" publication-type="other">
+GLSh (Cant. 4:1)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e2979" publication-type="other">
+S'N (Isa. 9:4)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e2986a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d85e2993" publication-type="other">
+Ibn Ezra (to Lev. 19:19)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e3000a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d85e3007" publication-type="other">
+'TNN, BG,
+GLM, ZRM, ULMWT, lLMYSh, PDR, $NU, RBK, and RGSh</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e3016" publication-type="other">
+MM, s.v. GLB</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e3022" publication-type="other">
+QSh, pp. 37 and
+50</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e3033a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d85e3040" publication-type="other">
+Harold Cohen, "Biblical Hapax Legomena in Light of Akkadian and Ugaritic" (Ph.D.
+diss., Columbia University, 1975), p. 21.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e3050a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d85e3057" publication-type="other">
+SS, p. 154</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e3063" publication-type="other">
+TPL and pp. 168-69 for 'SM</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e3070a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d85e3077" publication-type="other">
+Job 21:32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d85e3083" publication-type="other">
+Ibn Ezra and David Qimbi in notes 37 and 43-45</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

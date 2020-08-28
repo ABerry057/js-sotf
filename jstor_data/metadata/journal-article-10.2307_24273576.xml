@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">38</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i24273484</issue-id>
+         <article-id pub-id-type="jstor">24273576</article-id>
+         <title-group>
+            <article-title>Renaissance in the Graveyard: The Hebrew Tombstones of Padua and Ashkenazic Acculturation in Sixteenth-Century Italy – CORRIGENDUM</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>David</given-names>
+                  <surname>Malkiel</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2014</year>
+         </pub-date>
+         <fpage>201</fpage>
+         <lpage>201</lpage>
+         <permissions>
+            <copyright-statement>© Association for Jewish Studies 2014</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/24273576"/>
+      
+      
+         <abstract>
+            <p>The acculturation of Ashkenazic Jews in Italy is the focus of the present discussion. By 1500 Jews had been living in Padua for centuries, but their cemeteries were destroyed in 1509. Four cemeteries remained with over 1200 inscriptions between 1530—1860. The literary features of the inscriptions indicate a shift from a preference for epitaphs written in prose, like those of medieval Germany, to epitaphs in the form of Italian Jewry's occasional poetry. The art and architecture of the tombstones are part and parcel of the Renaissance ambient, with the portals and heraldry characteristic of Palladian edifices. The lettering, too, presents a shift from the constituency's medieval Ashkenazic origins to its Italian setting. These developments are situated in the broader context of Italian Jewish art and architecture, while the literary innovations are shown to reflect the revival of the epigram among poets of the Italian Renaissance.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

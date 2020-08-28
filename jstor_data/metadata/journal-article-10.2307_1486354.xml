@@ -1,0 +1,3635 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486354</article-id>
+         <title-group>
+            <article-title>Left Contained in the Right: A Study in Zoharic Hermeneutics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Elliot</given-names>
+                  <surname>Wolfson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1986</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i265519</issue-id>
+         <fpage>27</fpage>
+         <lpage>52</lpage>
+         <page-range>27-52</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1986 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486354"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d43e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d43e121" publication-type="book">
+G. Scholem, Major Trends in Jewish Mysticism, 3rd ed. (New York, 1961), pp.
+156-243<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>3</edition>
+                  <fpage>156</fpage>
+                  <source>Major Trends in Jewish Mysticism</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e152" publication-type="book">
+idem, Kabbalah (Jerusalem, 1974), pp. 213-244. Isaiah Tishby, Mishnat ha-Zohar, 2
+vols. [Hebrew] (Jerusalem, 1971)<comment content-type="section">Kabbalah</comment>
+                  <fpage>213</fpage>
+                  <volume>2</volume>
+                  <source>Isaiah Tishby, Mishnat ha-Zohar</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e177" publication-type="book">
+Daniel Matt, Zohar.: The
+Book of Enlightenment (Ramsey, N.J., 1983), esp. pp. 3-39<person-group>
+                     <string-name>
+                        <surname>Zohar</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>The Book of Enlightenment</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e206a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d43e213" publication-type="book">
+Yehuda Liebes, "The Messiah of the Zohar" [Hebrew], in The Messianic
+Idea in Jewish Thought: A Study Conference in Honour of the Eightieth Birthday of Gershom
+Scholem (Jerusalem, 1982), pp. 87-236<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Messianic Idea in Jewish Thought: A Study Conference in Honour of the Eightieth Birthday of Gershom Scholem</comment>
+                  <fpage>87</fpage>
+                  <source>The Messiah of the Zohar" [Hebrew]</source>
+                  <year>1982</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e248a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d43e255" publication-type="book">
+Scholem,
+Major Trends, pp. 159-163<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>159</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e279" publication-type="book">
+idem, Kabbalah, pp. 214-220<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>214</fpage>
+                  <source>Kabbalah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e300" publication-type="book">
+Sefer ha-Zohar, ed. Reuven Margaliot, 3 vols., 6th ed. (Jerusalem,
+1984)<person-group>
+                     <string-name>
+                        <surname>Margaliot</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>6</edition>
+                  <volume>3</volume>
+                  <source>Sefer ha-Zohar</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e329" publication-type="book">
+Zohar Hadash are from the
+Margaliot ed., 2nd ed. (Jerusalem, 1978)<source>Zohar Hadash are from the Margaliot</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e345a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d43e352" publication-type="book">
+Scholem, "Kabbalot R. Ya'akov ve-R. Yigbak ha-Kohen," Madda'ei ha- Yahadut 2
+(1927): 193-197<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Kabbalot R. Ya'akov ve-R. Yigbak ha-Kohen</comment>
+                  <fpage>193</fpage>
+                  <volume>2</volume>
+                  <source>Madda'ei ha- Yahadut</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e386" publication-type="book">
+Liebes, "The Messiah," pp. 124-128<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>124</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e409a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d43e416" publication-type="other">
+Scholem, "Kabbalot R. Ya'akov ve-R. Yigbak"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e422" publication-type="journal">
+J. Dan, "Samael, Lilith, and the
+Concept of Evil in Early Kabbalah," AJS Review 5 (1980): 17-41<object-id pub-id-type="jstor">10.2307/1486451</object-id>
+                  <fpage>17</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e438a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d43e445" publication-type="book">
+Gen. R. 9:2, ed. Theodor-Albeck, p. 68<person-group>
+                     <string-name>
+                        <surname>Gen</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>9</volume>
+                  <source>Theodor-Albeck</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e466" publication-type="book">
+Scholem, "Kabbalot," pp. 194,
+248-251<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e490" publication-type="journal">
+Scholem, "R. Moshe, Talmid R. Yiéhak," Le-Heker
+Kabbalat R. Yi;zbak b. Ya'akov ha-Kohen, in Tarbiz 4 (1933): 207-225<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>207</fpage>
+                  <volume>4</volume>
+                  <source>Le-Heker Kabbalat R. Yi;zbak b. Ya'akov ha-Kohen, in Tarbiz</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e522a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d43e529" publication-type="other">
+Scholem, "R. Moshe," p. 209.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e535" publication-type="book">
+Todros Abulafia, Ozar ha-Kavod (Warsaw, 1879;
+reprint, Jerusalem, 1970), 3a<source>Ozar ha-Kavod</source>
+                  <year>1879</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e550" publication-type="other">
+ibid., 23b, concerning the "worlds created and destroyed"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e557" publication-type="other">
+n. 6 and below n. 22</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e564a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d43e571" publication-type="book">
+Scholem, "Kabbalot," pp. 193-194.<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>193</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e592" publication-type="book">
+Shulamit Shahar, "Catharism and the
+Beginnings of the Kabbalah in Languedoc: Elements Common to Catharic Scriptures and the
+Book Bahir" [Hebrew], Tarbiz 40 (1971), esp. p. 502, and p. viii<person-group>
+                     <string-name>
+                        <surname>Shahar</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Catharism and the Beginnings of the Kabbalah in Languedoc: Elements Common to Catharic Scriptures and the Book Bahir</comment>
+                  <fpage>502</fpage>
+                  <volume>40</volume>
+                  <source>Tarbiz</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e629" publication-type="other">
+n. 9</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e636a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d43e643" publication-type="journal">
+Tishby, MhZ, 1:292, 295-298<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>292</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e667" publication-type="other">
+below n. 12</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e674a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d43e681" publication-type="book">
+Scholem, "Kabbalot," p. 194<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e702" publication-type="other">
+idem, "R. Moshe," p.
+210</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e711" publication-type="book">
+Scholem, "Sitra Alira: ha-Tov ve-ha-Ra ba-Kabbalah," in Pirkei Yesod
+be-Havanat ha-Kabbalah u-Semaleha (Jerusalem, 1976), pp. 191-193<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sitra Alira: ha-Tov ve-ha-Ra ba-Kabbalah</comment>
+                  <fpage>191</fpage>
+                  <source>Pirkei Yesodbe-Havanat ha-Kabbalah u-Semaleha</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e743" publication-type="other">
+pp. 193 ff.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e749" publication-type="journal">
+Tishby, MhZ, 1:298<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>298</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e775a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d43e782" publication-type="journal">
+Tishby, MhZ, 1:288-292<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>288</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e807a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d43e814" publication-type="journal">
+Ibid. 1:288-289.<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>288</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e838" publication-type="other">
+Tishby (p. 292)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e844" publication-type="other">
+II, 148b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e851" publication-type="other">
+above n. 9</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e858a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d43e867" publication-type="other">
+III, 41b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e873" publication-type="other">
+II, 223b-224a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e880" publication-type="other">
+III, 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e886" publication-type="other">
+I,
+194a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e895" publication-type="other">
+above n. 6.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e901" publication-type="other">
+I, 95b, 167a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e907" publication-type="other">
+II, 21b, 35b, 39b, 64b, 85b, 94b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e913" publication-type="other">
+III, 14b, 48b, 69a, 95b, 11 b, 119b, 208b, 209b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e920" publication-type="other">
+I, 133b, 177a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e926" publication-type="journal">
+remark of Tishby, MhZ, 1:288, n. 4, 194a<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>4</issue>
+                  <fpage>288</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e954" publication-type="other">
+II, 244b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e960" publication-type="other">
+I, 167a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e966" publication-type="other">
+II, 30b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e972" publication-type="other">
+III, 41b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e979" publication-type="other">
+I, 191b, 204b, 228a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e985" publication-type="other">
+II, 69a,
+and elsewhere</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e995a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d43e1002" publication-type="other">
+I, 53a, 160a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1008" publication-type="other">
+II, 192b, 194b, 243a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1014" publication-type="other">
+III, 63a, 207a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1021" publication-type="other">
+I, 195b; 211b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1027" publication-type="other">
+III, 259b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1033" publication-type="journal">
+Tishby, MhZ,
+1:289, n. 2<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>2</issue>
+                  <fpage>289</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1065a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d43e1072" publication-type="book">
+I, 148a (Sitrei Torah), 161b (Sitrei Torah)<comment content-type="section">Sitrei Torah</comment>
+                  <fpage>148</fpage>
+                  <volume>I</volume>
+                  <source>Sitrei Torah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1090" publication-type="other">
+I, 5a, 64a, 153a, 160b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1096" publication-type="other">
+II, 163b, 236b,
+243a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1106" publication-type="journal">
+Tishby, MhZ, 1:298-300<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>298</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1130" publication-type="book">
+Scholem, "Kabbalot," pp. 251-252, 260, 262<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>251</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1151" publication-type="book">
+Dan, "Samael, Lilith, and the
+Concept of Evil in Early Kabbalah," pp. 17-40<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>17</fpage>
+                  <source>Samael, Lilith, and the Concept of Evil in Early Kabbalah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1175" publication-type="other">
+pp.
+18-19.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1184" publication-type="other">
+below n. 44</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1191a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d43e1198" publication-type="other">
+II, 38a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1204" publication-type="other">
+also I, 166b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1210" publication-type="other">
+II, 40b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1217" publication-type="other">
+below n. 41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1223" publication-type="other">
+Yehuda Liebes, "Sections of the Zohar Lexicon" [Hebrew] (Ph.D. diss., Hebrew University,
+1976), s.v. nvwp, n. 2, pp. 394-395, n. 20, p. 400</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1232" publication-type="journal">
+idem, "Christian
+Influences in the Zohar" [Hebrew], Jerusalem Studies in Jewish Thought 2, no. 1 (1982/83):
+43-74<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <fpage>43</fpage>
+                  <source>Jerusalem Studies in Jewish Thought 2</source>
+                  <year>1982</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1266" publication-type="book">
+idem, "The Messiah," pp. 130-131, n. 182<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>130</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1289a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d43e1296" publication-type="other">
+I, 211b; II, 244a, 263a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1303a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d43e1310" publication-type="other">
+I, 99b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1316" publication-type="other">
+ibid., 125b, 161a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1322" publication-type="other">
+III, 112b, 145a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1329" publication-type="book">
+Sifrei Devarim 34:10, ed. Finkelstein, p. 430<person-group>
+                     <string-name>
+                        <surname>Finkelstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>430</fpage>
+                  <source>Sifrei Devarim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1350" publication-type="book">
+Louis Ginzberg, The Legends of the Jews (Philadelphia, 1968), 6:125, n.
+727<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>125</fpage>
+                  <volume>6</volume>
+                  <source>The Legends of the Jews</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1381" publication-type="other">
+II, 21b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1387" publication-type="book">
+Moses de Leén, Shekel ha-Kodesh,
+ed. Greenup (1911), pp. 16-18<person-group>
+                     <string-name>
+                        <surname>Greenup</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Moses de Leén, Shekel ha-Kodesh</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1415" publication-type="other">
+ZH, 58b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1421" publication-type="other">
+III, 193b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1428" publication-type="other">
+ZH, 66a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1434" publication-type="other">
+I, 125b, 126a,
+166b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1443" publication-type="other">
+III, 112b, 194a, 207b, 212a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1449" publication-type="book">
+Ginzberg, Legends, index, s.v. "Balaam, the magical powers of." More-
+over, according to earlier sources, Balaam was considered to be the chief magician of Pharaoh;
+see Sotah Ila<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Balaam, the magical powers of</comment>
+                  <source>Moreover, according to earlier sources, Balaam was considered to be the chief magician of Pharaoh</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1477" publication-type="book">
+Ginzberg, Legends, 2:334-335<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>334</fpage>
+                  <volume>2</volume>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1501" publication-type="other">
+II, 69a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1508" publication-type="other">
+below, n. 41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1514" publication-type="other">
+Avot 1:13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1520" publication-type="book">
+Scholem, Major Trends, p. 358, n. 17<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>358</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1541" publication-type="book">
+idem, Jewish Gnosticism,
+Merkabah Mysticism, and Talmudic Tradition, 2nd ed. (New York, 1965), p. 54, n. 36<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>54</fpage>
+                  <source>Jewish Gnosticism, Merkabah Mysticism, and Talmudic Tradition</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1572" publication-type="other">
+I, 99b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1578" publication-type="other">
+Eccles.
+R. 8:23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1588" publication-type="book">
+Saul
+Lieberman, Greek in Jewish Palestine (New York, 1965), p. 98<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>98</fpage>
+                  <source>Greek in Jewish Palestine</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1616" publication-type="other">
+I, 126a, 133b,
+223a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1625" publication-type="journal">
+Tishby, MhZ, 2:11<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11</fpage>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1649" publication-type="journal">
+ibid., p. 435<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1670" publication-type="book">
+Scholem, Reshit ha-Kabbalah
+(Tel Aviv, 1948), pp. 143-144<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>143</fpage>
+                  <source>Reshit ha-Kabbalah</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1698" publication-type="book">
+Liebes, "The Messiah," p. 180, n. 319<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>180</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1720a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d43e1727" publication-type="other">
+II, 254b-255a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1733" publication-type="other">
+III, 292b (Idra Zuta)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1739" publication-type="journal">
+Tishby, MhZ, 1:150-151, 296<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>150</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1764" publication-type="book">
+Ephraim Gottlieb, Mehkarim be-Sifrut ha-Kabbalah (Tel Aviv,
+1976), pp. 178-182<person-group>
+                     <string-name>
+                        <surname>Gottlieb</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>178</fpage>
+                  <source>Mehkarim be-Sifrut ha-Kabbalah</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1792" publication-type="book">
+Liebes, "Sections of the Zohar Lexicon," p. 147<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>147</fpage>
+                  <source>Sections of the Zohar Lexicon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1813" publication-type="journal">
+Moshe Idel, "Ha-
+Mabshavah ha-Ra'ah shel ha-El," Tarbiz 49 (1980): 356-364<person-group>
+                     <string-name>
+                        <surname>Idel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>356</fpage>
+                  <volume>49</volume>
+                  <source>Tarbiz</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1845a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d43e1852" publication-type="book">
+II, 176b (Sifra di-Zeni'uta)<fpage>176</fpage>
+                  <volume>II</volume>
+                  <source>Sifra di-Zeni'uta</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1867" publication-type="other">
+III, 128b (Idra Rabba), 135a, 142a, 292a (Idra Zuta)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1873" publication-type="other">
+Gen. 36:31 ff</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1880" publication-type="journal">
+Tishby, MhZ, 1:138, 150<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>138</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1904" publication-type="book">
+Liebes, "The Messiah," pp. 219-221<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>219</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1925" publication-type="other">
+Gen. R. 12:15</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1932a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d43e1939" publication-type="other">
+II, 34b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1945" publication-type="other">
+above
+n. 6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1954" publication-type="book">
+Scholem, "Kabbalot," pp. 194-195<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e1976a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d43e1983" publication-type="other">
+I, 31a, 151a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1989" publication-type="other">
+II, 64a, 83a, 175b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e1995" publication-type="other">
+III, 15b, 39b, 65a, 99a, 118b, 262b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2002" publication-type="book">
+Joseph
+Gikatilla, Sha'arei Orah, ed. Joseph Ben-Shlomo (Jerusalem, 1981), 1:235<person-group>
+                     <string-name>
+                        <surname>Gikatilla</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>235</fpage>
+                  <volume>1</volume>
+                  <source>Sha'arei Orah</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2035a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d43e2042" publication-type="book">
+Scholem, "Kabbalot," p. 194<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2063" publication-type="book">
+idem, "Sitra Alira," p. 200<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>200</fpage>
+                  <source>Sitra Alira</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2084" publication-type="journal">
+Tishby, MhZ,
+1:296-298<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>296</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2113a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d43e2120" publication-type="other">
+I, 16a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2126" publication-type="other">
+II, 149b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2132" publication-type="other">
+III, 148a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2139" publication-type="other">
+above n. 10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2146a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d43e2153" publication-type="other">
+I, 17a-b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2159" publication-type="book">
+Scholem, Pirkei Yesod, pp. 202-204<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>202</fpage>
+                  <source>Pirkei Yesod</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2181a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d43e2188" publication-type="other">
+n. 12</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2195a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d43e2202" publication-type="other">
+n. 31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2208" publication-type="journal">
+Tishby, MhZ, 1: p<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2230a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d43e2237" publication-type="journal">
+ibid.
+8:18-19<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2261" publication-type="book">
+M. Noth, Exodus: A Commentary,
+trans. J. S. Bowden (Philadelphia, 1962), pp. 71-72<person-group>
+                     <string-name>
+                        <surname>Noth</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>71</fpage>
+                  <source>Exodus: A Commentary</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2289" publication-type="book">
+Sanhedrin 67b, Exod. R.
+10:7, Tanhuma, Va-Era 14<person-group>
+                     <string-name>
+                        <surname>Sanhedrin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <source>Tanhuma, Va-Era</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2314" publication-type="book">
+Ginzberg, Legends, 2:335, 352<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>335</fpage>
+                  <volume>2</volume>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2338" publication-type="other">
+5:429, n. 185</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2346a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d43e2353" publication-type="book">
+Kiddushin 49b.<fpage>49</fpage>
+                  <source>Kiddushin</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2365" publication-type="book">
+Menakot 85a, Exod. R. 9:6<fpage>85</fpage>
+                  <source>Menakot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2377" publication-type="book">
+Ginzberg, Legends, index, s.v. "Egyptians, masters of astrology and
+magic."<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Egyptians, masters of astrology and magic</comment>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2402a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d43e2409" publication-type="other">
+I, 81b, 83a, 249a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2415" publication-type="other">
+II, 30b, 35b, 38a, 191a, 192b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2421" publication-type="other">
+III, 50b, 69a, 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2428" publication-type="other">
+below
+nn. 35-45</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2438a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d43e2445" publication-type="other">
+I, 167a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2451" publication-type="other">
+II, 30b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2457" publication-type="other">
+III, 41b, 70a, 192a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2464" publication-type="other">
+above n. 14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2470" publication-type="other">
+ZH, 92b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2476" publication-type="other">
+I, 126a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2483a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d43e2490" publication-type="other">
+III, 41b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2496" publication-type="other">
+II, 223b-224a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2503a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d43e2510" publication-type="other">
+I, 125b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2516" publication-type="other">
+II, 215b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2522" publication-type="book">
+Pirkei de-Rabbi Eliezer, chap. 13<comment content-type="section">chap. 13</comment>
+                  <source>Pirkei de-Rabbi Eliezer</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2535" publication-type="journal">
+Tishby, MhZ, 1:304-305<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>304</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2560a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d43e2567" publication-type="book">
+I, 83a (trans. by D. Matt, Zohar, p. 63).<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>63</fpage>
+                  <volume>I</volume>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2591" publication-type="book">
+ibid., 133b<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>63</fpage>
+                  <volume>I</volume>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2615" publication-type="book">
+ibid., 223a<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>63</fpage>
+                  <volume>I</volume>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2640" publication-type="other">
+below n. 45</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2648a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d43e2655" publication-type="book">
+Matt, Zohar, p. 220<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>220</fpage>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2676" publication-type="other">
+I, 83a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2682" publication-type="other">
+II, 184a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2689" publication-type="other">
+n. 45</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2696a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d43e2703" publication-type="other">
+III, 207a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2710a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d43e2717" publication-type="other">
+Ibid., 70a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2724a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d43e2731" publication-type="other">
+II, 35b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2737" publication-type="other">
+ibid., 38a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2743" publication-type="other">
+III, 50b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2750a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d43e2757" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2763" publication-type="other">
+ibid., 41a, 80b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2770a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d43e2777" publication-type="other">
+II, 25a, 38a, 52b, 69a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2783" publication-type="other">
+III, 212a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2789" publication-type="book">
+Ginzberg, Legends, 6:27, n. 156<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>27</fpage>
+                  <volume>6</volume>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2814" publication-type="book">
+Liebes, "Sections of the Zohar Lexicon," p.
+397<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>397</fpage>
+                  <source>Sections of the Zohar Lexicon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2838" publication-type="other">
+Michael
+Fishbane, "Studies in Biblical Magic: Origins, Uses and Transformations of Terminology and
+Literary Form" (Ph.D. diss., Brandeis University, 1971), chaps. 1 and 2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2852a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d43e2859" publication-type="other">
+I, 195a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2865" publication-type="other">
+II, 28a, 37b, 52b, 67b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2871" publication-type="book">
+Moed Katan 18a<fpage>18</fpage>
+                  <source>Moed Katan</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2884" publication-type="book">
+Shabbat 75a<fpage>75</fpage>
+                  <source>Shabbat</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2896" publication-type="book">
+Targum Pseudo-Jonathan, Exod. 7:15<fpage>15</fpage>
+                  <volume>7</volume>
+                  <source>Targum Pseudo-Jonathan</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2911" publication-type="book">
+Ginzberg, Legends, 2:335, 352, 358<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>335</fpage>
+                  <volume>2</volume>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2935" publication-type="other">
+3:13; 5:428, n. 175</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e2942a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d43e2949" publication-type="book">
+Ezek. 19:3<fpage>3</fpage>
+                  <volume>19</volume>
+                  <source>Ezek</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2964" publication-type="book">
+Mekilta de-Rabbi Ishmael,
+trans. J. Lauterbach (Philadelphia, 1976), vol. 2, p. 175<person-group>
+                     <string-name>
+                        <surname>Lauterbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>175</fpage>
+                  <volume>2</volume>
+                  <source>Mekilta de-Rabbi Ishmael</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e2995" publication-type="book">
+Exod. R. 9:4<fpage>4</fpage>
+                  <volume>9</volume>
+                  <source>Exod</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3011" publication-type="book">
+Ginzberg, Legends,
+3:66, 6:27, n. 156<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>66</fpage>
+                  <volume>3</volume>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3040a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d43e3047" publication-type="other">
+II, 34a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3053" publication-type="book">
+Bava Batra 74b
+based on Isaiah 27:1<fpage>74</fpage>
+                  <volume>1</volume>
+                  <source>Bava Batra</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3071" publication-type="book">
+Ginzberg, Legends, index, s.v. "Leviathan."<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Leviathan</comment>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3093" publication-type="book">
+Scholem, "Kabbalot," pp. 262-263<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>262</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3114" publication-type="book">
+Dan,
+"Samael, Lilith, and the Concept of Evil," pp. 38-39<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>38</fpage>
+                  <source>Samael, Lilith, and the Concept of Evil</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3138" publication-type="other">
+above n. 15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3144" publication-type="other">
+ibid., 34b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3150" publication-type="journal">
+Tishby, MhZ, 1:303<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>303</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3174" publication-type="other">
+I, 52a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3181" publication-type="book">
+Scholem, "Kabbalot," p. 195<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>195</fpage>
+                  <source>Kabbalot</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3203a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d43e3210" publication-type="other">
+II, 34a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3217a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d43e3226" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3232" publication-type="book">
+Liebes, "The Messiah," pp. 123-124<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>123</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3254" publication-type="book">
+Pirkei de-Rabbi Eliezer, chap. 9<comment content-type="section">chap. 9</comment>
+                  <source>Pirkei de-Rabbi Eliezer</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3266" publication-type="other">
+II, 34b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3272" publication-type="book">
+Liebes, "The Messiah," pp. 123-126<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>123</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3293" publication-type="other">
+above n. 35</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3299" publication-type="other">
+below n. 111</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3305" publication-type="other">
+Job 1:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3312" publication-type="book">
+Sitra Ahra. See II, 181b-182a; III, 101b<fpage>101</fpage>
+                  <volume>II</volume>
+                  <source>Sitra Ahra</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3327" publication-type="journal">
+Tishby, MhZ,
+1:291<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>291</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3355" publication-type="other">
+above n. 34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3361" publication-type="book">
+Liebes, "The Messiah," p. 126<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>126</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3382" publication-type="other">
+II, 128a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3388" publication-type="other">
+III, 19a, 77a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3395" publication-type="other">
+III, 233a-b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3401" publication-type="other">
+I Kings 9:18:
+"Tadmor"</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3411a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d43e3418" publication-type="journal">
+Tishby, MhZ, 1:224-225, 230-231.<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>224</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3442" publication-type="other">
+n. 48</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3450a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d43e3457" publication-type="journal">
+Tishby, MhZ, 1:225, 229-230<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>225</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3481" publication-type="book">
+Liebes, "The Messiah," p. 198<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>198</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3503a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d43e3510" publication-type="other">
+n. 46</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3516" publication-type="other">
+I, 84b-85a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3522" publication-type="other">
+I, 95b; II, 152b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3529a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d43e3536" publication-type="other">
+I,
+30a, 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3545" publication-type="other">
+n. 81</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3552a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d43e3559" publication-type="other">
+I, 21lb.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3565" publication-type="other">
+ibid., 201a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3571" publication-type="other">
+II, 29a, 36a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3578" publication-type="book">
+Menahem Recanati, Perush 'al ha-Torah
+(Jerusalem, 1961), Exod. 12:22, 41c-d<person-group>
+                     <string-name>
+                        <surname>Recanati</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>22</fpage>
+                  <volume>12</volume>
+                  <source>Perush 'al ha-Torah</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3609" publication-type="journal">
+Tishby, MhZ, 1:224-225<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>224</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3634a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d43e3641" publication-type="other">
+II, 36b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3648a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d43e3655" publication-type="other">
+I, 261a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3661" publication-type="other">
+II, 187a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3669a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d43e3676" publication-type="other">
+II, 231b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3682" publication-type="book">
+Shekel ha-Kodesh, pp. 80-83<fpage>80</fpage>
+                  <source>Shekel ha-Kodesh</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3694" publication-type="book">
+Tishby, Perush Aggadot le-R. 'Azriel
+(Jerusalem, 1945), p. 56<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>56</fpage>
+                  <source>Perush Aggadot le-R. 'Azriel</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3723a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d43e3732" publication-type="other">
+II, 37b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3738" publication-type="other">
+Gen. R.
+51:3, Exod R. 12:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3748" publication-type="other">
+ibid., 37a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3754" publication-type="other">
+III, 176a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3760" publication-type="book">
+Moses de Leén, Shushan Edut, ed.
+Scholem, "Shenei Kuntrasim le-R. Moshe di-Li'on," Kove; 'al Yad, n.s. 8 (1975): 344<person-group>
+                     <string-name>
+                        <surname>Leon</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Shushan Edut</comment>
+                  <fpage>344</fpage>
+                  <volume>8</volume>
+                  <source>Kove; 'al Yad</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3794" publication-type="other">
+Gen. R. 19:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3800" publication-type="other">
+fIagigah 14b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3806" publication-type="book">
+Scholem, "Te'udah Hadashah, le-Toledot Reshit ha-Kabbalah," in Sefer
+Bialik [Tel Aviv, 1934], p. 153<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Te'udah Hadashah, le-Toledot Reshit ha-Kabbalah</comment>
+                  <fpage>153</fpage>
+                  <source>Sefer Bialik</source>
+                  <year>1934</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3838" publication-type="journal">
+Tishby, MhZ, 1:221.<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>221</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3862" publication-type="book">
+Nabmanides, Commentary on the
+Torah, Exod. 12:12 (ed. Chavel, vol. 1, p. 329)<person-group>
+                     <string-name>
+                        <surname>Nabmanides</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>329</fpage>
+                  <volume>1</volume>
+                  <source>Commentary on the Torah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3890" publication-type="book">
+Nabmanides:
+Shem Tov ibn Gaon, Keter Shem Tov, in Ma'or ve-Shemesh (Livorno, 1839), 34a<fpage>34</fpage>
+                  <source>Nabmanides: Shem Tov ibn Gaon, Keter Shem Tov, in Ma'or ve-Shemesh</source>
+                  <year>1839</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3908" publication-type="book">
+Isaac b.
+Samuel of Acre, Sefer Me'irat Einayim: A Critical Edition, ed. Amos Goldreich (Jerusalem,
+1981), p. 79<person-group>
+                     <string-name>
+                        <surname>Samuel of Acre</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>79</fpage>
+                  <source>Sefer Me'irat Einayim: A Critical Edition</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3940a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d43e3947" publication-type="other">
+I, 16b, 92b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3953" publication-type="other">
+II, 239b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3959" publication-type="book">
+Moses de Leén, Shushan Edut, p. 341<person-group>
+                     <string-name>
+                        <surname>Leon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>341</fpage>
+                  <source>Shushan Edut</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e3981a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d43e3988" publication-type="other">
+II, 38a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e3994" publication-type="book">
+Recanati, Perush 'al ha-Torah, Exod. 11:4, 41a<person-group>
+                     <string-name>
+                        <surname>Recanati</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <volume>11</volume>
+                  <source>Perush 'al ha-Torah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4019a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d43e4026" publication-type="other">
+II, 38a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4032" publication-type="other">
+Moses de Leén, Sefer ha-Rimmon, MS Oxford 1607, 54b (a critical edition
+of the aforementioned work will appear as part of my dissertation)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4042a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d43e4049" publication-type="journal">
+Tishby, MhZ, 1:223-228<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>223</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4073" publication-type="book">
+Nabmanides, Genesis 49:24 (ed. Chavel, vol. 1, p. 273), and Me'irat Einayim, p. 83<person-group>
+                     <string-name>
+                        <surname>Nabmanides</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>83</fpage>
+                  <volume>1</volume>
+                  <source>Me'irat Einayim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4097" publication-type="other">
+II, 36a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4104" publication-type="other">
+III, 15a, 36b, 146a, 262b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4110" publication-type="book">
+Jacob ben Sheshet, Sefer ha-Emunah
+ve-ha-Bittabon, in Kitvei Ramban, ed. Chavel (Jerusalem, 1964), vol. 2, p. 359<person-group>
+                     <string-name>
+                        <surname>Sheshet</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>359</fpage>
+                  <volume>2</volume>
+                  <source>Sefer ha-Emunah ve-ha-Bittabon, in Kitvei Ramban</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4141" publication-type="book">
+Sefer
+ha-Rimmon, 71a<fpage>71</fpage>
+                  <source>Sefer ha-Rimmon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4156" publication-type="book">
+Gikatilla, Sha'arei Orah, 1: 235<person-group>
+                     <string-name>
+                        <surname>Gikatilla</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>235</fpage>
+                  <volume>1</volume>
+                  <source>Sha'arei Orah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4182a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d43e4189" publication-type="other">
+II, 36a, 37a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4195" publication-type="other">
+II, 37b, 80b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4202a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d43e4209" publication-type="other">
+I, 226b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4215" publication-type="other">
+II, 40a, 182a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4221" publication-type="other">
+III, 95b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4228" publication-type="book">
+Sefer ha-Rimmon, MS Oxford 1607, 54a-b<fpage>54</fpage>
+                  <source>Sefer ha-Rimmon</source>
+                  <year>1607</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4243" publication-type="book">
+Philo, Questions on
+Exodus, 1:15, 11:14<person-group>
+                     <string-name>
+                        <surname>Philo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <volume>1</volume>
+                  <source>Questions on Exodus</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4271" publication-type="book">
+The Special Laws, 11:184<fpage>184</fpage>
+                  <volume>11</volume>
+                  <source>The Special Laws</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4286" publication-type="other">
+I Cor. 5:6-8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4292" publication-type="other">
+Matt. 16:11-12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4298" publication-type="book">
+Berakhot
+17a<fpage>17</fpage>
+                  <source>Berakhot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4314" publication-type="other">
+Gen. R. 34:10, p. 320</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4320" publication-type="book">
+Tanbuma, ed. Buber, Noab 15b<person-group>
+                     <string-name>
+                        <surname>Buber</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Tanbuma</comment>
+                  <fpage>15</fpage>
+                  <source>Noab</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4344" publication-type="book">
+B. Bokser, The Origins
+of the Seder (Berkeley, Calif., 1984), p. 120, n. 13<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>120</fpage>
+                  <source>The Origins of the Seder</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4373a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d43e4380" publication-type="other">
+II, 38b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4387a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d43e4394" publication-type="other">
+above n. 49</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4401a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d43e4408" publication-type="other">
+II, 38.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4414" publication-type="other">
+I, 260a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4420" publication-type="other">
+II, 131a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4427" publication-type="other">
+III, 22a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4434a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d43e4441" publication-type="other">
+above n. 54</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4449a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d43e4456" publication-type="other">
+Nahmanides, Exod. 13:21 (ed. Chavel, vol. 1, p. 348)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4463a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d43e4470" publication-type="book">
+Isaac of Acre, Me'irat Einayim, p. 81<person-group>
+                     <string-name>
+                        <surname>Isaac</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>81</fpage>
+                  <source>Me'irat Einayim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4491" publication-type="other">
+Recanati, Exod. 13:21, 43a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4498a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d43e4505" publication-type="other">
+Nabmanides, loc. cit.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4512a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d43e4519" publication-type="book">
+sefirot Hesed, Gevurah, and Rabamim<person-group>
+                     <string-name>
+                        <surname>Hesed</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Gevurah</comment>
+                  <source>Rabamim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4540" publication-type="other">
+I, 60b, 99a, 120b,
+150a, 237a, 248b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4549" publication-type="other">
+III, 174a, 182a, 262b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4556" publication-type="journal">
+Tishby, MhZ, 1:516<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>516</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4581a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d43e4588" publication-type="other">
+II, 46a-b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4594" publication-type="other">
+III, 191b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4601a1310">
+            <label>70</label>
+            <p>
+               <mixed-citation id="d43e4608" publication-type="other">
+I, 46a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4614" publication-type="other">
+ibid., 5b, 32a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4620" publication-type="other">
+III, 93b, 134b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4628a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d43e4635" publication-type="other">
+I, 17a, 253a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4642a1310">
+            <label>72</label>
+            <p>
+               <mixed-citation id="d43e4649" publication-type="other">
+II, 52b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4656a1310">
+            <label>73</label>
+            <p>
+               <mixed-citation id="d43e4663" publication-type="book">
+Nabmanides, Exod. 14:31 (ed. Chavel, vol. 1, p. 353)<fpage>353</fpage>
+                  <volume>1</volume>
+                  <source>Nabmanides</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4678" publication-type="book">
+Ibn Shuaib, Be'ur Sodot
+ha-Ramban, 13a<person-group>
+                     <string-name>
+                        <surname>Shuaib</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <source>Be'ur Sodot ha-Ramban</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4702" publication-type="book">
+Me'irat Einayim, p. 82<fpage>82</fpage>
+                  <source>Me'irat Einayim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4715" publication-type="book">
+Babya ben Asher, Perush 'al ha-Torah, ed. Chavel,
+5th ed. (Jerusalem, 1981), vol. 2, p. 121<person-group>
+                     <string-name>
+                        <surname>ben Asher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>121</fpage>
+                  <volume>2</volume>
+                  <source>Perush 'al ha-Torah</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4746" publication-type="book">
+Recanati, 43b<fpage>43</fpage>
+                  <source>Recanati</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4759a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d43e4766" publication-type="other">
+II, 53b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4772" publication-type="other">
+R. Moses Cordovero and R. Abraham Galante to the
+Zohar, ad loc.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4781" publication-type="book">
+Abraham Azulai, Or ha-Hammah (Benei-Berak, 1973), vol. 2,
+43b-44a<person-group>
+                     <string-name>
+                        <surname>Azulai</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <volume>2</volume>
+                  <source>Or ha-Hammah</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4813a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d43e4820" publication-type="other">
+II, 59b, 286b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4826" publication-type="other">
+III, 277a, 302a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4833a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d43e4840" publication-type="other">
+III, 142b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4846" publication-type="other">
+Sefer ha-Babir, ed. R.
+Margaliot (Jerusalem, 1978), $ 163 (Scholem, Das Buch Bahir, $ 109, p. 116)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4857a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d43e4864" publication-type="book">
+Sefer Ye;irah 1:3<fpage>3</fpage>
+                  <volume>1</volume>
+                  <source>Sefer Yeirah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4879" publication-type="book">
+Sefer
+ha-Babir, $ 124 (Scholem, $ 87, p. 94), $ 132 (Scholem, $ 94, p. 101)<fpage>94</fpage>
+                  <source>Sefer ha-Babir</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4894" publication-type="book">
+Nabmanides, Exod.
+17:12 (p. 372)<fpage>372</fpage>
+                  <source>Nabmanides</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4910" publication-type="other">
+II, 75b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4917a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d43e4924" publication-type="other">
+II, 56b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4931a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d43e4938" publication-type="other">
+I, 19b, 86a, 236b, 241a, 267b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4944" publication-type="other">
+II, 19b, 226a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4950" publication-type="other">
+III, 58a, 150b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e4957a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d43e4964" publication-type="book">
+Scholem, "Ha-Shekhinah," in Pirkei Yesod be-Havanat ha-Kabbalah
+u-Semaleha, p. 276<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Ha-Shekhinah</comment>
+                  <fpage>276</fpage>
+                  <source>Pirkei Yesod be-Havanat ha-Kabbalah u-Semaleha</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e4992" publication-type="journal">
+Tishby, MhZ, 1:219<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>219</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5016" publication-type="book">
+Tishby, Perush
+ha-Aggadot le-Rabbi 'Azriel, p. 15, n. 2<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Perush ha-Aggadot le-Rabbi</comment>
+                  <fpage>15</fpage>
+                  <source>Azriel</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5045a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d43e5052" publication-type="book">
+Ginzberg, Legends, 5:88-89, n. 42<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>88</fpage>
+                  <volume>5</volume>
+                  <source>Legends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5076" publication-type="other">
+I, 35a, 37b, 165a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5082" publication-type="other">
+II, 55a, 231a-b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5089" publication-type="other">
+III, 10b, 19a, 44b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5095" publication-type="other">
+ZH, 55c-d, 66c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5101" publication-type="book">
+Yevamot 63a<fpage>63</fpage>
+                  <source>Yevamot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5113" publication-type="other">
+I, 85a, 91b, 108a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5119" publication-type="other">
+II, 246a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5125" publication-type="other">
+III, 43a-b, 283b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5132" publication-type="journal">
+Tishby, MhZ,
+2:608<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>608</fpage>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5160" publication-type="other">
+III,
+7b, 57b, 296a, (Idra Zuta)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5169" publication-type="book">
+Liebes, "Sections of the Zohar Lexicon," pp. 277-278<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>277</fpage>
+                  <source>Sections of the Zohar Lexicon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5190" publication-type="book">
+Matt, Zohar,
+p. 217<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>217</fpage>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5214" publication-type="book">
+Perush ha-Aggadot
+le-Rabbi 'Azriel, p. 86<comment content-type="section">Perush ha-Aggadot le-Rabbi</comment>
+                  <fpage>86</fpage>
+                  <source>Azriel</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5232" publication-type="journal">
+idem, MhZ, 1:139, 148-149<fpage>139</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5248" publication-type="book">
+Liebes, "Sections of the Zohar
+Lexicon," p. 33, n. 26<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>33</fpage>
+                  <source>Sections of the Zohar Lexicon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5272" publication-type="book">
+idem, "The Messiah," p. 202<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>202</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5294a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d43e5301" publication-type="other">
+II, 57b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5307" publication-type="other">
+III, 37a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5315a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d43e5322" publication-type="other">
+II, 57a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5328" publication-type="book">
+Shekel ha-Kodesh, p. 39<fpage>39</fpage>
+                  <source>Shekel ha-Kodesh</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5340" publication-type="journal">
+Tishby, MhZ, 2:341<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>341</fpage>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5365" publication-type="other">
+I, 230b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5371" publication-type="other">
+II, 162b,
+223a, 263a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5380" publication-type="other">
+III, 17b, 80b, 118b, 176b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5386" publication-type="book">
+Mekilta de-Rabbi Ishmael, ed. Lauterbach, vol. 2, p.
+41<person-group>
+                     <string-name>
+                        <surname>Lauterbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <volume>2</volume>
+                  <source>Mekilta de-Rabbi Ishmael</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5415a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d43e5422" publication-type="other">
+II, 57a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5428" publication-type="book">
+Mekilta de-Rabbi Ishmael, ed. Lauterbach, vol. 2, p. 41<person-group>
+                     <string-name>
+                        <surname>Lauterbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <volume>2</volume>
+                  <source>Mekilta de-Rabbi Ishmael</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5452" publication-type="other">
+Lam. 2:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5459" publication-type="book">
+Judah Goldin, The Song at the Sea (New Haven: Yale University Press, 1971), p. 149<person-group>
+                     <string-name>
+                        <surname>Goldin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>149</fpage>
+                  <source>The Song at the Sea</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5484a1310">
+            <label>85</label>
+            <p>
+               <mixed-citation id="d43e5491" publication-type="book">
+Mekilta de-Rabbi Ishmael, vol. 2, p. 139<fpage>139</fpage>
+                  <volume>2</volume>
+                  <source>Mekilta de-Rabbi Ishmael</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5506" publication-type="book">
+Berakhot 5b<fpage>5</fpage>
+                  <source>Berakhot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5518" publication-type="book">
+Tanbuma, Beshallabh 25<person-group>
+                     <string-name>
+                        <surname>Tanbuma</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Beshallabh</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5540" publication-type="book">
+Pesikta de-Rav Kahana 13<fpage>13</fpage>
+                  <source>Pesikta de-Rav Kahana</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5553a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d43e5560" publication-type="other">
+II, 65b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5566" publication-type="book">
+See Rashi's commentary, Exod. 17:8<person-group>
+                     <string-name>
+                        <surname>Rashi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <volume>17</volume>
+                  <source>commentary</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5591a1310">
+            <label>87</label>
+            <p>
+               <mixed-citation id="d43e5598" publication-type="book">
+Ibid.<person-group>
+                     <string-name>
+                        <surname>Rashi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <volume>17</volume>
+                  <source>commentary</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5622" publication-type="other">
+I, 29a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5628" publication-type="other">
+II, 65a, 194b-195a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5635" publication-type="other">
+III, 175a, 281b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5642a1310">
+            <label>88</label>
+            <p>
+               <mixed-citation id="d43e5649" publication-type="other">
+II, 66a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5655" publication-type="book">
+Sefer ha-Bahir 138<fpage>138</fpage>
+                  <source>Sefer ha-Bahir</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5667" publication-type="other">
+II, 57a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5674" publication-type="book">
+Todros Abulafia, O;ar
+ha-Kavod, 29b<person-group>
+                     <string-name>
+                        <surname>Abulafia</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>29</fpage>
+                  <source>Ozar ha-Kavod</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5698" publication-type="other">
+below n. 111</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5704" publication-type="other">
+II, 26b, 32a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5710" publication-type="other">
+III, 39b, 178a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5716" publication-type="book">
+Menahem Kasher, Torah Shelemah, 14:121, n. 106<person-group>
+                     <string-name>
+                        <surname>Kasher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>121</fpage>
+                  <volume>14</volume>
+                  <source>Torah Shelemah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5740" publication-type="other">
+II, 57a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5747" publication-type="book">
+Moses de Leén's "Untitled
+Commentary on the Sefirot," MS Munich 47, 340a-b<person-group>
+                     <string-name>
+                        <surname>Leon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>340</fpage>
+                  <volume>47</volume>
+                  <source>Untitled Commentary on the Sefirot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5775" publication-type="book">
+Scholem,
+"Eine unbekannte mystische Schrift des Mose de Leon," Monatsschrift ftar Geschichte und
+Wissenschaft des Judentums 71 (1927): 109-123<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Eine unbekannte mystische Schrift des Mose de Leon</comment>
+                  <fpage>109</fpage>
+                  <volume>71</volume>
+                  <source>Monatsschrift ftar Geschichte und Wissenschaft des Judentums</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5812" publication-type="other">
+Ps. 100:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5818" publication-type="other">
+I, 229b, III, 8a-b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5824" publication-type="other">
+Moses de Leén, Sefer ha-Rimmon, MS Oxford 1607, 14b, 24b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5830" publication-type="other">
+Cant. 2:6 in I, 163b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5837" publication-type="other">
+II, 138b, 238b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5843" publication-type="other">
+III, 118b, 119b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5849" publication-type="book">
+Menahem Recanati, Ta'amei
+ha-Mi;vot [Basel, 1581], 8a), 148b<person-group>
+                     <string-name>
+                        <surname>Recanati</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ta'ameiha-Mivot</source>
+                  <year>1581</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5875a1310">
+            <label>89</label>
+            <p>
+               <mixed-citation id="d43e5882" publication-type="other">
+II, 66a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5888" publication-type="other">
+II, 65b, 194b; III, 281b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5895a1310">
+            <label>90</label>
+            <p>
+               <mixed-citation id="d43e5902" publication-type="other">
+Ibid., 67a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5908" publication-type="book">
+Sefer ha-Bahir 124<fpage>124</fpage>
+                  <source>Sefer ha-Bahir</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5920" publication-type="other">
+II, 57a, 225a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5927" publication-type="other">
+III, 92b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5933" publication-type="other">
+MS Munich 47, 340b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5939" publication-type="book">
+Sefer ha-Rimmon, Illb<fpage>Ill</fpage>
+                  <source>Sefer ha-Rimmon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5952a1310">
+            <label>91</label>
+            <p>
+               <mixed-citation id="d43e5959" publication-type="book">
+Ibid., 67b.<fpage>Ill</fpage>
+                  <source>Sefer ha-Rimmon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e5971" publication-type="journal">
+Tishby, MhZ, 1:288-289<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>288</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e5996a1310">
+            <label>92</label>
+            <p>
+               <mixed-citation id="d43e6003" publication-type="other">
+II, 184a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6009" publication-type="other">
+above in n. 35</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6016a1310">
+            <label>93</label>
+            <p>
+               <mixed-citation id="d43e6025" publication-type="other">
+II, 81a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6031" publication-type="other">
+I, 17a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6038" publication-type="other">
+I, 120a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6044" publication-type="other">
+below n.
+111</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6053" publication-type="other">
+below n. 101</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6060a1310">
+            <label>94</label>
+            <p>
+               <mixed-citation id="d43e6067" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6075a1310">
+            <label>95</label>
+            <p>
+               <mixed-citation id="d43e6082" publication-type="book">
+Talmud Yerushalmi, Shekalim 6:1, Sotah 8:3<person-group>
+                     <string-name>
+                        <surname>Yerushalmi</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Shekalim</comment>
+                  <fpage>8</fpage>
+                  <volume>6</volume>
+                  <source>Sotah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6110" publication-type="other">
+Cant. R. 5:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6116" publication-type="book">
+Tanbuma, introduc-
+tion<person-group>
+                     <string-name>
+                        <surname>Tanbuma</surname>
+                     </string-name>
+                  </person-group>
+                  <source>introduction</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6138" publication-type="book">
+Midrash Konen, in Adolph Jellinek, Bet
+ha-Midrash, 4th ed. (Jerusalem reprint, 1982), 2:23<person-group>
+                     <string-name>
+                        <surname>Konen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <volume>2</volume>
+                  <source>Bet ha-Midrash</source>
+                  <year>1982</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6169" publication-type="other">
+Midrash Eser ha-Dibrot, in Jellinek,
+op. cit., 1:62</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6178" publication-type="book">
+Scholem,
+"Shi'ur Komah-ha-Demut ha-Mistit shel ha-Elohut," in Pirkei Yesod be-Havanat ha-
+Kabbalah u-Semaleha, p. 164, n. 18<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Shi'ur Komah-ha-Demut ha-Mistit shel ha-Elohut</comment>
+                  <fpage>164</fpage>
+                  <source>Pirkei Yesod be-Havanat haKabbalah u-Semaleha</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6209" publication-type="journal">
+Moshe Idel, "Tefisat ha-Torah bi-Sifrut ha-Heikhalot vi-Gilguleha ba-Kabbalah," in Jerusa-
+lem Studies in Jewish Thought 1 (1981): 43-45<person-group>
+                     <string-name>
+                        <surname>Idel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <volume>1</volume>
+                  <source>Jerusalem Studies in Jewish Thought</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6241a1310">
+            <label>96</label>
+            <p>
+               <mixed-citation id="d43e6250" publication-type="other">
+II, 84a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6256" publication-type="book">
+Scholem, On the Kabbalah and Its Symbolism, trans. Ralph
+Manheim (New York, 1978), pp. 48-49<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>48</fpage>
+                  <source>On the Kabbalah and Its Symbolism Manheim</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6285" publication-type="book">
+Tishby, Perush ha-Aggadot
+le-Rabbi Azriel, p. 77, n. 7<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>77</fpage>
+                  <source>Perush ha-Aggadot le-Rabbi Azriel</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6309" publication-type="other">
+p. 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6315" publication-type="book">
+Scholem, On the Kabbalah and Its Symbolism, p. 38<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>38</fpage>
+                  <source>On the Kabbalah and Its Symbolism</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6336" publication-type="book">
+Idel, "Tefisat ha-Torah," p. 45<person-group>
+                     <string-name>
+                        <surname>Idel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>45</fpage>
+                  <source>Tefisat ha-Torah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6358a1310">
+            <label>97</label>
+            <p>
+               <mixed-citation id="d43e6365" publication-type="other">
+II, 84a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6371" publication-type="other">
+I, 48b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6378a1310">
+            <label>98</label>
+            <p>
+               <mixed-citation id="d43e6385" publication-type="other">
+II, 82a (based on Deut. 29:9-10).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6391" publication-type="other">
+MS Munich 47, 341a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6397" publication-type="journal">
+A. Farber, "On the Sources of Rabbi Moses de
+Leon's Early Kabbalistic System" [Hebrew], Jerusalem Studies in Jewish Thought 3 (1984):
+87-88<person-group>
+                     <string-name>
+                        <surname>Farber</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>87</fpage>
+                  <volume>3</volume>
+                  <source>Jerusalem Studies in Jewish Thought</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6432a1310">
+            <label>99</label>
+            <p>
+               <mixed-citation id="d43e6439" publication-type="other">
+II, 84b, 98.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6445" publication-type="other">
+II, 90a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6451" publication-type="book">
+Moses de Leén, Sefer ha-Rimmon, MS British Museum 759,
+41a<person-group>
+                     <string-name>
+                        <surname>Leon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>759</fpage>
+                  <source>Sefer ha-Rimmon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6476a1310">
+            <label>100</label>
+            <p>
+               <mixed-citation id="d43e6483" publication-type="other">
+I, 64a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6489" publication-type="other">
+II, 60a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6495" publication-type="book">
+Scholem, On the Kabbalah and Its Symbolism, p. 49<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>49</fpage>
+                  <source>On the Kabbalah and Its Symbolism</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6518a1310">
+            <label>101</label>
+            <p>
+               <mixed-citation id="d43e6525" publication-type="other">
+III, 153a, 257a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6532a1310">
+            <label>102</label>
+            <p>
+               <mixed-citation id="d43e6539" publication-type="other">
+II, 161b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6545" publication-type="other">
+III, 264a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6551" publication-type="journal">
+Tishby, MhZ, 2:366<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>366</fpage>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6576a1310">
+            <label>103</label>
+            <p>
+               <mixed-citation id="d43e6583" publication-type="other">
+I, 8a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6590a1310">
+            <label>104</label>
+            <p>
+               <mixed-citation id="d43e6597" publication-type="other">
+II, 70b, 91a, 162a-b, 165b, 275a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6603" publication-type="book">
+III, 92b (Ra'aya Meheimna), 264a<fpage>92</fpage>
+                  <volume>III</volume>
+                  <source>Ra'aya Meheimna</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6618" publication-type="other">
+ZH 54b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6625" publication-type="journal">
+Tishby, MhZ, 2:432<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>432</fpage>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6650a1310">
+            <label>105</label>
+            <p>
+               <mixed-citation id="d43e6659" publication-type="other">
+Shabbat 146a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6665" publication-type="other">
+Yevamot 103b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6672" publication-type="book">
+Avodah Zarah 22b<fpage>22</fpage>
+                  <source>Avodah Zarah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6684" publication-type="other">
+Cant. R.
+1:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6693" publication-type="other">
+I, 36b, 52b, 63b, 70b, 126b, 228a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6699" publication-type="other">
+II, 94a, 168a, 193b, 236b, 242b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6705" publication-type="other">
+III, 97b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6711" publication-type="book">
+Sukkah 52a<fpage>52</fpage>
+                  <source>Sukkah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6724" publication-type="book">
+Solomon Schechter, Aspects of Rabbinic Theology (New
+York, 1961), p. 290, n. 3<person-group>
+                     <string-name>
+                        <surname>Schechter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>290</fpage>
+                  <source>Aspects of Rabbinic Theology</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6752" publication-type="book">
+Ephraim Urbach, The Sages: Their Concepts and Beliefs [Hebrew]
+(Jerusalem, 1978), pp. 416-417, n. 2<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>416</fpage>
+                  <source>The Sages: Their Concepts and Beliefs</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6781a1310">
+            <label>106</label>
+            <p>
+               <mixed-citation id="d43e6788" publication-type="other">
+II, 183a-b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6794" publication-type="other">
+III, 97a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6802a1310">
+            <label>107</label>
+            <p>
+               <mixed-citation id="d43e6809" publication-type="other">
+II, 40a, 61b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6815" publication-type="book">
+Matt, Zohar, pp. 113-116, 245-247), 183a<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>113</fpage>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6836" publication-type="journal">
+Tishby, MhZ,
+2:391<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>391</fpage>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6865" publication-type="other">
+above n. 60</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6872a1310">
+            <label>108</label>
+            <p>
+               <mixed-citation id="d43e6879" publication-type="book">
+Schechter, Aspects of
+Rabbinic Theology, pp. 273-275<person-group>
+                     <string-name>
+                        <surname>Schechter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>273</fpage>
+                  <source>Aspects of Rabbinic Theology</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6904a1310">
+            <label>109</label>
+            <p>
+               <mixed-citation id="d43e6911" publication-type="other">
+III, 63a (Pekudim)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6917" publication-type="other">
+Yoma 69b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6923" publication-type="other">
+Gen. R. 9:7, pp. 71-72</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6930" publication-type="other">
+Lev. R. 14:5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6937a1310">
+            <label>110</label>
+            <p>
+               <mixed-citation id="d43e6944" publication-type="book">
+Berakhot 54b<fpage>54</fpage>
+                  <source>Berakhot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6956" publication-type="other">
+I, 155b, 178b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6962" publication-type="other">
+III, 80b, 267a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6969" publication-type="book">
+Sefer ha-Rimmon, 39b<fpage>39</fpage>
+                  <source>Sefer ha-Rimmon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e6982a1310">
+            <label>111</label>
+            <p>
+               <mixed-citation id="d43e6989" publication-type="other">
+II, 26b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e6995" publication-type="other">
+Deut. 4:39</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7001" publication-type="other">
+Sefer ha-Rimmon, ad loc</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7008" publication-type="other">
+II, 161b
+and III, 264a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7017" publication-type="other">
+II, 26b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7023" publication-type="other">
+n. 45</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7029" publication-type="journal">
+Tishby, MhZ, 2:607<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>607</fpage>
+                  <volume>2</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7053" publication-type="book">
+Liebes, "The Messiah,"
+esp. p. 198<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>198</fpage>
+                  <source>The Messiah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7077" publication-type="journal">
+Tishby, MhZ, 1:133, 219-220, 269-270, 381-382<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>133</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7102" publication-type="journal">
+ibid., 2:188-189<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>133</fpage>
+                  <volume>1</volume>
+                  <source>MhZ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7126" publication-type="other">
+I, 119b, 133b, 230b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7132" publication-type="other">
+II,
+257a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7141" publication-type="book">
+Sefer ha-Rimmon, 78b, and Gikatilla, Sha'arei Orah, 1:224-225<person-group>
+                     <string-name>
+                        <surname>Gikatilla</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sha'arei Orah</comment>
+                  <fpage>224</fpage>
+                  <volume>1</volume>
+                  <source>Sefer ha-Rimmon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7169" publication-type="other">
+I, 1 lb-12a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7175" publication-type="other">
+I, 49b, 55b, 160a, 172b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e7182" publication-type="other">
+II, 89a, 92a, 161a</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

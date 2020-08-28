@@ -1,0 +1,982 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486380</article-id>
+         <title-group>
+            <article-title>Religious Law and Change: The Medieval Ashkenazic Example</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Haym</given-names>
+                  <surname>Soloveitchik</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1987</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">12</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i265522</issue-id>
+         <fpage>205</fpage>
+         <lpage>221</lpage>
+         <page-range>205-221</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1988 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486380"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1e121" publication-type="book">
+E. E. Urbach, Ba'alei ha-Tosafot, rev. ed. (Jerusalem, 1980) passim<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Ba'alei ha-Tosafot</comment>
+                  <source>passim</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e145" publication-type="book">
+Schalom Albeck,
+"Yahaso shel Rabbenu Tam li-ve'ayot zemano," Zion 19 (1954): 103-141<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Yahaso shel Rabbenu Tam li-ve'ayot zemano</comment>
+                  <fpage>103</fpage>
+                  <volume>19</volume>
+                  <source>Zion</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e180a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1e187" publication-type="book">
+Jacob Katz in Kiryat Sefer 31 (1956): 12-13.<person-group>
+                     <string-name>
+                        <surname>Katz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <volume>31</volume>
+                  <source>Kiryat Sefer</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e216a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1e223" publication-type="book">
+H. H. Ben-Sasson in Behinot 9 (1957): 46-49<person-group>
+                     <string-name>
+                        <surname>Ben-Sasson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>46</fpage>
+                  <volume>9</volume>
+                  <source>Behinot</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e252a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1e259" publication-type="other">
+Haym Soloveitchik. Minhag, Meyiut ve-Halakhah be-Mahshavtam shel Ba'alei ha-
+Tosafot: Yeyn Nesekh, Nituabr le-Dugma (M.A. thesis; Jerusalem, 1967)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e268" publication-type="book">
+Albeck, "Yeblaso";
+Jacob Katz, Bein Yehudim le-Goyim (Jerusalem, 1960), chap. 3<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Yeblaso</comment>
+                  <source>Bein Yehudim le-Goyim</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e298a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1e305" publication-type="other">
+Mishneh Torah, Yesodei ha-Torah V:I 1-5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e311" publication-type="other">
+Semaq (below, n. 8)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e317" publication-type="other">
+below n. 8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e324" publication-type="book">
+L. Feldman, Josephus and Modern Scholarship
+[Berlin, 1984], pp. 779-780<person-group>
+                     <string-name>
+                        <surname>Feldman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>779</fpage>
+                  <source>Josephus and Modern Scholarship</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e352" publication-type="other">
+below, n. 8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e359a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1e366" publication-type="other">
+Gezerot Ashkenaz ve-Sarfat, ed. A. Haberman (Jerusalem, 1945)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e372" publication-type="book">
+Shlomo Eidelberg, The Jews and the Crusades: The Hebrew Chroniclers of the
+First and Second Crusades (Madison, 1977)<person-group>
+                     <string-name>
+                        <surname>Eidelberg</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Jews and the Crusades: The Hebrew Chroniclers of the First and Second Crusades</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e396" publication-type="book">
+Robert Chazan's translation in his Euro-
+pean Jewry and the First Crusade (UCLA, 1987), pp. 223-297<person-group>
+                     <string-name>
+                        <surname>Chazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>223</fpage>
+                  <source>European Jewry and the First Crusade</source>
+                  <year>1987</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e425" publication-type="book">
+Albert of Aix, Recueil des historiens des croisades, Histoire Occidentaux, vol. 4
+(Paris, 1879), p. 293 (bk. I, chap. 27)<person-group>
+                     <string-name>
+                        <surname>Aix</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 27</comment>
+                  <fpage>293</fpage>
+                  <volume>4</volume>
+                  <source>Recueil des historiens des croisades, Histoire Occidentaux</source>
+                  <year>1879</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e459" publication-type="other">
+Gezerot, pp. 41, 45, 46, 78, 96</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e465" publication-type="other">
+pp. 62, 113</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e471" publication-type="book">
+Shraga Abramson, "Nusakh berakhah 'al kiddush ha-shem," Torah
+Shebe'al Peh 14 (1972): 159-163<person-group>
+                     <string-name>
+                        <surname>Abramson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Nusakh berakhah 'al kiddush ha-shem</comment>
+                  <fpage>159</fpage>
+                  <volume>14</volume>
+                  <source>Torah Shebe'al Peh</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e505" publication-type="other">
+Yighak Baer, Introduction to Gezerot, p. 4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e511" publication-type="book">
+G. D. Cohen. "Messian-
+ic Postures of Ashkenazim and Sepharadim," in Studies of the Leo Baeck Institute, ed. M.
+Kreutzberger (New York, 1967), pp. 115-158<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Messianic Postures of Ashkenazim and Sepharadim</comment>
+                  <fpage>115</fpage>
+                  <source>Studies of the Leo Baeck Institute</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e546" publication-type="book">
+Bernard Lewis, Jews in Islam (Prince-
+ton, 1984), pp. 82-84<person-group>
+                     <string-name>
+                        <surname>Lewis</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <source>Jews in Islam</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e575a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1e582" publication-type="book">
+Teshubot, Pesaqim u-Minhagim shel R. Maier of Rothenburg, ed. I. Z. Cahana, 2 (Jerusa-
+lem, 1960), sec. 59.<person-group>
+                     <string-name>
+                        <surname>Cahana</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">sec. 59.</comment>
+                  <source>Teshubot, Pesaqim u-Minhagim shel R. Maier of Rothenburg</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e611a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1e620" publication-type="other">
+Katz, Bein Yehudim, p. 91, n. 8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e626" publication-type="book">
+Tosafol
+Sens, Avodah Zarah 18a, s.v. mutav, in Shittat ha-Qadmonim 'al 'Avodah Zarah, ed. Y. Blau
+(New York, 1969)<person-group>
+                     <string-name>
+                        <surname>Blau</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Tosafol Sens, Avodah Zarah</comment>
+                  <source>mutav, in Shittat ha-Qadmonim 'al 'Avodah Zarah</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e658" publication-type="book">
+Hiddushei ha-Ritva al 'Avodah Zarah (Jerusalem:
+Mosad ha-Rav Kook, 1978) 18a, s.v. ha<person-group>
+                     <string-name>
+                        <surname>Kook</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>18</fpage>
+                  <source>Hiddushei ha-Ritva al 'Avodah Zarah</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e686" publication-type="book">
+Semaq Zurich (Jerusalem, 1973), Imp. 3, 6<fpage>6</fpage>
+                  <volume>3</volume>
+                  <source>Semaq Zurich</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e704" publication-type="book">
+Arugat
+ha-Bosem, ed. E. E. Urbach, I (Jerusalem, 1939), p. 122<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>122</fpage>
+                  <volume>I</volume>
+                  <source>Arugat ha-Bosem</source>
+                  <year>1939</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e735" publication-type="other">
+Tosafot ha-Shalem al ha-Torah, ed.
+E. Y. Gliss (Jerusalem, 1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e744" publication-type="book">
+Orhot Hayyim II, ed. Mosheh Schlesinger, I, pp.
+26-27<person-group>
+                     <string-name>
+                        <surname>Schlesinger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>26</fpage>
+                  <volume>II</volume>
+                  <source>Orhot Hayyim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e772" publication-type="other">
+A.Z. 18a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e779" publication-type="other">
+Yam shel Shlomoh, Bava Qama
+8:59</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e789a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1e796" publication-type="other">
+above n. 4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e802" publication-type="book">
+Jacob Katz, "Ma'ariv bi-zemano u-shelo bi-zemano," Zion 35
+(1971): 35-60<person-group>
+                     <string-name>
+                        <surname>Katz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Ma'ariv bi-zemano u-shelo bi-zemano</comment>
+                  <fpage>35</fpage>
+                  <volume>35</volume>
+                  <source>Zion</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e836" publication-type="book">
+Alan Mintz, Hurban: Responses to Catastrophe in Hebrew Literature
+(New York, 1984), pp. 84-108<person-group>
+                     <string-name>
+                        <surname>Mintz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>84</fpage>
+                  <source>Hurban: Responses to Catastrophe in Hebrew Literature</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e865" publication-type="book">
+R. Hai Gaon (OSar ha-
+Geonim, Rosh ha-Shanah, ed. B. M. Levin [Jerusalem, 1938], pp. 60-68<person-group>
+                     <string-name>
+                        <surname>Hai Gaon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>60</fpage>
+                  <source>OSar haGeonim, Rosh ha-Shanah</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e894a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1e901" publication-type="other">
+YiShak Baer, A History of the Jews in Christian Spain, vol. 1 (Philadelphia, 1966), pp.
+236-261 and passim.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e912a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1e919" publication-type="journal">
+Haym Soloveitchik, "Pawnbroking: A Study in Ribbit and of the Halakhah in Exile,"
+Proceedings of the American Academy for Jewish Research 38-39 (1972): 235-239, esp. p. 239.<object-id pub-id-type="doi">10.2307/3622359</object-id>
+                  <fpage>239</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e935a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1e944" publication-type="other">
+Daniel Lasker's Jewish Philosophical
+Polemics Against Christianity in the Middle Ages (New York: Ktav, 1977)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e953" publication-type="book">
+David Berger's The Jewish-Christian Debate in the High Middle Ages (Philadelphia, 1979)<person-group>
+                     <string-name>
+                        <surname>Berger</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Jewish-Christian Debate in the High Middle Ages</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e975" publication-type="book">
+B. Septimus,
+"Narboni and Shem Tov on Martyrdom," in Studies in Medieval Jewish History and Literature,
+ed. I. Twersky (Cambridge, Mass., 1984), p. 447, n. 1<person-group>
+                     <string-name>
+                        <surname>Septimus</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Narboni and Shem Tov on Martyrdom</comment>
+                  <fpage>447</fpage>
+                  <source>Studies in Medieval Jewish History and Literature</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1009" publication-type="book">
+E. Kupfer's article "Le-demutah ha-tarbutit shel
+yahudut ashkenaz be-me'ot ha-arb'a 'esreh ve-ha-hamesh 'esreh," Tarbiz 42 [1973]: 113-147<person-group>
+                     <string-name>
+                        <surname>Kupfer</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Le-demutah ha-tarbutit shel yahudut ashkenaz be-me'ot ha-arb'a 'esreh ve-ha-hamesh 'esreh</comment>
+                  <fpage>113</fpage>
+                  <volume>42</volume>
+                  <source>Tarbiz</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1043" publication-type="other">
+Peraqim be-Toldot ha-Yehudim be-Yemei ha-Beinayim (Tel Aviv, 1962), pp.
+205-206</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1052" publication-type="other">
+Trial and Achievements: Currents in Jewish History (Jerusalem, 1974), p. 155</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1059a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d1e1066" publication-type="book">
+Ketav Tamim in Osar Nehmad 4 (1860): 54-90<fpage>54</fpage>
+                  <volume>4</volume>
+                  <source>Ketav Tamim in Osar Nehmad</source>
+                  <year>1860</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1084" publication-type="book">
+Joseph
+Dan's introduction to Ketav Tamim MS Paris H 711 (Jerusalem: Mercaz Dinur, 1984)<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ketav Tamim MS Paris H 711</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1109a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1e1116" publication-type="other">
+Katz, Bein Yehudim, chap. 6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1122" publication-type="book">
+S. W. Baron, A Social and
+Religious History of the Jews, vol. 5 (Philadelphia, 1957), pp. 112-114, 340-341<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>112</fpage>
+                  <volume>5</volume>
+                  <source>A Social and Religious History of the Jews</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1153" publication-type="book">
+Robert
+Chazan, Medieval Jewry in Northern France (Maryland, 1973), pp. 146-147, 189-190,
+195-196<person-group>
+                     <string-name>
+                        <surname>Chazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>146</fpage>
+                  <source>Medieval Jewry in Northern France</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1185" publication-type="other">
+Abraham David,
+"Mif'alo ha-Historiografi shel Gedalyah Ibn Yahya" (Ph.D. diss., Hebrew University, 1976),
+p. 335, n. II</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1198a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1e1207" publication-type="other">
+Teshuvot Rashba, VII, 179</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1213" publication-type="other">
+Mordecai, Ketuvot, sec. 306</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1220" publication-type="other">
+E. E. Urbach, Ba'alei ha-Tosafot, p. 243</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1227a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d1e1234" publication-type="other">
+Gezerot, pp. 25, 43, 51, 56, 73, 80, 94, 95-96</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1240" publication-type="other">
+R. Chazan, European Jewry (above
+n. 6) pp. 99-136</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1251a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1e1258" publication-type="book">
+Yosef Hacker, "Le-gezerot tatnu," Zion 31 [1966]: 233, n. 1<person-group>
+                     <string-name>
+                        <surname>Hacker</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Le-gezerot tatnu</comment>
+                  <fpage>233</fpage>
+                  <volume>31</volume>
+                  <source>Zion</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1289" publication-type="book">
+Robert Chazan in Revue des etudesjuives 133 [1974]: 235-254<person-group>
+                     <string-name>
+                        <surname>Chazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>235</fpage>
+                  <volume>133</volume>
+                  <source>Revue des etudesjuives</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1317" publication-type="journal">
+AJS Review 3 [1978]: 79-99<fpage>79</fpage>
+                  <volume>3</volume>
+                  <source>AJS Review</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1336a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1e1343" publication-type="book">
+Y. H. Yerushalmi, From Spanish Court to Italian Ghetto (New York, 1971), pp.
+21-42<person-group>
+                     <string-name>
+                        <surname>Yerushalmi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>21</fpage>
+                  <source>From Spanish Court to Italian Ghetto</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1372a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1e1381" publication-type="book">
+Mintz, Hurban, chap. 2, especially pp. 90-92<person-group>
+                     <string-name>
+                        <surname>Mintz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 2</comment>
+                  <fpage>90</fpage>
+                  <source>Hurban</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1405" publication-type="book">
+Rashi (Teshuvot Rashi, ed. I. Elfenbein [New York, 1943], no. 168<person-group>
+                     <string-name>
+                        <surname>Rashi</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Teshuvot Rashi</source>
+                  <year>1943</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1427" publication-type="book">
+R. Asher in Zikhron Yehudah (Berlin,
+1846), fols. 50v-51 v<person-group>
+                     <string-name>
+                        <surname>Asher</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>50</volume>
+                  <source>Zikhron Yehudah</source>
+                  <year>1846</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1456a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d1e1463" publication-type="other">
+Gezerot, pp. 56-57 and passim.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1470a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d1e1477" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1483" publication-type="other">
+Aronius, Regesten, nos. 189, 202, 203,
+206, 218</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1492" publication-type="book">
+Dinur, Yisrael be-Golah, II, 1: pp. 31, 43-45<person-group>
+                     <string-name>
+                        <surname>Dinur</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>31</fpage>
+                  <volume>II</volume>
+                  <source>Yisrael be-Golah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1517" publication-type="book">
+Baron. Social and Religious History, vol.
+4 (1957), p. 284, n. 12<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>284</fpage>
+                  <volume>4</volume>
+                  <source>Social and Religious History</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1548" publication-type="other">
+p. 293, n. 21</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1555a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d1e1562" publication-type="other">
+Urbach, Ba'alei ha-Tosafot, p. 349.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1570a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d1e1577" publication-type="other">
+Semaq, Imp. 3</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1584a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d1e1591" publication-type="other">
+J. P. Migne, Patrologiae cursus completus: Series Latina, 104:826, 117:170</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1597" publication-type="book">
+Aronius,
+Regesten, p. 90<person-group>
+                     <string-name>
+                        <surname>Aronius</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>90</fpage>
+                  <source>Regesten</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1621" publication-type="journal">
+Robert Hoeniger, "Zur Geschichte der Juden Deutschlands im Mittelalter,"
+Zeitschrift für die Geschichte der Juden im Deutschland 1 (1887): 141<person-group>
+                     <string-name>
+                        <surname>Hoeniger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>141</fpage>
+                  <volume>1</volume>
+                  <source>Zeitschrift für die Geschichte der Juden im Deutschl</source>
+                  <year>1887</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1653" publication-type="book">
+Solomon Grayzel, The
+Church and the Jews in the Xlllth Century, rev. ed. (New York, 1966), pp. 73, 127-128<person-group>
+                     <string-name>
+                        <surname>Grayzel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>73</fpage>
+                  <source>The Church and the Jews in the Xlllth Century</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1681" publication-type="journal">
+Speculum 42 (1967): 343<fpage>343</fpage>
+                  <volume>42</volume>
+                  <source>Speculum</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1700a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d1e1707" publication-type="book">
+Tosafot, 'Avodah Zarah 57b, s.v. le-apuqei<person-group>
+                     <string-name>
+                        <surname>Tosafot</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Avodah Zarah</comment>
+                  <fpage>57</fpage>
+                  <source>le-apuqei</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1731" publication-type="book">
+Haym Soloveitchik, Minhag, MeSiut,
+chap. 3<person-group>
+                     <string-name>
+                        <surname>Soloveitchik</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 3</comment>
+                  <source>Minhag, MeSiut</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1755" publication-type="other">
+MSS Vatican Heb. 183, fol.
+177v; Munich Heb. 232, fol. 22v</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1765" publication-type="other">
+Parma, De Rossi, 1048, fol. 17v</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1771" publication-type="book">
+Ivan Marcus, "Hasidei Ashkenaz Private Penitentials: An Introduction and
+Descriptive Catalogue of Their Manuscripts and Early Editions," in Studies in Jewish
+Mysticism, ed. Joseph Dan and Frank Talmage (Cambridge, Mass., 1982), pp. 57-83<person-group>
+                     <string-name>
+                        <surname>Marcus</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Hasidei Ashkenaz Private Penitentials: An Introduction and Descriptive Catalogue of Their Manuscripts and Early Editions</comment>
+                  <fpage>57</fpage>
+                  <source>Studies in Jewish Mysticism</source>
+                  <year>1982</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1805" publication-type="book">
+Yosef Hacker, Be'ayot Nivharot be-
+Heqer Yahadut Ashkenaz, vol. 1 (Jerusalem: Akademon, 1974), p. 41<person-group>
+                     <string-name>
+                        <surname>Hacker</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <volume>1</volume>
+                  <source>Be'ayot Nivharot beHeqer Yahadut Ashkenaz</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1837a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d1e1844" publication-type="book">
+Maimonides, Hilkhot Ma'akhalot 'Asurot 11:10<person-group>
+                     <string-name>
+                        <surname>Maimonides</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <volume>11</volume>
+                  <source>Hilkhot Ma'akhalot 'Asurot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1868" publication-type="book">
+Teshuvot ha-Rambam, ed.
+Yehoshua Blau, vol. 2 (Jerusalem, 1960), p. 269<person-group>
+                     <string-name>
+                        <surname>Blau</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>269</fpage>
+                  <volume>2</volume>
+                  <source>Teshuvot ha-Rambam</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1899" publication-type="book">
+Abraham b. Nathan Ha-Yarhi, Sefer ha-
+Manhig, ed. Isaac Rafael, vol. 2 (Jerusalem, 1978), p. 660<person-group>
+                     <string-name>
+                        <surname>Nathan Ha-Yarhi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>660</fpage>
+                  <volume>2</volume>
+                  <source>Sefer haManhig</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1931" publication-type="journal">
+Teshuvot Rivash,
+III, no. 180<issue>180</issue>
+                  <volume>III</volume>
+                  <source>Teshuvot Rivash</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1949" publication-type="journal">
+Teshuvot Tashbes, I, no. 29<issue>29</issue>
+                  <volume>I</volume>
+                  <source>Teshuvot Tashbes</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1964" publication-type="journal">
+Teshuvot Rashba, IV, no. 189<issue>189</issue>
+                  <volume>IV</volume>
+                  <source>Teshuvot Rashba</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1979" publication-type="other">
+I, nos. 717, 813</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1985" publication-type="journal">
+Teshuvot Tashbes, I, no. 85<issue>85</issue>
+                  <volume>I</volume>
+                  <source>Teshuvot Tashbes</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e2000" publication-type="journal">
+Teshuvot Rashba, VII,
+no. 526<issue>526</issue>
+                  <volume>VII</volume>
+                  <source>Teshuvot Rashba</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e2019" publication-type="other">
+'Orhot kfayyim, II</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e2026a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d1e2035" publication-type="other">
+Or Zaru'a, Bava MeSia, sec. 202</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e2041" publication-type="other">
+A Study in Ribbit," p. 251</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e2048" publication-type="other">
+Rashbam (ibid., pp. 241-242)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e2054" publication-type="other">
+ibid., p. 252</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e2061a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d1e2068" publication-type="other">
+Goy shel Shabbat (Jerusalem,
+1984)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

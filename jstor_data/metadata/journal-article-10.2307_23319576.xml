@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i23319549</issue-id>
+         <article-id pub-id-type="doi">10.2307/23319576</article-id>
+         <title-group>
+            <article-title>Is there a God an sich?: Isaac Breuer on Kant's noumena</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>George Y.</given-names>
+                  <surname>Kohler</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2012</year>
+         </pub-date>
+         <fpage>121</fpage>
+         <lpage>139</lpage>
+         <permissions>
+            <copyright-statement>© Association for Jewish Studies 2012</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/23319576"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d965e107a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d965e114" publication-type="other">
+Friedrich Niewöhner, "Isaac Breuer und Kant," Neue Zeitschrift für systematische Theo-
+logie und Religionsphilosophie 17 (1975): 142–150 and 19 (1977): 172–185</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e123" publication-type="other">
+Walter S. Wurzburger,
+"Breuer and Kant," Tradition 26, no. 2 (1992): 71–76</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e132" publication-type="other">
+Matthias Morgenstern, "Jüdisch-Orthodoxe
+Wege zur Bibelkritik," Judaica 3 (2000): 178–192</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e142" publication-type="other">
+Morgenstern, From Frankfurt to Jerusalem:
+Isaac Breuer and the History of the Secession Dispute in Modern Jewish Orthodoxy (Leiden: Brill,
+2002): 237–59</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e154" publication-type="other">
+Max Wiener, "Judah Halevi's Concept of Religion and a Modern Counterpart,"
+HUCA 23 (1950/51): 678–82</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e163" publication-type="other">
+Aharon Shear-Yashuv, "Kant ve-haFilosofia ha-yehudit," HUCA 66
+(1995): 37–38</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e172" publication-type="other">
+Zvi Kurzweil, The Modern Impulse of Traditional Judaism (Hoboken: Ktav, 1985):
+35–37</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e181" publication-type="other">
+David N. Myers, Resisting History, Historicism and Its Discontents in German-Jewish
+Thought (Princeton: Princeton University Press, 2003), 137–139</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e190" publication-type="other">
+David H. Ellenson, "German Ortho-
+doxy, Jewish Law, and the Uses of Kant," in Between Tradition and Culture (Atlanta: Scholars Press,
+1994), 23–25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e203" publication-type="other">
+Ellenson, After Emancipation: Jewish Religious Responses to Modernity (Cincin-
+nati: Hebrew Union College Press, 2004), 251–253</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e213a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d965e220" publication-type="other">
+Between
+Kant and Kabbalah: An Introduction to Isaac Breuer's Philosophy of Judaism (Albany: State Univer-
+sity of New York Press, 1990)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e233a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d965e240" publication-type="other">
+TB Berakhot 58a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e246" publication-type="other">
+Isaac Breuer, Mein Weg (Jerusalem/Zürich: Morascha, 1988), 55</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e253a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d965e260" publication-type="other">
+Breuer, Mein Weg, 57.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e268a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d965e275" publication-type="other">
+Moritz Steckelmacher, "Über die Grüinde der jüidischen Sym-
+pathie für die Kantsche Philosophie," in Festschrift für Jacob Guttrnann (Leipzig: Fock, 1915), 86–
+112 (the essay is based on a public lecture from 1898)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e287" publication-type="other">
+Julius Guttmann, "Kant und das Judentum,"
+in Schriften der Gesellschaft zur Förderung der Wissenschaft des Judentums (Leipzig: Fock, 1908)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e296" publication-type="other">
+Hermann Cohen, "Innere Beziehungen der Kantischen Philosophie zum Judentum," in Bericht der
+Lehranstalt für die Wissenschaft des Judentums (Berlin 1910), and in Jüdische Schriften (Berlin:
+Schwetschke, 1924), 1:284–305</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e309" publication-type="other">
+Albert Lewkowitz, "Kants Bedeutung für das Judentum," in Monats-
+chrift für Geschichte und Wissenschaft des Judentums, 68 NS 32, n. 2 (1924): 97–107</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e319a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d965e326" publication-type="other">
+Isaac Breuer, Concepts of Judaism, ed. Jacob S. Levinger (Jerusalem: Israel Universities
+Press, 1974), 279.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e336a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d965e343" publication-type="other">
+Breuer, Mein Weg, 62.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e350a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d965e357" publication-type="other">
+Breuer, Concepts, 277.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e364a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d965e371" publication-type="other">
+Immanuel Kant, The Conflict of the Faculties, trans. Mary J. Gregor (Lincoln: University of
+Nebraska Press, 1992), 95</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e381a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d965e388" publication-type="other">
+Jacob Katz, "Kant ve-haYahadut," Tarbiz 41
+(1971): 219–37</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e397" publication-type="other">
+Nathan Rotenstreich, The Recurring Patterns (New York: Horizon Press, 1964):
+23–47</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e406" publication-type="other">
+Micha Brumlik, "Kants Theorie des Judentums," in Deutscher Geist und Judenhass
+(Munchen: Luchterhand, 2000), 22–74</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e417a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d965e424" publication-type="other">
+Breuer, Concepts, 277.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e431a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d965e438" publication-type="other">
+Myers, Resisting History, 137</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e444" publication-type="other">
+Josef R. Lawitschka, "Metageschichte: Jüdische
+Geschichtskonzeptionen im frühen 20. Jahrhundert: Franz Rosenzweig, Isaac Breuer und das Echo"
+(PhD diss., Freie Universität, 1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e456" publication-type="other">
+Asher D. Biemann, "Isaac Breuer: Zionist against His
+Will?" Modern Judaism 20 (2000): 11–12</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e466a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d965e473" publication-type="other">
+Breuer, Concepts, 136.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e480a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d965e487" publication-type="other">
+Isaac Breuer, Elischa (Frankfurt am Main: Kauffmann, 192B)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e493" publication-type="other">
+Breuer, Concepts, 135–64</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e500a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d965e507" publication-type="other">
+Isaac Breuer, Die Welt als Schöpfung und Natur (Frankfurt am Main: Kaufftnann, 1926)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e513" publication-type="other">
+Breuer, Concepts, 126–34</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e520a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d965e527" publication-type="other">
+Isaac Breuer, Der Neue Kusari: Ein Weg zum Judentum (Frankfurt am Main: Hirsch, 1934)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e533" publication-type="other">
+Breuer, Concepts, 167–292</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e541a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d965e548" publication-type="other">
+Ibid, 243.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e555a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d965e562" publication-type="other">
+Ibid, 253.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e569a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d965e576" publication-type="other">
+Ibid, 255.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e583a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d965e590" publication-type="other">
+Ibid, 253</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e596" publication-type="other">
+Ellenson, "German Orthodoxy," 24</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e603a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d965e610" publication-type="other">
+Immanuel Kant, Critique of Pure Reason, B:294–295f</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e617a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d965e624" publication-type="other">
+Breuer, Concepts, 172</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e632a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d965e639" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e646a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d965e653" publication-type="other">
+Mittleman, Between Kant and Kabbalah, 41.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e660a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d965e667" publication-type="other">
+Jüdische Rundschau 17, no. 7 (1934): 333</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e673" publication-type="other">
+Gershom
+Scholem, "The Politics of Mysticism: Isaac Breuer's New Kuzari," in The Messianic Idea in
+Judaism (New York: Schocken 1971): 325–334</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e686a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d965e693" publication-type="other">
+Manuel Joel in Monatsschrift für Geschichte und Wissenschaft des Juden-
+tums 1 (1857): 37–40</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e702" publication-type="other">
+The Rise of
+Modern Judaism: An Intellectual History of German Jewry, trans. John Robinson (Huntington: Krieger,
+1978), 158–60</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e715a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d965e722" publication-type="other">
+Immanuel Kant, preface to Critique of Pure Reason, 2nd ed. B:xxx.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e729a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d965e736" publication-type="other">
+Immanuel Kant, "Was heisst: sich im Denken orientieren," in Werke in zwöf Bänden
+(Frankfurt am Main: Suhrkamp, 1977): 5:277</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e747a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d965e754" publication-type="other">
+Kant, Critique of Pure Reason, B:75</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e761a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d965e768" publication-type="other">
+Ibid., B:309–310.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e775a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d965e782" publication-type="other">
+Immanuel Kant, Critique of Pure Reason, (trans. N. K. Smith, London: Macmillan, 1933):
+272 (B 311).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e792a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d965e799" publication-type="other">
+Heinrich Heine, "Zur Geschichte der Religion und Philosophie in Deutschland," in Werke,
+ed. H. Schanze (Frankfurt am Main: Insel, 1968), 4:128</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e808" publication-type="other">
+ibid., 506</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e815a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d965e822" publication-type="other">
+Wurzburger, Breuer and Kant, 75</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e829a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d965e836" publication-type="other">
+Kant, Critique of Pure Reason, B:311 (Smith translation, 272).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e844a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d965e851" publication-type="other">
+Kurzweil, Modern Impulse, 37</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e857" publication-type="other">
+David Ellenson ("German
+Orthodoxy," 23–25)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e867a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d965e874" publication-type="other">
+Kurzweil, Modern Impulse, 35</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e881a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d965e888" publication-type="other">
+Myers, Resisting History, 138</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e895a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d965e902" publication-type="other">
+Samuel Atlas, From Critical to Speculative Idealism: The Philosophy of Solomon
+Maimon (The Hague: Martinus Nijhoff 1964): 14–15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e911" publication-type="other">
+George MacDonald Ross, Kant
+and His Influence (Bristol: Thoemmes, 1990): 161</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e921a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d965e928" publication-type="other">
+Salomon Maimon, Gesammelte Werke, ed. V. Verra (Berlin, 1790; repr., Hildesheim: Olms,
+1971).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e938a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d965e945" publication-type="other">
+Immanuel Kant,
+Philosophical Correspondence, 1759–1799, ed. and trans. A. Zweig (Chicago: University of Chicago
+Press 1986), 151</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e959a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d965e966" publication-type="other">
+Salomon Maimon, "Philosophisches Worterbuch" in Gesammelte Werke 3:185</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e973a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d965e980" publication-type="other">
+Ibid., 186</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e987a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d965e994" publication-type="other">
+Albert Lewkowitz, Das Judentum und die geistigen Strömungen des 19. Jahrhunderts
+(Breslau, 1935; repr., Hildesheim: Olms, 1974), 75</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1003" publication-type="other">
+Graupe, Rise of Modern Judaism, 245–246</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1010a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d965e1017" publication-type="other">
+Hermann Cohen, Kants Theorie der Erfahrung, 2nd ed. (Berlin: Dummler, 1885).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1024a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d965e1031" publication-type="other">
+Oberflächliches Gerede, Ibid, 518</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1038a1310">
+            <label>46</label>
+          
+            <p>
+               <mixed-citation id="d965e1045" publication-type="other">
+Der Inbegriff der wissenschaftlichen Erkenntnis, Ibid, 519</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1053a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d965e1060" publication-type="other">
+Erich von Adickes (1866–1928)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1066" publication-type="other">
+Erich Adickes, Kant und das Ding an sich
+(Berlin: Heise, 1924)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1076a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d965e1083" publication-type="other">
+Kant, Critique of Pure Reason, B:384 (Smith translation, 318f.)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1090a1310">
+            <label>49</label>
+          
+            <p>
+               <mixed-citation id="d965e1097" publication-type="other">
+Eliezer
+Schweid, "Medinat ha-Torah be-mishnato shel Yiẓḥak Breuer," in Rivka Horwitz, ed. Yiẓḥak Breuer-
+iyunim be-mishnato (Ramat Gan: Bar Ilan 1988), 130</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1110a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d965e1117" publication-type="other">
+Cohen, Erfahrung, 527.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1124a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d965e1131" publication-type="other">
+Guide of the Perplexed, 1:50–60</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1138a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d965e1145" publication-type="other">
+Breuer, Concepts 161.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1153a1310">
+            <label>53</label>
+          
+            <p>
+               <mixed-citation id="d965e1160" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1167a1310">
+            <label>54</label>
+          
+          
+            <p>
+               <mixed-citation id="d965e1176" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1182" publication-type="other">
+Cohen's Ethik des reinen
+Willens</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1192" publication-type="other">
+Hermann Cohen, Werke, vol. 15 (ed.
+Hartwig Wiedebach, Hildesheim: Olms 2009), 161–269</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1202a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d965e1209" publication-type="other">
+Breuer, Concepts, 161.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1216a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d965e1223" publication-type="other">
+Cohen, Innere Beziehungen, 293 n. 5</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1230a1310">
+            <label>57</label>
+          
+            <p>
+               <mixed-citation id="d965e1237" publication-type="other">
+Breuer, Concepts, 161</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1244a1310">
+            <label>58</label>
+          
+            <p>
+               <mixed-citation id="d965e1251" publication-type="other">
+Stammler (1856–1938)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1257" publication-type="other">
+Kantstudien Ergän-
+zungshefte, vol. 27 (Berlin 1912)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1266" publication-type="other">
+Morgenstern, From Frankfurt to Jerusalem, 251–
+256</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1277a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d965e1284" publication-type="other">
+Isaac Breuer, "Der Rechtsbegriff auf Grund der Stammlerschen Sozialphilosophie," in
+Kantstudien Ergänzungshefte, 27:42.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1294a1310">
+            <label>60</label>
+          
+            <p>
+               <mixed-citation id="d965e1301" publication-type="other">
+Hermann Cohen, Ethik des reinen Willens (Berlin: Cassirer, 1904), 234–235.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1308a1310">
+            <label>61</label>
+          
+            <p>
+               <mixed-citation id="d965e1315" publication-type="other">
+Isaac Breuer, "Was lässt Hermann Cohen vom Judentum übrig," in Der Israelit, March 16,
+1911, pp. 2–3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1324" publication-type="other">
+Cohen's Die Bedeutung des Judentums
+für den religiösen Fortschritt der Menschen from 1910 (Jüdische Schriften, 1:18–35)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1334a1310">
+            <label>62</label>
+          
+            <p>
+               <mixed-citation id="d965e1341" publication-type="other">
+Isaac Breuer, "Von deutscher Zukunft," Jüdische Monatshefte 2 (1915): 344–345</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1347" publication-type="other">
+Rivka Horwitz, "Voices of Opposition to the First World War among Jewish Thinkers,"
+Leo Baeck Institute Yearbook (1988): 241–242</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1357a1310">
+            <label>63</label>
+          
+            <p>
+               <mixed-citation id="d965e1364" publication-type="other">
+Breuer, Mein Weg, 56</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1370" publication-type="other">
+Myers, Resisting History, 137–138</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1377a1310">
+            <label>64</label>
+          
+            <p>
+               <mixed-citation id="d965e1384" publication-type="other">
+Breuer, Mein Weg, 56–57</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1392a1310">
+            <label>65</label>
+          
+            <p>
+               <mixed-citation id="d965e1399" publication-type="other">
+Immanuel Kant, Critique of Practical Reason, trans. M. Gregor (Cambridge: Cambridge
+University Press, 1997), 85–86.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1409a1310">
+            <label>66</label>
+          
+            <p>
+               <mixed-citation id="d965e1416" publication-type="other">
+Ibid., 86.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1423a1310">
+            <label>67</label>
+          
+            <p>
+               <mixed-citation id="d965e1430" publication-type="other">
+Breuer, Mein Weg, 63.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1437a1310">
+            <label>68</label>
+          
+            <p>
+               <mixed-citation id="d965e1444" publication-type="other">
+German: zusammengebrochen. Ibid., 62.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1451a1310">
+            <label>69</label>
+          
+            <p>
+               <mixed-citation id="d965e1458" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1465a1310">
+            <label>70</label>
+          
+            <p>
+               <mixed-citation id="d965e1472" publication-type="other">
+Breuer, Der Rechtsbegriff, 64</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1478" publication-type="other">
+Cohen's Ethics of
+Pure Will</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1487" publication-type="other">
+Breuer, Mein Weg, 85</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1495a1310">
+            <label>71</label>
+          
+            <p>
+               <mixed-citation id="d965e1502" publication-type="other">
+Breuer, Was lässt Hermann Cohen vom Judentum übrig, part 3, 3.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1509a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d965e1516" publication-type="other">
+Breuer, Cohen, part 4, 3.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1523a1310">
+            <label>73</label>
+          
+            <p>
+               <mixed-citation id="d965e1530" publication-type="other">
+Kant, Critique of Pure Reason, B:847.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1537a1310">
+            <label>74</label>
+          
+            <p>
+               <mixed-citation id="d965e1544" publication-type="other">
+Cohen's Religion der Vernunft aus den Quellen
+des Judentums (1918)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1554a1310">
+            <label>75</label>
+          
+            <p>
+               <mixed-citation id="d965e1561" publication-type="other">
+Hermann Cohen, Religion der Vernunft aus den Quellen des Judentums (Frankfurt 1929),
+395</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1570" publication-type="other">
+Simon Kaplan Religion of Reason out of the Sources of Judaism
+(New York: Ungar, 1972), 340</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1580a1310">
+            <label>76</label>
+          
+            <p>
+               <mixed-citation id="d965e1587" publication-type="other">
+Breuer, Die Welt als Schöpfung, 73.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1595a1310">
+            <label>77</label>
+          
+            <p>
+               <mixed-citation id="d965e1602" publication-type="other">
+Ibid., 74–76.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1609a1310">
+            <label>78</label>
+          
+            <p>
+               <mixed-citation id="d965e1616" publication-type="other">
+Harry Lesser,
+"Samson Raphael Hirsch," in History of Jewish Philosophy, ed. Daniel H. Frank and Oliver Leaman
+(London: Routledge, 1997), 722–730</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1629a1310">
+            <label>79</label>
+          
+          
+            <p>
+               <mixed-citation id="d965e1638" publication-type="other">
+Allgemeine Zeitiung des Judentums 20 (1854): 244–246</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1645a1310">
+            <label>80</label>
+          
+            <p>
+               <mixed-citation id="d965e1652" publication-type="other">
+Kant, Critique of Pure Reason, B:564–565.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1659a1310">
+            <label>81</label>
+          
+            <p>
+               <mixed-citation id="d965e1666" publication-type="other">
+Mittleman, Between Kant and Kabbalah, 70.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1673a1310">
+            <label>82</label>
+          
+            <p>
+               <mixed-citation id="d965e1680" publication-type="other">
+Isaac Breuer, "Die Erneuerung des Judentums," in Der Israelit, April 5, 1909,2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1686" publication-type="other">
+Moritz Lazarus's book Die Ethik des Judentums</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1692" publication-type="other">
+Aharon Lichtenstein, "Does Jewish Tradition Recognize an Ethic independent
+of Halakha?" in Modern Jewish Ethics, ed. M. Fox (Columbus: Ohio State University Press, 1975),
+62–88</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1706a1310">
+            <label>83</label>
+          
+            <p>
+               <mixed-citation id="d965e1713" publication-type="other">
+Wiener, "Judah Halevi's Concept of Religion," 681</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1719" publication-type="other">
+Morgenstern, "Jüdisch-Orthodoxe Wege," 188</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1726a1310">
+            <label>84</label>
+          
+            <p>
+               <mixed-citation id="d965e1733" publication-type="other">
+Oskar Wolfsberg in Monatschrift für Geschichte und Wissenschaft des Judentums, 70 NS 34
+(1926): 426–28</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1742" publication-type="other">
+Wolfsberg (1893–1957)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d965e1749a1310">
+            <label>85</label>
+          
+            <p>
+               <mixed-citation id="d965e1756" publication-type="other">
+Iggrot Shadal, ed. I. Luzzatto (Krakow 1891), 8:1134</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d965e1762" publication-type="other">
+Nineteen Letters on Judaism, ed.
+J. Breuer (New York: Feldheim, 1969)</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

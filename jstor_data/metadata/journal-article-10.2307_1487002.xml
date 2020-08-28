@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">16</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1/2</issue>
+         <issue-id>i265528</issue-id>
+         <article-id pub-id-type="jstor">1487002</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Michael A.</given-names>
+                  <surname>Meyer</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1991</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1991</year>
+         </pub-date>
+         <fpage>236</fpage>
+         <lpage>239</lpage>
+         <page-range>236-239</page-range>
+         <product>
+            <source>Vienna and the Jews, 1867-1938: A Cultural History</source>
+            <string-name>
+              <given-names>Steven</given-names>
+              <surname>Beller</surname>
+            </string-name>
+          </product>
+         <permissions>
+            <copyright-statement>Copyright 1991 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1487002"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

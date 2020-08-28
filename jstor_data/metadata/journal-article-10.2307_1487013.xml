@@ -1,0 +1,674 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1487013</article-id>
+         <title-group>
+            <article-title>The Exegetical Craft of the "Zohar": Toward an Appreciation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Eliezer</given-names>
+                  <surname>Segal</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1992</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">17</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i265529</issue-id>
+         <fpage>31</fpage>
+         <lpage>49</lpage>
+         <page-range>31-49</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1992 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1487013"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d106e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d106e121" publication-type="book">
+I. Twersky, "Talmudists, Philoso-
+phers, Kabbalists: The Quest for Spirituality in the Sixteenth Century," in Jewish Thought in the
+Sixteenth Century, ed. B. Cooperman (Cambridge, Mass., and London, 1983), pp. 431-457<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Talmudists, Philosophers, Kabbalists: The Quest for Spirituality in the Sixteenth Century</comment>
+                  <fpage>431</fpage>
+                  <source>Jewish Thought in the Sixteenth Century</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e156a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d106e163" publication-type="book">
+D. Matt,
+Zohar: The Book of Enlightenment (New York, 1983), pp. 5-6<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>Zohar: The Book of Enlightenment</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e191" publication-type="book">
+G. Scholem, Kabbalah (New
+York, 1974), p. 432<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>432</fpage>
+                  <source>Kabbalah</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e219" publication-type="book">
+M. Idel, The Mystical Experience
+in Abraham Abulafia (Albany, N.Y., 1988), pp. 2-3<person-group>
+                     <string-name>
+                        <surname>Idel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <source>The Mystical Experience in Abraham Abulafia</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e248a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d106e255" publication-type="book">
+J. H. A. Wijnhoven, "Medieval Jewish Mysticism," in Bibliographical
+Essays in Medieval Jewish Studies.- The Study of Judaism II (New York, 1976), pp. 269-332<person-group>
+                     <string-name>
+                        <surname>Wijnhoven</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Medieval Jewish Mysticism</comment>
+                  <fpage>269</fpage>
+                  <source>Bibliographical Essays in Medieval Jewish Studies.- The Study of Judaism II</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e286" publication-type="journal">
+E. Wolfson, "Left Contained in the Right: A Study in Zoharic Hermeneutics,"
+AJS Review 11 (1986): 27-52<object-id pub-id-type="jstor">10.2307/1486354</object-id>
+                  <fpage>27</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e301" publication-type="book">
+I. Tishby and F. Lechover, Mishnat Ha-Zohar (Jerusalem,
+1957)<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Mishnat Ha-Zohar</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e326" publication-type="other">
+Zohar on pp. 25-32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e332" publication-type="book">
+Louis Ginz-
+berg's The Legends of the Jews (Philadelphia, 1910-46)<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Legends of the Jews</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e357a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d106e364" publication-type="journal">
+Genesis Rabbah 93:7<fpage>7</fpage>
+                  <volume>93</volume>
+                  <source>Genesis Rabbah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e379" publication-type="other">
+93:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e385" publication-type="other">
+Theodor-Albeck (Jerusalem, 1965), pp. 1161, 1170</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e392" publication-type="other">
+Albeck, p.
+1170</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e401" publication-type="journal">
+Ginzberg, Legends of the Jews, 2:13<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <volume>2</volume>
+                  <source>Legends of the Jews</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e425" publication-type="other">
+5:355</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e431" publication-type="other">
+M. M. Kasher, Torah Shelemah ad loc.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e439a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d106e446" publication-type="book">
+Heinemann, Darkei Ha-Aggadah (Jerusalem, 1974), pp. 32-34<person-group>
+                     <string-name>
+                        <surname>Heinemann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>32</fpage>
+                  <source>Darkei Ha-Aggadah</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e470" publication-type="other">
+p. 210, n. 88</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e477a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d106e484" publication-type="other">
+C. D. Ginsburg's edition of the Masorah (London, 1926)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e491a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d106e498" publication-type="journal">
+E. L. Segal, "'The Goat of the Slaughterhouse .. .'-On the Evolution of a Variant
+Reading in the Babylonian Talmud," Tarbiz 49 (1979-80): 50<person-group>
+                     <string-name>
+                        <surname>Segal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>50</fpage>
+                  <volume>49</volume>
+                  <source>Tarbiz</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e530a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d106e537" publication-type="other">
+Berakhot 30a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e544a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d106e551" publication-type="other">
+H. Sperling and M. Simon (London,
+1978)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e561a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d106e568" publication-type="journal">
+Matt, Zohar, pp. 15 ff<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e591a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d106e598" publication-type="journal">
+Heinemann, Darkei Ha-Aggadah, pp. 11, 32<person-group>
+                     <string-name>
+                        <surname>Heinemann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11</fpage>
+                  <source>Darkei Ha-Aggadah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e620a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d106e627" publication-type="journal">
+Matt, Zohar, p. 274<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>274</fpage>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e649a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d106e656" publication-type="journal">
+Ginzberg, Legends of the Jews 5:309 (n. 264)<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>309</fpage>
+                  <volume>5</volume>
+                  <source>Legends of the Jews</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e681a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d106e688" publication-type="other">
+Gen.
+45:14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e697" publication-type="other">
+ed. C. Chavel [Jerusalem, 1941], p. 355</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e703" publication-type="other">
+Note also his reference to Song of Songs 8:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e710" publication-type="other">
+Chavel's introduction, pp. 16-17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e716" publication-type="book">
+E. Gottlieb, Ha-Qabbalah be-
+Khitvei R. Babya ben Asher (Jerusalem, 1970)<person-group>
+                     <string-name>
+                        <surname>Gottlieb</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ha-Qabbalah beKhitvei R. Babya ben Asher</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e741a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d106e748" publication-type="journal">
+Albeck's notes to Genesis
+Rabbah, p. 927<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>927</fpage>
+                  <source>Genesis Rabbah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e772" publication-type="other">
+Zohar to Gen.
+33:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e782a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d106e789" publication-type="book">
+I. Jacobson, Netiv Binah
+(Tel-Aviv, 1978), 4:87-94<person-group>
+                     <string-name>
+                        <surname>Jacobson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>87</fpage>
+                  <volume>4</volume>
+                  <source>Netiv Binah</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e822a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d106e829" publication-type="book">
+Leviticus Rabbah 28 (ed. M. Margolies
+[Jerusalem, 1972], p. 648-667<person-group>
+                     <string-name>
+                        <surname>Margolies</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>648</fpage>
+                  <volume>28</volume>
+                  <source>Leviticus Rabbah</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e860" publication-type="book">
+Pesiqta de-Rav Kahana 8 (ed. B. Mandelbaum [New York,
+1962], pp. 135-145<person-group>
+                     <string-name>
+                        <surname>Mandelbaum</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>135</fpage>
+                  <volume>8</volume>
+                  <source>Pesiqta de-Rav Kahana</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e891" publication-type="other">
+Braude and Kapstein [Philadelphia, 1975], p. 155)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e898" publication-type="other">
+TB Rosh ha-
+Shanah 16a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e908a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d106e915" publication-type="other">
+Leviticus (vol. 2) 97</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e921" publication-type="book">
+Al-Nakawa's Menorat ha-Ma'or, ed. H. Enelow (New York,
+1949), 2:273<person-group>
+                     <string-name>
+                        <surname>Al-Nakawa</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>273</fpage>
+                  <volume>2</volume>
+                  <source>Menorat ha-Ma'or</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e953a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d106e960" publication-type="journal">
+Sifra Nega'im/Mepora' 9:1<fpage>1</fpage>
+                  <volume>9</volume>
+                  <source>Sifra Nega'im/Mepora</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e975" publication-type="other">
+Ketubbot 72a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e981" publication-type="other">
+Lev. 15:281</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e988" publication-type="other">
+Lev. 23:15</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e995a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d106e1002" publication-type="other">
+"prologue" to the work, p. 8b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1008" publication-type="book">
+Sefer Abudraham ("ha-Shalem" [Jerusalem, 1959]), p. 241<fpage>241</fpage>
+                  <source>Sefer Abudraham ("ha-Shalem</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1024a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d106e1031" publication-type="journal">
+Mekhilta d-Rabbi Ishmael, pisha 1:1<fpage>1</fpage>
+                  <volume>1</volume>
+                  <source>Mekhilta d-Rabbi Ishmael, pisha</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1047a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d106e1054" publication-type="other">
+Zohar to Genesis, pp. 1:81b, 1:83a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1060" publication-type="journal">
+Matt's remarks, Zohar, p. 220<person-group>
+                     <string-name>
+                        <surname>Matt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>220</fpage>
+                  <source>Zohar</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1083a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d106e1090" publication-type="book">
+C. Chavel: Ramban: Commentary on the
+Torah (New York, 1974), vol. 3<person-group>
+                     <string-name>
+                        <surname>Chavel</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>3</volume>
+                  <source>Ramban: Commentary on the Torah</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1119a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d106e1126" publication-type="other">
+Menabot 66a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1133a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d106e1140" publication-type="other">
+R. Moses de Leon likely had in mind such rabbinic passages as R. Simeon b. Laqish's
+comment (Sotah 34b, etc.) to Num. 13:2: "Send thou-at your own will" (Rashi: "I am not
+commanding you...")</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1153a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d106e1160" publication-type="journal">
+M. Bregman, "Past and Present in
+Midrashic Literature," Hebrew Annual Review 2 (1978): 55-58<person-group>
+                     <string-name>
+                        <surname>Bregman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>55</fpage>
+                  <volume>2</volume>
+                  <source>Hebrew Annual Review</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1192a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d106e1199" publication-type="other">
+Ed. S. Buber (Jerusalem, 1970), l10a (par. 236).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1206a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d106e1213" publication-type="journal">
+Canticles Rabbah 2:15<fpage>15</fpage>
+                  <volume>2</volume>
+                  <source>Canticles Rabbah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1228" publication-type="other">
+Arama's 'Aqedat YiShaq to Lev. 23:15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1234" publication-type="journal">
+Kasher,
+Torah Shelemah, Emor (Lev. 23:15), n. 103<person-group>
+                     <string-name>
+                        <surname>Kasher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <volume>23</volume>
+                  <source>Torah Shelemah, Emor</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1263" publication-type="journal">
+Ginzberg, Legends of the Jews, 6:29 n. 175<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>29</fpage>
+                  <volume>6</volume>
+                  <source>Legends of the Jews</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1289a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d106e1296" publication-type="other">
+#273, Emor, 'Asin 11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1302" publication-type="other">
+C. Chavel, pp. 358-359</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1309a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d106e1316" publication-type="book">
+Rabbi Eleazar of Worms in Sefer ha-Rokeah ("ha-
+Gadol" [Jerusalem, 1960]<person-group>
+                     <string-name>
+                        <surname>Eleazar</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sefer ha-Rokeah ("haGadol</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1340" publication-type="other">
+Hilkhot ha-'Omer, par. 294, p. 162</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1346" publication-type="book">
+Rabbi Elimelech of Lizensk in his No'am Elimelekh
+(ed. G. Nigal [Jerusalem, 1978], pp. 345-347)<person-group>
+                     <string-name>
+                        <surname>Elimelech</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>345</fpage>
+                  <source>No'am Elimelekh</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1375" publication-type="journal">
+R. Jacob Joseph of Polnoye's Toledot Ya'aqov Yosef Emor 7<person-group>
+                     <string-name>
+                        <surname>Joseph</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <source>Toledot Ya'aqov Yosef Emor</source>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

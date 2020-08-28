@@ -1,0 +1,2182 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486296</article-id>
+         <title-group>
+            <article-title>A Minor for "Zimmun" (Y. Ber. 7:2, 11c) and Recensions of Yerushalmi</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Baruch M.</given-names>
+                  <surname>Bokser</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1979</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"/>
+         <issue-id>i265511</issue-id>
+         <fpage>1</fpage>
+         <lpage>25</lpage>
+         <page-range>1-25</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1979 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486296"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d36e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d36e123" publication-type="book">
+Shamma Friedman, "A Critical Study of Yevamot X with a Methodological Introduction,"
+Texts and Studies. Analecta Judaica, ed. H. Z. Dimitrovsky, 1 (1977): 275-321<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">A Critical Study of Yevamot X with a Methodological Introduction,</comment>
+                  <fpage>275</fpage>
+                  <volume>1</volume>
+                  <source>Texts and Studies. Analecta Judaica</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e157" publication-type="book">
+David Good-
+blatt, "The Babylonian Talmud," Aufstieg und Niedergang der Rémischen Welt [= ANRW],
+2.19 (Berlin, in press), especially chap. 4<person-group>
+                     <string-name>
+                        <surname>Goodblatt</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Babylonian Talmud</comment>
+                  <source>Aufstieg und Niedergang der Rémischen Welt [= ANRW]</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e186" publication-type="book">
+Baruch M. Bokser, "An Annotated Bibliographi-
+cal Guide to the Study of the Palestinian Talmud," ANR W, 2.19, especially chaps. 8-13<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">An Annotated Bibliographical Guide to the Study of the Palestinian Talmud</comment>
+                  <fpage>19</fpage>
+                  <volume>2</volume>
+                  <source>ANRW</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e217" publication-type="book">
+Baruch M. Bokser, "Two Traditions of Samuel: Evaluating Alternative Versions,"
+in Christianity, Judaism and Other Greco-Roman Cults. Studies for Morton Smith at Sixty, ed.
+Jacob Neusner, 4 vols. (Leiden, 1975), 4: 48-52 N.B.: on pp. 52, 1. 12, 53, 1. 12<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Two Traditions of Samuel: Evaluating Alternative Versions</comment>
+                  <fpage>48</fpage>
+                  <volume>4</volume>
+                  <source>Christianity, Judaism and Other Greco-Roman Cults. Studies for Morton Smith at Sixty</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e254" publication-type="other">
+54, 1. 18
+read "Tefillah" for "Shema'</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e263" publication-type="book">
+idem, Samuel's Commentary on the Mishnah, Its Nature, Forms,
+and Content (Leiden, 1975)<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Samuel's Commentary on the Mishnah, Its Nature, Forms, and Content</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e287" publication-type="journal">
+Anthony J. Saldarini, "'Form Criticism' of Rabbinic Litera-
+ture," Journal of Biblical Literature 96 (1977): 257-74<object-id pub-id-type="doi">10.2307/3265881</object-id>
+                  <fpage>257</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e303a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d36e310" publication-type="other">
+M. Ber. 7:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e316" publication-type="book">
+J. N. Epstein, Introduction to the Text of the
+Mishnah, 2d ed. (Jerusalem, 1964), pp. 430--31<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>430</fpage>
+                  <source>Introduction to the Text of the Mishnah</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e344" publication-type="book">
+Chanoch Albeck, Shishah sidrei Mishnah, vol.
+1: Seder Zera'im (Jerusalem, 1959), pp. 27 and 336-37<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Shishah sidrei Mishnah</comment>
+                  <fpage>27</fpage>
+                  <volume>1</volume>
+                  <source>Seder Zera'im</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e379" publication-type="book">
+Saul Lieberman, Tosefta ki-fshutah, 8
+vols. (New York, 1955-73), 1: 8-9 [= TK]<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <volume>1</volume>
+                  <source>Tosefta ki-fshutah</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e410" publication-type="book">
+Joseph Heinemann, Prayer in the Period of the
+Tanna'im and the Amora'im (Jerusalem, 1964), chap. 4, pp. 67-77, especially 73-77<person-group>
+                     <string-name>
+                        <surname>Heinemann</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 4</comment>
+                  <fpage>67</fpage>
+                  <source>Prayer in the Period of the Tanna'im and the Amora'im</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e441" publication-type="book">
+Gary
+G. Porton, The Traditions of Rabbi Ishmael, pt. 1 (Leiden, 1976), pp. 13-15<person-group>
+                     <string-name>
+                        <surname>Porton</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <source>The Traditions of Rabbi Ishmael</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e469" publication-type="other">
+below, text to
+nn. 40-43</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e479a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d36e486" publication-type="other">
+MSS: The Palestinian Talmud Leiden MS. Cod. Scal. 3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e492" publication-type="book">
+A Facsimile
+with Introduction by Saul Lieberman (Jerusalem, 1970), vol. 1 [abbreviated as = L MS]<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>1</volume>
+                  <source>A Facsimile with Introduction</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e520" publication-type="other">
+Talmud Yerushalmi. Codex Vatican 133</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e527" publication-type="other">
+A. P. Sherry (Jerusalem, 1971) [= V MS]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e533" publication-type="book">
+MS
+of y. with Commentary of Solomon ben Joseph Sirillo, ed. Hayim Yosef Dinkels (Jerusalem,
+1967)<person-group>
+                     <string-name>
+                        <surname>Yosef Dinkels</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Commentary of Solomon ben Joseph Sirillo</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e561" publication-type="other">
+Bibliothèque Nationale, Paris, for MS Hebr. 7389</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e567" publication-type="book">
+Louis Ginzberg, Yerushalmi Fragments from the Genizah (New
+York, 1909; reprint ed., Jerusalem, 1969 [= YFG]<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Yerushalmi Fragments from the Genizah</source>
+                  <year>1909</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e591" publication-type="book">
+Zacharias Frankel, Talmud Yerushalmi, Seder Zera'im, 'Ahavat Siyyon, vol. 1:
+Berakhot and Pe'ah (Vienna, 1874; reprint ed., Jerusalem, 1971)<person-group>
+                     <string-name>
+                        <surname>Frankel</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>1</volume>
+                  <source>Seder Zera'im, 'Ahavat Siyyon</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e619" publication-type="book">
+Dov Baer Ratner, Ahawath
+Zion We-Jeruscholaim. Berakhot (Vilna, 1901; reprint ed., Jerusalem, 1967)<person-group>
+                     <string-name>
+                        <surname>Baer Ratner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ahawath Zion We-Jeruscholaim. Berakhot</source>
+                  <year>1901</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e644" publication-type="book">
+A. M. Luncz,
+Talmud Yerushalmi, vol. 2 [= Ber. chap. 6-Pe'ah chap. 1] (Jerusalem, 1909)<person-group>
+                     <string-name>
+                        <surname>Luncz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 1</comment>
+                  <volume>2</volume>
+                  <source>Talmud Yerushalmi</source>
+                  <year>1909</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e675" publication-type="book">
+Mordechai Yehudah Leb Sacks, Diqduqei soferim la-Talmud ha-Yerushalmi, vol. 1:
+Berakhot (Jerusalem, 1943), p. 33<person-group>
+                     <string-name>
+                        <surname>Sacks</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>33</fpage>
+                  <volume>1</volume>
+                  <source>Diqduqei soferim la-Talmud ha-Yerushalmi</source>
+                  <year>1943</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e706" publication-type="book">
+J. N. Epstein, Introduction to Amoraitic Literature [=
+IAL] (Jerusalem, 1962), p. 364<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>364</fpage>
+                  <source>Introduction to Amoraitic Literature</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e735a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d36e744" publication-type="other">
+Ratner, pp. 166-67</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e750" publication-type="book">
+Chanoch Albeck, in Midrasch Bereschit Rabba. eds.
+Julius Theodor and Chanoch Albeck (Berlin, 1903-1929<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Midrasch Bereschit Rabba</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e775" publication-type="other">
+reprint ed. in 3 vols., Jerusalem,
+1965)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e784" publication-type="book">
+R. Meshullam ben Moses, Sefer ha-hashlamah, in Ginzei rishonim, Berakhot, ed.
+Moshe Hershler (Jerusalem, 1967), p. 245<person-group>
+                     <string-name>
+                        <surname>ben Moses</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sefer ha-hashlamah</comment>
+                  <fpage>245</fpage>
+                  <source>Ginzei rishonim</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e815" publication-type="other">
+MS, ed. Isaac Shiloni, 2 vols. to date (Jerusalem, 1973-)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e821" publication-type="book">
+Judah ben Isaac, Sir Leon, Tosefot... 'al Masekhet Berakhot, ed. Nisan Sachs, 2
+vols. (Jerusalem, 1969-1972)<person-group>
+                     <string-name>
+                        <surname>ben Isaac</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>2</volume>
+                  <source>Sir Leon, Tosefot... 'al Masekhet Berakhot</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e849" publication-type="other">
+Vilna edition of Babylonian Talmud, against which I checked the first edition (Venice,
+1520)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e858" publication-type="other">
+Tosefot R. Judah Sir Leon, 2: 524, n. 452</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e866a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d36e873" publication-type="other">
+R. Meshullam, p. 245</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e879" publication-type="other">
+below nn. 19 and 27</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e886a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d36e893" publication-type="book">
+Isaac ben Moses of Vienne, 'Or zaru'a (Zhitomer, 1862; reprint
+ed., Brooklyn, n.d.) #197<person-group>
+                     <string-name>
+                        <surname>ben Moses</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Or zaru'a</source>
+                  <year>1862</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e917" publication-type="other">
+kedei she-yihyeh
+= Rabad in Natmanides, Novellae (Jerusalem, 1928)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e927a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d36e934" publication-type="other">
+Eleazar Azikri, Sefer haredim, in Vilna edition of PT</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e940" publication-type="book">
+Joshua Benvenisti, Sedeh
+Yehoshu'a, vol. 1: Zera'im (Constantinople, 1662)<person-group>
+                     <string-name>
+                        <surname>Benvenisti</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>1</volume>
+                  <source>Sedeh Yehoshu'a</source>
+                  <year>1662</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e968" publication-type="other">
+reprinted in Yerushalmi Zera'im (Jerusalem,
+1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e978" publication-type="other">
+Albeck, in Bereschit Rabba 3:1112</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e985a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d36e992" publication-type="book">
+Zacharias Frankel, (Breslau, 1870<person-group>
+                     <string-name>
+                        <surname>Frankel</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Mevo ha- Yerushalmi</source>
+                  <year>1870</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1013" publication-type="other">
+reprint ed., Jerusalem,
+1967), p. 95a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1022" publication-type="book">
+Aaron Hyman, Toledot Tanna'im ve-'Amora'im, 3 vols. (reprint ed., Jerusalem,
+1964), 2: 616-17<person-group>
+                     <string-name>
+                        <surname>Hyman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>616</fpage>
+                  <volume>2</volume>
+                  <source>Toledot Tanna'im ve-'Amora'im</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1054" publication-type="book">
+Michael Higger, 'OSar ha-baraitot, 10 vols. (New York, 1938-1948), 4:
+418-19<person-group>
+                     <string-name>
+                        <surname>Higger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>418</fpage>
+                  <volume>4</volume>
+                  <source>OSar ha-baraitot</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1085" publication-type="book">
+Mordechai Margalioth, Encyclopedia of Talmudic and Geonic Literature (Tel Aviv,
+n.d.), pp. 476-77<person-group>
+                     <string-name>
+                        <surname>Margalioth</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>476</fpage>
+                  <source>Encyclopedia of Talmudic and Geonic Literature</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1109" publication-type="book">
+Chanoch Albeck, Introduction to the Talmud, Bavli and Yerushalmi (Tel
+Aviv, 1969), p. 332<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>332</fpage>
+                  <source>Introduction to the Talmud</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1137" publication-type="other">
+Bokser, Samuel's Commentary, p. 27, n. 56</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1143" publication-type="other">
+also TK, 5: 1273</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1150a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d36e1157" publication-type="other">
+Sirillo, Tosef.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1164a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d36e1171" publication-type="other">
+Albeck, Introduction, p. 524</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1177" publication-type="other">
+Bokser, Samuel's Commentary, pp. 216-17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1183" publication-type="other">
+Frankel, Mevo, p. 73a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1190" publication-type="book">
+E. Y. Kutscher, Studies in Galilean Aramaic, Translated
+and Annotated with Additional Notes by Michael Sokoloff [Bar-llan Studies in Near Eastern
+Languages and Culture] (Ramat-Gan, 1976), pp. 67-96, 103-5, especially p. 70<person-group>
+                     <string-name>
+                        <surname>Kutscher</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Studies in Galilean Aramaic</comment>
+                  <fpage>67</fpage>
+                  <source>Bar-llan Studies in Near Eastern Languages and Culture</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1224" publication-type="other">
+Frankel, Mevo, p. 61b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1230" publication-type="other">
+Hyman, 1: 97-98</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1236" publication-type="other">
+Margalioth, p. 41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1242" publication-type="other">
+Albeck,
+Introduction, pp. 274-75</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1253a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d36e1260" publication-type="book">
+C. Y. Kasovsky, Thesaurus Mishnae, 4 vols. (Jerusalem,
+1957-1960), 2: 766<person-group>
+                     <string-name>
+                        <surname>Kasovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>766</fpage>
+                  <volume>2</volume>
+                  <source>Thesaurus Mishnae</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1291" publication-type="other">
+M. Ket. 1:8 and B.M. 1:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1297" publication-type="book">
+C. Y. Kasovsky, Thesaurus Thosephthae, 6
+vols. (Jerusalem, 1932-1961)<person-group>
+                     <string-name>
+                        <surname>Kasovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Thesaurus Thosephthae</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1322" publication-type="other">
+ed. Lieberman, p. 173, 1. 146</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1328" publication-type="book">
+C. Y.
+Kasovsky, Thesaurus Talmudis, 39 vols. to date (Jerusalem, 1954-), 15: 85-86<person-group>
+                     <string-name>
+                        <surname>Kasovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>85</fpage>
+                  <volume>15</volume>
+                  <source>Thesaurus Talmudis</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1359" publication-type="other">
+DS, 120: 6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1365" publication-type="other">
+Frankel, 'Ahavat Siyyon, ad loc.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1371" publication-type="book">
+Benvenisti, Elijah Ben Loeb Fulda, Talmud Yeru-
+shalmi [=Zera'im and Sheq.] (Amsterdam, 1710<person-group>
+                     <string-name>
+                        <surname>Benvenisti</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Talmud Yerushalmi</source>
+                  <year>1710</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1395" publication-type="other">
+reprint ed., Jerusalem, 1971)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1402" publication-type="other">
+Albeck in
+Bereschit Rabba, 3:1113-14, note to 1. 4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1412a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d36e1419" publication-type="other">
+below nn. 32 and 45-50</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1425" publication-type="book">
+Saul Lieberman, Siphre Zutta
+(New York, 1968), pp. 15-16, TK, 1:84<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>Siphre Zutta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1453" publication-type="book">
+Yom Tov Ishbili, Hiddushei ha-Ritba, Masekhet
+Sukkah, ed. Eliyahu Lichtenstein (Jerusalem, 1975) to b. Suk. 29a = cols. 260-61<person-group>
+                     <string-name>
+                        <surname>Ishbili</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Hiddushei ha-Ritba, Masekhet Sukkah</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1478a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d36e1485" publication-type="other">
+above, n. 6</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1492a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d36e1499" publication-type="other">
+Bokser,
+ANR W, "Guide," chap. 9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1508" publication-type="journal">
+Benjamin De-Vries, "Baraita, " EJ, 4: 189-93<person-group>
+                     <string-name>
+                        <surname>Vries</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>189</fpage>
+                  <volume>4</volume>
+                  <source>EJ</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1532" publication-type="other">
+Goodblatt, ANRW, chap. 4.1a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1539" publication-type="other">
+Bokser,
+ANRW, "Guide," chap. 8, D.3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1548" publication-type="other">
+Lieberman, Higger,
+Epstein, Goodblatt (1975)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1558a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d36e1565" publication-type="other">
+Bokser, Samuel's Commentary, pp. 107, 116</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1571" publication-type="book">
+Abraham Weiss, Studies in
+the Literature of the Amoraim (New York, 1962), pp. 33-34<person-group>
+                     <string-name>
+                        <surname>Weiss</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>33</fpage>
+                  <source>Studies in the Literature of the Amoraim</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1599" publication-type="book">
+especially Studies in the Talmud
+(Jerusalem, 1975), pp. 236-37<fpage>236</fpage>
+                  <source>Studies in the Talmud</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1618" publication-type="book">
+David Weiss Halivni, Sources and Traditions, vol. 2: Seder
+Moed From Yoma to Hagiga (Jerusalem, 1975), pp. i-xii<person-group>
+                     <string-name>
+                        <surname>Halivni</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sources and Traditions</comment>
+                  <fpage>i</fpage>
+                  <volume>2</volume>
+                  <source>Seder Moed From Yoma to Hagiga</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1653a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d36e1660" publication-type="other">
+R. Meshullam in Sefer ha-hashlamah</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1666" publication-type="book">
+Abraham ben David, in Temim de'im (War-
+saw, 1897), #1, p. la<person-group>
+                     <string-name>
+                        <surname>ben David</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>Temim de'im</source>
+                  <year>1897</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1696a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d36e1703" publication-type="book">
+Mishnah 'im perush Rabbenu Mosheh ben Maimon, ed. and trans. Yosef Qafih, 7 vols. (Jeru-
+salem, 1963-1968), 1: 82<person-group>
+                     <string-name>
+                        <surname>Qafih</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <volume>1</volume>
+                  <source>Mishnah 'im perush Rabbenu Mosheh ben Maimon</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1734" publication-type="other">
+Maimonides, Mishneh Torah, Berakhot 5:7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1741a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d36e1748" publication-type="other">
+nn. 54-57</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1755a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d36e1764" publication-type="other">
+A. P. Sherry (Jerusalem, 1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1770" publication-type="other">
+Albeck, in Bereschit Rabba, 3:1111-1118</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1777" publication-type="other">
+Albeck's notes</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1783" publication-type="book">
+"Introduction," Einleitung und Register zum Bereschit Rabba (Berlin,
+1931-1936)<comment content-type="section">Introduction</comment>
+                  <source>Einleitung und Register zum Bereschit Rabba</source>
+                  <year>1936</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1801" publication-type="book">
+Theodor and Albeck, Bereschit Rabba, 2d ed. (Jerusalem, 1965), vol.
+3, Introduction, pp. 107-8<person-group>
+                     <string-name>
+                        <surname>Theodor</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>107</fpage>
+                  <volume>3</volume>
+                  <source>Bereschit Rabba</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1832" publication-type="book">
+E. S. Rosenthal, "Leshonot soferim," in Yuval Shay. [A Jubilee
+Volume dedicated to S. Y. Agnon], ed. Baruch Kurzweil (Ramat Gan, 1958), pp. 293-324,
+especially 312-13<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Leshonot soferim</comment>
+                  <fpage>293</fpage>
+                  <source>Yuval Shay. [A Jubilee Volume dedicated to S. Y. Agnon]</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1866" publication-type="other">
+Michael Sokoloff (Jerusalem, 1971)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1872" publication-type="journal">
+Sokoloff's
+"Introduction," and his references to other literature, especially his articles in Leshonenu 33
+(1969): 25-42, 135-49, 270-79<person-group>
+                     <string-name>
+                        <surname>Sokoloff</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <volume>33</volume>
+                  <source>Leshonenu</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1907" publication-type="other">
+Kutscher, Studies</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1913" publication-type="book">
+Lewis M. Barth, An Analysis of
+Vatican 30 (Cincinnati, 1973)<person-group>
+                     <string-name>
+                        <surname>Barth</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>30</volume>
+                  <source>An Analysis of Vatican</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1941" publication-type="other">
+Kutscher, Studies, pp. 12-13, n. 6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1947" publication-type="other">
+Barth, pp. 83-84</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1953" publication-type="other">
+Michael Sokoloff,
+"The Geniza Fragments of Genesis Rabba and Ms. Vat. Ebr. 60 of Genesis Rabba," Ph. D.
+diss., Hebrew University, 1971</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1965" publication-type="other">
+Albeck, and "Introduction," pp. 113, 126</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1972" publication-type="other">
+Albeck, "Introduction," pp.
+115-17, and 117, n. 2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1982a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d36e1991" publication-type="other">
+y. sugya; Samuel's Com-
+mentary, pp. 77-80, esp. 79-80 and n. 216</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2000" publication-type="book">
+Saul Lieberman, Talmud of Caesarea [Supplement to Tarbiz 2] (Jerusalem, 1931), pp.
+20-25, especially 22-23<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>Talmud of Caesarea</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2029" publication-type="other">
+Bokser, Samuel's Commentary, pp. 152, n.
+467, 156, nn. 475-476</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2038" publication-type="other">
+"Palestinian
+approach" see nn. 39 and 52</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2047" publication-type="book">
+"Ma'asim li-venei 'Eres
+Yisra'el," published in Mordechai Margalioth, Hilkhot 'Erey Yisra'el min ha-genizah (Jeru-
+salem, 1973), p. 44, 11. 13-15<person-group>
+                     <string-name>
+                        <surname>Margalioth</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>44</fpage>
+                  <source>Hilkhot 'Erey Yisra'el min ha-genizah</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2078" publication-type="journal">
+Z. M. Rabinowitz, "Sepher Ha-Ma'asim Livnei Erez
+Yisra'el-New Fragments," Tarbiz 41 (1972): 275-305, 285<person-group>
+                     <string-name>
+                        <surname>Rabinowitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>275</fpage>
+                  <volume>41</volume>
+                  <source>Tarbiz</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2109" publication-type="other">
+Rabinowitz's footnote,
+pp. 285-86</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2119a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d36e2126" publication-type="other">
+Sacks, Diqduqei, p. 32, n. 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2132" publication-type="other">
+Albeck, Bereschit Rabba, 3:1112, n. 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2138" publication-type="other">
+Epstein, IAL, p.
+364, n. 7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2148" publication-type="other">
+Rabinowitz, "New Fragments," p. 286</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2155a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d36e2162" publication-type="other">
+Albeck, Bereschit Rabba, 3:1112-13, n. 3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2168" publication-type="other">
+Sacks, Diqduqei, p. 32, n. 4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2174" publication-type="other">
+Epstein, IAL, p. 364, n. 10</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2182a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d36e2189" publication-type="other">
+Theodor and Albeck, 3:1113-14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2195" publication-type="other">
+Vatican Codex 60, p. 332</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2202a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d36e2209" publication-type="other">
+Jerusalem, 1973), p. 783</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2215" publication-type="other">
+Albeck, in Bereschit Rabba, 3:1113, 1.
+4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2224" publication-type="other">
+above, n. 22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2231" publication-type="book">
+Zedekiah
+b. Abraham Anav, Shibbolei ha-leqef ha-shalem, ed. Solomon Buber (Vilna, 1886)<person-group>
+                     <string-name>
+                        <surname>Abraham Anav</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Shibbolei ha-leqef ha-shalem</source>
+                  <year>1886</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2255" publication-type="other">
+reprint ed.
+with notes by Yerubam Liner (New York, 1959), #153, p. 60 [= p. 119]</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2265a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d36e2272" publication-type="other">
+n. 22</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2279a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d36e2286" publication-type="other">
+n. 22</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2293a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d36e2300" publication-type="other">
+nn. 22, 28, 29</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2307a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d36e2314" publication-type="other">
+Albeck, in Bereschit Rabba, 3:1114, notes</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2320" publication-type="other">
+above, n. 14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2326" publication-type="other">
+below nn. 35-38</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2334a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d36e2341" publication-type="other">
+nn. 17 and 33</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2348a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d36e2355" publication-type="other">
+TK, 1:84, and n. 38</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2362a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d36e2369" publication-type="other">
+Samuel Jaffe b. Isaac Ashkenazi, "Yefeh to'ar," digested in Midrash Rabba (Vilna,
+1878; reprint ed. Jerusalem, 1961), loc. cit.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2379a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d36e2386" publication-type="book">
+B. M. Lewin, ed. Otzar ha-Gaonim, 13 vols.
+(Haifa and Jerusalem, 1928-1943), vol. 1<person-group>
+                     <string-name>
+                        <surname>Lewin</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>1</volume>
+                  <source>Otzar ha-Gaonim</source>
+                  <year>1943</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2414" publication-type="other">
+Tractate Berakhoth, "Commentaries," pp. 82-83</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2420" publication-type="other">
+Isaac Alfasi, Hilkhot; Maimonides, Mishneh Torah, "Hilkhot Berakhot," 5:7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2427" publication-type="other">
+Namanides,
+Novellae to b. 48a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2436" publication-type="other">
+Isaiah the Elder, The Rulings of, Pisqei ha-Rid, 7 vols</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2442" publication-type="other">
+(Jerusalem, 1964-), vol. 1: Berakhot</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2448" publication-type="other">
+Lieberman, TK, 1:84-86</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2454" publication-type="other">
+Meyer Berlin, Shlomo
+Josef Zevin, and Jehoshua Hutner, Talmudic Encyclopedia, 15 vols</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2463" publication-type="other">
+(Jerusulem, 1947-),
+s.v. "Zimmun," 12: 284-90, especially 286</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2473" publication-type="book">
+Nahman's comment, and especially Abraham b. Isaac of Narbonne, Sefer ha-'eshkol, ed.
+Shalom and Chanoch Albeck, 2 vols. (Jerusalem, 1935-38), 1: 41, n. 3<person-group>
+                     <string-name>
+                        <surname>Isaac</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <volume>1</volume>
+                  <source>Sefer ha-'eshkol</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2505a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d36e2512" publication-type="other">
+Bokser, Samuel's Commentary, p. 218 and nn. 3-5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2519a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d36e2526" publication-type="other">
+Samuel and NaIman and M. Ber. 7:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2532" publication-type="other">
+R.
+Meshullam, pp. 244-45</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2541" publication-type="book">
+R. David b. Levi of Narbonne, Sefer ha-mikhtam, in Ginzei risho-
+nim, pp. 91-92<person-group>
+                     <string-name>
+                        <surname>Levi</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sefer ha-mikhtam</comment>
+                  <fpage>91</fpage>
+                  <source>Ginzei rishonim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2570" publication-type="other">
+Pisqei ha-Rid, cols. 140-42</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2576" publication-type="other">
+Dinkels, 'Emunat Yosef, in his edition of Sirillo,
+to y. Ber. 7:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2585" publication-type="other">
+"nashim va-'avadim," Sachs notes to R. Judah Sir Leon, 2: 517, n. 398</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2591" publication-type="other">
+Nahmanides, Novellae, and Shibbolei ha-leqet, #153, p. 118</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2599a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d36e2608" publication-type="other">
+Babylonian Talmud, Codex Florence, Florence National
+Library II I 7-9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2617" publication-type="other">
+David Rosenthal, 3 vols. (Jerusalem, 1972), 1: 99</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2624" publication-type="book">
+Yosef
+David Azulai, Sefer petab 'einayim, 2 vols. (Jerusalem, 1959), 1: 35<person-group>
+                     <string-name>
+                        <surname>Azulai</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>35</fpage>
+                  <volume>1</volume>
+                  <source>Sefer petab 'einayim</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2655" publication-type="book">
+Menabem b. Shelomoh ha-Meiri, Beit ha-behirah, Berakhot, ed. Shmuel Daikman (Jeru-
+salem, 1965), p. 180<person-group>
+                     <string-name>
+                        <surname>Meiri</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>180</fpage>
+                  <source>Beit ha-behirah, Berakhot</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2683" publication-type="other">
+nn. 54 and 23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2689" publication-type="book">
+Abraham Goldberg, "R. Ze'ira
+and the Babylonian Custom in the Land of Israel," Tarbiz 36 (1967): 319-41, especially pp.
+327-30<person-group>
+                     <string-name>
+                        <surname>Goldberg</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">R. Ze'ira and the Babylonian Custom in the Land of Israel</comment>
+                  <fpage>319</fpage>
+                  <volume>36</volume>
+                  <source>Tarbiz</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2726" publication-type="other">
+Nabmanides,
+Pisqei ha-Rid, and TK</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2735" publication-type="book">
+Eliezer b. Joel Halevi, Sepher Rabiah, ed. Viktor Aptowitzer, 4
+vols. (Jerusalem, 1965), 1: 112-15, #128, and note, p. 490<person-group>
+                     <string-name>
+                        <surname>Halevi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>112</fpage>
+                  <volume>1</volume>
+                  <source>Sepher Rabiah</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2767" publication-type="book">
+Jonah Gerondi, Novellae to Alfasi;
+Aaron b. Joseph HaLevi of Barcelona, Perush ha-Ra'H, in Rabbenu Yehonatan ha-Kohen
+ve-ha-Ra'H 'al Masekhet Berakhot, ed. M. Y. Blau (New York, 1957), p. 151<person-group>
+                     <string-name>
+                        <surname>Gerondi</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Novellae to Alfasi</comment>
+                  <fpage>151</fpage>
+                  <source>Rabbenu Yehonatan ha-Kohen ve-ha-Ra'H 'al Masekhet Berakhot</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2801" publication-type="book">
+Aaron b.
+Jacob b. David ha-Kohen, 'Orbot hayyim, [Part One] (Jerusalem, 1956), "Birkhat ha-mazon,"
+#39-43, pp. 76-77<person-group>
+                     <string-name>
+                        <surname>Jacob</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Orbot hayyim</comment>
+                  <fpage>76</fpage>
+                  <source>Birkhat ha-mazon</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2835" publication-type="book">
+Abraham Baer Dobsevage, Sefer ha-meqaref (Odessa, 1871<person-group>
+                     <string-name>
+                        <surname>Dobsevage</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sefer ha-meqaref</source>
+                  <year>1871</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2856" publication-type="other">
+reprint
+ed., Jerusalem, 1970), pp. 16-17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2865" publication-type="other">
+DS, 251:100-253:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2871" publication-type="book">
+Chanoch Albeck, Studies in the Baraita and Tosefta (Jerusalem, 1944), pp. 96-97<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>96</fpage>
+                  <source>Studies in the Baraita and Tosefta</source>
+                  <year>1944</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2896" publication-type="other">
+Introduction, pp. 524, and 565, n. 27</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2902" publication-type="book">
+Albeck, in Sefer ha-'eshkol, 1: 41, n. 3<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <volume>1</volume>
+                  <source>Sefer ha-'eshkol</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2927a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d36e2934" publication-type="other">
+above, n. 2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2941a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d36e2948" publication-type="book">
+Baruch M. Bokser, Samuel's Commentary on
+the Mishnah, Part Two (Leiden, in press)<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Samuel's Commentary on the Mishnah, Part Two</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2969" publication-type="other">
+b.
+Nid. 52b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2978" publication-type="other">
+b. Shab. 137b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2985" publication-type="journal">
+TK, 3:252<fpage>252</fpage>
+                  <volume>3</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3000" publication-type="journal">
+She'iltot, J. N. Epstein, "Sheiltot Fragments. B," Tarbiz 7 (1938):
+15, 11. 12-14; b. M.Q. 14b<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <volume>7</volume>
+                  <source>Tarbiz</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3031" publication-type="other">
+b. San. 54b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3038a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d36e3045" publication-type="other">
+"women, minors, and slaves," as in M. Ber.
+7:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3054" publication-type="book">
+Kasovsky, Thesaurus Mishnae, 4: 1574a-b<person-group>
+                     <string-name>
+                        <surname>Kasovsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1574</fpage>
+                  <volume>4</volume>
+                  <source>Thesaurus Mishnae</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3079a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d36e3086" publication-type="other">
+T. 'Eruv. 6:12, p. 121, 11. 38-41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3092" publication-type="journal">
+TK, 3:425, and
+5:1268-69<fpage>425</fpage>
+                  <volume>3</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3110" publication-type="other">
+M. Ter. 1:3
+and T. Ter. 1:4, pp. 107-8, 11. 12-14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3120" publication-type="journal">
+TK, 1:295<fpage>295</fpage>
+                  <volume>1</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3135" publication-type="other">
+y.
+Sheq. 1:3, 46a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3144" publication-type="other">
+M. Suk. 3:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3150" publication-type="other">
+y. Suk. 3:15, 54a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3156" publication-type="journal">
+TK, 5:1273<fpage>1273</fpage>
+                  <volume>5</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3171" publication-type="other">
+M. Meg. 4:6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3178" publication-type="other">
+y. Meg. 4:6, 75b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3184" publication-type="other">
+M. Hag. 1:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3190" publication-type="other">
+M. Ket. 1:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3196" publication-type="other">
+T. Ket.
+1:2, pp. 56-57, 11. 10-12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3205" publication-type="other">
+M. Git. 6:2-3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3211" publication-type="other">
+T. Git. 4:2, pp. 260-61, 11. 13-15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3218" publication-type="other">
+M. Hul. 1:1,
+where the "minor" is defined and limited later within M. Hul. 1:1 as well as in T. Hul. 1:3, p.
+500, 1. 23-24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3230" publication-type="other">
+also M. Nid. 5:3-9</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3237a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d36e3246" publication-type="other">
+T. Ber. 2:13, p. 9, 11. 51-55</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3252" publication-type="other">
+T. 'Eruv. 6:12, p.
+121, 11. 39-41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3262" publication-type="other">
+T. Ket. 3:8, p. 65, 11. 36-39</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3268" publication-type="other">
+T. Zev. 11:6, p. 496, 11. 3-5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3274" publication-type="other">
+T. Hag. 1:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3280" publication-type="other">
+T. 'Oholot 18:6, 8, p. 616, 11. 17, 35-36</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3286" publication-type="other">
+T. Nid. 5:4, p. 645, 11. 28-31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3292" publication-type="other">
+M. Ter. 1:1 (T. Ter. 1:4)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3299" publication-type="other">
+M. Ket. 1:3 (T. Ket. 1:2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3305" publication-type="other">
+M. Git. 6:2-3 (T. Git.
+4:2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3314" publication-type="other">
+M. Hul. 1:1 (T. Hul. 1:3)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3320" publication-type="other">
+T. Nazir 3:17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3326" publication-type="book">
+Sifre Dt. #46, ed. Louis Finkelstein, Sifre on Deuteronomy (reprint ed., New York,
+1969), p. 104<person-group>
+                     <string-name>
+                        <surname>Finkelstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>104</fpage>
+                  <source>Sifre on Deuteronomy</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3354" publication-type="book">
+Mekhilta, Pisha, Bo, #3, ed. H. S. Horovitz and I. A. Rabin, Mechilta D'Rabbi
+Ismael (reprint ed., Jerusalem, 1960), p. 12, 11. 5-6<person-group>
+                     <string-name>
+                        <surname>Rabin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>Mechilta D'Rabbi Ismael</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3383" publication-type="book">
+Mekhilta de-Rashbi, Bo, to Ex. 12:4, ed. J.
+N. Eptstein and E. Z. Melamed, Mekhilta D'Rabbi Sim'on b. Jochai (Jerusalem, 1955), p. 10,
+11. 16-19<person-group>
+                     <string-name>
+                        <surname>Melamed</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <source>Mekhilta D'Rabbi Sim'on b. Jochai</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3414" publication-type="book">
+Sifre Zuta, Shelab, ed. H. S. Horovitz, Siphre D'Be Rab 1. Siphre ad Numeron
+adjecto Siphre Zutta (reprint ed., Jerusalem, 1966), p. 288, 1. 20 to p. 289<person-group>
+                     <string-name>
+                        <surname>Zuta</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>288</fpage>
+                  <source>Siphre D'Be Rab 1. Siphre ad Numeron adjecto Siphre Zutta</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3442" publication-type="book">
+Lieberman, Siphre Zutta, pp. 15-16<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>Siphre Zutta</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3463" publication-type="other">
+DS, 323:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3469" publication-type="other">
+DS, 84:2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3477a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d36e3484" publication-type="other">
+The Tosefta, 1:29</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3490" publication-type="other">
+Brief Commentary, 1. 38</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3496" publication-type="journal">
+TK, 1:85-86<fpage>85</fpage>
+                  <volume>1</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3512a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d36e3519" publication-type="other">
+The Tosefta, 1:29, Brief Commentary</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3525" publication-type="journal">
+TK, 1:85<fpage>85</fpage>
+                  <volume>1</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3540" publication-type="book">
+Albeck, Studies, p. 96<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>96</fpage>
+                  <source>Studies</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3562" publication-type="book">
+Yom Tob Ishbili, in Ginzei rishonim, p. 502<person-group>
+                     <string-name>
+                        <surname>Ishbili</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>502</fpage>
+                  <source>Ginzei rishonim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3583" publication-type="other">
+Moses Margalioth, Mareh ha-
+panim, in editions of y., to y. Ber. 7:3</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3593a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d36e3600" publication-type="journal">
+TK, 1:84, 1. 36<fpage>84</fpage>
+                  <volume>1</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3616a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d36e3625" publication-type="journal">
+TK, 1:85<fpage>85</fpage>
+                  <volume>1</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3640" publication-type="book">
+Albeck, Studies, pp. 96-97<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>96</fpage>
+                  <source>Studies</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3662" publication-type="journal">
+Lieberman, TK, 1:84, 1. 36<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>84</fpage>
+                  <volume>1</volume>
+                  <source>TK</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3686" publication-type="book">
+Bokser, Samuel's Commentary, pp. 101-2, n. 280<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>101</fpage>
+                  <source>Samuel's Commentary</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3707" publication-type="other">
+Hayerushalmi kiphshuto, 1 vol. to date (Jerusalem, 1934), pp. 121, 157</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3713" publication-type="book">
+David Weiss
+Halivni repeatedly for b., Sources and Traditions, 2 vols. to date (Jerusalem, 1968-)<person-group>
+                     <string-name>
+                        <surname>Weiss</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sources and Traditions</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3737" publication-type="other">
+"Summons to Grace." See nn. 23 and 39</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3744a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d36e3751" publication-type="other">
+n. 20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3757" publication-type="other">
+Bokser, Samuel's Commentary</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3764a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d36e3771" publication-type="other">
+Bokser, "Guide," A NR W, chap.
+12, especially 12. I.e., and 3; 4, D.4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3780" publication-type="other">
+Israel Lewy, Introduction and Commentary to Talmud Yerushalmi B.Q. I-6 [from
+Jahresbericht des jaidisch-theologischen Seminars Fraenckel'scher Stiftung, 1895-1914] Jeru-
+salem, 1970</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3792" publication-type="book">
+Saul Lieberman, Talmud of Caesarea [Sup. to Tarbiz 2] (Jerusalem, 1931)<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Talmud of Caesarea</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3814" publication-type="book">
+Siphre
+Zutta (New York, 1968), especially pp. 125-36<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>125</fpage>
+                  <source>Siphre Zutta</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3842" publication-type="journal">
+"A Few Words by Julian the Architect of
+Ascalon, The Laws of Palestine and its Customs," Tarbiz 40 (1971): 409-17<fpage>409</fpage>
+                  <volume>40</volume>
+                  <source>Tarbiz</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3864" publication-type="journal">
+Epstein, IAL, pp.
+279-87, and 287-90<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>279</fpage>
+                  <source>IAL</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3888" publication-type="book">
+E. S. Rosenthal, "Concerning the New MS to PT Neziqin," Paper
+delivered at The Seventh World Congress of Jewish Studies, Jerusalem, Israel, August 8, 1977<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Concerning the New MS to PT Neziqin</comment>
+                  <source>The Seventh World Congress of Jewish Studies</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3916" publication-type="book">
+Albeck, Bereschit Rabba, 3<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>Bereschit Rabba</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3937" publication-type="other">
+Introduction: 66-84</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3944" publication-type="other">
+Barth, pp. 60-65</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3950" publication-type="other">
+M. Bokser,
+"Two Traditions," pp. 48-52</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3959" publication-type="book">
+E. Z. Melamed, An Introduction to Talmudic Literature
+(Jerusalem, 1973), pp. 573-75<person-group>
+                     <string-name>
+                        <surname>Melamed</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>573</fpage>
+                  <source>An Introduction to Talmudic Literature</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3987" publication-type="other">
+Edward A. Goldman, "Parallel Texts in the Palestinian
+Talmud to Genesis Rabba" (Rabbinic diss., Hebrew Union College-Jewish Institute of Reli-
+gion, 1969)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4001a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d36e4008" publication-type="other">
+nn. 21-54</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4015a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d36e4022" publication-type="book">
+Lieberman, Caesarea, pp. 20-25, especially 22-23<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>Caesarea</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4044a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d36e4051" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4057" publication-type="other">
+Bokser, "Two Traditions."</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4064a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d36e4071" publication-type="other">
+Albeck and Rosenthal in n. 22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4077" publication-type="journal">
+Epstein, IAL, pp.
+324-30<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>324</fpage>
+                  <source>IAL</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4101" publication-type="other">
+Barth, pp. 11-12, 19, 21, 53-54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4108" publication-type="other">
+Bokser, "Guide," ANRW, 7. 2b, and 9.A</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4115a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d36e4122" publication-type="book">
+Saul Lieberman, On the Yerushalmi (Jerusalem, 1929), pp. 12-13<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <source>On the Yerushalmi</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4143" publication-type="journal">
+"Emendations in
+Jerushalmi, F.b," Tarbiz 5 (1933): 107-10<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>107</fpage>
+                  <volume>5</volume>
+                  <source>Tarbiz</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4174" publication-type="book">
+Hilkhoth Ha-Yerushalmi (The Laws of the Pales-
+tinian Talmud) of Rabbi Moses ben Maimon [Texts and Studies of the Jewish Theological Semi-
+nary of America, 13] (New York, 1947), "Introduction," p. 15, n. 128<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Introduction</comment>
+                  <fpage>15</fpage>
+                  <source>Hilkhoth Ha-Yerushalmi (The Laws of the Palestinian Talmud) of Rabbi Moses ben Maimon</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4209a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d36e4216" publication-type="other">
+Epstein, IAL, pp. 324-30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4222" publication-type="other">
+Melamed, pp. 578-79</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4230a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d36e4237" publication-type="other">
+Moshe Assis, "Parallel Sugyot in the Jerusalem Talmud" (Ph.D. diss. Hebrew Univer-
+sity, 1976), passim, especially pp. 5-13.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4247a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d36e4254" publication-type="book">
+R. Simon be-shem R. Yehoshu'a ben Levi R. Yose bar Sha'ul be-shem R. tinoq ve- [word
+left incomplete at the end of a line] 'osin 'oto senif la-'asarah kol ;tu di-verakhot shenayim be-
+fat ve-'ebhad yereq mezammenin man tenateh Rabban Sime'on ben Gamli'el, in the Sokoloff (Jeru-
+salem, 1971) reprint, p. 166b<person-group>
+                     <string-name>
+                        <surname>Yehoshu</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>166</fpage>
+                  <source>R. Yose bar Sha'ul be-shem R. tinoq ve</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4288" publication-type="other">
+Rosenthal, especially p. 312</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4295a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d36e4302" publication-type="other">
+n. 22</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4309a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d36e4316" publication-type="other">
+Vatican MS 30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4322" publication-type="other">
+"earlier recension." In Gen.
+R. #11, p. 90</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4331" publication-type="other">
+Gen. R.
+(sections 7-16)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4341" publication-type="other">
+Vatican MS 60</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4347" publication-type="other">
+Makor ed., p. 33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4353" publication-type="other">
+"it accords with ...." In
+Gen. R. #82, p. 996</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4362" publication-type="other">
+Vatican MS 30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4368" publication-type="other">
+Makor ed., p. 147</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4374" publication-type="other">
+Samuel's Commentary, vol. 2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4381a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d36e4388" publication-type="other">
+Barth, pp. 83-84</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4394" publication-type="other">
+Sokoloff, Geniza Fragments</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

@@ -1,0 +1,1344 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1487012</article-id>
+         <title-group>
+            <article-title>Josephus' Interpretation of Jonah</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Louis H.</given-names>
+                  <surname>Feldman</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1992</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">17</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i265529</issue-id>
+         <fpage>1</fpage>
+         <lpage>29</lpage>
+         <page-range>1-29</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1992 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1487012"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d57e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d57e123" publication-type="book">
+Meyer Dienstfertig, Die Prophetologie in der Religionsphilosophie des ersten nachchrist-
+lichen Jahrhunderts, unter besonderer Beachtung der Verschiedenheit in den Auffassungen des
+Philon von Alexandrien und des Flavius Josephus, diss. Erlangen (Breslau: Schatzky, 1892), pp.
+24-33<person-group>
+                     <string-name>
+                        <surname>Dienstfertig</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>24</fpage>
+                  <source>Die Prophetologie in der Religionsphilosophie des ersten nachchristlichen Jahrhunderts, unter besonderer Beachtung der Verschiedenheit in den Auffassungen des Philon von Alexandrien und des Flavius Josephus</source>
+                  <year>1892</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e157" publication-type="book">
+Erich Fascher, IIpofrtns (Giessen: Tépelmann, 1927), pp. 161-164<person-group>
+                     <string-name>
+                        <surname>Fascher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>161</fpage>
+                  <source>IIpofrtns</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e182" publication-type="book">
+Rudolf Meyer,
+"'rpoQéfrnsý," in Theologisches Wbrterbuch zum Neuen Testament, ed. Gerhard Kittel and Ger-
+hard Friedrich, vol. 6 (English trans.: Grand Rapids: Eerdmans, 1964), pp. 812-828<person-group>
+                     <string-name>
+                        <surname>Meyer</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">rpoQéfrnsý</comment>
+                  <fpage>812</fpage>
+                  <volume>6</volume>
+                  <source>Theologisches Wbrterbuch zum Neuen Testament</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e219" publication-type="journal">
+Joseph
+Blenkinsopp, "Prophecy and Priesthood in Josephus," Journal of Jewish Studies 25 (1974):
+239-262<person-group>
+                     <string-name>
+                        <surname>Blenkinsopp</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>239</fpage>
+                  <volume>25</volume>
+                  <source>Journal of Jewish Studies</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e253" publication-type="book">
+Gerhard Delling, "Die biblische Prophetie bei Josephus," in Otto Betz et al.,
+Josephus-Studien.: Untersuchungen zu Josephus, dem antiken Judentum und dem Neuen Testa-
+ment Otto Michel zum 70, Geburtstag gewidmet (Göttingen: Vandenhoeck &amp; Ruprecht, 1974),
+pp. 109-121<person-group>
+                     <string-name>
+                        <surname>Delling</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Die biblische Prophetie bei Josephus</comment>
+                  <fpage>109</fpage>
+                  <source>Josephus-Studien.: Untersuchungen zu Josephus, dem antiken Judentum und dem Neuen Testament Otto Michel zum 70, Geburtstag gewidmet</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e290" publication-type="book">
+Willem C. van Unnik, "Die Prophetie bei Josephus," in his Flavius Josephus als
+historischer Schriftsteller (Heidelberg: Schneider, 1978), pp. 41-54<person-group>
+                     <string-name>
+                        <surname>van Unnik</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Die Prophetie bei Josephus</comment>
+                  <fpage>41</fpage>
+                  <source>Flavius Josephus als historischer Schriftsteller</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e321" publication-type="journal">
+Christopher T. Begg,
+"The 'Classical Prophets' in Josephus' Antiquities," Louvain Studies 13 (1988): 341-357<person-group>
+                     <string-name>
+                        <surname>Begg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>341</fpage>
+                  <volume>13</volume>
+                  <source>Louvain Studies</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e353a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d57e360" publication-type="journal">
+Begg, "The 'Classical Prophets,' " pp. 345-347<person-group>
+                     <string-name>
+                        <surname>Begg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>345</fpage>
+                  <source>The 'Classical Prophets</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e381" publication-type="book">
+Yves-Marie Duval, Le livre de Jonas
+dans la litterature chrdtienne grecque et latine; sources et influence du Commentaire sur Jonas de
+Saint Jerdme, vol. 1 (Paris: Etudes augustiniennes, 1973), pp. 82-86<person-group>
+                     <string-name>
+                        <surname>Duval</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <volume>1</volume>
+                  <source>Le livre de Jonas dans la litterature chrdtienne grecque et latine; sources et influence du Commentaire sur Jonas de Saint Jerdme</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e416a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d57e423" publication-type="journal">
+Begg, "The 'Classical Prophets," p. 345<person-group>
+                     <string-name>
+                        <surname>Begg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>345</fpage>
+                  <source>The 'Classical Prophets</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e445a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d57e452" publication-type="book">
+Salomo Rappaport, Agada und Exegese bei Flavius Josephus (Vienna: Alexander Kohut
+Memorial Foundation, 1930).<person-group>
+                     <string-name>
+                        <surname>Rappaport</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Agada und Exegese bei Flavius Josephus</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e478a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d57e485" publication-type="book">
+Robert M. Berchman, "Arcana Mundi: Prophecy and Divination in the Vita Mosis
+of Philo of Alexandria," Society of Biblical Literature 1988 Seminar Papers, ed. David J. Lull
+(Atlanta: Scholars Press, 1988), p. 391<person-group>
+                     <string-name>
+                        <surname>Berchman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Arcana Mundi: Prophecy and Divination in the Vita Mosis of Philo of Alexandria</comment>
+                  <fpage>391</fpage>
+                  <source>Society of Biblical Literature 1988 Seminar Papers</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e520a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d57e527" publication-type="journal">
+David E. Aune, "The Use of Trpoojrns in Josephus," Journal of Biblical Literature
+101 (1982): 419-421<object-id pub-id-type="doi">10.2307/3260354</object-id>
+                  <fpage>419</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e543a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d57e550" publication-type="journal">
+Dienstfertig, Die Prophetologie, p. 27<person-group>
+                     <string-name>
+                        <surname>Dienstfertig</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>27</fpage>
+                  <source>Die Prophetologie</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e572a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d57e579" publication-type="book">
+Henry St. John Thackeray, Josephus the Man and the Historian (New York: Jewish
+Institute of Religion, 1929), pp. 110-114.<person-group>
+                     <string-name>
+                        <surname>Thackeray</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>110</fpage>
+                  <source>Josephus the Man and the Historian</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e608a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d57e615" publication-type="book">
+Ralph Marcus, ed., Josephus, vol. 6 (London: Heinemann [Loeb Classical Library],
+1937), p. 275<person-group>
+                     <string-name>
+                        <surname>Marcus</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>275</fpage>
+                  <volume>6</volume>
+                  <source>Josephus</source>
+                  <year>1937</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e646" publication-type="other">
+note c</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e653a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d57e660" publication-type="journal">
+Origen, Against Celsus 7:53<person-group>
+                     <string-name>
+                        <surname>Origen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>53</fpage>
+                  <volume>7</volume>
+                  <source>Against Celsus</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e686a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d57e693" publication-type="other">
+Megillah 31a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e699" publication-type="other">
+Luke 4:16-17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e705" publication-type="other">
+Acts 13:15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e712" publication-type="journal">
+Adolph Biichler, s.v. "Haf-
+tarah," Jewish Encyclopædia (1907), 6:135-136<person-group>
+                     <string-name>
+                        <surname>Biichler</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>135</fpage>
+                  <volume>6</volume>
+                  <source>Jewish Encyclopædia</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e744a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d57e751" publication-type="other">
+Josephus, A 1.127</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e757" publication-type="other">
+Gen. 10:4</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e764a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d57e771" publication-type="other">
+Josephus, p. 113, note c</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e778a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d57e785" publication-type="other">
+Phyllis Lou Trible, "Studies in
+the Book of Jonah" (Ph.D. diss., Columbia University, 1967)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e795a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d57e802" publication-type="other">
+War 1.78</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e808" publication-type="other">
+War 2.113, 2.119; 13.3 11, 17.346</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e814" publication-type="other">
+War 2.308</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e821" publication-type="other">
+War 7.43</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e827" publication-type="other">
+(yivovs); 2.179</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e834a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d57e841" publication-type="journal">
+Seder Eliyahu Rabbah 18.97-98<fpage>97</fpage>
+                  <volume>18</volume>
+                  <source>Seder Eliyahu Rabbah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e858a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d57e865" publication-type="other">
+Josephus (A 7.94)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e871" publication-type="other">
+2 Sam. 7:13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e877" publication-type="other">
+1 Chron. 17:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e884" publication-type="other">
+Josephus (7.94)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e890" publication-type="other">
+Biblical Antiquities 59.2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e896" publication-type="other">
+Sanhedrin 98b</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e903a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d57e910" publication-type="journal">
+Duval, Livre de Jonas, pp. 82-86<person-group>
+                     <string-name>
+                        <surname>Duval</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <source>Livre de Jonas</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e932a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d57e939" publication-type="journal">
+Begg, "The 'Classical Prophets,"' p. 347<person-group>
+                     <string-name>
+                        <surname>Begg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>347</fpage>
+                  <source>The 'Classical Prophets</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e961a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d57e968" publication-type="book">
+Louis H. Feldman, "Use, Authority and Exegesis of Mikra in the Writings of Jose-
+phus," in Mikra: Text, Translation, Reading and Interpretation of the Hebrew Bible in Ancient
+Judaism and Early Christianity (Compendia Rerum ludaicarum ad Novum Testamentum, ed. Jan
+Mulder and Harry Sysling, sec. 2, vol. 1 (Assen: Van Gorcum, 1988), pp. 503-507<person-group>
+                     <string-name>
+                        <surname>Feldman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Use, Authority and Exegesis of Mikra in the Writings of Josephus</comment>
+                  <fpage>503</fpage>
+                  <volume>1</volume>
+                  <source>Mikra: Text, Translation, Reading and Interpretation of the Hebrew Bible in Ancient Judaism and Early Christianity</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1009a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d57e1016" publication-type="journal">
+Pseudo-Longinus, On the Sublime 9.9<person-group>
+                     <string-name>
+                        <surname>Pseudo-Longinus</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <volume>9</volume>
+                  <source>On the Sublime</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1040" publication-type="journal">
+Tacitus, Histories 5.3.1-5.4.1<person-group>
+                     <string-name>
+                        <surname>Tacitus</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <fpage>1</fpage>
+                  <volume>5</volume>
+                  <source>Histories</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1069a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d57e1076" publication-type="book">
+Elias Bickerman, Four Strange Books of the Bible (New York: Schocken, 1967), pp.
+10-11<person-group>
+                     <string-name>
+                        <surname>Bickerman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <source>Four Strange Books of the Bible</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1106a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d57e1113" publication-type="other">
+"Use, Authority and Exegesis of Mikra
+in the Writings of Josephus," pp. 455-466</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1123a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d57e1130" publication-type="other">
+Against Apion
+1.40</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1140a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d57e1147" publication-type="journal">
+Begg, "The 'Classical Prophets,"' p. 348<person-group>
+                     <string-name>
+                        <surname>Begg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>348</fpage>
+                  <source>The 'Classical Prophets</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1169a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d57e1176" publication-type="book">
+Josephus and Modern Scholarship (Berlin:
+de Gruyter, 1984), pp. 477-480<fpage>477</fpage>
+                  <source>Josephus and Modern Scholarship</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1194" publication-type="other">
+"Use, Authority and Exegesis of Mikra in the
+Writings of Josephus," pp. 506-507</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1204a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d57e1211" publication-type="journal">
+Gerhard Delling, "Josephus und das Wunderbare," Novum Testamentum 2 (1957-58):
+291-309<object-id pub-id-type="doi">10.2307/1559975</object-id>
+                  <fpage>291</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1226" publication-type="book">
+George W. MacRae, "Miracle in The Antiquities of Josephus," in Miracles.- Cam-
+bridge Studies in Their Philosophy and History, ed. Charles F. D. Moule (London: Mowbray,
+1965), pp. 136-142<person-group>
+                     <string-name>
+                        <surname>MacRae</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Miracle in The Antiquities of Josephus</comment>
+                  <fpage>136</fpage>
+                  <source>Miracles.- Cambridge Studies in Their Philosophy and History</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1261a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d57e1270" publication-type="journal">
+Pseudo-Philo, Homily on Jonah 19-25<person-group>
+                     <string-name>
+                        <surname>Pseudo-Philo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Homily on Jonah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1291" publication-type="other">
+Ibn Ezra, in his commentary
+on Jonah 2:2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1302a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d57e1309" publication-type="book">
+Louis H. Feldman, "Anti-Semitism in the Ancient World,"
+in History and Hate: The Dimensions of Anti-Semitism, ed. David Berger (Philadelphia: Jewish
+Publication Society, 1986), pp. 30-32<person-group>
+                     <string-name>
+                        <surname>Feldman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Anti-Semitism in the Ancient World</comment>
+                  <fpage>30</fpage>
+                  <source>History and Hate: The Dimensions of Anti-Semitism</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1344a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d57e1351" publication-type="journal">
+Feldman, "Use, Authority and Exegesis of Mikra," pp. 494-496<person-group>
+                     <string-name>
+                        <surname>Feldman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>494</fpage>
+                  <source>Use, Authority and Exegesis of Mikra</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1373a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d57e1380" publication-type="journal">
+Duval, Livre de Jonas, p. 77<person-group>
+                     <string-name>
+                        <surname>Duval</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>77</fpage>
+                  <source>Livre de Jonas</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1401" publication-type="other">
+Hosea: De
+Plantatione 138</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1410" publication-type="other">
+De Mutatione Nominum 139</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1417" publication-type="journal">
+Zechariah: De Confusione Linguarum 62<person-group>
+                     <string-name>
+                        <surname>Zechariah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>62</fpage>
+                  <source>De Confusione Linguarum</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1439a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d57e1446" publication-type="other">
+Midrash on Lamentations, introduction, no.
+31</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1456a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d57e1465" publication-type="book">
+Etan Levine, The Aramaic Version of Jonah (Jerusalem: Jerusalem Academic Press,
+1975), p. 14<person-group>
+                     <string-name>
+                        <surname>Levine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <source>The Aramaic Version of Jonah</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1493" publication-type="journal">
+Justin Martyr, Dialogue with
+Trypho 107<person-group>
+                     <string-name>
+                        <surname>Martyr</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>107</fpage>
+                  <source>Dialogue with Trypho</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1518" publication-type="journal">
+Jerome, Ad Jonas 1.3 and 4.1<person-group>
+                     <string-name>
+                        <surname>Jerome</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <volume>1</volume>
+                  <source>Ad Jonas</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1542" publication-type="other">
+Jon. 4:8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1548" publication-type="book">
+Robert H. Bowers, The Legend of
+Jonah (The Hague: Nijhoff, 1971), pp. 58-59<person-group>
+                     <string-name>
+                        <surname>Bowers</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>58</fpage>
+                  <source>The Legend of Jonah</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1576" publication-type="journal">
+Levine, Aramaic Version of Jonah, p. 14<person-group>
+                     <string-name>
+                        <surname>Levine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <source>Aramaic Version of Jonah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1597" publication-type="journal">
+André Paul, "Flavius Josephus'
+Antiquities of the Jews: An Anti-Christian Manifesto," New Testament Studies 31 (1985):
+473-480<person-group>
+                     <string-name>
+                        <surname>Paul</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>473</fpage>
+                  <volume>31</volume>
+                  <source>New Testament Studies</source>
+                  <year>1985</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1631" publication-type="other">
+A 1.103</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1638" publication-type="other">
+Gen. 9:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1644" publication-type="journal">
+"The Portrait of Noah in Josephus, Philo, Pseudo-Philo's Biblical Antiquities, and
+Rabbinic Midrashim," Proceedings of the American Academy for Jewish Research 55 [1988]: 56,
+n. 30<object-id pub-id-type="doi">10.2307/3622676</object-id>
+                  <fpage>56</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1662" publication-type="other">
+A 20.198-200</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1669a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d57e1676" publication-type="journal">
+Levine, Aramaic Version of Jonah, p. 13<person-group>
+                     <string-name>
+                        <surname>Levine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <source>Aramaic Version of Jonah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1697" publication-type="other">
+Hebrew
+text (1:9)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1706" publication-type="other">
+Josephus (A 9:211)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1714a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d57e1721" publication-type="journal">
+Levine, Aramaic Version of Jonah, p. 10<person-group>
+                     <string-name>
+                        <surname>Levine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <source>Aramaic Version of Jonah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1742" publication-type="journal">
+Bernard J. Bamberger,
+"The Dating of Aggadic Materials," Journal of Biblical Literature 68 (1949): 115-123<object-id pub-id-type="doi">10.2307/3261997</object-id>
+                  <fpage>115</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1757" publication-type="journal">
+Elie
+Bikerman (Elias J. Bickerman), "La Chaine de la Tradition pharisienne," Revue Biblique 59
+(1952): 44-54<person-group>
+                     <string-name>
+                        <surname>Bikerman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>44</fpage>
+                  <volume>59</volume>
+                  <source>Revue Biblique</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1792" publication-type="journal">
+Renée Bloch, "Note Methodologique pour l'étude de la littérature rabbinique,"
+Recherches de Science Religieuse 43 (1955): 194-227<person-group>
+                     <string-name>
+                        <surname>Bloch</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <volume>43</volume>
+                  <source>Recherches de Science Religieuse</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1823" publication-type="journal">
+Alejandro Diez Macho, "The Recently
+Discovered Palestinian Targum: Its Antiquity and Relationship with Other Targumim," Vetus
+Testamentum Supplements 7 (1960): 222-245<person-group>
+                     <string-name>
+                        <surname>Macho</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>222</fpage>
+                  <volume>7</volume>
+                  <source>Vetus Testamentum Supplements</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1858a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d57e1865" publication-type="book">
+Louis Ginzberg, The Legends of the Jews, vol. 6 (Philadelphia: Jewish Publica-
+tion Society, 1928), p. 349, n. 27<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>349</fpage>
+                  <volume>6</volume>
+                  <source>The Legends of the Jews</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1897a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d57e1904" publication-type="journal">
+Bickerman, Four Strange Books, pp. 32-33<person-group>
+                     <string-name>
+                        <surname>Bickerman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>32</fpage>
+                  <source>Four Strange Books</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1926a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d57e1933" publication-type="other">
+Midrash Jonah 100-102</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1939" publication-type="other">
+Pirke de-Rabbi Eliezer 43</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1945" publication-type="other">
+Exodus Rabbah 45.1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1952" publication-type="other">
+Targum on Jon. 1:16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1958" publication-type="journal">
+Ginzberg, Legends of the Jews, 3.29-30<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>29</fpage>
+                  <volume>3</volume>
+                  <source>Legends of the Jews</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1982" publication-type="other">
+6.10-11, n. 54</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1989a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d57e1996" publication-type="other">
+Mekhilta Bo (Pisha) 2a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2002" publication-type="other">
+Jerome on Jon. 1:6</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2009a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d57e2016" publication-type="journal">
+Ginzberg, Legends of the Jews, 6.349, n. 27<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>349</fpage>
+                  <volume>6</volume>
+                  <source>Legends of the Jews</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2042a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d57e2049" publication-type="other">
+above, n. 26</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2056a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d57e2063" publication-type="other">
+14:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2069" publication-type="book">
+Frank Zimmerman, ed., The Book of Tobit (New York: Harper, 1958), pp.
+40-41<person-group>
+                     <string-name>
+                        <surname>Zimmerman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>40</fpage>
+                  <source>The Book of Tobit</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2098a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d57e2105" publication-type="journal">
+Ernest L. Abel, "Were the Jews Banished from Rome in 19 A.D.?" Revue des Etudes
+juives 127 (1968): 383-386<person-group>
+                     <string-name>
+                        <surname>Abel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>383</fpage>
+                  <volume>127</volume>
+                  <source>Revue des Etudes juives</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2136" publication-type="journal">
+Margaret H. Williams, "The Expulsion of the Jews from Rome in
+A.D. 19," Latomus 48 (1989): 765-784<person-group>
+                     <string-name>
+                        <surname>Williams</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>765</fpage>
+                  <volume>48</volume>
+                  <source>Latomus</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2168a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d57e2175" publication-type="book">
+Heinrich Graetz, Die jiidischen Proselyten in Römerreiche unter den Kaisern Domitan,
+Nerva, Trajan und Hadrian (Breslau: Schottlaender, 1884).<person-group>
+                     <string-name>
+                        <surname>Graetz</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Die jiidischen Proselyten in Römerreiche unter den Kaisern Domitan, Nerva, Trajan und Hadrian</source>
+                  <year>1884</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2200a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d57e2207" publication-type="other">
+Josephus (A 20.267)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2214a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d57e2223" publication-type="book">
+"Proselytism and Syncretism" [in Hebrew], in World History of the Jewish People, ed.
+Menahem Stern and Zvi Baras, First Series: The Diaspora in the Hellenistic-Roman World
+(Jerusalem: Am Oved, 1984), pp. 188-207, 340-345, 378-380<person-group>
+                     <string-name>
+                        <surname>Stern</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Proselytism and Syncretism</comment>
+                  <fpage>188</fpage>
+                  <source>World History of the Jewish People</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2257" publication-type="other">
+Histories 5.13.3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2264" publication-type="other">
+Dio Cassius
+(66.5)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2273" publication-type="journal">
+War 7.252-406<fpage>252</fpage>
+                  <volume>7</volume>
+                  <source>War</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2288" publication-type="journal">
+War
+7.405<fpage>405</fpage>
+                  <volume>7</volume>
+                  <source>War</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2308a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d57e2315" publication-type="other">
+Dio (150-235)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2321" publication-type="book">
+Harry J. Leon (The Jews of Ancient Rome
+[Philadelphia: Jewish Publication Society, 1960], p. 252<person-group>
+                     <string-name>
+                        <surname>Leon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>252</fpage>
+                  <source>The Jews of Ancient Rome</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2350a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d57e2357" publication-type="journal">
+Ginzberg, 'Legends of the Jews, 4.247-248<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>247</fpage>
+                  <volume>4</volume>
+                  <source>Legends of the Jews</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2382a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d57e2389" publication-type="other">
+A 1.161</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2396a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d57e2403" publication-type="journal">
+"Jewish 'Sympathizers' in Classical Literature and Inscriptions," Transactions
+of the American Philological Association 81 (1950): 200-208<object-id pub-id-type="doi">10.2307/283580</object-id>
+                  <fpage>200</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2419a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d57e2426" publication-type="journal">
+"Omnipresence of the G-d Fearers," Biblical Archaeology Review 12, no. 5
+(September-October 1986): 58-69<issue>5</issue>
+                  <fpage>58</fpage>
+                  <volume>12</volume>
+                  <source>Biblical Archaeology Review</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e2451" publication-type="journal">
+"Proselytes and 'Sympathizers' in the Light of the New
+Inscriptions from Aphrodisias," Revue des Etudes juives 148 (1989): 265-305<fpage>265</fpage>
+                  <volume>148</volume>
+                  <source>Revue des Etudes juives</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2474a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d57e2481" publication-type="book">
+Saul Lieberman, Greek in Jewish Palestine (New
+York: Jewish Theological Seminary, 1942), pp. 78-80<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>78</fpage>
+                  <source>Greek in Jewish Palestine</source>
+                  <year>1942</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2511a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d57e2518" publication-type="journal">
+Joshua
+Gutmann, s.v. "Antoninus Pius," Encyclopædia Judaica (1971), 3.165-166<person-group>
+                     <string-name>
+                        <surname>Gutmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>165</fpage>
+                  <volume>3</volume>
+                  <source>Encyclopædia Judaica</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2550a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d57e2557" publication-type="book">
+Carsten Colpe, "Die Arsakiden bei Josephus," in
+Josephus-Studien.: Untersuchungen zu Josephus, dem antiken Judentum und dem Neuen Testa-
+ment, Otto Michel zum 70. Geburtstag gewidmet, ed. Otto Betz et al. (Göttingen: Vandenboeck
+&amp; Ruprecht, 1974), pp. 97-108<person-group>
+                     <string-name>
+                        <surname>Colpe</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Die Arsakiden bei Josephus</comment>
+                  <fpage>97</fpage>
+                  <source>Josephus-Studien.: Untersuchungen zu Josephus, dem antiken Judentum und dem Neuen Testament, Otto Michel zum 70. Geburtstag gewidmet</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2595a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d57e2602" publication-type="other">
+A 9.239</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2609a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d57e2616" publication-type="book">
+Ephraim A. Speiser, e.v. "Nineveh," Inter-
+preters' Dictionary of the Bible, vol. 3 [Nashville: Abingdon, 1962], p. 552<person-group>
+                     <string-name>
+                        <surname>Speiser</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Nineveh</comment>
+                  <fpage>552</fpage>
+                  <volume>3</volume>
+                  <source>Interpreters' Dictionary of the Bible</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2651a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d57e2658" publication-type="other">
+Ezra 1:2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2665a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d57e2672" publication-type="journal">
+Feldman, "Use, Authority and Exegesis of Mikra in the Writings of Josephus," pp.
+500-501<person-group>
+                     <string-name>
+                        <surname>Feldman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>500</fpage>
+                  <source>Use, Authority and Exegesis of Mikra in the Writings of Josephus</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2698a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d57e2705" publication-type="journal">
+Louis H. Feldman, "Josephus' Version of Samson," Journal for the Study of
+Judaism 19 (1988): 183-188<person-group>
+                     <string-name>
+                        <surname>Feldman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>183</fpage>
+                  <volume>19</volume>
+                  <source>Journal for the Study of Judaism</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2737a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d57e2744" publication-type="journal">
+Ginzberg, Legends of the Jews, 6.350, n. 34<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>350</fpage>
+                  <volume>6</volume>
+                  <source>Legends of the Jews</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2769a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d57e2776" publication-type="book">
+Theodor H. Gaster, Myth, Legend, and Custom in the Old Testament: A Comparative
+Study with Chapters from Sir James G. Frazer's "Folklore in the Old Testament" (New York:
+Harper, 1969), pp. 655-656<person-group>
+                     <string-name>
+                        <surname>Gaster</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>655</fpage>
+                  <source>Myth, Legend, and Custom in the Old Testament: A Comparative Study with Chapters from Sir James G. Frazer's "Folklore in the Old Testament</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2808a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d57e2815" publication-type="journal">
+Bickerman, Four Strange Books, p. 28.<person-group>
+                     <string-name>
+                        <surname>Bickerman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>28</fpage>
+                  <source>Four Strange Books</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e2837a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d57e2844" publication-type="journal">
+Levine, Aramaic Version of Jonah, p. 9.<person-group>
+                     <string-name>
+                        <surname>Levine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <source>Aramaic Version of Jonah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

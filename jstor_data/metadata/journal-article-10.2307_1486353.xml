@@ -1,0 +1,1956 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486353</article-id>
+         <title-group>
+            <article-title> The Hebrew Paraphrase of Saadiah Gaon's "Kitāb al-Amānāt wa'l-I'tiqādāt" </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Ronald C.</given-names>
+                  <surname>Kiener</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1986</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i265519</issue-id>
+         <fpage>1</fpage>
+         <lpage>25</lpage>
+         <page-range>1-25</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1986 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486353"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d36e129a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d36e136" publication-type="book">
+H. Malter, Saadia Gaon: His Life and Works (Philadelphia, 1921)<person-group>
+                     <string-name>
+                        <surname>Malter</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Saadia Gaon: His Life and Works</source>
+                  <year>1921</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e157" publication-type="book">
+S. W. Baron,
+"Saadia's Communal Activities," in Ancient and Medieval Jewish History, ed. L. Feldman (New
+Brunswick, N.J., 1972), pp. 95-127<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Saadia's Communal Activities</comment>
+                  <fpage>95</fpage>
+                  <source>Ancient and Medieval Jewish History</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e191" publication-type="journal">
+J. Mann, "A Fihrist of Sa'adya's Works," Jewish
+Quarterly Review, n.s. 11 (1920-21): 423-428<person-group>
+                     <string-name>
+                        <surname>Mann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>423</fpage>
+                  <volume>11</volume>
+                  <source>Jewish Quarterly Review</source>
+                  <year>1920</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e223a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d36e232" publication-type="other">
+S. Landauer (Leiden, 1860)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e238" publication-type="other">
+Y. Kafah (Jerusalem, 1970), entitled
+Sefer ha-Nivbar be-Emunot u-ve-De'ot</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e248" publication-type="book">
+S. Rosenblatt, The Book of Beliefs
+and Opinions (New Haven, 1948)<person-group>
+                     <string-name>
+                        <surname>Rosenblatt</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Book of Beliefs and Opinions</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e273a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d36e280" publication-type="book">
+"Die zweite
+Version von Saadja's Abschnitt éiber die Wiederbelebung der Todten," in Festschrift zum
+achtzigsten Geburtstage Moritz Steinschneiders (Leipzig, 1896), Hebrew sec., pp. 98-112<comment content-type="section">Die zweite Version von Saadja's Abschnitt éiber die Wiederbelebung der Todten</comment>
+                  <fpage>98</fpage>
+                  <source>Festschrift zum achtzigsten Geburtstage Moritz Steinschneiders</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e302" publication-type="book">
+H. Malter, Saadia Gaon, p. 194<person-group>
+                     <string-name>
+                        <surname>Malter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e324a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d36e331" publication-type="book">
+W. M. Watt, The Formative Period of Islamic
+Thought (Edinburgh, 1973), pp. 228-249<person-group>
+                     <string-name>
+                        <surname>Watt</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>228</fpage>
+                  <source>The Formative Period of Islamic Thought</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e361a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d36e368" publication-type="journal">
+H. A. Wolfson, "Atomism in Saadia," Jewish Quarterly Review, n.s. 37 (1946):
+107-124<object-id pub-id-type="doi">10.2307/1452066</object-id>
+                  <fpage>107</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e384a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d36e391" publication-type="other">
+Edited and annotated by I. Kitower (Josefow, 1885).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e398a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d36e405" publication-type="book">
+G. Scholem in Major Trends in Jewish Mysticism (New York,
+1946), p. 86.<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>86</fpage>
+                  <source>Major Trends in Jewish Mysticism</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e434a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d36e441" publication-type="book">
+H.
+Ewald and Dukes, Beiträge zur Geschichte der Aeltesten Auslegung und Sprachkldrung des Alten
+Testamentes (Stuttgart, 1844), 2:16, n. 6<person-group>
+                     <string-name>
+                        <surname>Ewald</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <volume>2</volume>
+                  <source>Beiträge zur Geschichte der Aeltesten Auslegung und Sprachkldrung des Alten Testamentes</source>
+                  <year>1844</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e476a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d36e483" publication-type="book">
+Malter, Saadia Gaon, p. 361<person-group>
+                     <string-name>
+                        <surname>Malter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>361</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e505a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d36e512" publication-type="journal">
+P. Bloch, "Die zweite Uebersetzung des
+Saadiahnischen Buches Emunoth wedeoth," Monatsschrift fair die Geschichte und Wissenschaft
+des Judenthums 19 (1870): 401-414, 449-456<person-group>
+                     <string-name>
+                        <surname>Bloch</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>401</fpage>
+                  <volume>19</volume>
+                  <source>Monatsschrift fair die Geschichte und Wissenschaft des Judenthums</source>
+                  <year>1870</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e546" publication-type="book">
+M. Steinschneider, Die Hebraeischen Hand-
+schriften der K. Hof- und Staatsbibliothek (Munich, 1895), pp. 27-28<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>27</fpage>
+                  <source>Die Hebraeischen Handschriften der K. Hof- und Staatsbibliothek</source>
+                  <year>1895</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e576a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d36e583" publication-type="other">
+MS Paris 669</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e590a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d36e597" publication-type="book">
+MS Parma de Rossi 769<fpage>769</fpage>
+                  <source>MS Parma de Rossi</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e609" publication-type="other">
+MS Munich 65/lc (fols. 20b-39a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e615" publication-type="other">
+MS Munich 120 (fols.
+66b-69a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e625" publication-type="book">
+Steinschneider's Die hebraeischen Uebersetzungen
+des Mittelalters und die Juden als Dolmetscher (Berlin, 1893), p. 440<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>440</fpage>
+                  <source>Die hebraeischen Uebersetzungen des Mittelalters und die Juden als Dolmetscher</source>
+                  <year>1893</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e654a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d36e661" publication-type="other">
+MS Warsaw 687, prepared by S. Poznanski before 1912 from MS Munich 42.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e668a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d36e675" publication-type="other">
+MS Oxford Bodl. 1224 (opp. 599; old 1185)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e681" publication-type="book">
+A. Neubauer, Catalogue of the Hebrew
+Manuscripts in the Bodleian Library (Oxford, 1886), 1:432<person-group>
+                     <string-name>
+                        <surname>Neubauer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>432</fpage>
+                  <volume>1</volume>
+                  <source>Catalogue of the Hebrew Manuscripts in the Bodleian Library</source>
+                  <year>1886</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e713a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d36e720" publication-type="book">
+Sefer ha-Tebiyyah ve-ha-Pedut (Mantua, 1556)<source>Sefer ha-Tebiyyah ve-ha-Pedut</source>
+                  <year>1556</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e732" publication-type="book">
+Sefer ha-Pedut ve-ha-Purqan (Mantua, 1556)<source>Sefer ha-Pedut ve-ha-Purqan</source>
+                  <year>1556</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e744" publication-type="book">
+Sefer ha-Galut ve-ha-Pedut (Venice,
+1634)<source>Sefer ha-Galut ve-ha-Pedut</source>
+                  <year>1634</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e760a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d36e767" publication-type="other">
+MS Paris 669, MS Oxford Bodl. 1224, MS Breslau 183, and numerous fragments
+listed by Steinschneider, Hebraeischen Uebersetzungen, p. 440</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e776" publication-type="book">
+Berechiah b. Natronai
+ha-Nakdan's Sefer ha-Ilibbur, in The Ethical Treatises of Berakhya, ed. H. Gollancz (London,
+1902), Hebrew sec. pp. 1-115<person-group>
+                     <string-name>
+                        <surname>Natronaiha-Nakdan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>The Ethical Treatises of Berakhya</source>
+                  <year>1902</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e809a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d36e816" publication-type="book">
+Steinschneider, Hebraeischen Uebersetzungen, pp.
+443-448<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>443</fpage>
+                  <source>Hebraeischen Uebersetzungen</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e840" publication-type="book">
+Malter, Saadia Gaon, pp. 355-359<person-group>
+                     <string-name>
+                        <surname>Malter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>355</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e861" publication-type="book">
+G. Vajda, "Sa'adya Commentateur du Livre
+de la Creation," in Annuaire de l', cole Pratique des Hautes Etudes (Paris, 1959/60), pp. 1-35<person-group>
+                     <string-name>
+                        <surname>Vajda</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sa'adya Commentateur du Livre de la Creation</comment>
+                  <fpage>1</fpage>
+                  <source>Annuaire de l'cole Pratique des Hautes Etudes</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e893a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d36e900" publication-type="other">
+Sefer Hakhmoni, ed. D. Castelli (Florence, 1880), written sometime between 946 and
+982.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e909" publication-type="book">
+A. Sharf, The Universe of Shabbetai Donnolo (New York, 1976), pp. 1-13<person-group>
+                     <string-name>
+                        <surname>Sharf</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>The Universe of Shabbetai Donnolo</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e934a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d36e941" publication-type="book">
+G. Wigoder in his introduction to Bar Ijiyya's The
+Meditation of the Sad Soul (New York, 1968), pp. 4-6<person-group>
+                     <string-name>
+                        <surname>Wigoder</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <source>Bar Ijiyya's The Meditation of the Sad Soul</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e970a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d36e977" publication-type="other">
+Perusch Sepher Jezira, ed. S. J. Halberstam (Berlin, 1885), written sometime in the first
+half of the twelfth century.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e987a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d36e994" publication-type="book">
+Jewish
+Society Through the Ages, ed. H. H. Ben-Sasson and Ettinger (New York, 1969), pp. 195-202<person-group>
+                     <string-name>
+                        <surname>Ben-Sasson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>195</fpage>
+                  <source>Jewish Society Through the Ages</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1023a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d36e1030" publication-type="book">
+Steinschneider, Hebraeischen Uebersetzungen, p. 439<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>439</fpage>
+                  <source>Hebraeischen Uebersetzungen</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1051" publication-type="book">
+Malter, Saadia Gaon, pp.
+370-373<person-group>
+                     <string-name>
+                        <surname>Malter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>370</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1075" publication-type="book">
+Hebraeisch-
+en Uebersetzungen, p. 441, and Landauer's introduction to the Kitcab, p. viii<comment content-type="section">Hebraeischen Uebersetzungen</comment>
+                  <fpage>441</fpage>
+                  <volume>viii</volume>
+                  <source>Kitcab</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1099a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d36e1106" publication-type="book">
+Ethical Treatises of Berakhya, editor's introduction, p. xli.<fpage>xli</fpage>
+                  <source>Ethical Treatises of Berakhya</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1119a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d36e1126" publication-type="book">
+Malter, Saadia Gaon, pp. 283-284, n. 607<person-group>
+                     <string-name>
+                        <surname>Malter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>283</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1148a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d36e1155" publication-type="other">
+MS Paris 669</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1161" publication-type="book">
+nusab me-'inyyan megillah sheniyah, fol.
+8a<fpage>8</fpage>
+                  <source>nusab me-'inyyan megillah sheniyah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1176" publication-type="other">
+MS Vatican 266</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1183a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d36e1190" publication-type="book">
+Z. Ankori, Karaites in Byzantium: The Formative Years, 970-1100 (New York, 1959),
+pp. 191-193.<person-group>
+                     <string-name>
+                        <surname>Ankori</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>191</fpage>
+                  <source>Karaites in Byzantium: The Formative Years, 970-1100</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1219a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d36e1226" publication-type="book">
+Babya Ibn Paquda's Hiddyah, entitled Sefer Hovot ha-Levavot
+(Warsaw, 1875), p. 4<fpage>4</fpage>
+                  <source>Sefer Hovot ha-Levavot</source>
+                  <year>1875</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1245a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d36e1254" publication-type="book">
+H. A. Wolfson, The Philosophy of the Kalam
+(Cambridge, Mass., 1976), pp. 374-382<person-group>
+                     <string-name>
+                        <surname>Wolfson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>374</fpage>
+                  <source>The Philosophy of the Kalam</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1282" publication-type="book">
+H. Davidson, "The Principle That a Finite Body
+Can Contain Only Finite Power," in Studies in Jewish Religious and Intellectual History, ed.
+Stein and Loewe (University, Ala., 1979), pp. 75-92<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Principle That a Finite Body Can Contain Only Finite Power</comment>
+                  <fpage>75</fpage>
+                  <source>Studies in Jewish Religious and Intellectual History</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1318a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d36e1325" publication-type="book">
+E. Ben-Yehudah, Thesaurus Totius
+Hebraitatis (New York, 1959), p. 7747a-b<person-group>
+                     <string-name>
+                        <surname>Ben-Yehudah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7747</fpage>
+                  <source>Thesaurus Totius Hebraitatis</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1354a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d36e1361" publication-type="book">
+Sefer ha-Emunot, pp. 59 f<fpage>59</fpage>
+                  <source>Sefer ha-Emunot</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1374a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d36e1381" publication-type="book">
+G. Scholem, Major Trends, pp. 75-78<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>75</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1402" publication-type="book">
+idem, Reshit
+ha-Qabbalah ve-Sefer ha-Bahir (Jerusalem, 1979), pp. 1-59<fpage>1</fpage>
+                  <source>Reshitha-Qabbalah ve-Sefer ha-Bahir</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1421a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d36e1428" publication-type="book">
+H. A. Wolfson, "The Meaning of Ex Nihilo in the Church Fathers, Arabic and
+Hebrew Philosophy, and St. Thomas," in Medieval Studies in Honor of J. D. M. Ford
+(Cambridge Mass., 1948), pp. 355-370<person-group>
+                     <string-name>
+                        <surname>Wolfson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Meaning of Ex Nihilo in the Church Fathers, Arabic and Hebrew Philosophy, and St. Thomas</comment>
+                  <fpage>355</fpage>
+                  <source>Medieval Studies in Honor of J. D. M. Ford</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1462" publication-type="book">
+Studies in the History of
+Philosophy and Religion, ed. Twersky and Williams (Cambridge, Mass., 1973), 1:207-221<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>207</fpage>
+                  <volume>1</volume>
+                  <source>Studies in the History of Philosophy and Religion</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1493" publication-type="book">
+The Philosophy of the Kalam, pp. 355-372<fpage>355</fpage>
+                  <source>The Philosophy of the Kalam</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1506a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d36e1513" publication-type="book">
+Ha-Shirah ha-'Ivrit be-Sefarad u-ve-Provans, ed.
+J. Schirmann (Jerusalem, 1959), vol. 1, sec. 1:262<person-group>
+                     <string-name>
+                        <surname>Schirmann</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">sec. 1</comment>
+                  <fpage>262</fpage>
+                  <volume>1</volume>
+                  <source>Ha-Shirah ha-'Ivrit be-Sefarad u-ve-Provans</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1548a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d36e1555" publication-type="other">
+Genesis 1:1</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1563a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d36e1570" publication-type="book">
+Moreh Nevukhim, ed. L. Schlossberg (London, 1851),
+vol. 2:20a, 21a<person-group>
+                     <string-name>
+                        <surname>Schlossberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <volume>2</volume>
+                  <source>Moreh Nevukhim</source>
+                  <year>1851</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1602a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d36e1611" publication-type="book">
+Scholem, Major Trends p. 25<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1632" publication-type="book">
+idem, On the Kabbalah and Its Symbolism (New York, 1969), pp. 101 f.<fpage>101</fpage>
+                  <source>On the Kabbalah and Its Symbolism</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1648" publication-type="book">
+idem, "Schépfung aus
+Nichts und Selbstverschrankung Gottes," in Uber einige Grundbegriffe des Judenthums (Frank-
+furt a. M., 1970), pp. 53-89<comment content-type="section">Schépfung aus Nichts und Selbstverschrankung Gottes</comment>
+                  <fpage>53</fpage>
+                  <source>Uber einige Grundbegriffe des Judenthums</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1674a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d36e1681" publication-type="book">
+MS Paris H711:14a, published
+by J. Dan in facsimile form as KeTAV TAMIM (Jerusalem, 1984)<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>KeTAV TAMIM</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1706a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d36e1713" publication-type="book">
+B.T. Bava Batra 6a.<fpage>6</fpage>
+                  <source>Bava Batra</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1726a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d36e1733" publication-type="other">
+J.T. Sukkah 55a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1740a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d36e1747" publication-type="book">
+Tosefta Bava Batra 4:6.<person-group>
+                     <string-name>
+                        <surname>Tosefta</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>6</fpage>
+                  <volume>4</volume>
+                  <source>Bava Batra</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1773a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d36e1780" publication-type="book">
+gastra, B.T. Shabbat 121a<comment content-type="section">gastra</comment>
+                  <fpage>121</fpage>
+                  <source>Shabbat</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1796a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d36e1803" publication-type="other">
+tarqa, Targum Proverbs 25:24</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1810a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d36e1817" publication-type="other">
+Agron (ed. N. Allony [Jerusalem, 1969], p. 154)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1823" publication-type="book">
+Allony's introduction, p. 23<person-group>
+                     <string-name>
+                        <surname>Allony</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <source>introduction</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1844" publication-type="book">
+Sefer Ye;irah entitled Kitab al-Mabadd (ed. Kafab
+[Jerusalem, 1972], p. 49)<person-group>
+                     <string-name>
+                        <surname>Kafab</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>49</fpage>
+                  <source>Kitab al-Mabadd</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1873" publication-type="other">
+ibid., p. 86</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1880a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d36e1887" publication-type="book">
+A. M. Habermann, Toledot ha-Piyyul ve-ha-Shirah (Ramat Gan, 1972), 1:40-49<person-group>
+                     <string-name>
+                        <surname>Habermann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>40</fpage>
+                  <volume>1</volume>
+                  <source>Toledot ha-Piyyul ve-ha-Shirah</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1915" publication-type="other">
+2:11, 23. On Kallirian style in Byzantine Italy</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e1921" publication-type="book">
+J. Schirmann, Studies in the History of
+Hebrew Poetry and Drama [Hebrew] (Jerusalem, 1979), 2:18-29<person-group>
+                     <string-name>
+                        <surname>Schirmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>18</fpage>
+                  <volume>2</volume>
+                  <source>Studies in the History of Hebrew Poetry and Drama</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1953a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d36e1960" publication-type="book">
+M. Zulay, Ha-Askolah ha-Paylanit shel Rav Sa'adyah Ga'on (Jerusalem, 1964)<person-group>
+                     <string-name>
+                        <surname>Zulay</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ha-Askolah ha-Paylanit shel Rav Sa'adyah Ga'on</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e1982a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d36e1989" publication-type="book">
+Zulay, Ha-Askokah, pp. 16-18<person-group>
+                     <string-name>
+                        <surname>Zulay</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Ha-Askokah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2010" publication-type="book">
+L. Zunz's still
+valuable treatment in Literaturgeschichte der synagogalen Poesie (Berlin, 1865), pp. 29-64<person-group>
+                     <string-name>
+                        <surname>Zunz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>29</fpage>
+                  <source>Literaturgeschichte der synagogalen Poesie</source>
+                  <year>1865</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2040a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d36e2047" publication-type="book">
+L. Zunz, Gesammelte Schriften (Berlin, 1876), 3:234-237, and Bloch, "Die zweite
+Uebersetzung," pp. 412-414, 452f.<person-group>
+                     <string-name>
+                        <surname>Zunz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Die zweite Uebersetzung</comment>
+                  <fpage>412</fpage>
+                  <volume>3</volume>
+                  <source>Gesammelte Schriften</source>
+                  <year>1876</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2082a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d36e2089" publication-type="book">
+Ben-Yehudah, Thesaurus, p. 6038a-b.<person-group>
+                     <string-name>
+                        <surname>Ben-Yehudah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>6038</fpage>
+                  <source>Thesaurus</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2111a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d36e2118" publication-type="other">
+Ps. 94:19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2124" publication-type="book">
+Ben-Yehudah, Thesaurus, pp. 7620b-7621a<person-group>
+                     <string-name>
+                        <surname>Ben-Yehudah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7620</fpage>
+                  <source>Thesaurus</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2146a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d36e2153" publication-type="book">
+Ben-Yehudah, Thesaurus, p. 6250b.<person-group>
+                     <string-name>
+                        <surname>Ben-Yehudah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>6250</fpage>
+                  <source>Thesaurus</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2174" publication-type="book">
+Zulay,
+Ha-Askolah, pp. 38-39<person-group>
+                     <string-name>
+                        <surname>Zulay</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>38</fpage>
+                  <source>Ha-Askolah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2199a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d36e2206" publication-type="book">
+Ben-Yehudah, Thesaurus, p. 3898b.<person-group>
+                     <string-name>
+                        <surname>Ben-Yehudah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3898</fpage>
+                  <source>Thesaurus</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2228a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d36e2235" publication-type="book">
+Gollancz's introduction, Ethical
+Treatises of Berakhya, p. 1<person-group>
+                     <string-name>
+                        <surname>Gollancz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>Ethical Treatises of Berakhya</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2261a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d36e2268" publication-type="book">
+Jacobs and A. Neubauer in Jewish Quarterly Review, o.s. 1
+(1889): 182-183, and 2 (1890): 322-333, 520-526<person-group>
+                     <string-name>
+                        <surname>Jacobs</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>322</fpage>
+                  <volume>1</volume>
+                  <source>Jewish Quarterly Review</source>
+                  <year>1889</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2300a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d36e2307" publication-type="book">
+Ethical Treatises of Berakhya, p. 1. On Meshullam<fpage>1</fpage>
+                  <source>Ethical Treatises of Berakhya</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2319" publication-type="book">
+I. Twersky, Rabad of
+Posquieres (Cambridge, Mass., 1962), p. 12-14<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>Rabad of Posquieres</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2348a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d36e2355" publication-type="book">
+First, Bibliotheca Judaica (Leipzig, 1863), 2:210<person-group>
+                     <string-name>
+                        <surname>Furst</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>210</fpage>
+                  <volume>2</volume>
+                  <source>Bibliotheca Judaica</source>
+                  <year>1863</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2383" publication-type="book">
+Ewald and Dukes, Beitriage, 2:16, n.
+6<person-group>
+                     <string-name>
+                        <surname>Ewald</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <volume>2</volume>
+                  <source>Beitriage</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2412a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d36e2419" publication-type="book">
+Gollancz in Ethical Treatises, pp. xxxix-xl<person-group>
+                     <string-name>
+                        <surname>Gollancz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xxxix</fpage>
+                  <source>Ethical Treatises</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2440" publication-type="book">
+H. Gross, Gallia
+Judaica (Paris, 1897), 2:180-185<person-group>
+                     <string-name>
+                        <surname>Gross</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>180</fpage>
+                  <volume>2</volume>
+                  <source>Gallia Judaica</source>
+                  <year>1897</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2471" publication-type="book">
+Steinschneider, Hebraeischen Uebersetzungen, pp.
+958-962. Berechiah also composed poetry<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>958</fpage>
+                  <source>Hebraeischen Uebersetzungen</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2496" publication-type="book">
+I. Davidson, Thesaurus of Medieval Hebrew
+Poetry (New York, 1933), vol. 4, s.v. "Berakhyah b. Natronay ha-Naqdan."<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>4</volume>
+                  <source>Thesaurus of Medieval Hebrew Poetry</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2525a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d36e2532" publication-type="book">
+Steinschneider, Hebraeische Bibliographie 3 (1860): 44, n. 1<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>44</fpage>
+                  <volume>3</volume>
+                  <source>Hebraeische Bibliographie</source>
+                  <year>1860</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2560" publication-type="book">
+Hebraeischen Ueber-
+setzungen, p. 440<fpage>440</fpage>
+                  <source>Hebraeischen Uebersetzungen</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2576a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d36e2583" publication-type="book">
+Y. Rosenthal's introduction in Sefer
+Milhamot ha-Shem (Jerusalem, 1963), p. viii<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>viii</fpage>
+                  <source>Sefer Milhamot ha-Shem</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2613a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d36e2620" publication-type="book">
+Rosenthal's introduction, Milbamot ha-Shem, p. ix<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>ix</fpage>
+                  <source>Milbamot ha-Shem</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2642a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d36e2649" publication-type="book">
+Milfhamot ha-Shem, pp. 157, 159, 161, et al<fpage>157</fpage>
+                  <source>Milfhamot ha-Shem</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2662a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d36e2669" publication-type="book">
+Saadia Gaon, p. 368.<fpage>368</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2682a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d36e2689" publication-type="book">
+A. Habermann in Shirei
+ha-Yibud ve-ha-Kavod (Jerusalem, 1948), pp. 13-45<person-group>
+                     <string-name>
+                        <surname>Habermann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <source>Shireiha-Yibud ve-ha-Kavod</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2717" publication-type="book">
+J. Dan, The Esoteric Theology of Ashkenazi fasidism
+[Hebrew] (Jerusalem, 1968), 47-48<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>47</fpage>
+                  <source>The Esoteric Theology of Ashkenazi fasidism</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2746a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d36e2753" publication-type="journal">
+J. Epstein, "Moise Tako b. Hisdai et son Ketab Tamim," Revue
+des etudes juives 61 (1911): 60-70<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>60</fpage>
+                  <volume>61</volume>
+                  <source>Revue des etudes juives</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2784" publication-type="book">
+J. Dan's introduction to the facsimile
+edition of the Ketav Tamim (Jerusalem, 1984), pp. vii-xxvii<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>vii</fpage>
+                  <source>Ketav Tamim</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2813a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d36e2820" publication-type="other">
+MS Paris H711: 54a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2828a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d36e2835" publication-type="book">
+A. Altmann,
+"Saadya's Theory of Revelation: Its Origin and Background," in Saadya Studies, ed. E. I. J.
+Rosenthal (Manchester, 1943), pp. 4-25<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Saadya's Theory of Revelation: Its Origin and Background</comment>
+                  <fpage>4</fpage>
+                  <source>Saadya Studies</source>
+                  <year>1943</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2870a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d36e2877" publication-type="book">
+Dan, Esoteric Theology, pp. 84-103<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>84</fpage>
+                  <source>Esoteric Theology</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e2898" publication-type="book">
+M. Idel, "The World of Angels in Human
+Form" [Hebrew], in Jerusalem Studies in Jewish Thought, vol. 3, Studies in Mysticism Presented
+to Isaiah Tishby (Jerusalem, 1983/84), pp. 15-19<person-group>
+                     <string-name>
+                        <surname>Idel</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Jerusalem Studies in Jewish Thought</comment>
+                  <fpage>15</fpage>
+                  <volume>3</volume>
+                  <source>Studies in Mysticism Presented to Isaiah Tishby</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2936a1310">
+            <label>70</label>
+            <p>
+               <mixed-citation id="d36e2943" publication-type="other">
+MS Vatican 266, 38a:2.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2950a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d36e2957" publication-type="book">
+Scholem, Major Trends, pp. 108-109.<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>108</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e2979a1310">
+            <label>72</label>
+            <p>
+               <mixed-citation id="d36e2986" publication-type="book">
+Ketavim Nivkharim (Jerusalem, 1945), 1:164-170.<fpage>164</fpage>
+                  <volume>1</volume>
+                  <source>Ketavim Nivkharim</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3005a1310">
+            <label>73</label>
+            <p>
+               <mixed-citation id="d36e3012" publication-type="other">
+MS Vatican 266, fols. 34b: 1 and 39a: 1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3018" publication-type="book">
+Judah Ibn Tibbon's
+Be'ur Millot Zarot in the introduction to Sefer ha-Emunot ve-ha-De'ot (Josefow, 1885), pp.
+11-12<fpage>11</fpage>
+                  <source>Sefer ha-Emunot ve-ha-De'ot</source>
+                  <year>1885</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3042a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d36e3049" publication-type="book">
+Ben-Yehuda's edesh (Thesaurus, p. 78a)<person-group>
+                     <string-name>
+                        <surname>Ben-Yehuda</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">edesh</comment>
+                  <fpage>78</fpage>
+                  <source>Thesaurus</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3074a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d36e3081" publication-type="book">
+Yesod Mora (Jerusalem, 1970), p. 4<fpage>4</fpage>
+                  <source>Yesod Mora</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3096" publication-type="book">
+Malter, Saadia Gaon, p. 283, n. 7<person-group>
+                     <string-name>
+                        <surname>Malter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>283</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3118a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d36e3125" publication-type="book">
+Bloch, "Die zweite Uebersetzung," pp. 453-456.<person-group>
+                     <string-name>
+                        <surname>Bloch</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>453</fpage>
+                  <source>Die zweite Uebersetzung</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3147a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d36e3154" publication-type="book">
+Steinschneider, Hebraeischen Uebersetzungen, pp. 443-448.<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>443</fpage>
+                  <source>Hebraeischen Uebersetzungen</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3176a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d36e3183" publication-type="book">
+Ketavim, 1:159 f.<fpage>159</fpage>
+                  <volume>1</volume>
+                  <source>Ketavim</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3199a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d36e3206" publication-type="book">
+Steinschneider, Hebraeischen Uebersetzungen, pp. 447-448.<person-group>
+                     <string-name>
+                        <surname>Steinschneider</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>447</fpage>
+                  <source>Hebraeischen Uebersetzungen</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3229a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d36e3236" publication-type="book">
+Zeitschrift für hebraeische Bibliographie 7 (1903): 38.<fpage>38</fpage>
+                  <volume>7</volume>
+                  <source>Zeitschrift für hebraeische Bibliographie</source>
+                  <year>1903</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3255a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d36e3262" publication-type="book">
+Saadia Gaon, p. 361.<fpage>361</fpage>
+                  <source>Saadia Gaon</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3275a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d36e3282" publication-type="book">
+Schirmann's introduction, Ha-Shirah ha-'Ivrit, 1:23-55, especially 40-42<person-group>
+                     <string-name>
+                        <surname>Schirmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <volume>1</volume>
+                  <source>Ha-Shirah ha-'Ivrit</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3307a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d36e3314" publication-type="journal">
+I. Efros: "Studies in
+Pre-Tibbonian Philosophical Terminology," Jewish Quarterly Review, n.s. 17 (1926/27):
+129-164, 323-368<object-id pub-id-type="doi">10.2307/1451650</object-id>
+                  <fpage>129</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3332" publication-type="book">
+"More About Abraham b. Hiyya's Philosophical Terminology," ibid.,
+n.s. 20 (1929/30): 113-138<fpage>113</fpage>
+                  <volume>20</volume>
+                  <source>More About Abraham b. Hiyya's Philosophical Terminology</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3355a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d36e3364" publication-type="book">
+Spain, Rabbi Meir b. Todros ha-Levi Abulafia
+(1170?-1244)<person-group>
+                     <string-name>
+                        <surname>Spain</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1170</fpage>
+                  <source>Rabbi Meir b. Todros ha-Levi Abulafia</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3388" publication-type="book">
+Kitab al-Rasd'li, ed. J. Brill
+(Paris, 1871), pp. 14, 36-37, 57<person-group>
+                     <string-name>
+                        <surname>Brill</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <source>Kitab al-Rasd'li</source>
+                  <year>1871</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3417" publication-type="other">
+ibid.,
+p. 137n</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3426" publication-type="book">
+B. Septimus, Hispano-Jewish Culture in Transition: The Career and
+Controversies of Ramah (Cambridge, Mass., 1982)<person-group>
+                     <string-name>
+                        <surname>Septimus</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Hispano-Jewish Culture in Transition: The Career and Controversies of Ramah</source>
+                  <year>1982</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3450" publication-type="book">
+Y.
+Baer, A History of the Jews in Christian Spain (Philadelphia, 1961-66), 1:96-110<person-group>
+                     <string-name>
+                        <surname>Baer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>96</fpage>
+                  <volume>1</volume>
+                  <source>A History of the Jews in Christian Spain</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3481" publication-type="other">
+Aaron b. Meshullam (d. 1210) and the Tosafist Samson b. Abraham of Sens (ca.
+1155-1225)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3490" publication-type="book">
+Kitab al-Rasd'il:57, pp.
+136-137<fpage>136</fpage>
+                  <volume>57</volume>
+                  <source>Kitab al-Rasd'il</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3508" publication-type="book">
+Maimonidean Criticism and the Maimonidean Controversy
+[Leiden, 1965], pp. 119-120<fpage>119</fpage>
+                  <source>Maimonidean Criticism and the Maimonidean Controversy</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3527" publication-type="book">
+E. Urbach, "The Participation of German and French
+Scholars in the Controversy About Maimonides and His Works" [Hebrew], Zion 12 (1947/48):
+150-154<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Participation of German and French Scholars in the Controversy About Maimonides and His Works</comment>
+                  <fpage>150</fpage>
+                  <volume>12</volume>
+                  <source>Zion</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3565a1310">
+            <label>85</label>
+            <p>
+               <mixed-citation id="d36e3572" publication-type="book">
+Dan, Esoteric Theology, p. 23, n. 5<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <source>Esoteric Theology</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3593" publication-type="book">
+idem, Studies in Ashkenazi-Hasidic Literature
+[Hebrew] (Ramat Gan, 1975), p. 32, n. 9<fpage>32</fpage>
+                  <source>Studies in Ashkenazi-Hasidic Literature</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3611" publication-type="book">
+Scholem, Major Trends, p. 86<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>86</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3633" publication-type="book">
+I. Weinstock,
+"Ha-im Hayah Rav Sa'adyah Ga'on Ba'al Sod?" in Be-Ma'agalei ha-Nigleh ve-ha-Nistar
+(Jerusalem, 1969), pp. 81-106<person-group>
+                     <string-name>
+                        <surname>Weinstock</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Be-Ma'agalei ha-Nigleh ve-ha-Nistar</comment>
+                  <fpage>81</fpage>
+                  <source>Ha-im Hayah Rav Sa'adyah Ga'on Ba'al Sod?</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3667" publication-type="other">
+Mantua 1562 edition of the Sefer Ye;irah</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3675a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d36e3684" publication-type="book">
+Dan, Esoteric Theology, pp. 47-48<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>47</fpage>
+                  <source>Esoteric Theology</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3705" publication-type="book">
+Judah he-Hasid's Sefer Iasidim, ed. J. Wistinetzki (Frankfurt
+a. M., 1924), pp. 38-39<person-group>
+                     <string-name>
+                        <surname>Wistinetzki</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>38</fpage>
+                  <source>Judah he-Hasid's Sefer Iasidim</source>
+                  <year>1924</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3734" publication-type="other">
+MS Vatican 266, fols. 74b:
+1-75a:1 and 71a:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3743" publication-type="book">
+Eleazar of Worms's Sefer ha-Roqeah ha-Gadol (Jerusalem, 1960),
+pp. 33-36<fpage>33</fpage>
+                  <source>Eleazar of Worms's Sefer ha-Roqeah ha-Gadol</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3761" publication-type="other">
+I. Marcus, Piety and
+Society (Leiden, 1981), pp. 109-129, 144-145</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3770" publication-type="book">
+Urbach, "Participation of German and French Scholars," pp. 150-152<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>150</fpage>
+                  <source>Participation of German and French Scholars</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3791" publication-type="book">
+Scholem,
+Major Trends, p. 97, and MS Vatican 266, fol. 72b:2<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>97</fpage>
+                  <source>Major Trends</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3815" publication-type="book">
+G. Scholem, Les Origines de la Kabbale
+(Paris, 1966), pp. 327-367<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>327</fpage>
+                  <source>Les Origines de la Kabbale</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3844" publication-type="book">
+Scholem, Origines de la Kabbale, p. 274, n. 109<person-group>
+                     <string-name>
+                        <surname>Scholem</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>274</fpage>
+                  <source>Origines de la Kabbale</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3865" publication-type="book">
+MS Vatican 266, fol. 18a:2;
+Ibn Tibbon: ha-halakim asher lo yehalku<fpage>266</fpage>
+                  <volume>2</volume>
+                  <source>ha-halakim asher lo yehalku</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3883" publication-type="book">
+I. Tishby, Mishnat ha-Zohar, 3d ed. (Jerusalem, 1971), 1:219-231<person-group>
+                     <string-name>
+                        <surname>Tishby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>219</fpage>
+                  <volume>1</volume>
+                  <source>Mishnat ha-Zohar</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3911" publication-type="book">
+Perush Rabbenu Menahem
+me-Reqanati (Lublin, 1605), sec. Behar: 31a-b<fpage>31</fpage>
+                  <source>Perush Rabbenu Menahem me-Reqanati</source>
+                  <year>1605</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3929" publication-type="other">
+MS Vatican 266, fol. 14b:1-2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3936a1310">
+            <label>87</label>
+            <p>
+               <mixed-citation id="d36e3943" publication-type="book">
+A. Sharf, Byzantine Jewry from Justinian to the Fourth Crusade (New York, 1971), pp.
+171-172<person-group>
+                     <string-name>
+                        <surname>Sharf</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>171</fpage>
+                  <source>Byzantine Jewry from Justinian to the Fourth Crusade</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e3971" publication-type="book">
+Schirmann, Studies, 2:9-16<person-group>
+                     <string-name>
+                        <surname>Schirmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <volume>2</volume>
+                  <source>Studies</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e3996a1310">
+            <label>88</label>
+            <p>
+               <mixed-citation id="d36e4003" publication-type="book">
+Sharf, Byzantine Jewry, p. 174.<person-group>
+                     <string-name>
+                        <surname>Sharf</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>174</fpage>
+                  <source>Byzantine Jewry</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4025a1310">
+            <label>89</label>
+            <p>
+               <mixed-citation id="d36e4032" publication-type="book">
+A. Neubauer in Medieval
+Jewish Chronicles, 2:111-132<person-group>
+                     <string-name>
+                        <surname>Neubauer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>111</fpage>
+                  <volume>2</volume>
+                  <source>Medieval Jewish Chronicles</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4060" publication-type="book">
+H. Wolfson, "Additional Notes
+to the Article on the Classification of Sciences in Medieval Jewish Philosophy," Hebrew Union
+College Annual 3 [1926]: 374-375)<person-group>
+                     <string-name>
+                        <surname>Wolfson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Additional Notes to the Article on the Classification of Sciences in Medieval Jewish Philosophy</comment>
+                  <fpage>374</fpage>
+                  <volume>3</volume>
+                  <source>Hebrew Union College Annual</source>
+                  <year>1926</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e4097" publication-type="book">
+R. Mirkin, ed., Megillat Abima'a
+Me'ubedet u-Mugeshet ke-fHomer le-Milon (Jerusalem, 1965), p. 139<person-group>
+                     <string-name>
+                        <surname>Mirkin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>139</fpage>
+                  <source>Megillat Abima'a Me'ubedet u-Mugeshet ke-fHomer le-Milon</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4126a1310">
+            <label>90</label>
+            <p>
+               <mixed-citation id="d36e4133" publication-type="book">
+Ankori, Karaites in Byzantium, pp. 354-452.<person-group>
+                     <string-name>
+                        <surname>Ankori</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>354</fpage>
+                  <source>Karaites in Byzantium</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4155a1310">
+            <label>91</label>
+            <p>
+               <mixed-citation id="d36e4162" publication-type="book">
+Ibid., p. 416.<person-group>
+                     <string-name>
+                        <surname>Ankori</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>354</fpage>
+                  <source>Karaites in Byzantium</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4185a1310">
+            <label>92</label>
+            <p>
+               <mixed-citation id="d36e4192" publication-type="book">
+Dan, Esoteric Theology, pp. 14-20.<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <source>Esoteric Theology</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d36e4214a1310">
+            <label>93</label>
+            <p>
+               <mixed-citation id="d36e4221" publication-type="book">
+Ankori, Karaites in Byzantium, p. 290, n. 114<person-group>
+                     <string-name>
+                        <surname>Ankori</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>290</fpage>
+                  <source>Karaites in Byzantium</source>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

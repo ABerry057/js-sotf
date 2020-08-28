@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i23319549</issue-id>
+         <article-id pub-id-type="doi">10.2307/23319574</article-id>
+         <title-group>
+            <article-title>Ashes to Outcasts: Cremation, Jewish Law, and Identity in Early Twentieth-Century Germany</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Adam S.</given-names>
+                  <surname>Ferziger</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2012</year>
+         </pub-date>
+         <fpage>71</fpage>
+         <lpage>102</lpage>
+         <permissions>
+            <copyright-statement>© Association for Jewish Studies 2012</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/23319574"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d951e107a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d951e114" publication-type="other">
+Robert Liberles, "Emancipation and the Structure of the Jewish Community in the Nineteenth
+Century," Leo Baeck Institute Year Book 31 (1986): 67</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e123" publication-type="other">
+"Jewish History from Within," Institut für die Geshichte der deutschen
+Juden, Hamburg, October 2007</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e132" publication-type="other">
+Oxford Study Group on Toleration of Variety in Judaism,
+Oriental Institute, Oxford University, May 2010</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e142a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d951e149" publication-type="other">
+Isaac Klein, "Does Jewish Law Permit Cremation?" which is reproduced in David
+Golinkin, Responsa in a Moment 2, no. 3 (Dec. 2007), available at http://www.schechter.edu/
+JM_Lib/Responsa.pdf (accessed February 4, 2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e161" publication-type="other">
+Fred Rosner, "Embalming and Cremation
+in Judaism," Koroth 8, no. 11–12 (1985): 218–35</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e170" publication-type="other">
+Aaron Levine, Sefer zikhron Meir 'al 'aveilut (Toronto: Zikhron Meir Publications, 1985), 1:466 nn.
+52, 54</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e180a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d951e187" publication-type="other">
+David Malkiel, "Tekhnologiyah ve-tarbut be-'inyan sereifat ha-metim: nituaḥ histori
+u-fenomonologi," Italia 10 (1993): 58–59. In 38–39 n. 6</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e197a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d951e204" publication-type="other">
+Falk Wiesemann, "Jewish Burials in Germany: Between Tradition, the Enlightenment
+and the Authorities," Leo Baeck Institute Year Book 37 (1992), 29–30 [17–31]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e215a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d951e222" publication-type="other">
+Malkiel, "Tekhnologiyah ve-tarbut," 57</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e228" publication-type="other">
+Eliyahu Benamozegh, Ya 'ane ba- 'esh (Livorno: E. Benamozegh and Sons,
+1906)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e238a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d951e245" publication-type="other">
+B. Sanhedrin 46b</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e252a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d951e259" publication-type="other">
+B. Sanhedrin 44b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e265" publication-type="other">
+Joseph Karo, Shulḥan 'Arukh, Yoreh de'ah 346:1</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e272a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d951e279" publication-type="other">
+Malkiel's fine study, "Tekhnologiyah ve-tarbut," 39–50</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e286a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d951e293" publication-type="other">
+Adam S.
+Ferziger, "The Hamburg Cremation Controversy and the Diversity of German-Jewish Orthodoxy,"
+Leo Baeck Institute Year Book 56, 1 (2011): 175–205</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e306a1310">
+            <label>10</label>
+          
+          
+            <p>
+               <mixed-citation id="d951e315" publication-type="other">
+Yisrael Ḥayim Braun, Beit Yisrael 1 (Pecs: Maier Segel Rosenbaum, 1901)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e321" publication-type="other">
+Va-yelaket Yosef 3 (1901), 71 [35a–b]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e328" publication-type="other">
+90
+[45a–b]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e337" publication-type="other">
+120 [62a–b]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e345a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d951e352" publication-type="other">
+Douglas James Davies, and Lewis H.
+Mates, eds., Encyclopedia of Cremation (Aldershot, England, and Burlington, Vermont: Ashgate
+Publishing, 2006), 148–51</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e365a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d951e372" publication-type="other">
+John McManners, Death and the Enlightenment (Oxford: Oxford University Press, 1981),
+306–19.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e382a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d951e389" publication-type="other">
+Ruth Richardson, Death, Dissection, and the Destitute (Chicago: University of Chicago
+Press, 1988), 77.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e399a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d951e406" publication-type="other">
+M. B. Walsh, "Cremation," New Catholic Encyclopedia (New York: McGraw Hill, 1967),
+441</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e415" publication-type="other">
+Pat Jalland, "Victorian Death and Its
+Decline: 1850–1918," in Death in England: An Illustrated History, ed. Peter Jupp and Clare Gittings
+(Manchester: Manchester University Press, 1999), 255 [230–55]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e428a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d951e435" publication-type="other">
+Wilhelm Bahnsen, Die Stellung der Evangelischen Kirche zu Feuerbestattung (Berlin:
+Alexander Duncker, 1898)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e444" publication-type="other">
+Jennifer Leaney, "Ashes to Ashes: Cremation and the Celebration of Death
+in Nineteenth Century Britain," in Death, Ritual and Bereavement, ed. Ralph Houlbrooke (London
+and New York: Routledge &amp; Kegan Paul, 1989), 118–35</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e457a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d951e464" publication-type="other">
+Harry Rabinowitz, "Cremation," Encyclopaedia Judaica, 2nd ed. (Jerusalem; Detroit:
+Keter; Thomson-Gale, 2007), 5:281.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e475a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d951e482" publication-type="other">
+Bahnsen, Die Stellung.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e489a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d951e496" publication-type="other">
+Wiesemann, "Jewish Burials in Germany," 29.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e503a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d951e510" publication-type="other">
+Norbert Fischer, Vom Gottesacker zum ICrematorium: Eine Socialgeschichte der Friedhöfe
+in Deutschland (Köln-Weimar-Wien: Böhlau, 1996).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e520a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d951e527" publication-type="other">
+http://wwwl.uni-hamburg.
+de/rz3a035//bookham.html (accessed February 7, 2010)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e537a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d951e544" publication-type="other">
+Rabbi Samson
+Raphael Hirsch (1808–88)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e553" publication-type="other">
+"Markus Hirsch," Ency-
+clopaedia Judaica 2nd ed. (Detroit; Jerusalem: Thomson-Gale; Keter, 2007), 9:127</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e562" publication-type="other">
+"Zum Geburtstag
+von Oberrabbiner Marcus Hirsch a.A," Hamburger Familienblatt, September 2, 1933</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e572" publication-type="other">
+"Markus
+Hirsch," The Jewish Encyclopedia (New York and London: Funk and Wagnalls, 1916), 6:413–14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e581" publication-type="other">
+obit-
+uary — [Nachruf] of Markus Hirsch, Israelitisches Familienblatt, May 26,1909</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e590" publication-type="other">
+Jewish Chronicle, Feb-
+ruary 21, 1903, 24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e599" publication-type="other">
+Jacob Katz, A House Divided: Orthodoxy and Schism in Nineteenth Centwy Central
+Europe (Hanover; London: Brandeis; University Press of New England, 1998), 64, 117–18, 129, 176</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e609a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d951e616" publication-type="other">
+Der Israelit 117 (January 25, 1897): 7</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e624a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d951e631" publication-type="other">
+Mordecai Amram [Markus] Hirsch, "Teshuva zayin," in Braun, Beit Yisrael, 43b–45b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e638a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d951e645" publication-type="other">
+Yitzhak Dov Feld, "Toldot ha-meḥaber," in Mayer Lerner, Hadar ha-karmel (London: Shimshon
+Raphael Lerner, 1971), 1–29</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e654" publication-type="other">
+Julius Jung, "Rabbi Dr. Mayer Lerner: The Federation's First Rabbi,"
+in Champions of Orthodoxy (London: self-published, 1974), 1–29</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e664a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d951e671" publication-type="other">
+Feld, "Toldot ha-meḥaber," 18</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e678a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d951e685" publication-type="other">
+Mortimer J. Cohen, Jacob
+Emden: A Man of Controversy (Philadelphia: Dropsie College, 1937), 81–101</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e694" publication-type="other">
+Sid Z. Leiman,
+"When a Rabbi Is Accused of Heresy," Essays in Honor of Marvin Fox 3 (Atlanta: Scholars Press,
+1989), 179–94</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e706" publication-type="other">
+Jacob J. Schacter, "Rabbi Jacob Emden: Life and Major Works" (PhD diss., Harvard
+University, 1988), 370–498</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e716a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d951e723" publication-type="other">
+Der Israelit 45 (1904)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e729" publication-type="other">
+Yitzchok Breitowitz,
+"The Desecration of Graves in Eretz Yisrael: The Struggle to Honor the Dead and Preserve Our
+Historical Legacy," Jewish Law [no date], available at http://www.jlaw.com/Articles/heritage.html
+(accessed April 8, 2010)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e745a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d951e752" publication-type="other">
+Mayer Lerner, "Menuḥah nekhonah," Hame'asef 8, no. 3 (1903): 20, 29a [29a–31b]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e758" publication-type="other">
+Mayer Lerner, Ḥayei 'olam (Berlin: Imzhikowski, 1905), ix</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e766a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d951e773" publication-type="other">
+Yeshayahu [Aviad] Wolfsberg, "AH"U," in 'Arim ve- 'imahot be- Yisrael. ed. Judah Leib
+ha-Kohen [Maimon] Fishman (Jerusalem: Mossad ha-Rav Kook, 1948), 2:16</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e783a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d951e790" publication-type="other">
+Hanoch [Heinrich] Ehrentreu (ha-Kohen), Ḥeker halakha (Munich: Jakob Hirschinger,
+1904)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e800a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d951e807" publication-type="other">
+Avraham ha-Kohen Ehrentreu, "Le-demuto shel ha-Gaon Rabi Ḥanokh
+ha-Kohen Ehrentreu z-"l mi-münchen," Yerushateinu 4 (2010): 205–16</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e816" publication-type="other">
+Jona E. Ehrentreu, "Jewish
+Orthodoxy in Germany," in Men of the Spirit, ed. Leo Jung (New York: Kymson, 1964), 383–87</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e825" publication-type="other">
+"Ehrentreu, Heinrich," Encyclopaedia Judaica, 6:242</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e832" publication-type="other">
+Levi, "Hanokh Hacohen H. Ehrentreu," in
+Jung, Men of the Spirit, 377–82</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e841" publication-type="other">
+Baruch Ẓvi Ophir, ed., Pinkas ha-kehillot—Bavaria (Jerusalem:
+Yad Vashem, 1973), 110</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e851a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d951e858" publication-type="other">
+Lerner, Ḥayei 'olam</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e865a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d951e872" publication-type="other">
+Shimon Ẓvi Deutsch, 'Or ha-'emet (Frankfurt am Main: Y. Kaufman, 1907).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e879a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d951e886" publication-type="other">
+Caro, Shulḥan 'Anikh, Yoreh de'ah, 345:5</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e894a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d951e901" publication-type="other">
+Caro, Shulḥan 'Arukh, Yoreh de'ah, 346:1</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e908a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d951e915" publication-type="other">
+Hirsch, "Teshuva zayin," 45b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e922a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d951e929" publication-type="other">
+Yehiel Mikhael Tikochinski, Gesher ha-ḥayim, 2nd ed. (Jerusalem: Solomon Press,
+1960), 270 [b4]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e939a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d951e946" publication-type="other">
+Adam S. Ferziger,
+Exclusion and Hierarchy: Orthodoxy, Nonobservance, and the Emergence of Modern Jewish Identity
+(Philadephia: University of Pennsylvania Press, 2005), 180–83</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e959a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d951e966" publication-type="other">
+Hirsch, "Teshuva zayin," 45b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e973a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d951e980" publication-type="other">
+Lerner, "Menuḥah nekhonah," 30a.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e988a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d951e995" publication-type="other">
+Lerner, "Menuḥah nekhonah," 29b–30a.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1002a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d951e1009" publication-type="other">
+Lerner, Ḥayei 'olam, xxiii.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1016a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d951e1023" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1030a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d951e1037" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1044a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d951e1051" publication-type="other">
+Ferziger, Exclusion and Hierarchy, 99–105</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1058a1310">
+            <label>46</label>
+          
+            <p>
+               <mixed-citation id="d951e1065" publication-type="other">
+Lerner, "Menuḥah nekhonah," 29b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1073a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d951e1080" publication-type="other">
+Ferziger, Exclusion and Hierarchy, 186–205</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1087a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d951e1094" publication-type="other">
+B. Ḥullin, 5a–b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1101a1310">
+            <label>49</label>
+          
+          
+            <p>
+               <mixed-citation id="d951e1110" publication-type="other">
+Mordechai Breuer, Modernity within Tradition (New York: Columbia University
+Press, 1992), xi</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1119" publication-type="other">
+Steven Lowenstein, "The Pace of Modernization of German Jewry in the Nineteenth
+Century," Leo Baeck Institute Year Book 21 (1976): 41–56</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1129" publication-type="other">
+Monika Richarz, Jüdisches Leben in
+Deutschland (Stuttgart: Deutsche Verlags-Anstalt, 1979), 2:48</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1139a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d951e1146" publication-type="other">
+Breuer, Modernity within Tradition, ix</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1152" publication-type="other">
+Ismar Schorsch, Jewish Reaction to German Anti-
+Semitism, 1870–1914 (New York: Columbia University Press and the Jewish Publication Society,
+1972), 207</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1165a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d951e1172" publication-type="other">
+Judith Bleich, Jacob Ettlinger, His Life and Works (PhD diss.,
+New York University, 1974)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1181" publication-type="other">
+Ferziger, Exclusion and Hierarchy, 90–112</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1187" publication-type="other">
+Ferziger, "Zehut Ortodoksit
+u-ma'amadam shel yehudim she-einam shomrei halakhah: 'iyun me-hadash be-gishato shel ha-Rav
+Ya'akov Ettlinger," in Ha-Ortodoksiyah ha-yehudit: hebetim ḥadashim, ed. Yosef Salmon, Aviezer
+Ravitzky, and Adam S. Ferziger (Jerusalem: Magnes Press, 2006), 179–209</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1203a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d951e1210" publication-type="other">
+Maimonides, Mishne Torah, Hilkhot mamrim 3, 3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1216" publication-type="other">
+Ya'akov
+[Gerald] Blidstein, Samḥut u-meri be-hilkhot ha-Rambam (Tel Aviv: Sifriat Hillel ben- Ḥayim, 2002),
+185–203</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1230a1310">
+            <label>53</label>
+          
+            <p>
+               <mixed-citation id="d951e1237" publication-type="other">
+Jacob Ettlinger, She'elot u-teshuvot binyan Ẓion ha-ḥadashot (Vilna: Metz, 1878), 23.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1244a1310">
+            <label>54</label>
+          
+            <p>
+               <mixed-citation id="d951e1251" publication-type="other">
+Ḥayim Elazar Shapira, Minḥat Elazar (Munkacs: Kahana and Cohen-Fried, 1910),
+l:84b–85b, (entry 74)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1261a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d951e1268" publication-type="other">
+Mayer Lerner, She'elot u-teshuvot hadar ha-karmel (London: Raphael Lemer, 1970), 60
+(entry 16).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1278a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d951e1285" publication-type="other">
+Lerner, Ḥayei 'olam, 133</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1292a1310">
+            <label>57</label>
+          
+            <p>
+               <mixed-citation id="d951e1299" publication-type="other">
+Lerner, Ḥayei 'olam, 130.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1306a1310">
+            <label>58</label>
+          
+            <p>
+               <mixed-citation id="d951e1313" publication-type="other">
+Ehrentreu, Ḥeker halakha, 2</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1321a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d951e1328" publication-type="other">
+Ehrentreu's Ḥeker halakha</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1334" publication-type="other">
+Lerner's Ḥayei 'olam</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1341a1310">
+            <label>60</label>
+          
+            <p>
+               <mixed-citation id="d951e1348" publication-type="other">
+Ehrentreu, Ḥeker halakha, 10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1354" publication-type="other">
+Ehrentreu (11–12, 15)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1360" publication-type="other">
+Ḥayei
+'olam, 121 (no. 29–30)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1370" publication-type="other">
+Ḥayim Gertner, '"Mazot machine': pulmus ha-hilkhati ke-kli le-hagdarat zehut ortodoksit," in Salmon,
+Ravitzky, and Ferziger, Ha-ortodoksiyah ha-yehudit, 395–426</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1379" publication-type="other">
+Meir Hildesheimer and Yehoshua Lie-
+berman, "The Controversy Surrounding Machine-made Matzot: Halakhic, Social, and Economic
+Repercussions," HUCA 75 (2004): 214–16 [193–255]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1392a1310">
+            <label>61</label>
+          
+            <p>
+               <mixed-citation id="d951e1399" publication-type="other">
+Ferziger, Exclusion and Hierarchy, 105–8, 127–30, 146–49</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1405" publication-type="other">
+Robert Liberies, Religious Conflict in a
+Social Context: The Resurgence of Orthodox Judaism in Frankfurt Am Main, 1838–1877 (Westport,
+Conn: Greenwood Press, 1985), 216</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1418a1310">
+            <label>62</label>
+          
+            <p>
+               <mixed-citation id="d951e1425" publication-type="other">
+Hanoch Ehrentreu, "Letter 4," in Deutsch, 'Or ha-'emet, 15.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1432a1310">
+            <label>63</label>
+          
+            <p>
+               <mixed-citation id="d951e1439" publication-type="other">
+Abraham Isaac ha-Kohen Kook, '"Al bamoteinu ḥallalim," Sinai 17 (1945): 1–5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1445" publication-type="other">
+Avraham Sherman, "Ha-yaḥas le-aḥeinu she-parshu mi-darkei ha-Torah ve-ha-miẓvot,"
+in Berurim be-hilkhot ha-Ra'ayah, ed. Moshe Ẓvi Neriah, Atyeh Stern, and Neriah Gutel (Jerusalem:
+Beit ha-Rav, 1992), 505-24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1457" publication-type="other">
+Ẓvi Yaron, The Philosophy of Rabbi Kook, trans. Avner Tomaschoff
+(Jerusalem: Eliner Library, 1991), 289–91</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1467a1310">
+            <label>64</label>
+          
+            <p>
+               <mixed-citation id="d951e1474" publication-type="other">
+Yaron, Philosophy of Rabbi Kook, 21–43, 197–244.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1482a1310">
+            <label>65</label>
+          
+            <p>
+               <mixed-citation id="d951e1489" publication-type="other">
+David Zohar, Meḥuyavut
+Yehuclit be-'olam moderni: Ha-Rav Hirshenson ve-yaḥaso la-modernah (Jerusalem; Ramat Gan:
+Shalom Hartman Institute and Bar-Ilan University Law School, 2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1501" publication-type="other">
+Ari Ackerman, '"Judging the Sinner Favorably': Hayim Hirschensohn on the Need
+for Leniency in Halakhic Decision Making," Modern Judaism 22, no. 3 (2002): 261–80</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1511a1310">
+            <label>66</label>
+          
+            <p>
+               <mixed-citation id="d951e1518" publication-type="other">
+Ḥayim Hirshenson, Malki ba-kodesh 2 (St. Louis: Moinster, 1921), 164.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1525a1310">
+            <label>67</label>
+          
+            <p>
+               <mixed-citation id="d951e1532" publication-type="other">
+Avi Sagi, and Ẓvi Zohar, Ma'agalei zehut yehudit ba-sifrut ha-hilkhatit (Tel Aviv: Hakib-
+butz Hameuchad, 2000), 177–85.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1542a1310">
+            <label>68</label>
+          
+            <p>
+               <mixed-citation id="d951e1549" publication-type="other">
+Ibid., 180.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1556a1310">
+            <label>69</label>
+          
+            <p>
+               <mixed-citation id="d951e1563" publication-type="other">
+Adam S. Ferziger, "Between 'Ash-
+kenazi' and Sepharad: An Early Modern German Rabbinic Response to Religious Pluralism in the
+Spanish-Portuguese Community," Studia Rosenthaliana 35, no. 1 (Spring 2001): 7–22</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1576a1310">
+            <label>70</label>
+          
+            <p>
+               <mixed-citation id="d951e1583" publication-type="other">
+Solomon Levi, "Hanokh Hacohen H. Ehrentreu," in Jung, Men of the Spirit, 381</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1589" publication-type="other">
+Jona E.
+Ehrentreu, "Jewish Orthodoxy in Germany," in Jung, Men of the Spirit, 385</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1600a1310">
+            <label>71</label>
+          
+            <p>
+               <mixed-citation id="d951e1607" publication-type="other">
+Ferziger, Exclusion and Hierarchy, 90–192.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1614a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d951e1621" publication-type="other">
+Mary Douglas, In the Wilderness (Sheffield, UK: Sheffield Academic Press, 1993), 46–47.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1628a1310">
+            <label>73</label>
+          
+            <p>
+               <mixed-citation id="d951e1635" publication-type="other">
+David Ẓvi Hoffmann, She'elot u-teshovot melamed le-ho'il (Frankfurt am Main:
+Hermon, 1926), 29 [28–29]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1645a1310">
+            <label>74</label>
+          
+            <p>
+               <mixed-citation id="d951e1652" publication-type="other">
+Louis Dumont, Homo Hierarchicus: The Caste System and Its Implications, trans. Mark
+Sainsbury, Louis Dumont, and Basia Gulati (Chicago; London: University of Chicago Press, 1980),
+239.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1665a1310">
+            <label>75</label>
+          
+            <p>
+               <mixed-citation id="d951e1672" publication-type="other">
+Ferziger, Exclusion and Hierarchy, 11–15, 113–85.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1679a1310">
+            <label>76</label>
+          
+            <p>
+               <mixed-citation id="d951e1686" publication-type="other">
+Fischer, Vom Gottesacker zum Krematorium.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1694a1310">
+            <label>77</label>
+          
+            <p>
+               <mixed-citation id="d951e1701" publication-type="other">
+Leaney, "Ashes to Ashes," 132.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1708a1310">
+            <label>78</label>
+          
+            <p>
+               <mixed-citation id="d951e1715" publication-type="other">
+Ehrentreu, "Letter 4," 'Or ha-'emet, 13.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1722a1310">
+            <label>79</label>
+          
+            <p>
+               <mixed-citation id="d951e1729" publication-type="other">
+Ibid., 5.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1736a1310">
+            <label>80</label>
+          
+            <p>
+               <mixed-citation id="d951e1743" publication-type="other">
+Menachem Kellner, Must a
+Jew Believe Anything? (London; Portland: Littman Library of Jewish Civilization, 1999)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1753a1310">
+            <label>81</label>
+          
+            <p>
+               <mixed-citation id="d951e1760" publication-type="other">
+Lerner, Ḥayei 'olam, 133.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1767a1310">
+            <label>82</label>
+          
+            <p>
+               <mixed-citation id="d951e1774" publication-type="other">
+Moshe Samet, "Halanat ha-met," Asufot 3
+(1989): 413–65</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1783" publication-type="other">
+Jan Bodenson, Buried Alive: The Terrifying History of Our Most Primal Fear (New York:
+Norton, 2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1792" publication-type="other">
+http://www.classic-literature.co.uk/american-
+authors/nineteenth-century/edgar-allan-poe/the-premature-burial/(accessed August 25, 2010)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1803a1310">
+            <label>83</label>
+          
+            <p>
+               <mixed-citation id="d951e1810" publication-type="other">
+Ehrentreu, Ḥeker halakha, 12.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1817a1310">
+            <label>84</label>
+          
+            <p>
+               <mixed-citation id="d951e1824" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1831a1310">
+            <label>85</label>
+          
+            <p>
+               <mixed-citation id="d951e1838" publication-type="other">
+Hirsch, "Teshuva zayin," 45b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1845a1310">
+            <label>86</label>
+          
+            <p>
+               <mixed-citation id="d951e1852" publication-type="other">
+Emile Durkheim, The Division of Labor in Society, trans. George Simpson (Glencoe, IL:
+The Free Press, 1960), 102.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1862a1310">
+            <label>87</label>
+          
+            <p>
+               <mixed-citation id="d951e1869" publication-type="other">
+David H. Ellenson, "Representative Orthodox
+Responsa on Conversion and Intermarriage in the Contemporary Period," Jewish Social Studies [orig-
+inal series] 48, no. 3–4 (1985): 209–20 [reprinted in David H. Ellenson, Tradition and Transition
+(Lanham, MD: University Press of America, 1989), 81–100]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1885a1310">
+            <label>88</label>
+          
+            <p>
+               <mixed-citation id="d951e1892" publication-type="other">
+Kai T. Erikson, Wayward Puritans: A Study in the Sociology of Deviance (New York,
+London, Sydney: John Wiley &amp; Sons, 1966), 12.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1903a1310">
+            <label>89</label>
+          
+            <p>
+               <mixed-citation id="d951e1910" publication-type="other">
+Hoffmann, She'elot u-teshovot melamed le-ho 'il, 1:28–29 (entry 29).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1917a1310">
+            <label>90</label>
+          
+            <p>
+               <mixed-citation id="d951e1924" publication-type="other">
+Erich Goode, and Nachman Ben-Yehuda, Moral Panics (Cambridge; Oxford: Black-
+well, 1994)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1934a1310">
+            <label>91</label>
+          
+            <p>
+               <mixed-citation id="d951e1941" publication-type="other">
+Liberies, "Emancipation
+and the Structure of the Jewish Community," 67</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e1951a1310">
+            <label>92</label>
+          
+            <p>
+               <mixed-citation id="d951e1958" publication-type="other">
+Yeshayahu Aviad-Wolfsberg, "David
+Hoffmann," in Guardians of Our Heritage, ed. Leo Jung (New York: Bloch, 1958), 361–420</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1967" publication-type="other">
+Jonathan
+M. Brown, Modern Challenges to Halakhah (Northbrook, IL: Hebrew Union College-Jewish Institute
+of Religion, 1969), 1–18</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1979" publication-type="other">
+Louis Ginzberg, Scholars and Saints (Philadelphia; JPS, 1928) 253–55</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1986" publication-type="other">
+Daniel Gordis, Dialectics of Community, Continuity and Compassion: The Legal Writings of Rabbi
+David Zvi Hoffmann and Their Philosophic Foundations (PhD diss., University of Southern California,
+1992), 161–82</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e1998" publication-type="other">
+Jenny Marmorstein, "David Hoffmann; Defender of the Faith," Tradition 9, no. 4 (Dec.
+1966); 91–101</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e2007" publication-type="other">
+Alexander Marx, Essays in Jewish Biography (Philadelphia: JPS, 1947), 185–222</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2014a1310">
+            <label>93</label>
+          
+            <p>
+               <mixed-citation id="d951e2021" publication-type="other">
+Lerner, Ḥayei 'olam, 101</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2028a1310">
+            <label>94</label>
+          
+            <p>
+               <mixed-citation id="d951e2035" publication-type="other">
+Hoffmann, Melammed le-ho 'il, 2:115 (entry 113, 113–16).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2043a1310">
+            <label>95</label>
+          
+            <p>
+               <mixed-citation id="d951e2050" publication-type="other">
+ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2057a1310">
+            <label>96</label>
+          
+            <p>
+               <mixed-citation id="d951e2064" publication-type="other">
+Ibid., 123 (entry 114, 116–24)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2071a1310">
+            <label>98</label>
+          
+            <p>
+               <mixed-citation id="d951e2078" publication-type="other">
+Hoffmann, Melammed le-ho'il, 2:123.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2085a1310">
+            <label>99</label>
+          
+            <p>
+               <mixed-citation id="d951e2092" publication-type="other">
+Daniel Elazar, "Jewish Religious, Ethnic, and National Iden-
+tities: Convergences and Conflicts," in National Variations in Jewish Identity, ed. Steven Cohen and
+Gabriel Horenczyk (Albany, NY: SUNY Press, 1999), 35–52</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2105a1310">
+            <label>100</label>
+          
+            <p>
+               <mixed-citation id="d951e2112" publication-type="other">
+Aharon Lichtenstein, "Brother Daniel and the Jewish Fraternity," Judaism 12 (1963):
+260–80</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2122a1310">
+            <label>101</label>
+          
+            <p>
+               <mixed-citation id="d951e2129" publication-type="other">
+Hoffmann, Melammed le-ho'il, 2:123.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2137a1310">
+            <label>102</label>
+          
+            <p>
+               <mixed-citation id="d951e2144" publication-type="other">
+Lerner, "Menuḥah nekhonah," 29b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2151a1310">
+            <label>103</label>
+          
+            <p>
+               <mixed-citation id="d951e2158" publication-type="other">
+Hoffmann, Melammed le-ho'il, 2:123.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2165a1310">
+            <label>104</label>
+          
+            <p>
+               <mixed-citation id="d951e2172" publication-type="other">
+Die Israelitische Synagogenge-
+meinde (Adass Jisroel) zu Berlin: Ein Rückblick (Berlin: Druck, 1904), 22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e2181" publication-type="other">
+Hoffmann, Melammed
+le-ho'il, 2:133–34, (entry 127)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2191a1310">
+            <label>105</label>
+          
+            <p>
+               <mixed-citation id="d951e2198" publication-type="other">
+B. Sanhedrin 47a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e2204" publication-type="other">
+Shulḥan 'arukh, Yoreh de'ah 362:5</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2211a1310">
+            <label>106</label>
+          
+            <p>
+               <mixed-citation id="d951e2218" publication-type="other">
+Valentin
+Senger and Klaus Meier-Ude, Die jüdischen Friedhöfe in Frankfurt (Frankfurt am Main: Kramer,
+1985)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2231a1310">
+            <label>108</label>
+          
+            <p>
+               <mixed-citation id="d951e2238" publication-type="other">
+Michael Marrus, The Politics of Assimilation: A Study of the French Community at the
+Time of the Dreyfus Affair (Oxford: Oxford University Press, 1971), 1.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2249a1310">
+            <label>109</label>
+          
+            <p>
+               <mixed-citation id="d951e2256" publication-type="other">
+Rita Thalman and Emmanuel Feinerman, Crystal Night: 9–10 November 1938
+(London: Thames and Hudson, 1974), 117–39</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e2265" publication-type="other">
+Leni Yahil, "Ha-Yehudim be-mahanot-ha-rikuz
+be-Germaniyah 'ad le-milkhemet ha-'olam ha-sheniyah," in Maḥanot ha-rikuz ha-Naẓiim, ed. Yisrael
+Guttman and Rahel Manbar (Jerusalem: Yad Vashem, 1984), 55–79</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2278a1310">
+            <label>110</label>
+          
+            <p>
+               <mixed-citation id="d951e2285" publication-type="other">
+Fred Gottlieb, My Childhood in
+Siegburg, 1929–1938 (Jerusalem: Mazo, 2008), 67</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2295a1310">
+            <label>111</label>
+          
+            <p>
+               <mixed-citation id="d951e2302" publication-type="other">
+Yehoshua Rubinstein, "Ha-Rav Menahem Mendel Kirschbaum," in
+Menaḥem Mendel Kirschbaum, Ẓiyyun le-Menaḥem, ed. Yehoshua Rubinstein (New York: Ha-Makhon
+le-Ḥeker Ba'ayot ha-Yahadut ha-Ḥaredit, 1965), v–xiii</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e2314" publication-type="other">
+Ya'akov Ẓur, Ha-Rav
+Ya'akov Hoffmann: ha-ʾish u-tekufato (Ramat Gan: Bar-Ilan University Press, 1999), 147</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2324a1310">
+            <label>112</label>
+          
+            <p>
+               <mixed-citation id="d951e2331" publication-type="other">
+Menahem Mendel Kirschbaum, She 'elot u-teshuvot Menaḥem meshiv I (Lublin: Zweikin,
+1936), 60–73, 407–8.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2341a1310">
+            <label>113</label>
+          
+            <p>
+               <mixed-citation id="d951e2348" publication-type="other">
+Menahem Mendel Kirschbaum, Takkanot: eikh le-hitnaheg ka-'et be- 'efer ha-nisrafim bavh "r
+[ba-avonoteinu ha-rabim] (Krakow: Pinḥas Kirschbaum, 1939), statute 3, n.p.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e2357" publication-type="other">
+Kirschbaum,
+Ẓiyyun le-Menachem, 363</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d951e2366" publication-type="other">
+'Oẓar she'elot u-teshuvot 13 (Brooklyn: NP, 1994), n.p. (end of book)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2373a1310">
+            <label>114</label>
+          
+            <p>
+               <mixed-citation id="d951e2380" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2388a1310">
+            <label>115</label>
+          
+            <p>
+               <mixed-citation id="d951e2395" publication-type="other">
+Kirschbaum, Ẓiyyun le-Menachem, xi.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2402a1310">
+            <label>116</label>
+          
+            <p>
+               <mixed-citation id="d951e2409" publication-type="other">
+Daniel Schiff, "Cremation: Considering Contemporary Concerns," Journal of
+Reform Judaism 34 (Winter, 1987): 37–48, n. 16</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2419a1310">
+            <label>117</label>
+          
+            <p>
+               <mixed-citation id="d951e2426" publication-type="other">
+Shlomo Zevin, Soferim u-sefarim (Tel Aviv, 1959), 306.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d951e2433a1310">
+            <label>118</label>
+          
+            <p>
+               <mixed-citation id="d951e2440" publication-type="other">
+Richard I. Cohen, "Ḥeker ha-historiyah ha-Yehudit le-aḥar
+ha-Shoah—keizad," Zion 75, no. 2 (2010): 201–15</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

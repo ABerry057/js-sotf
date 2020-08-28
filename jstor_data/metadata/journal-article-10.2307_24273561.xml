@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">38</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i24273484</issue-id>
+         <article-id pub-id-type="jstor">24273561</article-id>
+         <title-group>
+            <article-title>A Story in Three Contexts: The Redaction of a Toseftan Pericope</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Binyamin</given-names>
+                  <surname>Katzoff</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2014</year>
+         </pub-date>
+         <fpage>109</fpage>
+         <lpage>127</lpage>
+         <permissions>
+            <copyright-statement>© Association for Jewish Studies 2014</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/24273561"/>
+      
+      
+         <abstract>
+            <p>The introduction of non-halakhic material into a halakhic section of a classical rabbinic work is a redactional choice that can substantially affect the interpretation of both kinds of material. Understanding the relationship between the non-halakhic material and the surrounding halakhic material can affect one's assessment of the redactor's activity. Conversely, assumptions concerning the redactor's activity can affect the interpretation of the non-halakhic material. The relationship between halakhic and non-halakhic material and the implications of that relationship for redaction critical investigations are particularly complex in the case of the Tosefta, because the latter is not a completely independent composition. Some scholars see the Tosefta as an interpretative work based on the Mishna while others argue for a degree of redactional independence. What then is the proper context for the interpretation of materials found in the Tosefta—the Tosefta itself or the Mishnah? The answer to this question will crucially affect our interpretation of the non-halakhic material included in the Tosefta and the relation of that material to the halakhic material. This article demonstrates the difficulty in determining the proper redactional context for the interpretation of Toseftan passages that contain halakhic and non-halakhic material by examining the story of Rabbi Yehuda walking behind his teachers in T. Berakhot 1.2. The reason for inserting the story can be understood in three ways, corresponding to three different definitions of the "halakhic context," in which the Mishnah has a greater or lesser controlling influence over the Tosefta.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d3115034e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d3115034e121" publication-type="other">
+Ofra Meir, "Ha-sippur ha-talui—Ha-heksher ba-talmud," Bikoret u-farshanut 20 (1984):
+103-119</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e130" publication-type="other">
+Meir, "Sippurei ha-'aggadah be-heksherim sifrutiyim ke-tofa'ah makbilah le-mazavei
+higud mishtanim: Sippur he-hasid ve-ha-ruhot be-vet ha-kvarot," Mehkerei Yerushalavim be-folklor
+YehudiYehudi 13—14 (1992): 81-97</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e142" publication-type="other">
+Meir, "Hashpa'at ma'ase ha-'arikhah 'al hashkafat ha-'olam shei sippurei
+ha-'aggadah," Turn 3 (1994): 67-84</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e152" publication-type="other">
+Jeffrey Rubenstein, Talmudic Stories: Narrative Art, Compo-
+sition,sition, and Culture (Baltimore: John Hopkins University Press, 1999), 8-15, 243-267</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e161" publication-type="other">
+Rubenstein,
+"Context and Genre: Elements of a Literary Approach to Rabbinic Narrative," in How Should Late Rab-
+binicbinicbinic Literature be Read in the Modern World?, ed. M. Kraus (Piscataway, NJ: Gorgias Press, 2006),
+137-165</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e176" publication-type="other">
+Rubenstein, Stories of the Babylonian Talmud (Baltimore: Johns Hopkins University Press,
+2010), 7-9, 216-217</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e185" publication-type="other">
+Moshe Simon-Shoshan's review of Talmudic Stories, by Jeffrey Rubenstein, and
+Women Women and Womanhood in the Talmud, by Shulamit Valler, AJS Review 26, no. 1 (2002): 129-131.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e195a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d3115034e202" publication-type="other">
+Yehuda Liebes, Het'o shel 'Elisha: 'Arba'ah she-nikhnesu le-pardes shel
+ha-mistikahha-mistikah (Jerusalem: Akademon, 1990), 27-28.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e212a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d3115034e219" publication-type="other">
+Yonah Fraenkel, "She'elot hermenutiot be-heker sippur ha-'aggadah," Tarbiz 47 (1978):
+139-172</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e228" publication-type="other">
+Fraenkel, "Mehkar sippur ha-'aggadah: Mabat le-'atid lavo"Mada'ei ha-yahadut 30 (1990):
+21-30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e237" publication-type="other">
+Fraenkel, Sippur ha- 'aggadah: 'Ahdut shel tokhen ve-zurah (Tel Aviv: Hakibbutz Hameuchad,
+2001), 32-50.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e247a1310">
+            <label>4</label>
+          
+          
+            <p>
+               <mixed-citation id="d3115034e256" publication-type="other">
+Marc Hirshman, "'Al ha-midrash ke-yizirah: Yozrav
+ve-zurotav," Mada'ei ha-yahadut 32 (1992): 83-90</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e265" publication-type="other">
+Richard Kalmin, "The Modern Study of
+Ancient Rabbinic Literature: Yonah Fraenkel's 'Darkhei ha-'aggadah ve-ha-midrash' [1991]," Proof-
+texts texts 14, no. 2 (1994): 189-204</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e278" publication-type="other">
+Yehoshua Levinson, "Min ha-mashal la-hamza'ah: Zmihat ha-bidyon
+ke-kategoriah tarbutit," Higayon I 'Yona: New Aspects in the Study of Midrash, Aggadah and Piyut, in
+Honor Honor of Professor Yona Fraenkel, ed. Yehoshua Levinson, Jacob Elbaum, and Galit Hasan-Rokem
+(Jerusalem: Magnes Press, 2006), 28-32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e293" publication-type="other">
+Hillel Newman, "Closing the Circle: Yonah Fraenkel, the Tal-
+mudic Story, and Rabbinic History," How Should Late Rabbinic Literature be Read in the Modem
+World?,World?, ed. Matthew Kraus (Piscataway, NJ: Gorgias Press, 2006), 105-135</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e305" publication-type="other">
+Carol Bakhos, "Method
+(ological) Matters in the Study of Midrash," in Current Trends in the Study of Midrash, ed. Carol
+Bakhos (Leiden: Brill, 2006), 179-184</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e317" publication-type="other">
+Amram Tropper, Ke-homer be-yad ha-yozer: Ma 'asei hakha-
+mimmim be-sifrut hazal (Jerusalem: Zalman Shazar Center for Jewish History, 2011), 14—22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e326" publication-type="other">
+Moshe
+Simon-Shoshan, Stories of the Law: Narrative Discourse and the Construction of Authority in the
+MishnahMishnah (Oxford: Oxford University Press, 2012), 6-8.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e340a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d3115034e347" publication-type="other">
+Yonah Fraenkel,
+"Mekomah shel ha-halakhah be-sippurei ha-'aggadah," Mehkerei Talmud 1 (1990): 207—208</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e357a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d3115034e364" publication-type="other">
+Yonah Fraenkel, Midrash ve-'aggadah (Tel Aviv: The
+Open University in Israel, 1996), 694-760</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e373" publication-type="other">
+Fraenkel, "Ha-'aggadah she-ba-mishnah," Mehkerei
+Talmud Talmud 3 (2005): 655-683</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e382" publication-type="other">
+Moshe Simon-Shoshan, "Halakhic Mimesis: Rhetorical and Redactional
+Strategies in Tannaitic Narrative," Dine Israel 24 (2007): 101-123</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e392" publication-type="other">
+Avraham Walfish, "The Nature
+and Purpose of Mishnaic Narrative: Recent Seminal Contributions," AJS Review 32 (2008): 263-
+289</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e404" publication-type="other">
+Leib Moscovitz, "Le-darkhei shiluvan shel ha-'aggadot ba-yerushalmi—Birurim rishoniyim,"
+'Asufot'Asufot 11 (1995): 197-209</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e413" publication-type="other">
+Eliezer Segal, Case Citation in the Babylonian Talmud: The Evidence
+of Tractate of Tractate Nezikin (Atlanta: Scholars Press, 1990), 90</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e422" publication-type="other">
+Catherine Hezser, Form, Function and Histori-
+calcal Significance of the Rabbinic Story in Yerushalmi Neziqin (Tubingen: Mohr, 1993), 262-266</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e431" publication-type="other">
+Menahem Kahana, "Gilui da'at ve-'ories be-gittin: Le-heker hishtalshelut ha-mesorot ha-muhlafot
+be-'arikhatan shel sugyot me'uharot," Tarbiz 62 (1993): 230-231</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e440" publication-type="other">
+Yonatan Feintuch, "Ma'asei hakha-
+mim ve-ha-sugiyot ha-mekhilot 'otam be-masekhet nezikin (ba-bavli)" (PhD diss., Bar Ilan University,
+2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e453" publication-type="other">
+Feintuch, "Ben kohanim le-hakhamim—'A1 'aggadah ^at be-heksherah ha-rahav be-bavli
+yoma," Mehkerei Yerushalayim be-sifrut 'ivrit 23 (2009): 1-14.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e463a1310">
+            <label>7</label>
+          
+          
+            <p>
+               <mixed-citation id="d3115034e472" publication-type="other">
+Sefer Igeret Rav Sherira Gaon, ed. Binyamin M. Lewin (Haifa: G. Itzkovski, 1921), 34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e478" publication-type="other">
+Mishneh Torak. "R. Hiyya
+composed the Tosefta in order to explain the Mishnah."</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e488a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d3115034e495" publication-type="other">
+Zacharias Frankel, Darkhei ha-mishnah (reprinted Tel-Aviv: Sinai, 1959), 322-324</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e501" publication-type="other">
+Chanoch Albeck, Mehkarim ba-baraita ve-tosefta ve-yahasan la-tabnud (Jerusalem: Mossad Harav
+Kook, 1969), 139</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e510" publication-type="other">
+Jacob Nahum Epstein, Mevo'ot le-sifrut ha-tanna'im (Jerusalem: Magnes Press,
+1957), 243.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e520" publication-type="other">
+Shamma Friedman,
+Tosefta Tosefta 'atikta—Pesah rishon (Ramat-Gan: Bar-Ilan University Press, 2002), 17-32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e529" publication-type="other">
+Abraham Gold-
+berg, "Tosefta la-masekhet tamid," in Benjamin De Vries Memorial Volume, ed. Ezra Zion Melamed
+(Jerusalem: Tel Aviv University Research Authority, 1968), 18—42</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e541" publication-type="other">
+Goldberg, Perush la-mishnah
+masekhet shabbat (masekhet shabbat (masekhet shabbat (Jerusalem: The Jewish Theological Seminary of America, 1976), 21-24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e550" publication-type="other">
+Goldberg,
+Perush Perush la-mishnah masekhet 'eruvin (Jerusalem: Magnes Press, 1986), 25-28</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e559" publication-type="other">
+Goldberg, "The Tosefta
+—Companion to the Mishna," in The Literature of the Sages, ed. S. Safrai, (Philadelphia and Assen
+1987) 1: 283-292</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e571" publication-type="other">
+Goldberg, Perush mivni ve-'analiti la-tosefta masekhet bava kamma (Jerusalem:
+Magnes Press, 2001), 8-11.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e581a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d3115034e588" publication-type="other">
+Epstein, Mevo 'ot le-sifrut ha-tanna 'im, 257</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e594" publication-type="other">
+Judith Hauptman, "Mishnah as a Response to
+'Tosefta'," in The Synoptic Problem in Rabbinic Literature, ed. Shaye J.D. Cohen, (Providence: Brown
+Judaic Studies, 2000), 13-34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e606" publication-type="other">
+Hauptman, "Nashim be-masekhet pesahim," in 'Atarah le-Hayim—meh-
+karimkarim ba-sifrut ha-talmudit ve-ha-rabanit le-khevod Profesor Havim Zalman Dimitrovski, ed.
+D. Boyarin et al. (Jerusalem: Magnes Press, 2000): 63-78</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e619" publication-type="other">
+Hauptman, "Does the Tosefta Precede
+the Mishnah: Halakhah, Aggada, and Narrative Coherence," Judaism 50 (2001): 224-240</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e628" publication-type="other">
+Hauptman,
+"The Tosefta as a Commentary on an Early Mishnah," JSIJ4 (2005): 109-132</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e637" publication-type="other">
+Hauptman, Rereading
+the the Mishnah: A New Approach to Ancient Jewish Texts (Tubingen: Mohr Siebeck, 2005), 1-30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e646" publication-type="other">
+Avraham Walfish, "Approaching the Text and Approaching God: The Redaction of Mishnah and
+Tosefta Berakhot,"Jewish Studies 43 (2005-2006): 21-79.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e655" publication-type="other">
+Benjamin De Vries, "Le-zuratan
+ha-mekorit shel halakhot 'ahadot," Tarbiz 24 (1955): 395-398.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e665a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d3115034e672" publication-type="other">
+Fraenkel, Midrash ve-'aggadah, 709-714</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e678" publication-type="other">
+Avraham Walfish, "'Ihud ha-halakhah
+ve-ha-'aggadah: 'Iyyun be-darkhei 'arikhatah shel ha-tosefta," in Higayon L'Yona, 309-331.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e689a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d3115034e696" publication-type="other">
+Simon-Shoshan, Stories of the
+Law,Law, 3-8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e705" publication-type="other">
+Barry Wimpfheimer, Narrating the Law (Philadelphia: University of Pennsylvania Press,
+2011), 31-38</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e714" publication-type="other">
+Wimpfheimer, '"But It Is Not So': Toward a Poetics of Halakhic Narrative in the
+Talmud," Prooftexts 24 (2004): 51-86</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e724" publication-type="other">
+Wimpfheimer, "Talmudic Halakhic Narrative: Broadening
+the Discourse of Jewish Law," Dine Israel 24 (2007): 157-196</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e733" publication-type="other">
+Yonah Fraenkel, "Mekomah shel
+ha-halakhah,'' 205-215</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e742" publication-type="other">
+Fraenkel, Sippur ha-'aggadah, 220-235</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e748" publication-type="other">
+Segal, Case Citation, 90-156</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e754" publication-type="other">
+Fein-
+tuch, Ma'asei hakhamim, 269-271.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e763" publication-type="other">
+Berachyahu Lifshitz, "'Aggadah u-mekomah be-toldot
+Torah she-be'al-peh," Shenaton ha-mishpat ha- 'ivri 22 (2001-2003): 233-328</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e773" publication-type="other">
+Lifshitz, "Aggadah
+and Its Role in the History of the Oral Law," Dine Israel 24 (2007): 11-28</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e782" publication-type="other">
+Yair Lorberbaum,
+Be-zelemBe-zelem 'elohim: Halakhah ve-'aggadah (Tel Aviv: Schocken, 2004), 105-126</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e791" publication-type="other">
+Lorberbaum, "Reflec-
+tions on the Halakhic Status of Aggadah," Dine Israel 24 (2007): 29-64.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e801a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d3115034e808" publication-type="other">
+Moshe Benovitz, Talmud ha-'iggud berakhot perek
+rishon,rishon, ed. Shamma Friedman (Jerusalem: The Society for the Interpretation of the Talmud, 2006),
+402-403.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e820" publication-type="other">
+Leib Moscovitz,
+'"The Holy One Blessed Be He... Does Not Permit the Righteous to Stumble': Reflections on the
+Development of a Remarkable BT Theologoumenon," in Creation and Composition, ed. Jeffrey
+Rubenstein (Tubingen: Mohr Siebeck, 2005), 163-164</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e835" publication-type="other">
+Louis Jacobs, "The Story of R. Phinehas
+ben Yair and His Donkey in B. Hullin 7a-b," in A Tribute to Geza Vermes, ed. Philip Davies and
+Richard White (Sheffield: JSOT Press, 1990), 193-205</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e848" publication-type="other">
+Hezser, Form, Function, 264</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e854" publication-type="other">
+Feintuch,
+"Ma'asei hakhamim," 264-268.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e864a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d3115034e871" publication-type="other">
+Segal, Case Citation, 177—189.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e878a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d3115034e885" publication-type="other">
+Y. Berakhot 1:2 (3a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e891" publication-type="other">
+R. Moshe Margaliot, Pnei Moshe ad 10c., s.v. ומאן דאמר כדי שיהא
+אדם רחוק</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e900" publication-type="other">
+R. Eleazar Azkari, Perush mi-ba 'al sefer hasidim ad 10c., s.v. כמאן דאמר בין תכלת ללבן</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e907" publication-type="other">
+Beno-
+vitz, BT Berakhot, 391-392.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e917a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d3115034e924" publication-type="other">
+Tosefta:,'״מאימתי וכוי
+כנראה שזו פסקה קטועה ממשנתנו (פ״א מ״ב)...ולמחלוקת זו נסמכה הברייתא שלנו״, Tosefta ki-fshuta [henceforth:
+Lieberman, TK (Jerusalem: Jewish Theological Seminary of America, 1992), 1:2.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e937a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d3115034e944" publication-type="other">
+Tosafot, Berakhot 9b, s.v. לק״ש כותיקין</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e950" publication-type="other">
+Rabenu Yonah on Alfasi, Berakhot
+4b (Alfasi pagination), s.v. ומציבו למדים</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e959" publication-type="other">
+R. David Pardo, Hasdei David, Zera'im (Jerusalem: Vagshal,
+1994), 5, ad Berakhot 1:5 s.v. מאימתי</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e969" publication-type="other">
+R. Yehezkel Abramsky, Tosefta hazon Yehezkel, vol. 1,
+Zera'im (Jerusalem: Bene ha-mehaber, 2000), ad Berakhot 1:4, s.v. מצותה</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e978" publication-type="other">
+R. Shmuel Avigdor
+"Tosfa'ah," Minhat Bikkurim ad Berakhot 1:4, s.v. מצותה (printed with the Tosefta at the end of the
+volumes in the Vilna Roram 1881 edition, and subsequent editions of the Talmud Bavli)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e990" publication-type="other">
+Azkari,
+PerushPerush mi-ba'al sefer hasidim ad Y. Berakhot 1:2, s.v. אבל אמרו</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e999" publication-type="other">
+Ginzberg, Perush 'al ha-talmud
+ha-yerushalmiha-yerushalmi (New York: The Jewish Theological Seminary of America, 1941), 1:119-120</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1008" publication-type="other">
+Lieber-
+man, TK, 1992, 1:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1017" publication-type="other">
+Judith Hauptman, Development of the Talmudic Sugva: Relationship Between Tan-
+naiticnaitic and Amoraic Sources (Lanham: University Press of America, 1988), 100.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1028a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1035" publication-type="other">
+Ginzberg, Perush 'al ha-talmud ha-yerushalmi, 1:121</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1041" publication-type="other">
+Lieberman, TK 1:3.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1048a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1055" publication-type="other">
+Uziel Fuchs, "Mi-talmud ha-tanna'im le-talmud ha-ge'onim: 'Iyyun
+be-sugiyat berakhot 11a ve-gilgulehah," Sidra 21 (2006): 69-70</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1064" publication-type="other">
+Mordechai Sabato, "Keri'at
+Shema'a shel R. Yishma'el ve-shel R. 'Ela'azar ben 'Azaryah ve-ha-hakhra'ah ke-vet Hillel," Sidra
+2222 (2007): 41—42</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1076" publication-type="other">
+Richard Hidary, Dispute for the Sake of Heaven: Halakhic Pluralism in the
+Talmud Talmud (Providence: Brown Judaic Studies, 2010), 171-172.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1086a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1093" publication-type="other">
+Talmuds, Y. Berakhot 1:3 (3b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1099" publication-type="other">
+B. Berakhot 1 la</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1106a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1113" publication-type="other">
+Sifrei Devarim, Va-'ethanan, pis.
+34,34, to Deuteronomy 6:7 (ed. Finkelstein, p. 62-63)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1122" publication-type="other">
+Talmuds, Y. Berakhot 1:3 (3b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1128" publication-type="other">
+B. Bera-
+khot 11a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1138" publication-type="other">
+Sabato, "Keri'at Shema, '42-45</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1144" publication-type="other">
+Hidary, Disputefor the Sake of Heaven, 171-173</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1150" publication-type="other">
+Binyamin Katzoff, "Ha-hakhra'ah ke-vet Hillel ve-ha-yahas ben mekorot makbilim," Sidra 27-28
+(2013): 339-351.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1159" publication-type="other">
+Amram Tropper, Ke-homer, 46-66</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1166a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1173" publication-type="other">
+Israel Knohl, "Parashah she-yesh bah kibbul malkhut shamayim (Sifre Bamidbar 115)," Tarbiz 53
+(1983): 17-20.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1183a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1190" publication-type="other">
+Fuchs, "Mi-talmud ha-tanna'im le-talmud ha-ge'onim, 69-70</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1196" publication-type="other">
+Sabato, "Keri'at
+Shema'a," 41^2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1205" publication-type="other">
+Benovitz, BT Berakhot, 502.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1213a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1220" publication-type="other">
+Meir Nehorai, "Mekoro ve-gilgulo shel ha-kelal ha-hilkhati 'ha-'osek ba-mizvah
+patur min ha-mizvah"' (MA thesis, Bar-Ilan University, 2006), 6-12.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1230a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1237" publication-type="other">
+Shmuel Safrai,
+"Ha-hakhra'ah ke-vet Hillel be-Yavneh," in Be-yemei ha-bayit u-ve-yemei ha-mishnah (Jerusalem:
+Magnes Press, 1994), 2:382^t05</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1249" publication-type="other">
+Proceedings of the Seventh World Congress
+of Jewish of Jewish Studies, Division C (Jerusalem: The World Union of Jewish Studies, 1977): 21-44</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1258" publication-type="other">
+Yaacov
+Sussmann, "Heker toldot ha-halakhah u-megilot Midbar-Yehudah: Hirhurim talmudiyim le-'or megilat
+'Mikzat ma'asei ha-torah," Tarbiz 59 (1989-1990): 72-73 n. 237</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1271" publication-type="other">
+Ephraim Halivni, Klale psak
+ha-halakhah ha-halakhah ba-talmud (Lod: Haberman Institute for Literaiy Research, 1998), 130-141</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1280" publication-type="other">
+Avigdor
+Bitman, "Letivo shel ha-klal 'halakhah ke-vet Hillel'," Sinai 82 (1978): 185-196.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1290a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1297" publication-type="other">
+B. Berakhot 1 la</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1303" publication-type="other">
+Abraham Weiss, Talmud Babilonski (geneza litera-
+cka),cka), Czesc II. sugia (Warsaw : Pisma Instytutu Nauk Judaistycznych, 1939), 101</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1312" publication-type="other">
+Benjamin De
+Vries, Mehkarim be-sifrut ha-talmud (Jerusalem: Mossad Harav Kook, 1968), 250-251</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1322" publication-type="other">
+Fuchs,
+"Mi-talmud ha-tanna'im le-talmud ha-ge'onim," 71-74</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1331" publication-type="other">
+Berakhot 16b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1337" publication-type="other">
+Sukkah 25a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1343" publication-type="other">
+Benovitz, Bavli Berakhot, 502</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1349" publication-type="other">
+Berakhot 11a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1355" publication-type="other">
+Fuchs, "Mi-talmud ha-tanna' im
+le-talmud ha-ge'onim," 77-86</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1365" publication-type="other">
+Noah Aminoah, 'Arikhat masekhet sukkah u-mo 'ed katan ba-talmud
+ha-bavli (Tel Aviv: Tel Aviv University Publishing Projects, 1988), 47-49.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1375a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1382" publication-type="other">
+Segal, Case Citation, 189-192</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1388" publication-type="other">
+Simon-Shoshan,
+"Halakhic Mimesis," 120-122</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1397" publication-type="other">
+Fraenkel, Midrash ve-'aggadah, 380-381</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1404" publication-type="other">
+Fraenkel, Darkhei ha-'aggadah
+ve-ha-midrashve-ha-midrash (Givatayim: Yad Latalmud, 1991), 240.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1414a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1421" publication-type="other">
+T. Berakhot 3:19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1427" publication-type="other">
+Lieberman, TK 1:46.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1434a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1441" publication-type="other">
+Rabbenu Hananel ad B. Berakhot 9b s.v. ותיקין (Jerusalem: Makhon Lev Sameah, 1990), 17.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1449a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1456" publication-type="other">
+Yitzhak Gilat, Perakim
+be-hishtalshelutbe-hishtalshelut ha-halakhah (Ramat Gan: Bar Ilan University Press, 1992), 298-300</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1465" publication-type="other">
+Benovitz,
+BavliBavli Berakhot, 401 —413.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1475a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1482" publication-type="other">
+M. Berakhot 3.5</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1489a1310">
+            <label>36</label>
+          
+          
+            <p>
+               <mixed-citation id="d3115034e1498" publication-type="other">
+Y. Berakhot 1:2 (3a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1504" publication-type="other">
+Jacob Nahum Epstein, Mavo le-nusah
+ha-mishnahha-mishnah (Jerusalem: Magnes Press, 1964), 941-945</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1514" publication-type="other">
+Saul Lieberman, 'Al ha-yerushalmi (Darom:
+Jerusalem, 1929), 11-12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1523" publication-type="other">
+Yaacov Sussmann, Talmudyerushalmiyoze la-'or 'alpi ketavyadSkaliger 3
+she-be-sifriyatshe-be-sifriyat ha- 'universitah shel Liden (Jerusalem: The Academy of the Hebrew Language: 2001),
+31,31, and n. 208.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1536a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1543" publication-type="other">
+Fraenkel, Darkhei ha-'aggadah, 271-272</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1549" publication-type="other">
+Rubenstein, Talmudic Stories,
+251-252</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1558" publication-type="other">
+Avraham Walfish, "Ha-'arikhah ha-yozeret ve-koah ha-yezer: 'lyyun be-'arikhat masekhet
+kiddushin ba-mishnah, ba-tosefta, u-va-bavli," JSIJ 7 (2008): 31-43.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1568a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1575" publication-type="other">
+Abramsky, Hazon Yehezkel, Zera'im, 2 ad 1:4 s.v. על ראשי ההרים</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1581" publication-type="other">
+Azkari, Perush mi-ba 'al
+sefer hasidimsefer hasidim to Berakhot 1:2 s.v. ואח״כ.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1590" publication-type="other">
+Gilat, Perakim be-hishtalshelut ha-halakhah, 299.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1597a1310">
+            <label>40</label>
+          
+          
+            <p>
+               <mixed-citation id="d3115034e1606" publication-type="other">
+Shamma Friedman, "Tosefta 'atikta: Le-yahas makbilot
+ha-mishnah ha-mishnah ve-ha-tosefta; (A)K01 kitvei ha-kodesh (Shabbat 16:1)," 7ar6i'z62(1993): 313-338</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1615" publication-type="other">
+Fried-
+man, "Makbilot ha-mishnah ve-ha-tosefta," Proceedings of the Eleventh World Congress of Jewish
+Studies,Studies, Division C (Jerusalem: The World Union of Jewish Studies, 1994): 15-22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1628" publication-type="other">
+Friedman,
+"Tosefta 'atikta: le-yahas makbilot ha-mishnah ve-ha-tosefta; (B) Ma'ase Rabban Gamliel
+ve-zekenim," Bar-Ilan 26-27 (1995): 277-288</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1640" publication-type="other">
+Friedman, "The Primacy of Tosefta to Mishnah in
+Synoptic Parallels," in Introducing Tosefta, ed. Harry Fox and Tirzah Meacham (Hoboken: Ktav,
+1999), 99-122</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1652" publication-type="other">
+Friedman, Tosefta 'atikta: Pesah rishon, 46^t9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1658" publication-type="other">
+Judith Hauptman, "Pesikah
+le-humra be-mishnat gittin," Proceedings of the Tenth World Congress of Jewish Studies, Division C
+(Jerusalem: The World Union of Jewish Studies, 1990): 23-30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1670" publication-type="other">
+Friedman, "Kiyyum me-razon shel
+mizvot 'aseh she-hazman graman 'al yede nashim," Proceedings of the Eleventh World Congress of
+Jewish Jewish Studies (Jerusalem: The World Union of Jewish Studies, 1994): 161-168</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1682" publication-type="other">
+Friedman,
+"Ha-mishnah ke-'ibud shel yezirah tanna'it kedumah," in Neti'ot le-David—Sefer ha-yovel le-David
+Halivni,Halivni, ed. Yaakov Elman et al. (Jerusalem: Orhot Press, 2004), 61-70</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1695" publication-type="other">
+Harry Fox, "Introducing
+Tosefta: Textual, Intratextual and Intertextual Studies," in Introducing Tosefta, 21-37</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1704" publication-type="other">
+David
+Halivni, "Mishnot she-zazu me-mekoman," Sidra 5 (1989): 63-79</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1713" publication-type="other">
+Halivni, Mekorot u-mesorot
+bavabava kamma (Jerusalem: Magnes Press, 1993), 311.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1722" publication-type="other">
+Alberdina Houtman, Mishnah and
+Tosefta:Tosefta: A Synoptic Comparison of the Tractates Berakhot and Shebiit (Tubingen: Mohr, 1996),
+8-18.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1736a1310">
+            <label>41</label>
+          
+          
+            <p>
+               <mixed-citation id="d3115034e1745" publication-type="other">
+Moshe Azar, Tahbir leshon ha-mishnah (Jerusalem: The
+Academy of the Hebrew Language, 1995), 280-281</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1754" publication-type="other">
+Natan Braverman,. "Ha-miliyot ve-ta'arei
+ha-po'el be-lashon ha-tanna'im: Ba-mishnah u-va-tosefta" (PhD diss., Hebrew University, 1995),
+163.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1767" publication-type="other">
+Avigdor, Minhat bikkurim to Berakhot 1:4 s.
+v. אלא.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1776" publication-type="other">
+Y. Berakhot 1:2 (3a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1782" publication-type="other">
+Lieberman, TK 1: 3 ad 10c.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1788" publication-type="other">
+Haupt-
+man, Development of the Talmudic Sugya, 100.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1797" publication-type="other">
+Rubenstein, Talmudic Stories, 250-251.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3115034e1804a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d3115034e1811" publication-type="other">
+Azkari, Abramsky ad 10c.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1817" publication-type="other">
+Lieberman TK
+1:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1826" publication-type="other">
+Benovitz, Bavli Bern-
+khot,khot, 402</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1836" publication-type="other">
+Ginzberg, Perush 'al ha-talmud ha-yerushalmi, 1:122.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1842" publication-type="other">
+Y. Berakhot 1:1 [2d]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1848" publication-type="other">
+Bavli, Berakhot 33b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1854" publication-type="other">
+KesefKesef mishneh, ad Hilkhot keriat Shema 2:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1860" publication-type="other">
+Hasdei David ad 10c.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1866" publication-type="other">
+Saul Lieberman, Hilkhot
+ha-yerushalmi ha-yerushalmi le-ha-rambam (New York: The Jewish Theological Seminary of America, 1947), 20
+n. 20.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1879" publication-type="other">
+R. Akiva in
+B. Berakhot 8b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1888" publication-type="other">
+T. Berakhot 1.1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1894" publication-type="other">
+Bavli ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3115034e1900" publication-type="other">
+M. Berakhot 1.1.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

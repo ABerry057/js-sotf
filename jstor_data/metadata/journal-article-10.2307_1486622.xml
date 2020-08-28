@@ -1,0 +1,2015 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486622</article-id>
+         <title-group>
+            <article-title>Imitatio Dei in Maimonides' "Guide of the Perplexed"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Howard</given-names>
+                  <surname>Kreisel</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1994</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">19</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i265534</issue-id>
+         <fpage>169</fpage>
+         <lpage>211</lpage>
+         <page-range>169-211</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1994 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486622"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d113e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d113e121" publication-type="book">
+Menachem Kellner, Maimnonides on Human Peifection (Atlanta: Scholars Press, 1990)<person-group>
+                     <string-name>
+                        <surname>Kellner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Maimnonides on Human Peifection</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e142" publication-type="book">
+Ira Robinson, Lawrence Kaplan, and Julien Bauer, eds., The Thought of Moses Mainmonides
+(Lewiston, N.Y.: Edwin Mellen Press, 1990)<person-group>
+                     <string-name>
+                        <surname>Robinson</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Thought of Moses Mainmonides</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e166" publication-type="book">
+Warren Harvey, Alfred
+Ivry, David Shatz, and Lawrence Kaplan; and Joel Kraemer, ed., Perspectives on Maimonides
+(Oxford: Oxford University Press, 1991)<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Perspectives on Maimonides</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e195" publication-type="book">
+Alexander Altmann and S.
+M. Stem, Isaac Israeli (Oxford: Oxford University Press, 1958), pp. 197-200<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>197</fpage>
+                  <source>Isaac Israeli</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e223" publication-type="journal">
+Lawrence
+Berman, "The Political Interpretation of the Maxim: The Purpose of Philosophy is the imitation
+of God," Studia Islantica 15 (1961): 53-61<person-group>
+                     <string-name>
+                        <surname>Berman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>53</fpage>
+                  <volume>15</volume>
+                  <source>Studia Islantica</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e257" publication-type="journal">
+David Shapiro, "The Doctrine of the Image of God and Imitatio Dei," Judaism 12
+(1963): 57-77<person-group>
+                     <string-name>
+                        <surname>Shapiro</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>57</fpage>
+                  <volume>12</volume>
+                  <source>Judaism</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e288" publication-type="other">
+Menachem Kellner, ed., Contemporal</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e294" publication-type="other">
+Jewish Ethics [New York:
+Sanhedrin Press, 1978], pp. 127-51</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e304a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d113e313" publication-type="journal">
+Alexander Altmann, "Maimonides' 'Four Perfections'," Israel Oriental
+Studies 2 (1972): 24<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>24</fpage>
+                  <volume>2</volume>
+                  <source>Israel Oriental Studies</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e344" publication-type="book">
+"Maimonides on the Intellect and the
+Scope of Metaphysics," in his Von der imittelalterlichen zur modernen Aujklaerung (Tubingen:
+J.C.B. Mohr, 1987), pp. 60-129<comment content-type="section">Maimonides on the Intellect and the Scope of Metaphysics</comment>
+                  <fpage>60</fpage>
+                  <source>Von der imittelalterlichen zur modernen Aujklaerung</source>
+                  <year>1987</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e370a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d113e377" publication-type="book">
+Shlomo Pines, "The Limitations of Human Knowledge According to
+Al-Farabi, Ibn Bajja, and Maimonides," in Isadore Twersky, ed., Studies in Medieval Jewish
+History, and Literature (Cambridge, Mass.: Harvard University, 1979), pp. 82-109<person-group>
+                     <string-name>
+                        <surname>Pines</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Limitations of Human Knowledge According to Al-Farabi, Ibn Bajja, and Maimonides</comment>
+                  <fpage>82</fpage>
+                  <source>Studies in Medieval Jewish History, and Literature</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e412a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d113e419" publication-type="journal">
+"Maimonides' View of Prophecy
+as the Overflowing Perfection of Man," Daat 13 (1984): xxi-xxvi<fpage>xxi</fpage>
+                  <volume>13</volume>
+                  <source>Daat</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e441" publication-type="journal">
+Warren Harvey, "Political Philosophy and Halakhah in Maimonides"
+[Heb.], lyyun 29 (1980): 209-212<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>209</fpage>
+                  <volume>29</volume>
+                  <source>lyyun</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e472" publication-type="other">
+below</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e480a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d113e489" publication-type="book">
+The Guide of the Perplexed, trans. Shlomo Pines (Chicago: University of Chicago
+Press, 1969)<source>The Guide of the Perplexed</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e504" publication-type="other">
+1:introduction, pp. 17-20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e511" publication-type="other">
+The Arabic edition utilized is that of Yoseph Kafih (Jerusalem: Mossad
+Harav Kook, 1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e520" publication-type="book">
+Herbert Davidson, in his "Maimonides' Secret Position on Creation," in
+Twersky, Studies in Medieval Jewish History and Literature, pp. 16-40<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Maimonides' Secret Position on Creation</comment>
+                  <fpage>16</fpage>
+                  <source>Studies in Medieval Jewish History and Literature</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e549a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d113e556" publication-type="other">
+Treatise on Logic</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e562" publication-type="other">
+Commentary to the Mishnah, particularly
+his introductions to Seder Zera'im, Avot (Eight Chapters)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e571" publication-type="other">
+Sanhedrin 10 (Pereq Heleq)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e578a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d113e585" publication-type="journal">
+"Miracles in Medieval Jewish Philosophy,"
+Jewish Quarterly Review 75 (1984): 99, 106-114<object-id pub-id-type="doi">10.2307/1454148</object-id>
+                  <fpage>99</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e601a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d113e608" publication-type="journal">
+Avraham Nuriel, "The Question of a Primordial or Created World in the
+Philosophy of Maimonides" [Heb.], Tarbiz 33 (1964): 372-387<person-group>
+                     <string-name>
+                        <surname>Nuriel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>372</fpage>
+                  <volume>33</volume>
+                  <source>Tarbiz</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e639" publication-type="journal">
+Warren Harvey, "A Third
+Approach to Maimonides' Cosmogony-Prophetology Puzzle," Harvard Theological Review 74
+(1981): 287-301<object-id pub-id-type="jstor">10.2307/1509453</object-id>
+                  <fpage>287</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e658a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d113e665" publication-type="book">
+Sara Klein-Braslavy, "The Creation of the World and Maimonides' Interpretation of
+Genesis I-V," in S. Pines and Y Yovel, eds., Maimonides and Philosophy (Dordrecht: Matinus
+Nijhoff, 1986), pp. 65-78.<person-group>
+                     <string-name>
+                        <surname>Klein-Braslavy</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Creation of the World and Maimonides' Interpretation of Genesis I-V</comment>
+                  <fpage>65</fpage>
+                  <source>Maimonides and Philosophy</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e700a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d113e707" publication-type="book">
+F E. Peters, Aristotle and the Arabs (New York: New York University Press, 1968)<person-group>
+                     <string-name>
+                        <surname>Peters</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Aristotle and the Arabs</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e730a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d113e737" publication-type="journal">
+Pines's introduction to his translation of the Guide, "The Philosophic Sources of The Guide of
+the Perplexed, " pp. lxxviii-cviii.<person-group>
+                     <string-name>
+                        <surname>Pines</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>lxxviii</fpage>
+                  <source>The Philosophic Sources of The Guide of the Perplexed</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e762a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d113e769" publication-type="other">
+Altmann, "Maimonides on
+the Intellect."</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e779a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d113e786" publication-type="book">
+Julius Guttmann, "Maimonides' Theology" [Heb.], in I. Epstein,
+E. Levine, and C. Roth, eds., Essays in Honour of J. H. Herir (London: Edward Goldston,
+1942), pp. 53-69<person-group>
+                     <string-name>
+                        <surname>Guttmann</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Maimonides' Theology</comment>
+                  <fpage>53</fpage>
+                  <source>Essays in Honour of J. H. Herir</source>
+                  <year>1942</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e820" publication-type="book">
+Reason and Knowledge [Heb.], ed. S.H. Bergman
+and N. Rotenstreich (Jerusalem: Magnes Press, 1979), pp. 103-118<person-group>
+                     <string-name>
+                        <surname>Bergman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>103</fpage>
+                  <source>Reason and Knowledge</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e848" publication-type="book">
+Alfred Ivry, "Maimonides and Neoplatonism: Challenge and Response," in Lenn E. Goodman,
+ed., Neoplatonism and Jewish Thought (Albany: State University of New York Press, 1992),
+pp. 137-156<person-group>
+                     <string-name>
+                        <surname>Ivry</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Maimonides and Neoplatonism: Challenge and Response</comment>
+                  <fpage>137</fpage>
+                  <source>Neoplatonism and Jewish Thought</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e883a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d113e890" publication-type="journal">
+Altmann and Stern, Isaac Israeli, pp. 198-199.<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>198</fpage>
+                  <source>Isaac Israeli</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e912a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d113e919" publication-type="book">
+Joseph Ibn Zaddik, Book of the Microcosm [Heb.], ed. S. Horovitz
+(Breslau, 1903), p. 65<person-group>
+                     <string-name>
+                        <surname>Zaddik</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>65</fpage>
+                  <source>Book of the Microcosm</source>
+                  <year>1903</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e947" publication-type="book">
+Isaac Shailat, ed. and trans., Letters and Essays of Moses Maimonides [Arabic and Heb.]
+(Maaleh Adumim: Maaliyot Press, 1988), p. 552<person-group>
+                     <string-name>
+                        <surname>Shailat</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>552</fpage>
+                  <source>Letters and Essays of Moses Maimonides</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e976a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d113e983" publication-type="other">
+Exod. 33:13</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e991a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d113e998" publication-type="other">
+Exod 34:5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1005a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d113e1012" publication-type="other">
+Louis Finkelstein (New York:
+Jewish Theological Seminary, 1969), p. 114</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1021" publication-type="other">
+Reuven Hammer
+(New Haven: Yale University, 1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1031a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d113e1038" publication-type="book">
+Walter Wurzberger, "Imitatio Dei in Maimonides' Sefer Hamnitzvot and
+the Mishneh Torah," in Jonathan Sacks, ed., Tradition and Transition: Essays Presented to
+Chief Rabbi Sirt Immanuel Jakobovits (London: Jews College, 1986), pp. 321-324<person-group>
+                     <string-name>
+                        <surname>Wurzberger</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Imitatio Dei in Maimonides' Sefer Hamnitzvot and the Mishneh Torah</comment>
+                  <fpage>321</fpage>
+                  <source>Tradition and Transition: Essays Presented to Chief Rabbi Sirt Immanuel Jakobovits</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1073a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d113e1080" publication-type="journal">
+Laws of Slaves 9:8<fpage>8</fpage>
+                  <volume>9</volume>
+                  <source>Laws of Slaves</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1095" publication-type="other">
+Ps. 145:8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1102a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d113e1109" publication-type="journal">
+Laws of Megillah 2:17<fpage>17</fpage>
+                  <volume>2</volume>
+                  <source>Laws of Megillah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1124" publication-type="journal">
+Gerald
+Blidstein, "The Concept of Joy in Maimonides" [Heb.], Eshel Beer-Sheva 2 (1980): 145-164<person-group>
+                     <string-name>
+                        <surname>Blidstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>145</fpage>
+                  <volume>2</volume>
+                  <source>Eshel Beer-Sheva</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1155" publication-type="journal">
+Isadore Twersky, "On Law and Ethics in the Mishnelh Torah: A Case Study of Hilkhot Megillah
+II: 17," Tradition 24 (1989): 138-149<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>138</fpage>
+                  <volume>24</volume>
+                  <source>Tradition</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1187" publication-type="journal">
+Lawrence Kaplan, "Hilkhot Megillah 2:17 Revisited:
+A Halakhic Analysis," Tradition 26 (1991): 14-21<person-group>
+                     <string-name>
+                        <surname>Kaplan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <volume>26</volume>
+                  <source>Tradition</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1218" publication-type="journal">
+Laws of Imnpure Foods 16:12<fpage>12</fpage>
+                  <volume>16</volume>
+                  <source>Laws of Imnpure Foods</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1234a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d113e1241" publication-type="journal">
+"The Ethical Views of Maimonides Within the Context of Islamicate
+Civilization," in Harvey et al., Perspectives on Mainionides, pp. 13-32<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <source>Perspectives on Mainionides</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1265" publication-type="journal">
+Alvin Reines,
+"Maimonides' Concept of Mosaic Prophecy," Hebrew Union College Annual 40 (1969): 350
+f.<person-group>
+                     <string-name>
+                        <surname>Reines</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>350</fpage>
+                  <volume>40</volume>
+                  <source>Hebrew Union College Annual</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1299" publication-type="book">
+Kalman Bland, "Moses and the Law According to Maimonides," in J. Reinharz and
+D. Swetschinski, eds., Mystics, Philosophers and Politicians (Durham: Duke University Press,
+1982), pp. 49-66<person-group>
+                     <string-name>
+                        <surname>Bland</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Moses and the Law According to Maimonides</comment>
+                  <fpage>49</fpage>
+                  <source>Mystics, Philosophers and Politicians</source>
+                  <year>1982</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1335a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d113e1344" publication-type="other">
+1:24.54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1350" publication-type="journal">
+Deut. 28:9<fpage>9</fpage>
+                  <volume>28</volume>
+                  <source>Deut.</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1366" publication-type="other">
+1:38.87</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1373a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d113e1380" publication-type="other">
+1:34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1386" publication-type="other">
+2:36</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1392" publication-type="other">
+3:33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1399" publication-type="journal">
+"Individual Perfection vs. Communal Welfare and the Problem of Contradictions in
+Maimonides' Approach to Ethics," Proceedings of the American Academy for Jewish Research
+58 (1992): 107-141<object-id pub-id-type="doi">10.2307/3622631</object-id>
+                  <fpage>107</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1418a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d113e1425" publication-type="journal">
+Abraham Melamed, "Philosophical Commentaries to Jeremiah 9, 22-23 in Medieval and
+Renaissance Jewish Thought" [Heb.], Jerusalenm Studies in Jewish Thought 4 (1984-85): 31-82<person-group>
+                     <string-name>
+                        <surname>Melamed</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>31</fpage>
+                  <volume>4</volume>
+                  <source>Jerusalenm Studies in Jewish Thought</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1457a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d113e1464" publication-type="other">
+Torah 2:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1470" publication-type="other">
+Guide 1:68</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1476" publication-type="journal">
+Aristotle, Metaphysics
+XII.7.1072b<person-group>
+                     <string-name>
+                        <surname>Aristotle</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>7</issue>
+                  <fpage>1072b</fpage>
+                  <volume>XII</volume>
+                  <source>Metaphysics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1508" publication-type="journal">
+Nicomachean Ethics X.8.1178b.<issue>8</issue>
+                  <fpage>1178b</fpage>
+                  <volume>X</volume>
+                  <source>Nicomachean Ethics</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1527a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d113e1534" publication-type="other">
+Laws of the Principles
+of the Torah 1:11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1543" publication-type="journal">
+Guide
+1:56<fpage>56</fpage>
+                  <volume>1</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1561" publication-type="journal">
+Altmann, "Maimonides on the Intellect," pp. 120-125<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>120</fpage>
+                  <source>Maimonides on the Intellect</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1583a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d113e1590" publication-type="journal">
+"The Practical Intellect in the Philosophy of Maimonides," Hebrei'w Union
+College Annual 59 (1988): 189-198.<fpage>189</fpage>
+                  <volume>59</volume>
+                  <source>Hebrei'w Union College Annual</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1614a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d113e1621" publication-type="other">
+3:8.432</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1627" publication-type="other">
+3:27.511</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1633" publication-type="other">
+3:51.620</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1640" publication-type="other">
+3:54.635</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1646" publication-type="other">
+1:34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1652" publication-type="other">
+3:28</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1659a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d113e1668" publication-type="book">
+Yoseph Kafih, ed. and trans., Mishnah wit/h the Commentary of R. Moses b.
+Maimon: Seder Zera'im [Arabic and Heb.] (Jerusalem: Mossad Harav Kook, 1963). p. 41<person-group>
+                     <string-name>
+                        <surname>Kafih</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>41</fpage>
+                  <source>Mishnah wit/h the Commentary of R. Moses b. Maimon: Seder Zera'im</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1696" publication-type="book">
+Introduction to Pereq Heleq in Yoseph Kafih, ed. and trans., Mishnah wit/h the Conmmentary of
+R. Moses b. Maimon: Seder Nezikin [Arabic and Heb.] (Jerusalem: Mossad Harav Kook, 1975),
+p. 205<person-group>
+                     <string-name>
+                        <surname>Kafih</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Introduction to Pereq Heleq</comment>
+                  <fpage>205</fpage>
+                  <source>Mishnah wit/h the Conmmentary of R. Moses b. Maimon: Seder Nezikin</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1731" publication-type="other">
+Eight Chapters.5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1738a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d113e1745" publication-type="journal">
+Altmann, "Maimonides on the Intellect," pp. 85-91<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>85</fpage>
+                  <source>Maimonides on the Intellect</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1766" publication-type="other">
+below</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1773a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d113e1782" publication-type="book">
+Maimnonides: Torah and Philosophic Quest (Philadel-
+phia: Jewish Publication Society, 1976)<source>Maimnonides: Torah and Philosophic Quest</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1797" publication-type="other">
+Menachem Kellner, Maimonides on Human Peifection</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1804" publication-type="journal">
+Guide 1:54<fpage>54</fpage>
+                  <volume>1</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1819" publication-type="other">
+3:54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1825" publication-type="other">
+3:54</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1832a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d113e1841" publication-type="journal">
+Guide 2:36<fpage>36</fpage>
+                  <volume>2</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1856" publication-type="other">
+3:5 1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1863" publication-type="book">
+Warren Harvey, "Crescas versus Maimonides on Knowledge and Pleasure,"
+in R. Link-Salinger, ed., A Straight Path (Washington, D.C.: Catholic University of America
+Press, 1989), pp. 118-123<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Crescas versus Maimonides on Knowledge and Pleasure</comment>
+                  <fpage>118</fpage>
+                  <source>A Straight Path</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e1897" publication-type="book">
+Maimonides' Introduction to Peteq H.eleq 205<person-group>
+                     <string-name>
+                        <surname>Maimonides</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>205</fpage>
+                  <source>Introduction to Peteq H.eleq</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1919a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d113e1926" publication-type="other">
+"Practical Intellect in
+the Philosophy of Maimonides," pp. 196-198</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1937a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d113e1944" publication-type="other">
+Republic VII.514a-521b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1951a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d113e1958" publication-type="other">
+Maimonides' approach to the
+divine command in 2:48.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1968a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d113e1975" publication-type="journal">
+"'The Suffering of the Righteous' in Medieval
+Jewish Philosophy" [Heb.], Daar 19 (1987): 19-25<fpage>19</fpage>
+                  <volume>19</volume>
+                  <source>Daar</source>
+                  <year>1987</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e1998a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d113e2005" publication-type="journal">
+Altmann,
+"Maimonides on the Intellect," pp. 77-84<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>77</fpage>
+                  <source>Maimonides on the Intellect</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2029" publication-type="book">
+Fazlur Rahman, Prophecy in Islam (London:
+George Allen &amp; Unwin, 1958), pp. 12-20<person-group>
+                     <string-name>
+                        <surname>Rahman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>Prophecy in Islam</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2057" publication-type="journal">
+Herbert Davidson, "Alfarabi and Avicenna on
+the Active Intellect," Viator 3 (1972): 118-122, 130, 141-144, 151-133, 160<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>118</fpage>
+                  <volume>3</volume>
+                  <source>Viator</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2089a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d113e2098" publication-type="book">
+Maurice Bouyges ed., Alfarabi: Risalartfi'l 'Aql (Beirut: Imprimerie Catholique, 1938),
+pp. 20-31<person-group>
+                     <string-name>
+                        <surname>Bouyges</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>Alfarabi: Risalartfi'l 'Aql</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2126" publication-type="book">
+Arthur Hyman and James Walsh,
+eds., Philosophy in the Middle Ages (New York: Harper &amp; Row, 1967), pp. 215-221<person-group>
+                     <string-name>
+                        <surname>Hyman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>215</fpage>
+                  <source>Philosophy in the Middle Ages</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2155a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d113e2162" publication-type="other">
+Fauzi Najjar, ed. (Beirut: Imprimerie Catholique, 1964), p. 79</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2168" publication-type="book">
+Ralph Lerner and Muhsin Mahdi, eds., Medieval Political Philosophy (Ithaca: Cornell
+University Press, 1972), p. 36<person-group>
+                     <string-name>
+                        <surname>Lerner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>36</fpage>
+                  <source>Medieval Political Philosophy</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2196" publication-type="book">
+Richard Walzer, Al-Farabi on the Peifect State (Oxford:
+Clarendon Press, 1985), pp. 244-245<person-group>
+                     <string-name>
+                        <surname>Walzer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>244</fpage>
+                  <source>Al-Farabi on the Peifect State</source>
+                  <year>1985</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2225" publication-type="journal">
+Davidson, "Alfarabi and Avicenna," pp. 141-144, 151-153<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>141</fpage>
+                  <source>Alfarabi and Avicenna</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2248a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d113e2255" publication-type="journal">
+Rahman, Prophecy in Islam, pp. 18-19<person-group>
+                     <string-name>
+                        <surname>Rahman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>18</fpage>
+                  <source>Prophecy in Islam</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2276" publication-type="journal">
+Davidson,
+"Alfarabi and Avicenna," pp. 168-169<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>168</fpage>
+                  <source>Alfarabi and Avicenna</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2300" publication-type="book">
+Alexander Altmann, "Ibn Bajja on Man's Ultimate Felicity," in A. Hyman and S. Lieberman,
+eds., Hartry A. Wolfson Jubilee Volume (Jerusalem: American Academy of Jewish Research,
+1965), English vol., pp. 47-87<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Ibn Bajja on Man's Ultimate Felicity</comment>
+                  <fpage>47</fpage>
+                  <source>Hartry A. Wolfson Jubilee Volume</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2335" publication-type="book">
+Altmann, Studies in Religious Philosophy and
+Mysticisnm [Ithaca: Cornell University Press, 1969], pp. 73-107<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>73</fpage>
+                  <source>Studies in Religious Philosophy and Mysticisnm</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2364a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d113e2371" publication-type="journal">
+Num. 20:8<fpage>8</fpage>
+                  <volume>20</volume>
+                  <source>Num.</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2386" publication-type="journal">
+Deut. 10:20<fpage>20</fpage>
+                  <volume>10</volume>
+                  <source>Deut.</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2401" publication-type="other">
+Laws of Character Traits 6:2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2408a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d113e2415" publication-type="other">
+Laws of the Principles of the Torah 2:7.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2422a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d113e2429" publication-type="other">
+1 Sam. 10:6.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2436a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d113e2443" publication-type="other">
+Political Regime 32</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2450a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d113e2457" publication-type="other">
+Altmann, "Maimonides on the Intellect," pp. 80-84</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2465a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d113e2472" publication-type="journal">
+"Halevi's Influence on Maimonides: A Preliminary Appraisal,"
+Maimonidean Studies 2 (1991): 95-121<fpage>95</fpage>
+                  <volume>2</volume>
+                  <source>Maimonidean Studies</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2495a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d113e2502" publication-type="other">
+David Baneth's Arabic edition (Jerusalem: Magnes
+Press, 1977), pp. 4-5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2511" publication-type="journal">
+Kuzari 4:19<fpage>19</fpage>
+                  <volume>4</volume>
+                  <source>Kuzari</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2527a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d113e2534" publication-type="journal">
+Berman, "Political Interpretation of the Maxim," p. 56.<person-group>
+                     <string-name>
+                        <surname>Berman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>56</fpage>
+                  <source>Political Interpretation of the Maxim</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2555" publication-type="journal">
+Kuzari 4:19.170<issue>19</issue>
+                  <fpage>170</fpage>
+                  <volume>4</volume>
+                  <source>Kuzari</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2574a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d113e2581" publication-type="other">
+"Practical Intellect," pp. 205-206</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2588a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d113e2595" publication-type="journal">
+Herbert Davidson, "The Middle Way in
+Maimonides' Ethics," Proceedings of the American Academy for Jewish Research 54 (1987):
+31-72<object-id pub-id-type="doi">10.2307/3622580</object-id>
+                  <fpage>31</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2614a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d113e2621" publication-type="journal">
+Pines, "Limitations of Human Knowledge," pp. 82-109<person-group>
+                     <string-name>
+                        <surname>Pines</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <source>Limitations of Human Knowledge</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2644a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d113e2651" publication-type="other">
+above, n. 42.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2658a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d113e2667" publication-type="other">
+Introduction to Pereq Hieleq 212-213 (seventh principle)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2673" publication-type="other">
+Eight Chapters 7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2680" publication-type="other">
+Laws of
+the Principles of the Torah. In 1:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2689" publication-type="other">
+7:6</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2696a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d113e2703" publication-type="journal">
+Altmann, "Maimonides on the Intellect," pp. 85-91<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>85</fpage>
+                  <source>Maimonides on the Intellect</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2724" publication-type="other">
+Introduction to Pereq HIeleq 205</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2730" publication-type="journal">
+Guide 1:30<fpage>30</fpage>
+                  <volume>1</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2746" publication-type="other">
+3:8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2753a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d113e2760" publication-type="journal">
+Gersonides' discussion in his Wars of the Lord 1:8-13<person-group>
+                     <string-name>
+                        <surname>Gersonides</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>8</fpage>
+                  <volume>1</volume>
+                  <source>Wars of the Lord</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2784" publication-type="other">
+English by Seymour Feldman (Philadelphia: Jewish Public Society, 1984), vol. 1, pp. 170-225</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2791a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d113e2798" publication-type="journal">
+Metaphysics XII.7.1072b<issue>7</issue>
+                  <fpage>1072b</fpage>
+                  <volume>XII</volume>
+                  <source>Metaphysics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2816" publication-type="journal">
+De Animna III.5.430a.<issue>5</issue>
+                  <fpage>430a</fpage>
+                  <volume>III</volume>
+                  <source>De Animna</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2835a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d113e2842" publication-type="journal">
+Davidson, "Alfarabi and Avicenna," pp. 171-175.<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>171</fpage>
+                  <source>Alfarabi and Avicenna</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2865a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d113e2872" publication-type="other">
+above, n. 58.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2879a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d113e2886" publication-type="journal">
+Altmann, "Maimonides on the Intellect," pp. 85-91.<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>85</fpage>
+                  <source>Maimonides on the Intellect</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2908a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d113e2917" publication-type="other">
+ibid., p. 86</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2923" publication-type="other">
+Introduction to Pereq HIeleq 204-205</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2930" publication-type="book">
+J. Goldenthal (Vienna, 1852), p. 11a<person-group>
+                     <string-name>
+                        <surname>Goldenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11a</fpage>
+                  <source>Vienna</source>
+                  <year>1852</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2954" publication-type="other">
+1:74.221</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2960" publication-type="other">
+1:70.174</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e2966" publication-type="other">
+3:51</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2973a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d113e2980" publication-type="other">
+above, n. 47</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e2987a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d113e2994" publication-type="journal">
+Avicenna's De Anima 247<person-group>
+                     <string-name>
+                        <surname>Avicenna</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>247</fpage>
+                  <source>De Anima</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3015" publication-type="journal">
+Davidson, "Alfarabi and Avicenna," pp.
+166-169<person-group>
+                     <string-name>
+                        <surname>Davidson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>166</fpage>
+                  <source>Alfarabi and Avicenna</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3039" publication-type="book">
+A. M. Goichon, Lexique de la Langue Philosophique d'Ibn Sina (Paris: Descle
+de Brouwer, 1938)<person-group>
+                     <string-name>
+                        <surname>Goichon</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Lexique de la Langue Philosophique d'Ibn Sina</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3064a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d113e3071" publication-type="journal">
+Guide 1:1<fpage>1</fpage>
+                  <volume>1</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3086" publication-type="other">
+1:18</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3092" publication-type="other">
+1:73.209</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3100a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d113e3107" publication-type="journal">
+Avicenna's De Aninma 248<person-group>
+                     <string-name>
+                        <surname>Avicenna</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>248</fpage>
+                  <source>De Aninma</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3128" publication-type="book">
+F Rahman, trans., Avicenna 's Psychology (Oxford,
+1952), p. 36<person-group>
+                     <string-name>
+                        <surname>Rahman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>36</fpage>
+                  <source>Avicenna 's Psychology</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3157a1310">
+            <label>70</label>
+            <p>
+               <mixed-citation id="d113e3164" publication-type="other">
+Maimonides' reference there to 2:38</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3171a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d113e3178" publication-type="book">
+Kitab al-Ishiarat w-al-Tanbhat, ed. J. Forget (Leiden: Brill, 1892), pp. 202-204<person-group>
+                     <string-name>
+                        <surname>Forget</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>202</fpage>
+                  <source>Kitab al-Ishiarat w-al-Tanbhat</source>
+                  <year>1892</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3203a1310">
+            <label>72</label>
+            <p>
+               <mixed-citation id="d113e3212" publication-type="other">
+Leon Gauthier, ed. (Beirut, 1936), p. 7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3218" publication-type="journal">
+George Atiyeh is found in Medieval Political Philosophy, p.
+137<person-group>
+                     <string-name>
+                        <surname>Atiyeh</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>137</fpage>
+                  <source>Medieval Political Philosophy</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3243a1310">
+            <label>73</label>
+            <p>
+               <mixed-citation id="d113e3250" publication-type="journal">
+Pines, "Philosophic Sources," p. cv<person-group>
+                     <string-name>
+                        <surname>Pines</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>cv</fpage>
+                  <source>Philosophic Sources</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3272a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d113e3279" publication-type="other">
+Risalat fi'l 'Aql 20-31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3285" publication-type="journal">
+Hyman in Philosophy in the Middle Ages, pp.
+217-220<person-group>
+                     <string-name>
+                        <surname>Hyman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>217</fpage>
+                  <source>Philosophy in the Middle Ages</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3311a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d113e3318" publication-type="journal">
+Walzer, Alfarabi on the Peifect State, pp. 242-245<person-group>
+                     <string-name>
+                        <surname>Walzer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>242</fpage>
+                  <source>Alfarabi on the Peifect State</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3339" publication-type="journal">
+Altmann, "Maimonides on the Intellect," p. 78 n. 141<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>78</fpage>
+                  <source>Maimonides on the Intellect</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3361a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d113e3368" publication-type="journal">
+Shlomo Pines, "Shi'ite Terms and Conceptions in Judah Halevi's Kuzari," Jerusalem Studies
+in Arabic and Islam 2 (1980): 211 f.<person-group>
+                     <string-name>
+                        <surname>Pines</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>211</fpage>
+                  <volume>2</volume>
+                  <source>Jerusalem Studies in Arabic and Islam</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3399" publication-type="book">
+Ezra Fleischer, The Proverbs of Sa'id ben Bdbshdd
+[Heb.] (Jerusalem: Ben-Zevi Institute, 1990), p. 144.<person-group>
+                     <string-name>
+                        <surname>Fleischer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>144</fpage>
+                  <source>The Proverbs of Sa'id ben Bdbshdd</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3428a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d113e3435" publication-type="journal">
+Laws of the Principles of the Torah 2:6-8.<fpage>6</fpage>
+                  <volume>2</volume>
+                  <source>Laws of the Principles of the Torah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3451a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d113e3458" publication-type="other">
+1:24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3464" publication-type="journal">
+Deut. 28:9<fpage>9</fpage>
+                  <volume>28</volume>
+                  <source>Deut.</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3480a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d113e3487" publication-type="journal">
+Walzer, Alfarabi on the Perfect State, pp.
+236-239<person-group>
+                     <string-name>
+                        <surname>Walzer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>236</fpage>
+                  <source>Alfarabi on the Perfect State</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3512a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d113e3519" publication-type="journal">
+Guide 2:5, 7, 10-12<fpage>5</fpage>
+                  <volume>2</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3536a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d113e3543" publication-type="book">
+"The Place of Man in the Hierarchy of Existence in the
+Philosophy of Ibn Gabirol and Maimonides," in Moshe Hallamish, ed., 'Alei Shefer: Studies in
+the Literature of Jewish Thought (Ramat-Gan: Bar-Ilan University Press, 1990)<person-group>
+                     <string-name>
+                        <surname>Hallamish</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Place of Man in the Hierarchy of Existence in the Philosophy of Ibn Gabirol and Maimonides</comment>
+                  <source>Alei Shefer: Studies in the Literature of Jewish Thought</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3574" publication-type="other">
+English and
+French sec., pp. 100-102</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3584a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d113e3591" publication-type="other">
+"Place of Man," pp. 104-105.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3598a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d113e3605" publication-type="book">
+Alasdaire MacIntyre, After Virtue (Notre Dame, Indiana: University
+of Notre Dame Press, 1981)<person-group>
+                     <string-name>
+                        <surname>MacIntyre</surname>
+                     </string-name>
+                  </person-group>
+                  <source>After Virtue</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3630a1310">
+            <label>85</label>
+            <p>
+               <mixed-citation id="d113e3637" publication-type="journal">
+Warren Harvey,
+"Holiness: A Command to Inlitatio Dei, " Tradition 16 (1976-77): 7-28<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <volume>16</volume>
+                  <source>Tradition</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3669a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d113e3676" publication-type="journal">
+Lev. 11:44<fpage>44</fpage>
+                  <volume>11</volume>
+                  <source>Lev.</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3691" publication-type="other">
+19:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3697" publication-type="journal">
+Guide 3:33<fpage>33</fpage>
+                  <volume>3</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3713" publication-type="other">
+3:47</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3720a1310">
+            <label>87</label>
+            <p>
+               <mixed-citation id="d113e3727" publication-type="journal">
+Lev. 11:44<fpage>44</fpage>
+                  <volume>11</volume>
+                  <source>Lev.</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3742" publication-type="journal">
+Lekah Tov to Deut. 13:5<fpage>5</fpage>
+                  <volume>13</volume>
+                  <source>Lekah Tov to Deut.</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3757" publication-type="book">
+M. M. Kasher,
+Torah Shelemah, vol. 28 (Jerusalem: American Biblical Encyclopedia Society, 1978), p. 238 n.
+281<person-group>
+                     <string-name>
+                        <surname>Kasher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>238</fpage>
+                  <volume>28</volume>
+                  <source>Torah Shelemah</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3793a1310">
+            <label>88</label>
+            <p>
+               <mixed-citation id="d113e3802" publication-type="other">
+4:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3808" publication-type="other">
+7:7</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3815a1310">
+            <label>90</label>
+            <p>
+               <mixed-citation id="d113e3822" publication-type="journal">
+Laws of Character Traits 2:1<fpage>1</fpage>
+                  <volume>2</volume>
+                  <source>Laws of Character Traits</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3837" publication-type="journal">
+Laws of Repentance 4:5<fpage>5</fpage>
+                  <volume>4</volume>
+                  <source>Laws of Repentance</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3852" publication-type="journal">
+7:3, Laws of Sale 11:12<fpage>12</fpage>
+                  <volume>11</volume>
+                  <source>Laws of Sale</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3868" publication-type="journal">
+Laws of Ritual Baths 11:12<fpage>12</fpage>
+                  <volume>11</volume>
+                  <source>Laws of Ritual Baths</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3884a1310">
+            <label>91</label>
+            <p>
+               <mixed-citation id="d113e3891" publication-type="other">
+R. Moses b. Mainmon: Seder Zera'im 42</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3897" publication-type="journal">
+Laws of Forbidden Intercourse 22:21<fpage>21</fpage>
+                  <volume>22</volume>
+                  <source>Laws of Forbidden Intercourse</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3913a1310">
+            <label>92</label>
+            <p>
+               <mixed-citation id="d113e3920" publication-type="other">
+2:36</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3926" publication-type="other">
+2:40</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3932" publication-type="other">
+3:33</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3939" publication-type="other">
+3:49</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3945" publication-type="journal">
+Nicomachean Ethics
+III. 10.1118b<issue>10</issue>
+                  <fpage>1118b</fpage>
+                  <volume>III</volume>
+                  <source>Nicomachean Ethics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3967" publication-type="other">
+3:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3973" publication-type="other">
+3:8</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e3980a1310">
+            <label>93</label>
+            <p>
+               <mixed-citation id="d113e3987" publication-type="other">
+B.T. Berakhot 10b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e3993" publication-type="journal">
+Leviticus Rabbah 24:6<fpage>6</fpage>
+                  <volume>24</volume>
+                  <source>Leviticus Rabbah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4008" publication-type="other">
+II Kings 4:9</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e4015a1310">
+            <label>94</label>
+            <p>
+               <mixed-citation id="d113e4022" publication-type="other">
+Exod. 19:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4028" publication-type="other">
+19:15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4034" publication-type="journal">
+Lev. 19:2<fpage>2</fpage>
+                  <volume>19</volume>
+                  <source>Lev.</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e4051a1310">
+            <label>95</label>
+            <p>
+               <mixed-citation id="d113e4058" publication-type="other">
+Num 6:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4064" publication-type="other">
+Maimonides' remarks in 3:48</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4070" publication-type="journal">
+Jacob Levinger, "Abstinence from Alcohol in Maimonides'
+Guide to the Perplexed" [Heb.], Bar-Ilan 4-5 (1967): 299-305<person-group>
+                     <string-name>
+                        <surname>Levinger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>299</fpage>
+                  <volume>4</volume>
+                  <source>Bar-Ilan</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4102" publication-type="book">
+Isadore Twersky,
+Introduction to the Code of Mainonides (New Haven: Yale University Press, 1980), pp.
+459-468<person-group>
+                     <string-name>
+                        <surname>Twersky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>459</fpage>
+                  <source>Introduction to the Code of Mainonides</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4133" publication-type="journal">
+"Asceticism in the Thought of R. Bahya Ibn Paquda and Maimonides," Daat
+21 (1988): xiii-xxii<fpage>xiii</fpage>
+                  <volume>21</volume>
+                  <source>Daat</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e4156a1310">
+            <label>96</label>
+            <p>
+               <mixed-citation id="d113e4163" publication-type="journal">
+Sifra to
+Lev. 11:44<fpage>44</fpage>
+                  <volume>11</volume>
+                  <source>Sifra to Lev.</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4181" publication-type="journal">
+Guide 3:33<fpage>33</fpage>
+                  <volume>3</volume>
+                  <source>Guide</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4196" publication-type="journal">
+"The Problem of 'Good' in the Philosophy of Maimonides" [Heb.], lyyun 38 (1989):
+201-206<fpage>201</fpage>
+                  <volume>38</volume>
+                  <source>lyyun</source>
+                  <year>1989</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e4219a1310">
+            <label>97</label>
+            <p>
+               <mixed-citation id="d113e4226" publication-type="journal">
+Altmann and Stern, Isaac Israeli, pp. 185-200.<person-group>
+                     <string-name>
+                        <surname>Altmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>185</fpage>
+                  <source>Isaac Israeli</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e4248a1310">
+            <label>98</label>
+            <p>
+               <mixed-citation id="d113e4255" publication-type="journal">
+Principles of the
+Torah 7:6<fpage>6</fpage>
+                  <volume>7</volume>
+                  <source>Principles of the Torah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e4273" publication-type="book">
+Mainmonides'
+Ethics (Chicago: University of Chicago, 1991), pp. 153-155<fpage>153</fpage>
+                  <source>Mainmonides' Ethics</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

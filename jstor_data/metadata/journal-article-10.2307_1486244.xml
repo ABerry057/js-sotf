@@ -1,0 +1,951 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486244</article-id>
+         <title-group>
+            <article-title>Mishnaic Literary History and the History of a Mishnaic Idea: On the Formation of the Mishnah's Theory of Intention, with Special Reference to Tractate Ma'aserot</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Martin S.</given-names>
+                  <surname>Jaffee</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1986</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i265520</issue-id>
+         <fpage>135</fpage>
+         <lpage>155</lpage>
+         <page-range>135-155</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1986 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486244"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d57e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d57e121" publication-type="book">
+J. N. Epstein, Introduction to the Text of the Mishnah [Heb.], 2 vols.,
+2d ed. (Jerusalem and Tel Aviv, 1964), pp. 946-979<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>946</fpage>
+                  <volume>2</volume>
+                  <source>Introduction to the Text of the Mishnah</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e155" publication-type="book">
+Introductions
+to Tannaitic Literature [Heb.] (Jerusalem and Tel Aviv, 1957), pp. 227-232<fpage>227</fpage>
+                  <source>Introductions to Tannaitic Literature</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e173" publication-type="book">
+J. Neusner, ed., The Modern Study of
+the Mishnah (Leiden, 1973)<person-group>
+                     <string-name>
+                        <surname>Neusner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Modern Study of the Mishnah</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e198" publication-type="book">
+B. M. Bokser, Post Mishnaic Judaism in
+Transition (Chico, Calif., 1980), pp. 461-491<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>461</fpage>
+                  <source>Post Mishnaic Judaism in Transition</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e227a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d57e234" publication-type="journal">
+Epstein, Text, 2:706-726<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>706</fpage>
+                  <volume>2</volume>
+                  <source>Text</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e258" publication-type="book">
+B. M. Bokser, "Jacob Epstein's Intro-
+duction to the Text of the Mishnah," in Neusner, Study, pp. 13-36<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Jacob Epstein's Introduction to the Text of the Mishnah</comment>
+                  <fpage>13</fpage>
+                  <source>Study</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e287a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d57e294" publication-type="book">
+M. Moreshet, "The Hebrew Baraitot in the Babylonian Talmud Are Not
+MH(1)" [Heb.], in E. Y. Kutscher et al., eds., Henoch Yalon Memorial Volume (Ramat Gan,
+1974), pp. 1-40<person-group>
+                     <string-name>
+                        <surname>Moreshet</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Hebrew Baraitot in the Babylonian Talmud Are Not MH(1)</comment>
+                  <fpage>1</fpage>
+                  <source>Henoch Yalon Memorial Volume</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e328" publication-type="book">
+idem, "New and Revived Verbs in the Baraitot of the Babylonian Talmud"
+[Heb.], in Y. Kutscher, ed., Archive of the New Dictionary of Rabbinic Literature, vol. 1 (Ramat
+Gan, 1972), pp. 117-162<person-group>
+                     <string-name>
+                        <surname>Moreshet</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">New and Revived Verbs in the Baraitot of the Babylonian Talmud</comment>
+                  <fpage>117</fpage>
+                  <volume>1</volume>
+                  <source>Archive of the New Dictionary of Rabbinic Literature</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e365" publication-type="book">
+idem, "Further Studies of the Language of the Hebrew Baraitot
+in the Babylonian and Palestinian Talmuds" [Heb.], in M. Kaddari, ed,, Archive of the New
+Dictionary of Rabbinic Literature, vol. 2 (Ramat Gan, 1974), pp. 31-73<person-group>
+                     <string-name>
+                        <surname>Moreshet</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Further Studies of the Language of the Hebrew Baraitot in the Babylonian and Palestinian Talmuds</comment>
+                  <fpage>31</fpage>
+                  <volume>2</volume>
+                  <source>Archive of the New Dictionary of Rabbinic Literature</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e403a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d57e410" publication-type="journal">
+B. M. Bokser, "Talmudic Form Criticism," Journal of Jewish Studies 31,
+no. 1 (1980): 46-48<person-group>
+                     <string-name>
+                        <surname>Bokser</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <fpage>46</fpage>
+                  <volume>31</volume>
+                  <source>Talmudic Form Criticism</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e444" publication-type="book">
+A History of the Mishnaic Law of Purities, vol. 21 (Leiden, 1977)<volume>21</volume>
+                  <source>A History of the Mishnaic Law of Purities</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e461a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d57e468" publication-type="journal">
+M. Jaffee, "Oral Torah in Theory and Practice: Aspects
+of Mishnah-Exegesis in the Palestinian Talmud," Religion, in press for winter, 1986<person-group>
+                     <string-name>
+                        <surname>Jaffee</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>winter</issue>
+                  <source>Religion</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e497a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d57e504" publication-type="book">
+J. Neusner, Rabbinic Traditions
+About the Pharisees Before 70 (Leiden, 1971), 1:1-5 and 3:180-300<person-group>
+                     <string-name>
+                        <surname>Neusner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <volume>1</volume>
+                  <source>Rabbinic Traditions About the Pharisees Before 70</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e536a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d57e543" publication-type="book">
+M. Jaffee, The Mishnah's Theology of Tithing: A Study of Tractate Maaserot
+(Chico, Calif., 1981), pp. 1-6<person-group>
+                     <string-name>
+                        <surname>Jaffee</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>The Mishnah's Theology of Tithing: A Study of Tractate Maaserot</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e571" publication-type="book">
+A. Peck, The Priestly Gift in Mishnah: A
+Study of Tractate Terumot (Chico, Calif., 198 1), pp. 1-7<person-group>
+                     <string-name>
+                        <surname>Peck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>The Priestly Gift in Mishnah: A Study of Tractate Terumot</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e599" publication-type="book">
+P. Haas, A History of the Mishnaic
+Law of Agriculture: Tractate Maaser Sheni (Chico, Calif., 1980), pp. 1-5<person-group>
+                     <string-name>
+                        <surname>Haas</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>A History of the Mishnaic Law of Agriculture: Tractate Maaser Sheni</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e628a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d57e637" publication-type="book">
+H. Albeck, The Six Orders of the
+Mishnah [Heb.] (Jerusalem and Tel Aviv, 1957; 4th printing, 1975)<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Six Orders of the Mishnah</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e661" publication-type="book">
+N. Sacks, ed., The Mishnah with
+Variant Readings: Order Zera'im [Heb.] (Jerusalem, 1975), vol. 2<person-group>
+                     <string-name>
+                        <surname>Sacks</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>2</volume>
+                  <source>The Mishnah with Variant Readings: Order Zera'im</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e690a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d57e697" publication-type="other">
+M. Demai 4:1 and 7:1 + 5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e703" publication-type="other">
+M.
+Terumot 2:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e712" publication-type="other">
+T. Terumot 4:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e719" publication-type="other">
+M. Shabbat 2:7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e725" publication-type="other">
+T. Shabbat 2:19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e731" publication-type="other">
+M. Begah 5:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e737" publication-type="other">
+T.Y.T.4:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e743" publication-type="other">
+M. Ma'aserot 2:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e749" publication-type="book">
+S. Lieberman, Tosefta Ki-fshutah (New York, 1955), 1:337 and 5:1001-1002<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <volume>1</volume>
+                  <source>Tosefta Ki-fshutah</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e778a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d57e787" publication-type="other">
+RaBaD (Eduyyot 4:10)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e793" publication-type="other">
+RaS (Ma'aserot
+4:2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e803" publication-type="journal">
+Bertinoro (Ma'aserot 4:2)<person-group>
+                     <string-name>
+                        <surname>Bertinoro</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <volume>4</volume>
+                  <source>Ma'aserot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e827" publication-type="journal">
+Maimonides (Ma'aserot 4:2/Eduyyot 4:10)<person-group>
+                     <string-name>
+                        <surname>Maimonides</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <volume>4</volume>
+                  <source>Eduyyot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e851" publication-type="other">
+Y. Ma'aserot 4:2, 51b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e857" publication-type="journal">
+Y. D.
+Gilat, "Intention and Action in the Teaching of the Tannaim" [Heb.], Annual of Bar Ilan
+University 4-5 (1967), p. 115<person-group>
+                     <string-name>
+                        <surname>Gilat</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>115</fpage>
+                  <volume>4</volume>
+                  <source>Annual of Bar Ilan University</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e893a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d57e900" publication-type="other">
+T.
+Ma'aserot 2:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e909" publication-type="journal">
+Simeon Shezuri (M. Demai 4:1)<person-group>
+                     <string-name>
+                        <surname>Shezuri</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <volume>1</volume>
+                  <source>Demai</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e933" publication-type="other">
+M.
+Be;ah 1:6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e943" publication-type="journal">
+Judah and Yose
+(T.Y. T. 1:12-13)<person-group>
+                     <string-name>
+                        <surname>Judah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <volume>1</volume>
+                  <source>T.Y. T.</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e972a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d57e979" publication-type="journal">
+Ushans Yose (Ma'aserot 1:8, attesting Ma'aserot 1:5)<person-group>
+                     <string-name>
+                        <surname>Yose</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <volume>1</volume>
+                  <source>Ma'aserot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1003" publication-type="journal">
+Judah (Ma'aserot 2:1-2)<person-group>
+                     <string-name>
+                        <surname>Judah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <volume>2</volume>
+                  <source>Ma'aserot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1027" publication-type="other">
+Y. Ma'aserot 4:1, 51b, s.v.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1034" publication-type="book">
+Jaffee, Maaserot, pp. 1-6<person-group>
+                     <string-name>
+                        <surname>Jaffee</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>Maaserot</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1056a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d57e1065" publication-type="other">
+Rashi, B. Berakhot 31a, s.v.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1071" publication-type="journal">
+Eliezer, Ma'aserot 4:3<person-group>
+                     <string-name>
+                        <surname>Eliezer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <volume>4</volume>
+                  <source>Ma'aserot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1096" publication-type="other">
+n. 22 below</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1102" publication-type="book">
+M. Higger, "Intention in Talmudic Law," reprinted in E. M. Gershfield,
+ed., Studies in Jewish Jurisprudence (New York, 1971), pp. 234-293<person-group>
+                     <string-name>
+                        <surname>Higger</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Intention in Talmudic Law</comment>
+                  <fpage>234</fpage>
+                  <source>Studies in Jewish Jurisprudence</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1133" publication-type="book">
+S.
+Zeitlin now collected in idem, Studies in the Early History of Judaism: History of Early Talmudic
+Law, vol. 4 (New York, 1978)<person-group>
+                     <string-name>
+                        <surname>Zeitlin</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Intention in Talmudic Law</comment>
+                  <volume>4</volume>
+                  <source>Studies in the Early History of Judaism: History of Early Talmudic Law</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1168a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d57e1175" publication-type="journal">
+Neusner, Pharisees 1:291-294<person-group>
+                     <string-name>
+                        <surname>Neusner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>291</fpage>
+                  <volume>1</volume>
+                  <source>Pharisees</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1199" publication-type="other">
+M. Uklin 3:6 (attested by the Yavnean, Akiva,
+ad loc.)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1208" publication-type="other">
+M. Makhshirin 1:2-3 (attested at M. Makhshirin 1:3 by the Yavnean, Joshua)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1215a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d57e1224" publication-type="other">
+D. Hoffmann, The First Mishna and the Controversies of the Tannaim,
+trans. P. Forchheimer (New York, 1977), pp. 92-95 (n. 9)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1233" publication-type="book">
+H. Albeck, Untersuchungen
+fiber die Redaktion der Mischna (Berlin, 1936), pp. 108 ff.<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>108</fpage>
+                  <source>Untersuchungen fiber die Redaktion der Mischna</source>
+                  <year>1936</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1262" publication-type="book">
+H. Albeck, Introduction to the Mishnah [Heb.] (Jerusalem and Tel Aviv,
+1959), pp. 257-259<person-group>
+                     <string-name>
+                        <surname>Albeck</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>257</fpage>
+                  <source>Introduction to the Mishnah</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1291a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d57e1298" publication-type="book">
+Judah, Meir, Simeon, and others (Literature, p. 438)<person-group>
+                     <string-name>
+                        <surname>Judah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>438</fpage>
+                  <source>Literature</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1319" publication-type="other">
+ibid., pp. 101-104, 434-438</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1327a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d57e1334" publication-type="book">
+Jaffee, Maaserot, pp. 121-123<person-group>
+                     <string-name>
+                        <surname>Jaffee</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>121</fpage>
+                  <source>Maaserot</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1356a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d57e1363" publication-type="other">
+Y. Ma'aserot 4:2 (51b), s.v.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1369" publication-type="book">
+Jaffee, Maaserot, p. 125<person-group>
+                     <string-name>
+                        <surname>Jaffee</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>125</fpage>
+                  <source>Maaserot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1390" publication-type="journal">
+Mishnah Rishonah, Ma'aserot
+4:2<person-group>
+                     <string-name>
+                        <surname>Rishonah</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <volume>4</volume>
+                  <source>Ma'aserot</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1419a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d57e1426" publication-type="book">
+A. Hyman, History of the Tannaim and Amoraim [Heb.] (Jerusalem, 1964), 2:539<person-group>
+                     <string-name>
+                        <surname>Hyman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>539</fpage>
+                  <volume>2</volume>
+                  <source>History of the Tannaim and Amoraim</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1454" publication-type="other">
+Ma'aserot 4:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1460" publication-type="other">
+Shevu'ot 7:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1467" publication-type="other">
+Ma'aserot 4:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1473" publication-type="other">
+Eruvin 10:5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1479" publication-type="other">
+Nedarim 11:10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1485" publication-type="other">
+Ma'aserot 4:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1491" publication-type="other">
+n. 23</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1498a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d57e1505" publication-type="other">
+M. Demai 3:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1511" publication-type="other">
+T. Demai 3:14</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1518a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d57e1525" publication-type="other">
+Ma'aserot 5:1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1531" publication-type="other">
+Y. Ma'aserot (5:1, 51c)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1537" publication-type="other">
+M. Demai 2:2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1544" publication-type="other">
+T. Ma'aserot 2:5</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1551a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d57e1558" publication-type="book">
+J. Neusner, Eliezer b. Hyrcanus: The Tradition and the Man (Leiden, 1973), 2:175<person-group>
+                     <string-name>
+                        <surname>Neusner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>175</fpage>
+                  <volume>2</volume>
+                  <source>Eliezer b. Hyrcanus: The Tradition and the Man</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1586" publication-type="book">
+Y. D. Gilat, The Teachings of R. Eliezer ben
+Hyrcanos [Heb.] (Tel Aviv, 1968)<person-group>
+                     <string-name>
+                        <surname>Gilat</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Teachings of R. Eliezer ben Hyrcanos</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1612a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d57e1619" publication-type="book">
+Zeitlin, Studies, p. 80<person-group>
+                     <string-name>
+                        <surname>Zeitlin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>80</fpage>
+                  <source>Studies</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1640" publication-type="book">
+Epstein, Literature, pp. 106-125<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>106</fpage>
+                  <source>Literature</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1661" publication-type="journal">
+A. Goldberg, "And All of Them Are in Accord with
+R. Akiva" [Heb.], Tarbiz 38, no. 3 (1969): 282-286<person-group>
+                     <string-name>
+                        <surname>Goldberg</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <fpage>282</fpage>
+                  <volume>38</volume>
+                  <source>Tarbiz</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1696" publication-type="other">
+Y. Ma'aserot 3:5, 50d</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1703a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d57e1710" publication-type="journal">
+Pharisees,
+3:282-286<fpage>282</fpage>
+                  <volume>3</volume>
+                  <source>Pharisees</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1728" publication-type="book">
+A. Baumgarten, "The Politics of Reconcilia-
+tion: The Education of Judah the Prince," in E. P. Sanders et al., eds., Jewish and Christian
+Self-Definition, vol. 2 (Philadelphia,1981), pp. 213-225<person-group>
+                     <string-name>
+                        <surname>Baumgarten</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Politics of Reconciliation: The Education of Judah the Prince</comment>
+                  <fpage>213</fpage>
+                  <volume>2</volume>
+                  <source>Jewish and Christian Self-Definition</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1765" publication-type="other">
+Judah b. Ilai (pp. 224-225)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1772a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d57e1779" publication-type="book">
+S. Lieberman, Tosefta Zera'im (New York, 1955), pp. 237-238<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>237</fpage>
+                  <source>Tosefta Zera'im</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1803" publication-type="other">
+T. Eduyyot 2:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1809" publication-type="book">
+M. S. Zuckermandel, Tosephta (repr., Jerusalem, 1970), p. 457<person-group>
+                     <string-name>
+                        <surname>Zuckermandel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>457</fpage>
+                  <source>Tosephta</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1834a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d57e1841" publication-type="other">
+T. Eduyyot 2:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1847" publication-type="other">
+B. Be:ah 35a: hll I'Vmw hyh 'wsr</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1853" publication-type="book">
+Epstein (Literature, p. 102)<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>102</fpage>
+                  <source>Literature</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1875" publication-type="journal">
+Lieberman (Tosefta Ki- fshuta, 2:694-695)<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>694</fpage>
+                  <volume>2</volume>
+                  <source>Tosefta Ki- fshuta</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1899" publication-type="other">
+M. Ma'aserot 4:2C</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1905" publication-type="other">
+T. Ma'aserot 3:3D</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1912a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d57e1919" publication-type="other">
+T. Eduyyot 2:3</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e1926a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d57e1933" publication-type="book">
+"The Power of Intention: The Yerushalmi's Reception of a Mishnaic
+Idea" (AJS Annual Meeting, December 1984)<source>AJS Annual Meeting, December 1984</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e1948" publication-type="book">
+The Talmud of the Land of Israel, vol. 7, Maaserot
+(Chicago, expected for 1986)<comment content-type="section">The Talmud of the Land of Israel</comment>
+                  <volume>7</volume>
+                  <source>Maaserot</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

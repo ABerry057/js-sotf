@@ -1,0 +1,3021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i25654633</issue-id>
+         <article-id pub-id-type="doi">10.2307/25654636</article-id>
+         <title-group>
+            <article-title>In Quest of Babylonian Tannaitic Traditions: The Case of &lt;italic&gt;Tanna D'Bei Shmuel&lt;/italic&gt;</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Barak Shlomo</given-names>
+                  <surname>Cohen</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2009</year>
+         </pub-date>
+         <fpage>271</fpage>
+         <lpage>303</lpage>
+         <permissions>
+            <copyright-statement>© 2009 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25654636"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1671e107a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d1671e114" publication-type="other">
+S. Funk, Die Juden in Babylonien 200-500 (Berlin: Poppelauer, 1902), 1:7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e120" publication-type="other">
+J. Bruell,
+Mavo HaMishnah (Frankfurt, 1836; repr., Jerusalem: Makor, 1970), 30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e129" publication-type="other">
+W. Bacher, Agadot Hatannaim,
+vol. I, part II (Yaffo: Eitan &amp; Shoshani, 1932), 102</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e139" publication-type="other">
+I. Halevy, Dorot Harishonim, (Berlin and Vienna:
+B. Hertz, 1933), 5:681-88</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e148" publication-type="other">
+J. Obermeyer, Die Landschaft Babylonien im Zeitalterdes Talmuds und des
+Gaonats (Frankfurt: I. Kauffmann, 1929), 129</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e157" publication-type="other">
+A. Hyman, Toldot Tannaim Veamoraim, (London:
+Express, 1910), 1:425</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e166" publication-type="other">
+A. Neubauer, La Géographie Du Talmud (Hildesheim: G. Olms, 1967), 370</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e172" publication-type="other">
+M. Smallwood, The Jews under Roman Rule (Leiden: Brill, 1976), 416</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e178" publication-type="other">
+I. Garni, YehudeiBavel bitkufat
+Hatalmud (Jerusalem: Zalman Shazar Letoldot Israel, 1991), 77</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e188" publication-type="other">
+A. Oppenheimer, "HaMercaz BeNe-
+tzivin Bitkufat Hamishnah," in Umma Vetoldoteha, ed. M. Stern (Jerusalem: Zalman Shazar Letoldot
+Israel, 1983), 1:41-150</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e200" publication-type="other">
+idem, Babylonia Judaica in the Talmudic Period (Wiesbaden: Reichert, 1983),
+331</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e209" publication-type="other">
+idem, "Nehardea unetzivim Batkufa Hapartit," Bar Ilan Annual 26-27 (1995): 117-30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e215" publication-type="other">
+idem,
+"Batei Midrashot BeBavel Lifhei Hatimat HaMishnah," in Yeshivot UBatei Midrashot, ed. I. Etkes
+(Jerusalem: Zalman Shazar Letoldot Israel, 2006), 20-21.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e228a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d1671e235" publication-type="other">
+M. D. Yudolowitz, Hayyei
+HaYehudim Bizman Hatalmud: Sefer Nehardea (Jerusalem: Makor, 1971), 30-31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e244" publication-type="other">
+Oppenheimer, Baby-
+lonia Judaica, 287-91</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e253" publication-type="other">
+idem, "Batei Midrashot," 23-28.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e260a1310">
+            <label>3</label>
+          
+          
+            <p>
+               <mixed-citation id="d1671e269" publication-type="other">
+R. Ishmael (D'Bei R. Ishmael)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e275" publication-type="other">
+Halevy, Dorot Harishonim, 5:181-93,
+678-81</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e285" publication-type="other">
+J. N. Epstein, Mevo'ot Lesifrut Hatannaim (Jerusalem and Tel Aviv: Magness Press, 1957),
+168-71</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e294" publication-type="other">
+J. Neusner, A History of the Jews in Babylonia (Leiden: Brill, 1965), 1:128-35, 179-87</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e300" publication-type="other">
+E. Z. Melamed, "Hilkhot Eretz Yisrael Beor Hatnnaim BeBavel," in Iyyunim Besifrut Hatalmud
+(Jerusalem: Magness Press, 1986), 292.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e309" publication-type="other">
+n. 9</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e316a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d1671e323" publication-type="other">
+I. Gafhi,
+"Ben Bavel LeEretz Yisrael: Olam Hatalmud Veimutim Ideologim Behistoriagraphia Shel Haet Hacha-
+dashah," Zion 82 (1997): 213-42.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e337a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d1671e344" publication-type="other">
+Halevy, Dorot Harishonim, 5:677.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e351a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d1671e358" publication-type="other">
+Funk, Die Juden in Babylonien, 1:ii n. 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e364" publication-type="other">
+Halevy, Dorot Harishonim, 6:178-210</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e370" publication-type="other">
+Epstein, Mevo'ot Lesifrut hatannaim, 168-71</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e377" publication-type="other">
+Melamed, "Hilkhot Eretz Yisrael Beor Hatnnaim
+BeBavel," 292.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e387a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d1671e394" publication-type="other">
+Hyman, Toldot Tannaim Veamoraim, 1:425.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e401a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d1671e408" publication-type="other">
+Gafhi, Yehudei Bavel bitkufat Hatalmud, 85 n. 144, 87 n. 154.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e414" publication-type="other">
+R. Sherira Gaon, IggeretR. Sherira Gaon, ed. B. M. Levine (Jerusalem: Makor, 1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e420" publication-type="other">
+Eruvin
+90a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e430" publication-type="other">
+Shabbat 60b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e436" publication-type="other">
+Keritot 8a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e442" publication-type="other">
+O. Meir, R. Yehudah Hanasi:
+D'yukano shel Manhig Bemasoret Eretz Yisrael UBavel (Tel Aviv: Hakibuts Hameukhad, 1999),
+69-70.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e455a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d1671e462" publication-type="other">
+Gafhi, Yehudei Bavel bitkufat Hatalmud, 86-91.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e468" publication-type="other">
+Halevy, Dorot Harishonim, 678-79</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e474" publication-type="other">
+Epstein,
+Mevo'ot Lesifrut Hatannaim, 518-20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e484" publication-type="other">
+Gafhi, Yehudei Bavel bitkufat Hatalmud, 50-54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e490" publication-type="other">
+M. Kahana, "Maalat Yeshivat Eretz-Yisrael BaMekhilta Devarim," Tarbiz 72 (1993): 512-13 nn.
+50-54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e499" publication-type="other">
+idem, "The Halakhic Midrashim," in The Literature of the Sages, ed. S. Safrai, Z. Safrai,
+J. Schwartz, and P. Tomson, part 2 (Van Gorcum: Assen, 2006), 62-63</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e508" publication-type="other">
+Oppenheimer, "Batei Midra-
+shot," 27-28.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e518a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d1671e525" publication-type="other">
+Gafhi, Yehudei Bavel bitkufat Hatalmud, 90-91.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e533a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d1671e540" publication-type="other">
+D. Hoffmann,
+Mar Samuel: Rector der Judischen Akademie zu Nehardea in Babylonien: Lebensbild eines Talmu-
+disch, vol. 1 (Leipzig: Leiner, 1873)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e552" publication-type="other">
+S. Fessler, Mar Samuel: der bedeutendste Amora: Rektor der Jue-
+dischen Akademie zu Nehardia in Babylonien (Halle: E. Franck, 1879)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e561" publication-type="other">
+A. Krochmal, "Toldot Shmuel
+Yarhinai," Hechalutz 1 (1852): 66-89 (repr., Jerusalem, 1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e571" publication-type="other">
+H. Graetz, History of the Jews (Phila-
+delphia: Jewish Publication Society of America, 1893), 2:518-30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e580" publication-type="other">
+I. Weiss, Dor Dor Vedorshav (Jer-
+usalem and Tel Aviv: Ziv, 1962), 3:146-56</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e589" publication-type="other">
+P. R. Weis, "The Controversies of Rab and Samuel and the
+Tosefta," Journal of Semitic Studies 3 (1958): 288-97</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e598" publication-type="other">
+D. Gordis, "Al Parshanut Rav Ushmuel Lamish-
+nah Ubaraita: Part One: Nimukei Halakhah Veokimtaot" (PhD diss, Jewish Theological Seminary,
+1980)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e610" publication-type="other">
+Sh. Shilo, Dina Demalkhuta Dina (Jerusalem: Defus Academi, 1975), 4-43</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e616" publication-type="other">
+B. M. Bokser,
+Samuel's Commentary on the Mishna: Its Nature, Forms, and Content (Leiden: Brill, 1975)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e626" publication-type="other">
+idem, Post-Mishnaic Judaism in Transition (Samuel on Berakhot and the Beginnings of Gemara)
+(Chico, CA, 1980)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e635" publication-type="other">
+E. Halivni, Kelalei Pesak Hahalakhah Batalmud (Lod, Haberman Institute,
+1999), 84-98, 107</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e644" publication-type="other">
+R. Kalmin, "Changing Amoraic Attitudes toward the Authority and Statements
+of Rav and Shmuel: A Study of the Talmud as a Historical Source," Hebrew Union College Annual
+63 (1992): 83-106.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e657a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d1671e664" publication-type="other">
+J. N. Epstein, Mavo Lenusah HaMishnah (Jerusalem:
+Magness Press, 2000), 1:213-14.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e673" publication-type="other">
+Shabbat 12a (manuscripts), 35b (manuscripts), 54a, 131b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e679" publication-type="other">
+Eruvin 70b, 96a, 99b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e686" publication-type="other">
+Pesahim
+3a, 39b (three instances)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e695" publication-type="other">
+Rosh Hashanah 16a (manuscripts)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e701" publication-type="other">
+Yoma 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e707" publication-type="other">
+Sukkah 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e713" publication-type="other">
+Betzah 29a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e719" publication-type="other">
+Megillah 4b (manuscripts); 23a (manuscripts), 30a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e726" publication-type="other">
+Moed Katan 18b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e732" publication-type="other">
+Gittin 24b (manuscripts), 66a
+(manuscripts), 70b (manuscripts)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e741" publication-type="other">
+Bava Metzia 111a (manuscripts).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e747" publication-type="other">
+W. Bacher, Tradition und Tradenten in den Schulen Palästinas und Babyloniens
+[Leipzig: Fock, 1914], 225</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e756" publication-type="other">
+Berakhot 1:1, 4b;
+1:1, 4d</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e765" publication-type="other">
+Sheviit 5:1, 35d</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e772" publication-type="other">
+Kilayim 8:2, 31c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e778" publication-type="other">
+Shabbat 1:3, 3b (based on the Leiden manuscript); 2:1,
+4d; 3:3, 6a; 8:4, lib; 9:3, 12a; 11:1, 13a; 17:3, 16b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e787" publication-type="other">
+Eruvin 2:5, 20b; 6:7, 23d; 6:8, 24a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e793" publication-type="other">
+Pesahim
+9:6, 37a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e802" publication-type="other">
+Rosh Hashanah 1:1, 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e808" publication-type="other">
+Betzah 2:5, 61c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e815" publication-type="other">
+Taanit 3:9, 66d</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e821" publication-type="other">
+Megillah 1:1, 70b; 2:1, 73a;
+3:4, 74b; 4:4, 75b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e830" publication-type="other">
+Hagigah 1:1, 76a; and 1:1, 80b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e836" publication-type="other">
+Hoffman, Mar Samuel,
+25 n. 3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e845" publication-type="other">
+Bacher, Tradition und Tradenten in den Schulen Palästinas und Babyloniens, 208</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e851" publication-type="other">
+idem, "Mis-
+hnayot Hitzoniyot Umidrashei Tannaim," Jerusalem 10 (1914), 68-70</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e861" publication-type="other">
+Epstein, Mevo'ot Lesifrut
+Hatannaim, 212.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e871a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d1671e878" publication-type="other">
+Hoffman, Mar Samuel, 24.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e884" publication-type="other">
+Krochmal, "Toldot Shmuel Yarhinai," 78.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e891a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d1671e898" publication-type="other">
+Epstein, Mavo Lenusah HaMishnah, 213.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e904" publication-type="other">
+Rashi (Betzah 29a, s.v. tanna d 'bei)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e911a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d1671e918" publication-type="other">
+D. Goodblatt, Rabbinic Instruction in Sassanian Babylonia (Leiden: Brill, 1975), 134.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e924" publication-type="other">
+n. 11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e930" publication-type="other">
+E. Segal in his review of
+Bokser's book, "Hamaavar Mitkufat HaMishnah el Tekufat Haamoraim," Tarbiz 51 (1982): 317.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e940a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d1671e947" publication-type="other">
+Funk, Die Juden in Babylonien, 62.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e955a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d1671e962" publication-type="other">
+A. Goldberg, "Shimusho Shel Rava Ba Tosefta Ube'Tanna D'Bei Shmuel' LaPerush
+Hamishnah," Tarbiz 40 (1971): 144-77.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e971" publication-type="other">
+I. H. Weiss, Dor Dor Vedorshav, 150</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e978a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d1671e985" publication-type="other">
+Goldberg, "Shimusho Shel Rava Ba Tosefta," 149-50.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e992a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d1671e999" publication-type="other">
+Goldberg, "Shimusho Shel Rava Ba Tosefta," 148.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1005" publication-type="other">
+Halevy, Dorot Harishonim, 674ff.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1011" publication-type="other">
+Neusner, A History of the Jews in Baby-
+lonia, 1:141-44</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1021" publication-type="other">
+Smallwood, The Jews under Roman Rule, 510-11.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1027" publication-type="other">
+Gafhi, Yehudei Bavel bitkufat Hatalmud, 82ff.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1033" publication-type="other">
+Kahana, "Maalat
+Yeshivat Eretz-Yisrael" 512 n. 50-52.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1043a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d1671e1050" publication-type="other">
+Gafhi, Yehudei Bavel bitkufat Hatalmud, 91 n. 175.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1057a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d1671e1064" publication-type="other">
+H. Albeck, Mehkarim Babraita Ubatosefta Veyachasan LaTalmud (Jerusalem: Mosad
+Harav Kuk, 1970), 15-43</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1073" publication-type="other">
+idem, Mavo LaTalmudim (Tel Aviv: Dvir, 1969), 28-39.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1080a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d1671e1087" publication-type="other">
+Albeck, Mavo LaTalmudim, 28.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1095a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d1671e1102" publication-type="other">
+Albeck, Mehkarim Babaraita, 32.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1109a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d1671e1116" publication-type="other">
+n. 33</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1123a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d1671e1130" publication-type="other">
+note 67</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1136" publication-type="other">
+S. Friedman,
+Tosefta Atikta: Masehhet Pesah Rishon (Ramat-Gan: Bar-Ilan University Press, 2003), 230-38.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1146a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d1671e1153" publication-type="other">
+his Mavo LaTalmudim, 71-72.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1160a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d1671e1167" publication-type="other">
+M. Moreshet, "Habaraitot Haivriot BaBavli Enan Lashon Hakhamim Aleph," in Sefer
+Zikharon LeHanoch Yalon (Ramat-Gan: Bar-Ilan University Press, 1974), 275-314</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1176" publication-type="other">
+S. Friedman,
+Talmud Arukh: Perek Hasokher et Haomanin, Hanusah (Jerusalem: JTS Press, 1997), 12 n. 38</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1185" publication-type="other">
+idem, "Habaraitot BaTalmud HaBavli Veyahasan Lemakbiloteihen ShebaTosefta," in Atara Lehayyim—
+Mehkarim Besifrut Hatalmudit Veharabanit Likhvod Professor Hayyim Zalman Dimitrovsky, ed. D.
+Boyarin, M. Hirshman, S. Friedman, M. Shmeltzer, and I. Ta-Shma (Jerusalem: Magness Press,
+2000), 166-96, esp. 195-96 and the bibliography, n. 112</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1201" publication-type="other">
+B. Katzoff, "Yahas Habaraitot BaTosefta
+Lemakbiloteihen Hatalmudiyot: Iyyun Mehudash Leor Masekhet Berakhot," Hebrew Union College
+Annual 75 (2004): 1-24 (Hebrew section).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1213" publication-type="other">
+Y. Elman, Authority and Tradition: Toseftan Baraitot in Talmudic Babylonia
+(Hoboken, NJ: Yeshiva University Press, 1994), 277-81</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1222" publication-type="other">
+Friedman, Tosefta Atikta: Masekhet
+Pesah Rishon, 195 n. 112.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1232a1310">
+            <label>28</label>
+          
+          
+            <p>
+               <mixed-citation id="d1671e1241" publication-type="other">
+William Scott Green, "What's in a Name? The Problematic of
+Rabbinic 'Biography,'" in Approaches to Ancient Judaism: Theory and Practice (Missoula, MT: Scho-
+lars Press, 1978), 77-96</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1253" publication-type="other">
+Jacob Neusner, "Evaluating the Attributions of Sayings to Named Sages in the
+Rabbinic Literature," Journal for the Study of Judaism 26 (1995): 93-111.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1263" publication-type="other">
+Y. Elman, "How Should a Talmudic Intellectual History Be Written?
+A Response to David Kraemer's Responses," Jewish Quarterly Review 89 (1999): 378.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1272" publication-type="other">
+A. Cohen, "Bikoret Hilkhatit Leumat Bikoret Sifrutit Besugyot Hatalmud,"
+Asufot 3 (1989): 346 n. 75</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1281" publication-type="other">
+Richard Kalmin, "Rabbinic Literature of Late Antiquity as a Source for
+Historical Study," in Judaism in Late Antiquity, ed. J. Neusner and Alan J. Avery-Peck (Leiden:
+Brill, 1999), 187-99</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1293" publication-type="other">
+Y. Kelman, "Haokimta Haamorait 'Hakha Bemai Askinan,' Hamityaheset Leme-
+korot Hatannaim—Tiva, Ofya Vetzurata" (PhD diss., Bar-Ilan University, 2002), 353-54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1302" publication-type="other">
+A. Cohen,
+"Was Age the Decisive Criterion of Subordination among the Amoraim?" Jewish Quarterly Review
+92 (2002): 289 n. 35</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1314" publication-type="other">
+D. Halivni, "Iyyunim Behithavut HaTalmud," Sidra 20 (2005): 69-70</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1321" publication-type="other">
+B. Cohen, "Rav Sheshet Leumat Rav Nahman: Shtei Shitot Parshaniyot Lemekorot Tannaim,"
+Hebrew Union College Annual 76 (2005): 32</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1330" publication-type="other">
+idem, "Rami ber Hama Leumat Rava: Analogiot Parsha-
+niot uPsikatiot Batalmud." Dine Israel 25 (2008): 184 n. 155</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1339" publication-type="other">
+idem, "Nigudim Bedarkhei Halimmud
+shel Amoraei Nehardea Haaharonim," Hebrew Union College Annual 78 (forthcoming).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1350a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d1671e1357" publication-type="other">
+Shabbat 12a (manuscripts), 35b (manuscripts), 54a, 131b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1363" publication-type="other">
+Eruvin 70b, 96a, 99b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1369" publication-type="other">
+Pesahim 3a, 39b (three times)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1376" publication-type="other">
+Rosh Hashanah 16a (manuscripts)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1382" publication-type="other">
+Yoma 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1388" publication-type="other">
+Sukkah 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1394" publication-type="other">
+Betzah 29a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1400" publication-type="other">
+Megillah 4b (manuscripts), 23a (manuscripts), 30a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1406" publication-type="other">
+Moed Katan 18b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1413" publication-type="other">
+Gittin
+24b (manuscripts); 66a (manuscripts), 70b (manuscripts)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1422" publication-type="other">
+Bava Metzia 111b (manuscripts).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1429a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d1671e1436" publication-type="other">
+Goodblatt, Rabbinic Instruction in Sassanian Babylonia,
+149-51</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1445" publication-type="other">
+I Gafni, "Hearot Lemaamaro shel Goodblatt," Zion 46 (1981): 54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1451" publication-type="other">
+J. Rubenstein, "The Rise of
+the Babylonian Rabbinic Academy—A Reexamination of the Talmudic Evidence," Jewish Studies, an
+Internet Journal 1 (2002): 56 n. 6.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1464a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d1671e1471" publication-type="other">
+R. Sherira Gaon, in his talmudic chronology, calls the collection "Baraita D 'Bei [Mar
+(absent in Oxford II)] Shmuel"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1480" publication-type="other">
+R. Sherira Gaon, Iggeret Rav Sherira Gaon, 47.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1486" publication-type="other">
+Rashi calls this
+collection "The Tosefta that Shmuel Arranged"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1496" publication-type="other">
+Rashi, Betzah 29a s.v. tanna d'bei.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1503a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d1671e1510" publication-type="other">
+n. 12</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1517a1310">
+            <label>33</label>
+          
+          
+            <p>
+               <mixed-citation id="d1671e1526" publication-type="other">
+Shabbat 12a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1532" publication-type="other">
+Yerushalmi Shabbat 6:2, 8b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1539" publication-type="other">
+Tosefta Shabbat 1:2
+[ed. Lieberman, 3]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1548" publication-type="other">
+S. Lieberman, Tosefta Kifshuta, Seder Moed [New York, 1962], 3:9)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1554" publication-type="other">
+Shabbat
+35b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1563" publication-type="other">
+Tosefta Sukkah 4:12 [ed. Lieberman, 274-75]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1569" publication-type="other">
+S. Lieberman, Tosefta Kifshuta, 4:894</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1575" publication-type="other">
+Shabbat 131b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1582" publication-type="other">
+D. Henshke, "Tekiat Shofar Beshabbat," Sidra 8 [1992], 24-25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1588" publication-type="other">
+Eruvin 70b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1594" publication-type="other">
+Y. Dinnur, Hiddushei HaRitzad, Seder Moed [Jerusalem, 1981], 1:125</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1600" publication-type="other">
+Eruvin 96a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1606" publication-type="other">
+Eruvin 89b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1612" publication-type="other">
+footnote n. 35</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1619" publication-type="other">
+Pesahim 3a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1625" publication-type="other">
+footnote n. 66</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1631" publication-type="other">
+Pesahim 39a
+(three times)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1640" publication-type="other">
+Friedman, n. 25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1646" publication-type="other">
+Yoma 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1652" publication-type="other">
+Goldberg, n. 17</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1659" publication-type="other">
+Rosh Hashanah
+16a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1668" publication-type="other">
+footnote n. 54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1674" publication-type="other">
+Sukkah 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1680" publication-type="other">
+Tosefta Sukkah 4:24 [ed. Lieberman,
+277]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1689" publication-type="other">
+Megillah 4b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1695" publication-type="other">
+Yerushalmi Megillah 1:1, 70b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1702" publication-type="other">
+Moed Katan 18b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1708" publication-type="other">
+Tosefta Moed Katan
+1:10 [ed. Lieberman, 367]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1717" publication-type="other">
+S. Lieberman, Tosefta Kifshuta, 5:1237]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1723" publication-type="other">
+Gittin 66a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1729" publication-type="other">
+Yerushalmi
+Gittin 3:1, 44c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1738" publication-type="other">
+Bava Metzia 111b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1745" publication-type="other">
+Zevahim 12a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1751" publication-type="other">
+Yerushalmi Shabbat 19:5, 17b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1757" publication-type="other">
+Berakhot 1:1, 2b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1763" publication-type="other">
+L. Ginzberg, Perushim Vehidushim BaYerushalmi [New York, 1941], 1:22-
+23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1772" publication-type="other">
+Kilayim 8:2, 31c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1778" publication-type="other">
+footnote n. 82</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1785" publication-type="other">
+Shabbat 3:3, 6a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1791" publication-type="other">
+Bavli Shabbat
+40a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1800" publication-type="other">
+Shabbat 8:4, 11b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1806" publication-type="other">
+Tosefta Shabbat 8:19 [ed. Lieberman, 33]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1812" publication-type="other">
+Bacher, Tradition und Tra-
+denten in den Schulen Palästinas und Babyloniens, 68 n. 3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1821" publication-type="other">
+Shabbat 19.3, 12a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1828" publication-type="other">
+footnote n. 89</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1834" publication-type="other">
+Shabbat 11:1, 13a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1840" publication-type="other">
+Tosefta Shabbat 10:1 [ed. Lieberman, 41]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1846" publication-type="other">
+Pesahim 9:6, 36a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1852" publication-type="other">
+Tosefta Pesahim 9:9 [ed. Lieberman, 192]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1858" publication-type="other">
+Megillah 3:4, 74b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1865" publication-type="other">
+Tosefta Megillah 3:1 [ed. Lie-
+berman, 353]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1874" publication-type="other">
+Lieberman, Tosefta Kifshuta, 5:1165]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1880" publication-type="other">
+Hagigah 1:1, 90b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1886" publication-type="other">
+Bavli Moed Katan 4a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1892" publication-type="other">
+Yerushalmi Berakhot 4:1, 7c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1898" publication-type="other">
+Epstein [n. 12 herein], 891-92</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1905a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d1671e1912" publication-type="other">
+Bavli Shabbat 54a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1918" publication-type="other">
+A. Goldberg, Perush LaMishnah: Masekhet
+Shabbat (Jerusalem: JTS Press, 1976), 93.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1929a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d1671e1936" publication-type="other">
+Yerushalmi Eruvin 9:2, 25c.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1943a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d1671e1950" publication-type="other">
+Munich 95, Oxford Opp. ADD. Fol. 23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1956" publication-type="other">
+Vatican 109.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1963a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d1671e1970" publication-type="other">
+Z. Frankel, Mavo HaYerushalmi (Breslau: Shlater, 1870; facsimile edition: Jerusalem:
+Omanim, 1967), 111b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1979" publication-type="other">
+Hyman. Toldot Tannaim Veamoraim, 1:192</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e1985" publication-type="other">
+Albeck, Mavo LaTalmudim, 224.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e1992a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d1671e1999" publication-type="other">
+n. 30</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2006a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d1671e2013" publication-type="other">
+Bacher, Tradition und Tradenten in den Schulen Palästinas und Babyloniens, 225, n.
+10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2022" publication-type="other">
+Goodblatt, Rabbinic Instruction in Sassanian Babylonia, 132 and n. 86.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2029a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d1671e2036" publication-type="other">
+Eruvin 70b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2044a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d1671e2051" publication-type="other">
+IggeretR. Sherira Gaon, 82</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2057" publication-type="other">
+A. Cohen, Ravina Vehakh-
+mei Doro: Iyyunim Beseder Hazemanim shel Amoraim Aharonim BeBavel (Ramat-Gan:Bar-Ilan Uni-
+versity Press, 2001), 74 n. 46</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2069" publication-type="other">
+B. Cohen, "Yeshivot Mekomiot BeBavel Betekufat HaTalmud," Zion 70
+(2005): 449 n. 11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2079" publication-type="other">
+B. S. Cohen, "'May You Live to One Hundred and Twenty': The Extraordinary Life-
+span of Several Babylonian Amoraim according to Rashi," Review of Rabbinic Judaism 10 (2007):
+231-33.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2092a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d1671e2099" publication-type="other">
+Shabbat 54a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2105" publication-type="other">
+Betzah 29a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2111" publication-type="other">
+Rosh Hashanah 16a (see below inside, near foot-
+note n. 54)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2121" publication-type="other">
+Yoma 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2127" publication-type="other">
+Sukkah 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2133" publication-type="other">
+Megillah 23a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2139" publication-type="other">
+Bava Metzia 111b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2145" publication-type="other">
+Zevahim 12a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2151" publication-type="other">
+Pesahim 39b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2158" publication-type="other">
+Cohen, Ravina Vehakhmei Doro, 232</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2165a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d1671e2172" publication-type="other">
+n. 42</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2179a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d1671e2186" publication-type="other">
+Bacher, Tradition und Tradenten in
+den Schulen Palastinas und Babyloniens, 225 n. 10.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2196a1310">
+            <label>46</label>
+          
+            <p>
+               <mixed-citation id="d1671e2203" publication-type="other">
+W. Bacher, Die Exegetische Terminologie der Jüdischen Traditionsliteratur (Leipzig:
+J. C. Hinrichs, 1899), 238</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2212" publication-type="other">
+J. Levy, Wörterbuch über die Talmuds und Midraschim (Darmstadt:
+Harz, 1963), 4:653</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2221" publication-type="other">
+M. Jastrow, A Dictionary of the Targumim, the Talmud Babli and Yerushalmi,
+and the Midrashic Literature (New York: Pardes, 1971), 1681</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2231" publication-type="other">
+M. Sokoloff, A Dictionary of Jewish
+Babylonian Aramaic of the Talmudic and Geonic Periods (Ramat-Gan and Baltimore: Bar-Ilan Univer-
+sity Press, 2002), 1218-19.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2244a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d1671e2251" publication-type="other">
+n. 43</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2259a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d1671e2266" publication-type="other">
+Tosefta Eruvin 7:12 (ed. Lieberman, 131).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2273a1310">
+            <label>49</label>
+          
+            <p>
+               <mixed-citation id="d1671e2280" publication-type="other">
+H. Albeck, Seder Moed: Mefurash Perush Hadash im Mevo 'ot Hosafot Vehashlamot
+(Tel Aviv: Dvir, 1952), 119-20</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2289" publication-type="other">
+S. Lieberman, Tosefta Kifshuta, 3:448-49</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2295" publication-type="other">
+Goldberg, Perush LaMish-
+nah: Masekhet Eruvin (Jerusalem: Magness Press, 1976), 253-55</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2305" publication-type="other">
+S. Krauss, Kadmoniyot
+HaTalmud, vol. I, part 2 (Berlin and Vienna: Moriah, 1934), 417.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2315a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d1671e2322" publication-type="other">
+Rashi, s.v. ele be 'arba amot.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2329a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d1671e2336" publication-type="other">
+Moscovitz demonstrated that this legal fiction is not actually present in tannaitic
+sources in Talmudic Reasoning (From Casuistics to Conceptualization) (Tübingen: Mohr Siebeck,
+2002), 187-88.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2349a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d1671e2356" publication-type="other">
+D. Halivni, Makorot Umasorot, Eruvin VePesahim (Jerusalem: Magness Press, 1982),
+232-33.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2366a1310">
+            <label>53</label>
+          
+            <p>
+               <mixed-citation id="d1671e2373" publication-type="other">
+above, n. 36</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2379" publication-type="other">
+Eruvin 9:2</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2387a1310">
+            <label>54</label>
+          
+            <p>
+               <mixed-citation id="d1671e2394" publication-type="other">
+Bacher, Tradition und Tradenten in den Schulen Palästinas und Baby-
+loniens, 225</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2403" publication-type="other">
+Epstein, Mavo Lenusah HaMishnah, 213-14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2409" publication-type="other">
+Goldberg, "Shimusho Shel Rava Ba
+Tosefta," 144-77.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2419a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d1671e2426" publication-type="other">
+"Tanna D'Bei ShmueT" is the version found in Cambridge T-S F 1(2)43 (R. Shmuel),
+Leningrad-Antonin 502, London Harl. 5508 (400), Munich 95, JTS Rab. 108 (EMC 319), JTS Rab.
+218 (EMC 270), and Oxford Opp. Add. Foi 23.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2438" publication-type="other">
+D. Metzger, ed., Perushei Rabbenu Hananel bar Hushiel LaTalmud (Jerusalem:
+Vagshal, 1994), 38.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2447" publication-type="other">
+London Or. 5558A/23, Munich 140, and JTS Rab. 1608 (ENA 850)
+all read "Tanna D'Bei R. Yishmael.'"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2457" publication-type="other">
+Epstein, Mavo Lenusah HaMishnah, 213</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2463" publication-type="other">
+Albeck, Mehkarim Babraita UbaTosefta, 45.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2470a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d1671e2477" publication-type="other">
+Bavli Megillah 27a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2483" publication-type="other">
+Sukkah 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2489" publication-type="other">
+Bava Metzia 111b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2496" publication-type="other">
+Epstein, Mavo Lenusah HaMishnah, 213-14</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2503a1310">
+            <label>57</label>
+          
+            <p>
+               <mixed-citation id="d1671e2510" publication-type="other">
+Bavli Sukkah 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2516" publication-type="other">
+R. Judah's opinion based on a tra-
+dition found in a TDBS baraita'.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2526a1310">
+            <label>58</label>
+          
+            <p>
+               <mixed-citation id="d1671e2533" publication-type="other">
+n. 54</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2540a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d1671e2547" publication-type="other">
+A. Goldberg, "Al Shtei Hamishnayot Harishonot shel Masekhet Rosh Hashanah,"
+Tarbiz 29 (1952): 326 n. 1.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2556" publication-type="other">
+n. 55</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2564a1310">
+            <label>60</label>
+          
+            <p>
+               <mixed-citation id="d1671e2571" publication-type="other">
+R. David Pardo, Hasdei David (Jerusalem: Vagshal, 1994), 2:399, s.v. hakol nidonin</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2577" publication-type="other">
+R.
+Yehezkel Avramsky, Tosefta im Perush Hazon Yehezkel, vol. 2, Seder Moed (Jerusalem, 2000), 10-11,
+s.v. hakol nidonin beR"H</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2589" publication-type="other">
+J. Tabory, Moadei Yisrael Bitekufat HaMishnah VehaTalmud
+(Jerusalem: Magness Press, 2000), 220.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2599a1310">
+            <label>61</label>
+          
+            <p>
+               <mixed-citation id="d1671e2606" publication-type="other">
+JTS ENA 2069.22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2612" publication-type="other">
+D. Metzger, ed., Perushei
+Rabbenu Hananel bar Hushiel LaTalmud [Jerusalem: Vagshal, 1995], 14</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2621" publication-type="other">
+Sefer Haitim, ed. Y. Shor
+[Krakow: Mekizei-Nirdamim, 1903], 7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2631" publication-type="other">
+Tosafot, Menahot 36b, s.v. /' kasavar</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2637" publication-type="other">
+Munich 95, Oxford Opp. Add. Foi. 23, Vatican 127</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2643" publication-type="other">
+Epstein, Mavo Lenusah HaMishnah, 213</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2649" publication-type="other">
+S. Lieberman, Tosefta Kiftshuta, 3: 9.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2656a1310">
+            <label>62</label>
+          
+            <p>
+               <mixed-citation id="d1671e2663" publication-type="other">
+Rashi s.v. im hashekhah.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2670a1310">
+            <label>63</label>
+          
+            <p>
+               <mixed-citation id="d1671e2677" publication-type="other">
+S. Lieberman, Al HeYerushalmi (Jerusalem: Darom, 1929), 29</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2683" publication-type="other">
+idem,
+"Talmuda shel Kesarin," Musaf Tarbiz 2 (1931): 19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2692" publication-type="other">
+Albeck, Mehkarim Babaraita Ubatosefta, 4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2699" publication-type="other">
+Albeck, Mavo LaTalmudim, 21</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2705" publication-type="other">
+B. Katzoff, Hayahas ben HaTosefta VehaYerushalmi Lamasekhet
+Shabbat (PhD diss., Bar-Ilan University, 2004), 297-99.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2715a1310">
+            <label>64</label>
+          
+            <p>
+               <mixed-citation id="d1671e2722" publication-type="other">
+P'nei Moshe, s.v. velo haishinan</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2728" publication-type="other">
+Goldberg, Perush
+LaMishnah, 13.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2738a1310">
+            <label>65</label>
+          
+            <p>
+               <mixed-citation id="d1671e2745" publication-type="other">
+Lieberman, Tosefta Kifshuta, 3:9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2751" publication-type="other">
+Goldberg, Perush LaMishnah, 13.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2759a1310">
+            <label>66</label>
+          
+            <p>
+               <mixed-citation id="d1671e2766" publication-type="other">
+Sasson-Luntzer is the only manuscript that reads D 'Bei R. Yishmael.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2773a1310">
+            <label>67</label>
+          
+            <p>
+               <mixed-citation id="d1671e2780" publication-type="other">
+S. Friedman, "Lashon Hamoadim (I): 'Or Learba Asar,'" in Mehkarim Batalmud
+Ubamidrash, ed. M. Bar-Asher, J. Levinson, and B. Lifshitz (Jerusalem: Mosad Bialik, 2005),
+495.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2792" publication-type="other">
+Mekhilta de-Rabbi Shimon bar Yohai, Bo 17 (ed. Epstein-Melamed, 22)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2798" publication-type="other">
+Tosefta Pesahim
+1:1 (ed. Lieberman, 140).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2808a1310">
+            <label>68</label>
+          
+            <p>
+               <mixed-citation id="d1671e2815" publication-type="other">
+note 69 below.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2822a1310">
+            <label>69</label>
+          
+            <p>
+               <mixed-citation id="d1671e2829" publication-type="other">
+D. Halivni, Makorot Umasorot: Seder Moed, Eruvin VePesahim (Jerusalem:
+JTS Press, 1982), 376</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2838" publication-type="other">
+n. 67</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2844" publication-type="other">
+Albeck, Mavo LaMishnah (Jerusalem: Mosad Bialik-Dvir,
+1959), 173 n. 31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2854" publication-type="other">
+A. Weiss, Hayetzirah shel HaSavoraim: (Helkam Beyet-
+zirat HaTalmud) (Jerusalem: Magness Press, 1953), 12, n. 22.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2863" publication-type="other">
+A. Cohen, "The Saboraic Halakhah in Light of bKiddushin 2a-3b and
+the Geonic Tradition," Dine Israel 24 (2007): 161-214.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2873a1310">
+            <label>70</label>
+          
+            <p>
+               <mixed-citation id="d1671e2880" publication-type="other">
+Albeck, Mavo LaMishnah, 173 n. 31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2886" publication-type="other">
+Epstein, Mevo'ot Lesifrut Hatannaim,
+352-54</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2895" publication-type="other">
+Friedman "Leshon Hamoadim," 475.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2902a1310">
+            <label>71</label>
+          
+            <p>
+               <mixed-citation id="d1671e2909" publication-type="other">
+Epstein, Mevo 'ot Lesifrut Hatannaim, 236.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2917a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d1671e2924" publication-type="other">
+Friedman, "Leshon Hamoadim," 509</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2931a1310">
+            <label>74</label>
+          
+            <p>
+               <mixed-citation id="d1671e2938" publication-type="other">
+n. 12</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e2945a1310">
+            <label>75</label>
+          
+            <p>
+               <mixed-citation id="d1671e2952" publication-type="other">
+Frankel, Mavo HaYerushalmi, 38b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2958" publication-type="other">
+Bacher, Tradition und Tradenten in den
+Schulen Palastinas und Babyloniens, 548-65</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2967" publication-type="other">
+D. Halivni, Midrash, Mishnah, and Gemara (Cam-
+bridge, MA: Harvard University Press, 1986), 147 n. 24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2977" publication-type="other">
+Cohen, Ravina, 239 n. 30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2983" publication-type="other">
+Y. Sussman,
+'"Torah Shebe'al Peah' Pshutah Kemashma'a—Koho shel Kotzo Shel Yod," Mehkarei Talmud
+(2005), 3: 270-71 n. 38a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e2995" publication-type="other">
+Cohen, Ravina, 233 n. 1.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3002a1310">
+            <label>76</label>
+          
+            <p>
+               <mixed-citation id="d1671e3009" publication-type="other">
+I. Francus, ed., Talmud Yerushalmi: Masekhet Betzah im Perush Ehad Hakadmonim
+Rabbenu Elazar Azkari Baal Sefer Haredim (New York: JTS Press, 1995), 151, s.v. min mah
+detanei.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3022a1310">
+            <label>77</label>
+          
+            <p>
+               <mixed-citation id="d1671e3029" publication-type="other">
+Yafeh Enayim, s.v. hamin shehuchmu</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3035" publication-type="other">
+B. Ratner, Ahavat Tzion VeYerushalayim:
+Masekhet Shabbat (Jerusalem: Makhon Muzal Me'esh, 1967), 50</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3044" publication-type="other">
+I. Francus, Mehkarim Beharkavah
+shel Masekhet Betzah ShebaTalmud HaBavli Ubedarkei Arikhatah (PhD diss., Hebrew University,
+1961), 242-43.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3057a1310">
+            <label>78</label>
+          
+            <p>
+               <mixed-citation id="d1671e3064" publication-type="other">
+Bavli Shabbat 39b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3070" publication-type="other">
+A. Weiss, "Perushim Vehearot Latext Uleseder HaMishnah shel Masekhet Shabbat,"
+Horev 1 (1943): 12-13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3079" publication-type="other">
+Goldberg, Perush LaMishnah, 66.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3087a1310">
+            <label>79</label>
+          
+            <p>
+               <mixed-citation id="d1671e3094" publication-type="other">
+Lieberman, Tosefta Kifshuta, 5:952.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3101a1310">
+            <label>80</label>
+          
+            <p>
+               <mixed-citation id="d1671e3108" publication-type="other">
+Oxford Opp. Add. Fol. 23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3114" publication-type="other">
+Lieberman, Tosefta
+Kifshuta, 5:952.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3124a1310">
+            <label>81</label>
+          
+            <p>
+               <mixed-citation id="d1671e3131" publication-type="other">
+Y. Dinnur, Hidushei HaRitzad, 28, s.v. bat'hila</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3137" publication-type="other">
+Bavli Shabbat 39b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3143" publication-type="other">
+Dinnur, Hidushei HaRitzad, 28</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3150" publication-type="other">
+Goldberg (above, n. 65).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3157a1310">
+            <label>82</label>
+          
+            <p>
+               <mixed-citation id="d1671e3164" publication-type="other">
+G. Herman, Rashut Hagolah BeBavel Bitkufat HaTal-
+mud (PhD diss., Hebrew University, 2005), 233.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3173" publication-type="other">
+Frankel, Mavo HaYerushalmi, 86a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3179" publication-type="other">
+Albeck, Mavo LaTalmudim,
+238-339</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3189" publication-type="other">
+Bavli Pesahim 52b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3195" publication-type="other">
+Sukkah 37b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3201" publication-type="other">
+Yerushalmi Sheviit 9:1, 38d</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3207" publication-type="other">
+Pesahim 7:9, 35a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3213" publication-type="other">
+Ketubbot
+2:10, 26d</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3223a1310">
+            <label>83</label>
+          
+            <p>
+               <mixed-citation id="d1671e3230" publication-type="other">
+Frankel, Mavo HaYerushalmi, 102b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3236" publication-type="other">
+Albeck, Mavo LaTalmudim, 185-86.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3243a1310">
+            <label>84</label>
+          
+            <p>
+               <mixed-citation id="d1671e3250" publication-type="other">
+P'nei Moshe, s.v. vetanei.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3258a1310">
+            <label>85</label>
+          
+            <p>
+               <mixed-citation id="d1671e3265" publication-type="other">
+R. Yehezkel Avramsky, Tosefta im Perush Hazon Yehezkel, vol. 2, Seder Moed (Jerusalem,
+2000), 113, s.v. kore lah.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3274" publication-type="other">
+Lieberman, Tosefta Kifshuta, 3:288.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3281a1310">
+            <label>86</label>
+          
+            <p>
+               <mixed-citation id="d1671e3288" publication-type="other">
+Lieberman, Tosefta Kifshuta, 3:287-88</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3294" publication-type="other">
+Goldberg, Perush LaMishnah, 387.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3300" publication-type="other">
+B. Cohen, Mishnah and Tosefta: A Comparative
+Study—Part 1: Shabat (New York: JTS Press, 1935), 143.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3310a1310">
+            <label>87</label>
+          
+            <p>
+               <mixed-citation id="d1671e3317" publication-type="other">
+Lieberman, Tosefta Kifshuta, 3:287-88</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3323" publication-type="other">
+Goldberg, Perush LaMishnah, 387.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3330a1310">
+            <label>88</label>
+          
+            <p>
+               <mixed-citation id="d1671e3337" publication-type="other">
+Lieberman, Tosefta Kifshuta, 3:288.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3344a1310">
+            <label>89</label>
+          
+            <p>
+               <mixed-citation id="d1671e3351" publication-type="other">
+Genesis Rabbah 80:25 (ed.. Theodor-Albeck, 962)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3357" publication-type="other">
+Yerushalmi Shabbat 9:3, 12a.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3364a1310">
+            <label>90</label>
+          
+            <p>
+               <mixed-citation id="d1671e3371" publication-type="other">
+Yerushalmi Shabbat 9:3, 12a.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3379a1310">
+            <label>92</label>
+          
+            <p>
+               <mixed-citation id="d1671e3386" publication-type="other">
+Yerushalmi Shabbat 9:3, 12a.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3393a1310">
+            <label>94</label>
+          
+            <p>
+               <mixed-citation id="d1671e3400" publication-type="other">
+the statement of Rav in the Bavli 134b: "Rav said: they don't prevent one from
+putting hot water or oil on a wound on Shabbat."</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3410a1310">
+            <label>95</label>
+          
+            <p>
+               <mixed-citation id="d1671e3417" publication-type="other">
+Epstein, Mavo Lenusah HaMishnah, 55-56.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3424a1310">
+            <label>96</label>
+          
+            <p>
+               <mixed-citation id="d1671e3431" publication-type="other">
+P'nei Moshe, s.v. amar R. Yose.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3438a1310">
+            <label>97</label>
+          
+            <p>
+               <mixed-citation id="d1671e3445" publication-type="other">
+Frankel, Mavo HaYer-
+ushalmi, 111b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3454" publication-type="other">
+Albeck, Mavo LaTalmudim, 334-36.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3461a1310">
+            <label>98</label>
+          
+            <p>
+               <mixed-citation id="d1671e3468" publication-type="other">
+Epstein, Mavo Lenusah HaMishnah, 55 n. 4.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3474" publication-type="other">
+S. Lieberman, HaYerushalmi Kifshuto, 2nd ed., ed. M. Katz (Jerusalem and New York:
+JTS Press, 2008), 162.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3485a1310">
+            <label>99</label>
+          
+            <p>
+               <mixed-citation id="d1671e3492" publication-type="other">
+1. Kohut, ed., Arukh Hashalem (New York, 1955), 3:294.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3498" publication-type="other">
+N. Zakash, ed., Kovetz Rishonim
+Lemasekhet Moed Katan (Jerusalem:Makhon HaTalmud Halsraeli Hashalem, 1966), 60.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3507" publication-type="other">
+Levy, Worterbuch iiber die Talmuds und Mid-
+raschim, 1:539</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3517" publication-type="other">
+S. Krauss, Talmudische Archaologie (Leipzig, 1910), 1:228</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3523" publication-type="other">
+Jastrow, Dictionary of
+the Targumim, 1:401</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3532" publication-type="other">
+E. Ben-Yehuda, Milon Halashon Halvrit (Jerusalem-New York: T. Yoslof,
+1960), 2:1348</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3541" publication-type="other">
+Sokolofif, Dictionary of Jewish Babylonian Aramaic), 415.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3548a1310">
+            <label>100</label>
+          
+            <p>
+               <mixed-citation id="d1671e3555" publication-type="other">
+Albeck, Mehkarim Babaraita UbaTosefta, 101.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3562a1310">
+            <label>101</label>
+          
+            <p>
+               <mixed-citation id="d1671e3569" publication-type="other">
+Shmuel's own opinion, Bavli Shabbat 134b</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3576a1310">
+            <label>102</label>
+          
+            <p>
+               <mixed-citation id="d1671e3583" publication-type="other">
+Cohen, Mishnah and Tosefta, 129.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3590a1310">
+            <label>103</label>
+          
+            <p>
+               <mixed-citation id="d1671e3597" publication-type="other">
+Lieberman, Tosefta Kifshuta, 3: 245.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3604a1310">
+            <label>104</label>
+          
+            <p>
+               <mixed-citation id="d1671e3611" publication-type="other">
+Goldberg, Perush LaMishnah, 332.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3619a1310">
+            <label>105</label>
+          
+            <p>
+               <mixed-citation id="d1671e3626" publication-type="other">
+Lieberman, Tosefta Kifshuta 3: 245.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3633a1310">
+            <label>106</label>
+          
+            <p>
+               <mixed-citation id="d1671e3640" publication-type="other">
+J. Preuss, Biblical and Talmudic Medicine, trans, and ed. F. Rosner
+(London: Aronson, 1993), 238-39.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3650a1310">
+            <label>107</label>
+          
+            <p>
+               <mixed-citation id="d1671e3657" publication-type="other">
+Lieberman, Tosefta Kifshuta, 2:461.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3663" publication-type="other">
+The Tosafot on Bavli Shabbat 134b, s.v. vein mon'in</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3670a1310">
+            <label>108</label>
+          
+            <p>
+               <mixed-citation id="d1671e3677" publication-type="other">
+Antonin 1190 (= A. Y. Katz, Ginzei
+Talmud Bavli [Jerusalem: Reuven Mas, 1979], 2:212), in Munich 95, in Vatican 116-17, and in the Sal-
+onika printed edition.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3689" publication-type="other">
+Hamburg 165, Florence, Ascorial G-I-3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3695" publication-type="other">
+Vatican
+115</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3705" publication-type="other">
+Epstein, Mavo Lenusah Hamishnah, 1:213</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3711" publication-type="other">
+idem, Mevo 'ot Lesifrut Hatannaim, 723.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3717" publication-type="other">
+Rabbinic Instruction, 134 n. 94</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3724a1310">
+            <label>109</label>
+          
+            <p>
+               <mixed-citation id="d1671e3731" publication-type="other">
+Bavli Bava Metzia 111a</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3738a1310">
+            <label>110</label>
+          
+            <p>
+               <mixed-citation id="d1671e3745" publication-type="other">
+Rosh Hashanah 16a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3751" publication-type="other">
+Sukkah 56b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3757" publication-type="other">
+Megillah 23a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3764" publication-type="other">
+Ketubbot 49a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3770" publication-type="other">
+Kiddushin 29b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3778a1310">
+            <label>111</label>
+          
+            <p>
+               <mixed-citation id="d1671e3785" publication-type="other">
+n. 54</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3792a1310">
+            <label>112</label>
+          
+            <p>
+               <mixed-citation id="d1671e3799" publication-type="other">
+Sanhedrin 56b.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3806a1310">
+            <label>114</label>
+          
+            <p>
+               <mixed-citation id="d1671e3813" publication-type="other">
+Albeck, Mavo LaTalmudim, 297.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3820a1310">
+            <label>115</label>
+          
+            <p>
+               <mixed-citation id="d1671e3827" publication-type="other">
+S. Warhaftig, Dinei Avodah Bamishpat Halvri (Tel Aviv: Moreshet, 1969), 1:3.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3834a1310">
+            <label>116</label>
+          
+            <p>
+               <mixed-citation id="d1671e3841" publication-type="other">
+Leviticus 19:13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3847" publication-type="other">
+Deuteronomy 24:14.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3854a1310">
+            <label>117</label>
+          
+            <p>
+               <mixed-citation id="d1671e3861" publication-type="other">
+Tosefta Bava Metzia 10:3 (ed. Lieberman, 117), and parallels.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3869a1310">
+            <label>118</label>
+          
+            <p>
+               <mixed-citation id="d1671e3876" publication-type="other">
+Rashi, s.v. ve'eyn bo.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3883a1310">
+            <label>119</label>
+          
+            <p>
+               <mixed-citation id="d1671e3890" publication-type="other">
+Shmuel's statement is parallel to his statement in Yerushalmi Betzah 5:2, 63a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3896" publication-type="other">
+N. Aminoah, Arikhat Masekhtot Sukkah Umoed Katan Batalmud (Tel Aviv: Tel-Aviv
+University Press, 1989), 392.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3906a1310">
+            <label>120</label>
+          
+            <p>
+               <mixed-citation id="d1671e3913" publication-type="other">
+Halakhot Pesukot, ed. N. Danzig (Jerusalem: Ahavat Shalom, 1999), 439.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3919" publication-type="other">
+R. Hannanel (Perushei R. Hannanel bar Hushiel LaTalmud,
+ed. D. Metzger [Jerusalem: Vagshal, 1993], 47)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e3928" publication-type="other">
+R. Shlomo ben Hayatom (Perush Masekhet
+Mashkin LeRabbenu Shlomo Hayatom, ed. T. P. Hayot [Berlin: Mekizei Nirdamim, 1910], 96)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3938a1310">
+            <label>121</label>
+          
+            <p>
+               <mixed-citation id="d1671e3945" publication-type="other">
+n. 120</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3952a1310">
+            <label>122</label>
+          
+            <p>
+               <mixed-citation id="d1671e3959" publication-type="other">
+Albeck, Mehkarim Bahraita Ubatosefta, 112.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3966a1310">
+            <label>123</label>
+          
+            <p>
+               <mixed-citation id="d1671e3973" publication-type="other">
+S. Lieberman, Tosefta Kifshuta, 5:1237.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3981a1310">
+            <label>124</label>
+          
+            <p>
+               <mixed-citation id="d1671e3988" publication-type="other">
+Aminoah, Arikhat Masekhtot Sukkah, 262.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e3995a1310">
+            <label>125</label>
+          
+            <p>
+               <mixed-citation id="d1671e4002" publication-type="other">
+Albeck, Shisha Sidrei Mishnah [Jerusalem and Tel Aviv, 1958], 2:381</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4008" publication-type="other">
+idem,
+"Haerusin Veshtarotehen," in Kobetz Mada 'i Lezekher Moshe Shor [New York, 1947], 12-13</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4018a1310">
+            <label>126</label>
+          
+            <p>
+               <mixed-citation id="d1671e4025" publication-type="other">
+S. Lieberman, Tosefta Kifshuta 5:1237.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4032a1310">
+            <label>127</label>
+          
+          
+            <p>
+               <mixed-citation id="d1671e4041" publication-type="other">
+N. Rubin, Simhat Hahayyim (Tel Aviv: Hakibutz Hameukhad, 2004), 148</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4047" publication-type="other">
+Mishnah Pesahim 3:7</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4054" publication-type="other">
+Tosefta Pesahim 3:12 (ed. Lieberman, 154)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4060" publication-type="other">
+Sifre Deuteronomy 131 (ed. Finkelstein, 188)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4066" publication-type="other">
+Mekhilta DeRabbi Shimon bar Yohai 13:6 (ed.
+Epstein-Melamed, 39-^0)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4075" publication-type="other">
+Midrash Hagadol Exodus (ed. M. Margoliot, 230).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4081" publication-type="other">
+Epstein (Mavo Lenusah Hamishnah, 746)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4087" publication-type="other">
+S. Friedman (Tosefta Atikta: Pesah Rishon [Ramat-Gan:
+Bar-Ilan University Press, 2002], 33 n. 7)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4097a1310">
+            <label>128</label>
+          
+            <p>
+               <mixed-citation id="d1671e4104" publication-type="other">
+Yerushalmi Shabbat 19:1, 16d.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4111a1310">
+            <label>129</label>
+          
+            <p>
+               <mixed-citation id="d1671e4118" publication-type="other">
+Bavli
+Rosh Hashanah 29b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4127" publication-type="other">
+Bavli Shabbat 117b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4133" publication-type="other">
+Munich 95</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4141a1310">
+            <label>130</label>
+          
+            <p>
+               <mixed-citation id="d1671e4148" publication-type="other">
+Rosh Hashanah 4:1.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4154" publication-type="other">
+G. Alon, Toldot HaYehudim BeEretz Yisrael Bitkufat HaMishnah
+VehaTalmud (Tel Aviv: Akibutz Hameukhad, 1953), 1:67-68</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4163" publication-type="other">
+S. Safrai, Bimei Habayit Ubimei
+HaMishnah (Jerusalem: Magness Press, 1994), 1:139^2.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4173a1310">
+            <label>131</label>
+          
+            <p>
+               <mixed-citation id="d1671e4180" publication-type="other">
+I. Heineman, Iyyunei Tefilah (Jerusalem: Magness Press, 1981), 85-89</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4186" publication-type="other">
+D. Henshke,
+"Tekiat Shofar BeShabbat," Sidra 8 (1992): 19-37</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4195" publication-type="other">
+J. Tabori, Moadei Yisrael (Jerusalem: Magness
+Press, 2000), 247-52.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4205a1310">
+            <label>132</label>
+          
+            <p>
+               <mixed-citation id="d1671e4212" publication-type="other">
+Henshke, "Tekiat Shofar BeShabbat," 31-36.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4219a1310">
+            <label>133</label>
+          
+            <p>
+               <mixed-citation id="d1671e4226" publication-type="other">
+Sifra Behar Parsha 2:4, 107a.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4233a1310">
+            <label>134</label>
+          
+            <p>
+               <mixed-citation id="d1671e4240" publication-type="other">
+Henshke, "Tekiat Shofar BeShabbat," 22-27.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4247a1310">
+            <label>135</label>
+          
+            <p>
+               <mixed-citation id="d1671e4254" publication-type="other">
+Rashi, malekhet avodah.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4260" publication-type="other">
+Y. D. Gilat, Mehkarim Behishtalshelut Hahalakhah (Ramat-Gan: Bar-Ilan University
+Press, 1992), 249-61.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4271a1310">
+            <label>136</label>
+          
+            <p>
+               <mixed-citation id="d1671e4278" publication-type="other">
+J. Tabory, Moadei Yisrael, 250</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4284" publication-type="other">
+Heineman, Iyyunei Tefilah, 86</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4290" publication-type="other">
+S. Lieberman,
+Tosefta Kifshuta, 5:1061.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4300a1310">
+            <label>137</label>
+          
+            <p>
+               <mixed-citation id="d1671e4307" publication-type="other">
+Henshke, "Tekiat Shofar BeShabbat," 26.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4314a1310">
+            <label>138</label>
+          
+            <p>
+               <mixed-citation id="d1671e4321" publication-type="other">
+Bavli Rosh Hashanah 29b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4327" publication-type="other">
+Sukkah 42b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4333" publication-type="other">
+Goldberg, "Lehitpatchut Hasugya Batalmud
+HaBavli," Sefer HaYovel LeRabbi Hanokh Albeck (Jerusalem:Mosad Harav Kuk, 1963), 101-13.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4343a1310">
+            <label>139</label>
+          
+            <p>
+               <mixed-citation id="d1671e4350" publication-type="other">
+Bacher, Tradition und Tradenten, 208</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4356" publication-type="other">
+Gordis, Al Parshanuet, 340</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4363a1310">
+            <label>140</label>
+          
+            <p>
+               <mixed-citation id="d1671e4370" publication-type="other">
+S. Funk Die Juden in Babylonien, 62</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4376" publication-type="other">
+Goldberg, "Shimusho Shel
+Rava Ba Tosefta," 144-77.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4386a1310">
+            <label>141</label>
+          
+            <p>
+               <mixed-citation id="d1671e4393" publication-type="other">
+Albeck, Mehkarim Babraita Ubatosefta, 15-43</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4399" publication-type="other">
+idem, Mavo
+LaTalmudim, 28-39.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4410a1310">
+            <label>142</label>
+          
+            <p>
+               <mixed-citation id="d1671e4417" publication-type="other">
+Albeck, Mehkarim Babraita Ubatosefta, 15-43</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4423" publication-type="other">
+idem, Mavo
+LaTalmudim, 28-39.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4432" publication-type="other">
+footnote n. 25.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4439a1310">
+            <label>143</label>
+          
+          
+            <p>
+               <mixed-citation id="d1671e4448" publication-type="other">
+Mishnah, Epstein, Mavo Lenusah
+HaMishnah, 214</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4457" publication-type="other">
+Epstein cites Yoma 70a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4464" publication-type="other">
+"Shimusho Shel Rava Ba Tosefta," 144-
+77</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4474a1310">
+            <label>144</label>
+          
+            <p>
+               <mixed-citation id="d1671e4481" publication-type="other">
+n. 33</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4488a1310">
+            <label>145</label>
+          
+            <p>
+               <mixed-citation id="d1671e4495" publication-type="other">
+Abba bar Abba, called in the Bavli
+"Avuha DeShmuel,"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4504" publication-type="other">
+Bavli Pesahim 103a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4510" publication-type="other">
+Rosh Hashanah 27b
+[= Yerushalmi Rosh Hashanah 3:6, 59a]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4520" publication-type="other">
+Rosh Hashanah 28a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4526" publication-type="other">
+Yevamot 104b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4532" publication-type="other">
+Yevamot 105a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4538" publication-type="other">
+Yevamot 115b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4544" publication-type="other">
+Bava Metzia 90a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4550" publication-type="other">
+Yerushalmi Bava Metzia 4:1, 9c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4557" publication-type="other">
+Yevamot 115b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4563" publication-type="other">
+S. Albeck, Mishpachot Sofrim [Warsaw: Sholdberg, 1903], 22</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4570a1310">
+            <label>146</label>
+          
+            <p>
+               <mixed-citation id="d1671e4577" publication-type="other">
+n. 33</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4584a1310">
+            <label>147</label>
+          
+            <p>
+               <mixed-citation id="d1671e4591" publication-type="other">
+nn. 3-7</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4599a1310">
+            <label>148</label>
+          
+          
+            <p>
+               <mixed-citation id="d1671e4608" publication-type="other">
+Bavli Bava Metzia 85b-86a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4614" publication-type="other">
+Sokoloff, Dictionary of Jewish Babylonian Aramaic,
+148.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4624" publication-type="other">
+Graetz, History of the Jews, 2:518</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4630" publication-type="other">
+I. H. Weiss,
+"The Controversies of Rab and Samuel and the Tosefta," 164</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4639" publication-type="other">
+T. Yaavetz, Toldot Yisrael (Tel Aviv:
+Am-Olam, 1938), 7:26</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4648" publication-type="other">
+Hyman, Toldot Tannaim Veamoraim, 1123.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4654" publication-type="other">
+D. Hoffman, Mar
+Samuel, 15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4663" publication-type="other">
+W. Bacher, "Samuel Yarhina'ah," Jewish Encyclopedia (New York: Funk and Wag-
+nalls, 1901), 11:29</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4673" publication-type="other">
+S. Rappoport, Erekh Milin (Prague: M. Landa, 1852), 1:222</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4679" publication-type="other">
+Frankel, Mavo
+HaYerushalmi, 124b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4688" publication-type="other">
+M. Beer, "Samuel," Encyclopaedia Judaica (Detroit: Macmillan, 2007),
+17:757</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4697" publication-type="other">
+Epstein, Mevo'ot Lesifrut Hatannaim, 200 n. 1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4703" publication-type="other">
+Beer, "Samuel," 757</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4709" publication-type="other">
+D.
+Halivni, "Iyyunim Behithavut HaTalmud," 84 and n. 69</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4719" publication-type="other">
+Meir, R. Yehudah Hanasi, 238.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4725" publication-type="other">
+Epstein,
+Mavo Lenusah HaMishnah, 212</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4734" publication-type="other">
+Shmuel's statement on Bavli Shabbat 51b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4740" publication-type="other">
+D. Halivni, Makorot Umasorot: Shabbat [Jerusalem: JTS Press, 1982],
+153</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4749" publication-type="other">
+Bavli Gittin 66b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4755" publication-type="other">
+Vatican
+130</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4765" publication-type="other">
+B. S. Cohen, "How Many R. Hamnunas in the Babylonian Talmud? A Study
+in Talmudic Chronology," Review of Rabbinic Judaism 10 (2007): 98 n. 22.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4775a1310">
+            <label>149</label>
+          
+            <p>
+               <mixed-citation id="d1671e4782" publication-type="other">
+above n. 76</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e4789a1310">
+            <label>150</label>
+          
+          
+            <p>
+               <mixed-citation id="d1671e4798" publication-type="other">
+Albeck, Mavo LaTalmudim, 153-55</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4804" publication-type="other">
+Bavli Megil-
+lah 29a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4814" publication-type="other">
+Ketubbot 103b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4820" publication-type="other">
+Yerushalmi Sukkah 4:3, 54c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4826" publication-type="other">
+Avuha DeShmuel—Bavli Megillah 29a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4832" publication-type="other">
+Bavli Bava Metzia 38b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4838" publication-type="other">
+Yerushalmi
+Ketubbot 2:5, 26c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4847" publication-type="other">
+B. Ratner, "Mishnato shel Levi ben Sisi," in Zikaron Le Avraham Eliyahu Lekh'vod
+HaRav Hachakham Hamephoar Avraham Eliyahu Harkavi (Peterburg: Z. H. Izkovask; Berlin: Itzko-
+vaski, 1908), 117-18.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4860" publication-type="other">
+Gittin
+5:3, 46d.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4869" publication-type="other">
+Tosefta Ketubbot 4:17 (ed. Lieberman, 70)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4875" publication-type="other">
+S. Lieberman, Tosefta Kifshuta,
+6:254 n. 103, "And this [Tanna D'Bei Levi] baraita is our Tosefta."</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4884" publication-type="other">
+Bava Kamma 5:10,15b (accord-
+ing to the Escorial manuscript, S. Lieberman, Yerushalmi Nezikin [Jerusalem, 1984], 19).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4893" publication-type="other">
+Tosefta Kilayim 1:8 (ed. Lieberman, 204).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4899" publication-type="other">
+Bava Batra 4:4,14c (according
+to the Escorial manuscript, p. 90).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4909" publication-type="other">
+Tosefta Bava Kamma 3:1 (ed. Lieberman,
+138)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4918" publication-type="other">
+S. Lieberman, Tosefta Kifshuta (New York, 1988), 10:362, "It turns our Tosefta is like the
+House of Levi."</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4927" publication-type="other">
+Bava Batra 10:5, 17c.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4933" publication-type="other">
+Tosefta Bava Batra
+11:9 (ed. Lieberman, 169).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4942" publication-type="other">
+Eruvin
+10a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4951" publication-type="other">
+Yerushalmi Eruvin 1:1, 18c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4958" publication-type="other">
+Pesahim 17a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4964" publication-type="other">
+Ketubbot 96b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4970" publication-type="other">
+Tosefta Ketubbot 11:1 (ed. Lieberman, 92).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4976" publication-type="other">
+Lieberman, Tosefta Kifshutah, 6:355.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4982" publication-type="other">
+Menahot 48b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4988" publication-type="other">
+Tosefta Nezirut 4:9 (ed. Lieberman, 40).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e4995" publication-type="other">
+S. Lieber-
+man, Tosefta Kifshuta 7:554.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5004" publication-type="other">
+Hullin 108b.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5010" publication-type="other">
+Tosefta Makkot 4:7 (ed. Zuker-
+mandel, 442).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5019" publication-type="other">
+Dinnur, Hiddushei HaRitzad, 4:340.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5026a1310">
+            <label>151</label>
+          
+            <p>
+               <mixed-citation id="d1671e5033" publication-type="other">
+Gafhi, Yehudei Bavel Bitkufat Hatalmud, 90.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5040a1310">
+            <label>154</label>
+          
+            <p>
+               <mixed-citation id="d1671e5047" publication-type="other">
+Bacher, Tradition und Tradenten, 112</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5053" publication-type="other">
+S. Lieberman, HaYerushalmi Kifshuto,
+415.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5062" publication-type="other">
+Leib Moscowitz in his recent book, Haterminologia
+shel HaYerushalmi: Hamunachim Haikari'im (Jerusalem: Magnes Press, forthcoming).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5072a1310">
+            <label>155</label>
+          
+            <p>
+               <mixed-citation id="d1671e5079" publication-type="other">
+the commentary of R. Moshe Margoliot (Penei Moshe), s.v. miltei deRav.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5087a1310">
+            <label>156</label>
+          
+            <p>
+               <mixed-citation id="d1671e5094" publication-type="other">
+S. Kraus,
+Kadmoniyot HaTalmud (Berlin and Vienna: Moriah, 1924), 1:420-21.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5104a1310">
+            <label>157</label>
+          
+            <p>
+               <mixed-citation id="d1671e5111" publication-type="other">
+Penei Moshe, s.v. matnita deShmuel.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5118a1310">
+            <label>158</label>
+          
+            <p>
+               <mixed-citation id="d1671e5125" publication-type="other">
+n. 160</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5132a1310">
+            <label>159</label>
+          
+            <p>
+               <mixed-citation id="d1671e5139" publication-type="other">
+Moscowitz (n. 155 herein), who writes, "However, this is a difficult interpreta-
+tion, both in light of the actual words of the term and in light of its typical usage."</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5149a1310">
+            <label>160</label>
+          
+            <p>
+               <mixed-citation id="d1671e5156" publication-type="other">
+"Med-
+ikdukei Yerushalmi" Tarbiz 5 (1934): 260</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5165" publication-type="other">
+idem,Mavo Lenusah HaMishnah, 163</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5171" publication-type="other">
+S. Lieber-
+man, HaYerushalmi Kifshuto, 32.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5181a1310">
+            <label>161</label>
+          
+            <p>
+               <mixed-citation id="d1671e5188" publication-type="other">
+S. Lieberman's emendation, HaYerushalmi
+Kifshuto, 32.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5199a1310">
+            <label>162</label>
+          
+            <p>
+               <mixed-citation id="d1671e5206" publication-type="other">
+Tosefta Shabbat 1:13 (ed. Lieberman, 3)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1671e5212" publication-type="other">
+Goldberg, Perush LaMishnah, 13.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5219a1310">
+            <label>163</label>
+          
+            <p>
+               <mixed-citation id="d1671e5226" publication-type="other">
+Abramsky, Tosefta Hazon Yehezkel, Seder Moed, 4, s.v. afilu gavoha.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5233a1310">
+            <label>164</label>
+          
+            <p>
+               <mixed-citation id="d1671e5240" publication-type="other">
+R. David Frankel, Korban Haedah, s.v. meahar sheyekholin limhot.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5247a1310">
+            <label>165</label>
+          
+            <p>
+               <mixed-citation id="d1671e5254" publication-type="other">
+Halivni, Makorot Umasorot, 28-29.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1671e5261a1310">
+            <label>166</label>
+          
+            <p>
+               <mixed-citation id="d1671e5268" publication-type="other">
+S. Lieberman, HaYerushalmi Kifshuto, 32.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

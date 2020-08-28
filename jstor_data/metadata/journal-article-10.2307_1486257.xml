@@ -1,0 +1,1723 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486257</article-id>
+         <title-group>
+            <article-title>Three Typological Themes in Early Jewish Messianism: Messiah Son of Joseph, Rabbinic Calculations, and the Figure of Armilus</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>David</given-names>
+                  <surname>Berger</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1985</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">10</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i265518</issue-id>
+         <fpage>141</fpage>
+         <lpage>164</lpage>
+         <page-range>141-164</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1986 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486257"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d64e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d64e121" publication-type="book">
+James H. Charlesworth, "The Concept of the Messiah in the
+Pseudepigrapha," in Aufstieg und Niedergang der Rémischen Welt II. 19.1, ed. Wolfgang Haase
+(Berlin and New York, 1979), p. 189, n. 4<person-group>
+                     <string-name>
+                        <surname>Charlesworth</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Concept of the Messiah in the Pseudepigrapha</comment>
+                  <fpage>189</fpage>
+                  <volume>II</volume>
+                  <source>Aufstieg und Niedergang der Rémischen Welt</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e159a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d64e166" publication-type="book">
+Jacob Neusner's Messiah in Context (Philadelphia, 1984<person-group>
+                     <string-name>
+                        <surname>Neusner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Messiah in Context</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e188a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d64e195" publication-type="book">
+Tanhuma, ed. Buber, II, p. 43<person-group>
+                     <string-name>
+                        <surname>Buber</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <volume>II</volume>
+                  <source>Tanhuma</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e219" publication-type="book">
+L. Ginzberg, Eine Unbekannte Jüdische
+Sekte (New York and Pressburg, 1922), p. 334 (hereafter cited as Sekte<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>334</fpage>
+                  <source>Eine Unbekannte Jidische Sekte</source>
+                  <year>1922</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e247" publication-type="book">
+Monatsschrift für
+Geschichte und Wissenschaft des Judentums 58 (1914): 412 (hereafter cited as MGWJ<fpage>58</fpage>
+                  <source>Monatsschrift für Geschichte und Wissenschaft des Judentums</source>
+                  <year>1914</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e266" publication-type="other">
+412 (hereafter cited as MGWJ</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e272" publication-type="book">
+An
+Unknown Jewish Sect (New York, 1976), p. 234 (hereafter cited as Sect<fpage>234</fpage>
+                  <source>An Unknown Jewish Sect</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e291a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d64e298" publication-type="other">
+Sekte, pp. 335-336</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e304" publication-type="other">
+MG WJ, pp. 413-414</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e310" publication-type="other">
+Sect, p. 235</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e318a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d64e325" publication-type="journal">
+Josephus, Antiquities 20.5.1.<person-group>
+                     <string-name>
+                        <surname>Josephus</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>5</issue>
+                  <fpage>1</fpage>
+                  <volume>20</volume>
+                  <source>Antiquities</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e354a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d64e361" publication-type="other">
+Ibid. 20.8.6.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e368a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d64e375" publication-type="other">
+Sibylline Oracles 5.256-259</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e381" publication-type="book">
+H. M. Teeple, The Mosaic Eschatological Prophet
+(Philadelphia, 1957), pp. 10-11 (and note the references on pp. 29-31 concerning the exodus as
+a prototype of the final redemption<person-group>
+                     <string-name>
+                        <surname>Teeple</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <source>The Mosaic Eschatological Prophet</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e412" publication-type="book">
+G. Vermes, Jesus the Jew (New York, 1973), p. 98<person-group>
+                     <string-name>
+                        <surname>Vermes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>98</fpage>
+                  <source>Jesus the Jew</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e437a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d64e444" publication-type="other">
+Be-Midbar Rabbah 11:3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e450" publication-type="other">
+Shir ha-Shirim Rabbah 2:22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e456" publication-type="other">
+Ruth Rabbah 5:6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e463" publication-type="book">
+Pesikta Rabbati
+15, ed. Friedmann, p. 72b<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>72</fpage>
+                  <volume>15</volume>
+                  <source>Pesikta Rabbati</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e491" publication-type="other">
+n. 63 there</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e497" publication-type="book">
+Pesikta de-Rav Kahana, ed. Buber, p. 49b<person-group>
+                     <string-name>
+                        <surname>Buber</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>49</fpage>
+                  <source>Pesikta de-Rav Kahana</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e518" publication-type="other">
+Sekte, p. 335</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e524" publication-type="other">
+MGWJ, p. 413</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e530" publication-type="other">
+Sect, p. 234</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e537a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d64e544" publication-type="journal">
+Antiquities 20.8.6<issue>8</issue>
+                  <fpage>6</fpage>
+                  <volume>20</volume>
+                  <source>Antiquities</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e563a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d64e570" publication-type="other">
+Matt. 2:14-15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e576" publication-type="other">
+Hosea 11:1</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e584a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d64e591" publication-type="other">
+Matt. 4:2</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e598a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d64e605" publication-type="journal">
+Antiquities 20.8.6<issue>8</issue>
+                  <fpage>6</fpage>
+                  <volume>20</volume>
+                  <source>Antiquities</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e623" publication-type="journal">
+War 2.13.4<issue>13</issue>
+                  <fpage>4</fpage>
+                  <volume>2</volume>
+                  <source>War</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e641" publication-type="other">
+Teeple, Mosaic Eschato-
+logical Prophet, passim</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e651" publication-type="book">
+S. Isser, The Dositheans: A Samaritan Sect in Late Antiquity (Leiden,
+1976), pp. 131-142<person-group>
+                     <string-name>
+                        <surname>Isser</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>131</fpage>
+                  <source>The Dositheans: A Samaritan Sect in Late Antiquity</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e679" publication-type="book">
+Vermes, Jesus the Jew, pp. 97-98<person-group>
+                     <string-name>
+                        <surname>Vermes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>97</fpage>
+                  <source>Jesus the Jew</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e700" publication-type="other">
+n. 61</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e707a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d64e714" publication-type="other">
+B. Sanhedrin 99a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e720" publication-type="book">
+Pesikta Rabbati 1, p. 4a.<fpage>4a</fpage>
+                  <volume>1</volume>
+                  <source>Pesikta Rabbati</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e736a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d64e743" publication-type="journal">
+"The Messiah of Ephraim and the Premature Exodus of the Tribe of Ephraim,"
+Harvard Theological Review 68 (1975): 1-16<fpage>1</fpage>
+                  <volume>68</volume>
+                  <source>Harvard Theological Review</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e765" publication-type="journal">
+Tarbig 40 (1971)<fpage>450</fpage>
+                  <volume>40</volume>
+                  <source>Tarbig</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e783" publication-type="other">
+450-461</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e790" publication-type="book">
+Heinemann's Aggadot ve-Toldoteihen
+(Jerusalem, 1974), pp. 131-141<person-group>
+                     <string-name>
+                        <surname>Heinemann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>131</fpage>
+                  <source>Aggadot ve-Toldoteihen</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e818" publication-type="other">
+pp. 1-6</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e825a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d64e832" publication-type="book">
+Ginzberg, Sekte, pp. 336-339<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>336</fpage>
+                  <source>Sekte</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e853" publication-type="other">
+MGWJ, pp. 414-417</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e859" publication-type="other">
+Sect, pp. 235-238</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e866" publication-type="other">
+Heinemann,
+"Messiah of Ephraim," pp. 10-13</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e876a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d64e883" publication-type="book">
+Parteipolitik der Hasmonderzeit im Rabbinischen und Pseudoepigraphischen Schrifttum
+(Vienna and New York, 1927), p. 107.<fpage>107</fpage>
+                  <source>Parteipolitik der Hasmonderzeit im Rabbinischen und Pseudoepigraphischen Schrifttum</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e903a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d64e910" publication-type="other">
+"Messiah of Ephraim," p. 4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e916" publication-type="other">
+Hebrew, "and the like"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e922" publication-type="other">
+"and acts
+of salvation" (noi</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e932a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d64e939" publication-type="other">
+B. Sukkah 52a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e945" publication-type="book">
+J. Klausner, Ha-Ra'ayon ha-Meshihi be-Yisrael (Jerusalem, 1927), pp.
+318-319<person-group>
+                     <string-name>
+                        <surname>Klausner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>318</fpage>
+                  <source>Ha-Ra'ayon ha-Meshihi be-Yisrael</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e974a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d64e981" publication-type="other">
+Heinemann, "Messiah of Ephraim," pp. 6-8.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e988a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d64e995" publication-type="other">
+Ibid., pp. 10-13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1001" publication-type="other">
+B. San-
+hedrin 92b and elsewhere</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1011a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d64e1018" publication-type="other">
+"When [Messiah son of David] saw that Messiah son of Joseph was killed, he said
+before God, 'Master of the Universe, I ask you only for life' " (B. Sukkah 52a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1027" publication-type="book">
+Klausner, Ha-Ra'ayon ha-Meshibi, p. 318<person-group>
+                     <string-name>
+                        <surname>Klausner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>318</fpage>
+                  <source>Ha-Ra'ayon ha-Meshibi</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1049a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d64e1056" publication-type="other">
+"Messiah of Ephraim," p. 8, n. 31.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1064a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d64e1071" publication-type="book">
+M. Kasher,
+Ha-Tekufah ha-Gedolah (Jerusalem, 1969), pp. 428-431<person-group>
+                     <string-name>
+                        <surname>Kasher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>428</fpage>
+                  <source>Ha-Tekufah ha-Gedolah</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1100a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d64e1107" publication-type="other">
+nn. 8-13 above</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1113" publication-type="other">
+n. 17</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1120a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d64e1127" publication-type="other">
+n. 21 above</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1133" publication-type="other">
+Sukkah 52a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1140a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d64e1149" publication-type="book">
+The Messiah Texts (New York, 1979), introd., p. xxxiii<fpage>xxxiii</fpage>
+                  <source>The Messiah Texts</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1164" publication-type="book">
+Shimon Toder's "Mashiah ben David u-Mashiah ben Yosef," Mahanayim 124 (1970):
+100-112<person-group>
+                     <string-name>
+                        <surname>Toder</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Mashiah ben David u-Mashiah ben Yosef</comment>
+                  <fpage>100</fpage>
+                  <volume>124</volume>
+                  <source>Mahanayim</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1199a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d64e1206" publication-type="other">
+B. Sanhedrin 97b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1212" publication-type="book">
+A. H. Silver, A History of Messianic Speculation in Israel (Boston, 1959), pp. 195-206<person-group>
+                     <string-name>
+                        <surname>Silver</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>195</fpage>
+                  <source>A History of Messianic Speculation in Israel</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1237a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d64e1244" publication-type="other">
+B. Sanhedrin 97b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1250" publication-type="other">
+R. Simlai to
+Rabbi Ishmael (Ha-Ra'ayon ha-Meshihi, p. 272</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1261a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d64e1268" publication-type="other">
+B. Sanhedrin 97a-b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1274" publication-type="other">
+B. Avodah Zarah 9a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1281a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d64e1288" publication-type="other">
+B. Avodah Zarah 9b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1295a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d64e1302" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1309a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d64e1316" publication-type="other">
+B. Sanhedrin 97b.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1323a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d64e1330" publication-type="other">
+Ibid</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1336" publication-type="other">
+Messianic
+Speculation, pp. 19-20, #3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1345" publication-type="other">
+p. 14, #2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1352" publication-type="other">
+pp. 25-26, #1 and 2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1358" publication-type="book">
+Yehudah Even Shmuel, Midre-
+shei Ge'ullah (Jerusalem and Tel Aviv, 1954), introd., p. 42<person-group>
+                     <string-name>
+                        <surname>Shmuel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <source>Midreshei Ge'ullah</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1386" publication-type="other">
+J. Shabbat 6:9, fol. 8d</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1392" publication-type="book">
+A. Halkin's introduction to Maimonides' Epistle to Yemen (New York, 1952), p. xiii<person-group>
+                     <string-name>
+                        <surname>Halkin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xiii</fpage>
+                  <source>Epistle to Yemen</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1417a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d64e1424" publication-type="book">
+E.
+Urbach, IHazal: Pirkei Emunot ve-De'ot [Jerusalem, 1969], pp. 610-611<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>610</fpage>
+                  <source>Hazal: Pirkei Emunot ve-De'ot</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1452" publication-type="book">
+The Sages: Their
+Concepts and Beliefs [Jerusalem, 1975], p. 678<fpage>678</fpage>
+                  <source>Their Concepts and Beliefs</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1470" publication-type="other">
+B. San-
+hedrin 97a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1481a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d64e1488" publication-type="book">
+Neusner's Messiah in Context, p. 180<person-group>
+                     <string-name>
+                        <surname>Neusner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>180</fpage>
+                  <source>Messiah in Context</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1510a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d64e1517" publication-type="book">
+Die Eschatologie der jiidischen Gemeinde im neutestamentalichen Zeitalter (Tübingen,
+1934), p. 144.<fpage>144</fpage>
+                  <source>Die Eschatologie der jiidischen Gemeinde im neutestamentalichen Zeitalter</source>
+                  <year>1934</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1536a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d64e1545" publication-type="other">
+Ba'al ha-Ma'or's comments on Avodah Zarah 9b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1551" publication-type="other">
+Ba'al ha-Ma'or, loc. cit</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1558" publication-type="book">
+E. Frank, Talmudic and Rabbinical
+Chronology (New York, 1956<person-group>
+                     <string-name>
+                        <surname>Frank</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Talmudic and Rabbinica Chronology</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1583a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d64e1590" publication-type="book">
+Silver, Messianic Speculation, (p. 26<person-group>
+                     <string-name>
+                        <surname>Silver</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>26</fpage>
+                  <source>Messianic Speculation</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1611" publication-type="other">
+Hazal, p. 613</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1617" publication-type="other">
+Sages, p. 682</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1624a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d64e1631" publication-type="other">
+Tosafot Avodah Zarah 9b, s.v. le-abar</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1637" publication-type="book">
+Isaac Abravanel, Yeshu'ot Meshibzo, 1812, p. 10Ob<person-group>
+                     <string-name>
+                        <surname>Abravanel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10b</fpage>
+                  <source>Yeshu'ot Meshibzo</source>
+                  <year>1812</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1662a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d64e1671" publication-type="other">
+n. 8</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1677" publication-type="book">
+Shmuel, Midreshei Ge'ullah, pp. 43, 81, 104, 195<person-group>
+                     <string-name>
+                        <surname>Shmuel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <source>Midreshei Ge'ullah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1699" publication-type="other">
+Midreshei Ge'ullah, pp. 103 and 470</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1705" publication-type="journal">
+R. Bonfil's plausible suggestion in his
+"'Hazon Daniel' ki-Te'udah Historit ve-Sifrutit," Sefer Zikkaron le-Yi;hak Baer (= Zion 44
+[1979]), p. 146<person-group>
+                     <string-name>
+                        <surname>Bonfil</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>146</fpage>
+                  <volume>44</volume>
+                  <source>Sefer Zikkaron le-Yi;hak Baer</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1741a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d64e1748" publication-type="other">
+Midreshei Ge'ullah, introd., p. 45</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1755a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d64e1764" publication-type="book">
+Silver, Messianic Speculation, p. 26<person-group>
+                     <string-name>
+                        <surname>silver</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>26</fpage>
+                  <source>Messianic Speculation</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1785" publication-type="book">
+Urbach, Hazal, p. 613<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>613</fpage>
+                  <source>Hazal</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1807" publication-type="other">
+Sages, p. 682</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1813" publication-type="other">
+Midreshei
+Ge'ullah, p. 46</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1822" publication-type="other">
+Even Shmuel p. 54, n. 49</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1828" publication-type="other">
+n. 74 below</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e1835a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d64e1842" publication-type="other">
+Midreshei Ge'ullah, introd., pp. 45-46</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1848" publication-type="book">
+Baron's summary of Even Shmuel (A Social and
+Religious History of the Jews, vol. 5 [New York, London, and Philadelphia, 1957], p. 366, n. 28<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>366</fpage>
+                  <source>A Social and Religious History of the Jews</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1876" publication-type="journal">
+Nahmanides, Sefer
+ha-Ge'ullah, in Ch. D. Chavel, Kitvei Ramban, vol. 1 (Jerusalem, 1963), p. 294<person-group>
+                     <string-name>
+                        <surname>Nahmanides</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>294</fpage>
+                  <volume>1</volume>
+                  <source>Kitvei Ramban</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1908" publication-type="journal">
+Sinai 48 (1961): 299-302<fpage>299</fpage>
+                  <volume>48</volume>
+                  <source>Sinai</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1926" publication-type="journal">
+I. Levi's note in Revue des Etudes Juives 1 (1880): 110<person-group>
+                     <string-name>
+                        <surname>Levi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>110</fpage>
+                  <volume>1</volume>
+                  <source>Revue des Etudes Juives</source>
+                  <year>1880</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1954" publication-type="book">
+Urbach
+(Hazal, p. 612<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>612</fpage>
+                  <source>Hazal</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1978" publication-type="other">
+Sages, p. 680</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e1984" publication-type="book">
+R. H.
+Charles, The Apocrypha and Pseudepigrapha of the Old Testament (Oxford, 1913), 2:423<person-group>
+                     <string-name>
+                        <surname>Charles</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <source>The Apocrypha and Pseudepigrapha of the Old Testament</source>
+                  <year>1913</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2012" publication-type="book">
+E. S. Artom in his commentary to 10:12 (Ha-Sefarim ha-Hi;;onim: Sippurei
+Aggadah, vol. 1 [Tel Aviv, 1965])<person-group>
+                     <string-name>
+                        <surname>Artom</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>1</volume>
+                  <source>Ha-Sefarim ha-Hi;;onim: Sippurei Aggadah</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2041" publication-type="book">
+S. B. Hoenig, "Dor she-Ben David Ba," Sefer Zik-
+karon li-Shmuel Belkin (New York, 1981), p. 142<person-group>
+                     <string-name>
+                        <surname>Hoenig</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Dor she-Ben David Ba</comment>
+                  <fpage>142</fpage>
+                  <source>Sefer Zikkaron li-Shmuel Belkin</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2073a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d64e2080" publication-type="other">
+Yeshu'ot Meshibo, p. 12a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2087a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d64e2094" publication-type="other">
+Midreshei Ge'ullah, introd., p. 46</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2100" publication-type="other">
+History, 5:167</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2107a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d64e2114" publication-type="other">
+B. Sotah 1lb</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2120" publication-type="book">
+Sifrei Numbers 78, Friedmann's ed., p. 19b<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19b</fpage>
+                  <source>Sifrei</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2141" publication-type="other">
+Sotah ad loc</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2149a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d64e2156" publication-type="other">
+B. Arakhin 13a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2162" publication-type="other">
+Tosafot ad loc., s.v. Caleb</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2169a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d64e2178" publication-type="other">
+Midrash va- Yosha', Midreshei Ge'ullah, p. 96</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2184" publication-type="other">
+pp. 79, 131, 136, 320</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2191" publication-type="book">
+Patai, Mes-
+siah Texts, pp. 156-164<person-group>
+                     <string-name>
+                        <surname>Patai</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>156</fpage>
+                  <source>Messiah in Texts</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2216a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d64e2223" publication-type="other">
+Pseudo-Jonathan to Deut. 34:3, Isa. 11:4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2229" publication-type="book">
+A. Kohut, Arukh ha-Shalem (Vienna,
+1878), p. 292<person-group>
+                     <string-name>
+                        <surname>Kohut</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>292</fpage>
+                  <source>Arukh ha-Salem</source>
+                  <year>1878</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2258a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d64e2265" publication-type="book">
+Even Shmuel, Midreshei Ge'ullah, pp. 42 and 51<person-group>
+                     <string-name>
+                        <surname>Shmuel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <source>Midreshei Ge'ullah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2286" publication-type="other">
+pp. 34-35, n. 12, 18</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2293a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d64e2300" publication-type="other">
+Ibid., pp. 74, 79-83.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2307a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d64e2314" publication-type="book">
+AtéaKaXKia 'IaKwKéov NEoféaérriarov, ed. N. Bonwetsch, Abhandlungen der Kéniglichen
+Gesellschaft der Wissenschaften zu Gottingen, phil.-hist. Klasse, n.f., vol. 12, no. 3 (Berlin,
+1910), pp. 4-5, 66, 70-71, 86, and more.<person-group>
+                     <string-name>
+                        <surname>Bonwetsch</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <source>Abhandlungen der Kéniglichen Gesellschaft der Wissenschaften zu Göttingen</source>
+                  <year>1910</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2347a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d64e2354" publication-type="book">
+W. Bousset, The antichrist Legend (London, 1896<person-group>
+                     <string-name>
+                        <surname>Bousset</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The antichrist Legend</source>
+                  <year>1896</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2375" publication-type="book">
+J. Berger, Die griechische Daniel
+Exegese-Eine altkirchliche Apokalypse (Leiden, 1976), pp. 103-150<person-group>
+                     <string-name>
+                        <surname>Berger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>103</fpage>
+                  <source>Die griechische Daniel Exegese-Eine altkirchliche Apokalypse</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2404a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d64e2411" publication-type="book">
+M. Reeves, The Influence of Prophecy in the Later Middle Ages
+(Oxford, 1969), pp. 299-301<person-group>
+                     <string-name>
+                        <surname>Reeves</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>299</fpage>
+                  <source>The Influence of Prophecy in the Later Middle Ages</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2439" publication-type="book">
+N. Cohn, The Pursuit of the Millennium, 2d ed. (New York,
+1970), pp. 31-34<person-group>
+                     <string-name>
+                        <surname>Cohn</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>31</fpage>
+                  <source>The Pursuit of the Millennium</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2470" publication-type="journal">
+I. Levi, "L'Apocalypse de Zorobabel et le roi de Perses Siroes,"
+Revue des Etudes Juives 71 (1920): 59-61<person-group>
+                     <string-name>
+                        <surname>Levi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>59</fpage>
+                  <volume>71</volume>
+                  <source>Revue des Etudes Juives</source>
+                  <year>1920</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2502a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d64e2509" publication-type="book">
+F. Hitzig, Das Buch Daniel (Leipzig, 1850), p. 125.<person-group>
+                     <string-name>
+                        <surname>hitzig</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>125</fpage>
+                  <source>Das Buch Daniel</source>
+                  <year>1850</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2534a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d64e2541" publication-type="book">
+K. Kohler in Jewish Encyclopedia 1:296-297<person-group>
+                     <string-name>
+                        <surname>Kohler</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>296</fpage>
+                  <volume>1</volume>
+                  <source>Jewish Encyclopedia</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2565" publication-type="other">
+Kohut in Arukh ha-
+Shalem, loc. cit</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2574" publication-type="book">
+Úber die Jüdische Angelologie und Daemonologie in Ihrer
+Abhängigkeit vom Parsismus (Leipzig, 1866), p. 62<fpage>62</fpage>
+                  <source>Über die Jadische Angelologie und Daemonologie in Ihrer Abhangigkeit vom Parsismus</source>
+                  <year>1866</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2593" publication-type="other">
+n. 51 above</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2600a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d64e2607" publication-type="book">
+E. Schürer, Geschichte der Jüdischen Votkes im Zeitalter Jesu Christi (Leipzig,
+1907), II, pp. 621-622<person-group>
+                     <string-name>
+                        <surname>Schürer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>621</fpage>
+                  <volume>II</volume>
+                  <source>Geschichte der Jüdischen Votkes im Zeitalter Jesu Christi</source>
+                  <year>1907</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2638" publication-type="book">
+Klausner in Ha-Ra'ayon ha-Meshibi, p. 232<person-group>
+                     <string-name>
+                        <surname>Klausner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>232</fpage>
+                  <source>Ha-Ra'ayon ha-Meshibi</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2659" publication-type="book">
+En;iklopedyah Ivrit,
+5:954-957<fpage>954</fpage>
+                  <volume>5</volume>
+                  <source>En;iklopedyah Ivrit</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2678" publication-type="other">
+Levi, "Apocalypse de Zorobabel," p. 59</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2684" publication-type="book">
+M. Guttmann in the German Encyclopae-
+dia Judaica 3:364-366<person-group>
+                     <string-name>
+                        <surname>Gutmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>364</fpage>
+                  <volume>3</volume>
+                  <source>Encyclopædia Judaica</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2712" publication-type="book">
+Baron, History, 5:145<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>145</fpage>
+                  <volume>5</volume>
+                  <source>History</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2736" publication-type="book">
+J. Dan, Ha-Sippur ha-'Ivri bi-Mei ha-Beinayim.
+Iyyunim be-Toledotav (Jerusalem, 1974), p. 42<person-group>
+                     <string-name>
+                        <surname>Dan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <source>Ha-Sippur ha-'Ivri bi-Mei ha-Beinayim. Iyyunim be-Toledotav</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2765a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d64e2772" publication-type="other">
+Klausner, Ha-Ra'ayon ha-Meshibi, loc. cit</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2780a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d64e2787" publication-type="journal">
+Zeitschrift der Deutschen-Morgenlandischen Gesellschaft 39 (1895): 343.<fpage>343</fpage>
+                  <volume>39</volume>
+                  <source>Zeitschrift der Deutschen-Morgenlandischen Gesellschaft</source>
+                  <year>1895</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2806a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d64e2813" publication-type="book">
+Ernst Sackur, Sibyllinische Texte und Forschungen (Halle, 1898), p. 76<person-group>
+                     <string-name>
+                        <surname>Sackur</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>76</fpage>
+                  <source>Sibyllinische Texte und Forschungen</source>
+                  <year>1898</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2837" publication-type="book">
+Bousset (Antichrist Legend, p. 105<person-group>
+                     <string-name>
+                        <surname>Bousset</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>105</fpage>
+                  <source>Antichrist Legend</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2858" publication-type="other">
+Levi (loc. cit</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2865a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d64e2872" publication-type="book">
+Even Shmuel, Midreshei Ge'ullah, p. 195.<person-group>
+                     <string-name>
+                        <surname>Shmuel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>195</fpage>
+                  <source>Midreshei Ge'ullah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2894a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d64e2901" publication-type="book">
+Ma'arikh, ed. A. Jellinek (Leipzig, 1853), p. 15.<person-group>
+                     <string-name>
+                        <surname>Jellinek</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>Ma'arikh</source>
+                  <year>1853</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2926a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d64e2933" publication-type="journal">
+I. Levi, Revue des Etudes Juives 68 (1914): 136<person-group>
+                     <string-name>
+                        <surname>Levi</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>136</fpage>
+                  <volume>68</volume>
+                  <source>Revue des Etudes Juives</source>
+                  <year>1914</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2961" publication-type="other">
+Midreshei Ge'ullah, p. 387</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2967" publication-type="other">
+Levi's note on p. 152</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e2974" publication-type="other">
+David de Lara's Keter Kehunnah in Kohut's Arukh ha-Shalem, p.
+292</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2984a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d64e2991" publication-type="other">
+B. Sanhedrin 105a.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e2999a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d64e3006" publication-type="journal">
+Jahrbuch für Israeliten 5265 [1864/65], ed. J. Wertheimer
+and L. Kompert (Vienna, 1865), p. 19<person-group>
+                     <string-name>
+                        <surname>Wertheimer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Jahrbuch für Israeliten</source>
+                  <year>1865</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3034" publication-type="book">
+H. Graetz, The Structure ofJewish History and Other Essays (New York, 1975), pp.
+151-171<person-group>
+                     <string-name>
+                        <surname>Graetz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>151</fpage>
+                  <source>The Structure ofJewish History and Other Essays</source>
+                  <year>1975</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3062" publication-type="other">
+p. 310</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3069" publication-type="book">
+J. Levy, Chalddisches Worterbuch aber die Targumim und
+einen grossen Theil des Rabbinischen Schrifttums (Leipzig, 1881), 1:66, s.v. Armilus<person-group>
+                     <string-name>
+                        <surname>Levy</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>66</fpage>
+                  <volume>1</volume>
+                  <source>Chalddisches Worterbuch aber die Targumim und einen grossen Theil des Rabbinischen Schrifttums</source>
+                  <year>1881</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3101a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d64e3108" publication-type="other">
+En;iklopedyah Ivrit, 5:955</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3114" publication-type="other">
+Klausner's article in the recent Encyclopædia Judaica</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3120" publication-type="other">
+Guttmann, loc. cit</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3127" publication-type="other">
+n. 59 above</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3134a1310">
+            <label>70</label>
+            <p>
+               <mixed-citation id="d64e3141" publication-type="other">
+Ginzberg, Legends, 6:125, n. 727</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3148a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d64e3155" publication-type="other">
+B. Sanhedrin 105a and Sotah 10a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3161" publication-type="other">
+n. 50 above</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3168a1310">
+            <label>72</label>
+            <p>
+               <mixed-citation id="d64e3175" publication-type="other">
+Num. 23:29-30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3181" publication-type="book">
+Even Shmuel's note in Midreshei Ge'ullah, p. 82<person-group>
+                     <string-name>
+                        <surname>Shmuel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>82</fpage>
+                  <source>Midreshei Ge'ullah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3203a1310">
+            <label>73</label>
+            <p>
+               <mixed-citation id="d64e3210" publication-type="other">
+Ginzberg, Legends, 5:323, n. 324</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3218a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d64e3227" publication-type="other">
+Gen. and I Chron., loc.
+cit</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3236" publication-type="other">
+Ginzberg, Legends, 5:372, n. 425</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3243" publication-type="other">
+6:280, n. 11</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3250a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d64e3257" publication-type="other">
+Midreshei Ge'ullah, introd., p. 51, n. 67</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3264a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d64e3271" publication-type="other">
+Ginzberg, Legends, 5:303, n. 229, and 6:123, n. 722</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3277" publication-type="journal">
+R. LeDéaut and J. Robert, Targum des Chroniques, vol. 1 (Rome, 1971), p. 42,
+n. 22<person-group>
+                     <string-name>
+                        <surname>Ledeaut</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <volume>1</volume>
+                  <source>Targum des Chroniques</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3309a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d64e3316" publication-type="other">
+I. Levi in "Apocalypse de Zorobabel"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3322" publication-type="book">
+Even Shmuel, Midreshei Ge'ullah, p. 320<person-group>
+                     <string-name>
+                        <surname>Shmuel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>320</fpage>
+                  <source>Midreshei Ge'ullah</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3344a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d64e3351" publication-type="other">
+Daud's Sefer ha-Kabbalah is correct</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3357" publication-type="other">
+Philadelphia, 1967, esp. pp. 189-222</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3363" publication-type="journal">
+Yehudah Liebes, "Yonah ben Amitai ke-Mashiah ben Yosef," Mebkarim be-Kabbalah Mug-
+gashim li-Yesha'yah Tishby (= Mehkerei Yerushalayim be-Mabashevet Yisrael 3, pts. 1-2
+[1983-84]), pp. 269-311<person-group>
+                     <string-name>
+                        <surname>Liebes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>269</fpage>
+                  <volume>3</volume>
+                  <source>Mebkarim be-Kabbalah Muggashim li-Yesha'yah Tishby (= Mehkerei Yerushalayim be-Mabashevet Yisrael</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e3398" publication-type="other">
+n. 85 below</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3405a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d64e3412" publication-type="journal">
+"Parshanuto ha-Tippologit shel ha-Ramban," Zion 45 (1980): 35-59.<fpage>35</fpage>
+                  <volume>45</volume>
+                  <source>Zion</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3432a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d64e3439" publication-type="journal">
+Ibid., p. 55.<fpage>55</fpage>
+                  <volume>45</volume>
+                  <source>Zion</source>
+                  <year>1980</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3458a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d64e3467" publication-type="book">
+Gerson Cohen's
+"Messianic Postures of Ashkenazim and Sephardim," in Studies of the Leo Baeck Institute, ed.
+Max Kreutzberger (New York, 1967), pp. 117-156<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Messianic Postures of Ashkenazim and Sephardim</comment>
+                  <fpage>117</fpage>
+                  <source>Studies of the Leo Baeck Institute</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3502a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d64e3509" publication-type="other">
+n. 41 above</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e3516a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d64e3523" publication-type="journal">
+David Tamar, "Ha-Zippiyyah be-Italyah li-Shenat ha-Ge'ullah Shin-Lamed-
+He," Sefunot 2 (1958): 65-68<person-group>
+                     <string-name>
+                        <surname>Tamar</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>65</fpage>
+                  <volume>2</volume>
+                  <source>Sefunot</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

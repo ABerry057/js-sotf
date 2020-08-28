@@ -1,0 +1,992 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486454</article-id>
+         <title-group>
+            <article-title>A Reevaluation of a Medieval Polemical Manuscript</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Joel E.</given-names>
+                  <surname>Rembaum</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1980</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"/>
+         <issue-id>i265512</issue-id>
+         <fpage>81</fpage>
+         <lpage>99</lpage>
+         <page-range>81-99</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1980 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486454"/>
+         <abstract>
+            <p> Fragment A2 of MS Or. 53 of the Biblioteca Nazionale Centrale in Rome, though only five folios in length, provides the student of medieval Jewish history with fresh insights into the development of Jewish anti-Christian polemics. The manuscript appears to have been written in response to heightened anti-Jewish propaganda that emerged in Northern France as a result of the visit to that area by Paul Christian in 1269. The work is a compilation of arguments against Christianity drawn from the polemical traditions of Northern France, Germany and Provence. It also contains excerpts from the so-called "Vikkuakh ha-RaMBaN," the Hebrew account of the debate on the Talmud held in Barcelona in 1263. Analysis of the material indicates that the manuscript does not contain the record of a face-to-face disputation between Paul Christian and a Jew named Menakhem, as has been suggested. Arguments assumed to be related to such a meeting can be traced back to extant literary sources that predate the 1260s. Of particular interest are the passages from fragment A2 that were adapted from the "Sefer ha-berit" of Joseph Kimkhi, written about 1170, and the so-called "Vikkuakh ha-RaDaQ," written in the early thirteenth century. MS 53 A2, written in the last third of the thirteenth century, represents the earliest extant evidence for use of the Kimkhi and the pseudo-Kimkhi material in later polemical literature. The appearance of the Provençal Kimkhi arguments in this Northern French manuscript also points to the movement of traditions from the south into the north and sheds new light on the geographic patterns of cultural development in thirteenth century France. Fragment A2 also contains almost verbatim parallels to anti-Christian criticism found in "Nizzachon vetus," including traces of German linguistic influence. </p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d22e135a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d22e142" publication-type="journal">
+Ephraim E. Urbach, "Etudes sur la litterature polmique au moyen-ige," Revue des
+etudes juives 100 (1935): 49-77.<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>49</fpage>
+                  <volume>100</volume>
+                  <source>Revue des etudes juives</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e174a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d22e181" publication-type="other">
+Urbach, "Etudes," p. 51 and passim.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e188a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d22e195" publication-type="journal">
+Judah Rosenthal, "Vikkuab dati bein bakham be-shem Menahem u-vein ha-mumar
+ve-ha-nazir ha-dominiqani Pablo Kristi'ani," Hagut 'ivrit be-'ameriqa 3 (1974): 61-74 (here-
+after, R.)<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>61</fpage>
+                  <volume>3</volume>
+                  <source>Hagut 'ivrit be-'ameriqa</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e230a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d22e237" publication-type="other">
+Urbach, "etudes," p. 56</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e243" publication-type="other">
+R., p. 61</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e249" publication-type="journal">
+Judah Rosenthal, "Sifrut ha-vikkuab ha-
+anti-noSerit 'ad sof ha-me'ah ha-shemoneh 'esreh," 'Areshet 2 (1960): 142-44<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>142</fpage>
+                  <volume>2</volume>
+                  <source>Areshet</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e281" publication-type="book">
+idem, ed.,
+Sefer Yosef ha-meqanne (Jerusalem, 1970), p. 30 (Hebrew) (hereafter, S. Y.)<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>30</fpage>
+                  <source>Sefer Yosef ha-meqanne</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e311a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d22e318" publication-type="other">
+MS Or. 53, Rome, Biblioteca Nazionale Centrale, fol. 21r, (hereafter, MS 53)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e324" publication-type="other">
+R., p. 62.
+6. R., p. 62, especially nn. 1-5.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e334a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d22e341" publication-type="book">
+Nahmanides account in J. C. Wagenseil, Tela ignea satanae (Altdorf, 1681), pp.
+23-60<person-group>
+                     <string-name>
+                        <surname>Wagenseil</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <source>Tela ignea satanae</source>
+                  <year>1681</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e369" publication-type="book">
+C. B. Chavel, ed., Kitvei rabbenu Mosheh ben Nabrman, 2 vols. (Jerusalem, 1973),
+1:302-20<person-group>
+                     <string-name>
+                        <surname>Chavel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>302</fpage>
+                  <volume>1</volume>
+                  <source>Kitvei rabbenu Mosheh ben Nabrman</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e401a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d22e408" publication-type="book">
+S.Y., p. 15 and Liber Nizzachon vetus, in Wagenseil, Tela, pp. 186, 189. (Subsequent
+references will be to pages in Wagenseil.) On the dates and provenances of these works<fpage>15</fpage>
+                  <source>Liber Nizzachon vetus</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e423" publication-type="other">
+S. Y.,
+pp. 16-17 (Hebrew)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e432" publication-type="other">
+n. 54 below</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e439a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d22e446" publication-type="other">
+R., pp. 62-63</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e452" publication-type="other">
+nn. 5, 8, 9, 11</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e459a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d22e466" publication-type="other">
+R., pp. 65, 70.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e473a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d22e480" publication-type="other">
+Chavel, Kitvei, p. 304.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e488a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d22e495" publication-type="book">
+Frank (Ephraim) Talmage, ed., Sefer ha-berit u-vikkubzei RaDaQ 'im ha-noserim (Jeru-
+salem, 1974), pp. 35-36<person-group>
+                     <string-name>
+                        <surname>Talmage</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>35</fpage>
+                  <source>Sefer ha-berit u-vikkubzei RaDaQ 'im ha-noserim</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e523" publication-type="book">
+Milbemet bovah
+(Constantinople, 1710), pp. 18a-38b<fpage>18</fpage>
+                  <source>Milbemet bovah</source>
+                  <year>1710</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e541" publication-type="book">
+Frank Talmage, ed., The Book of the Covenant of Joseph Kimbi (Toronto, 1972), pp. 9-19<person-group>
+                     <string-name>
+                        <surname>Talmage</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <source>The Book of the Covenant of Joseph Kimbi</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e566" publication-type="book">
+Judah Rosenthal, ed., Milhamot ha-
+shem (Jerusalem, 1963), pp. 50-51, 54-55<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>50</fpage>
+                  <source>Milhamot hashem</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e594" publication-type="other">
+Adolf Posnanski, Schiloh. Ein
+Beitrag zur Geschichte des Messiaslehre (Leipzig, 1904)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e604a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d22e611" publication-type="other">
+On Toledot Yeshu, see Samuel Krauss, Das Leben Jesu nach jadischen Quellen (Berlin,
+1902), pp. 40 (and see n. 21), 70, 183-84, 231-32 and passim</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e620" publication-type="other">
+Vikkuab ha-RaDaQ, in
+S.H., p. 91</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e629" publication-type="other">
+Nizzachon vetus, p. 239</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e636" publication-type="other">
+Milbemet mievah of Meir ben Simeon of Narbonne, in MS
+2749, Parma, Biblioteca Palatina, fols. 94r, 96v-97r, 139v</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e645" publication-type="journal">
+J. E.
+Rembaum, "The Influence of Sefer Nestor Hakomer on Medieval Jewish Polemics," Proceed-
+ings of the American Academy for Jewish Research 45 (1978): 167-68, n. 54<object-id pub-id-type="doi">10.2307/3622312</object-id>
+                  <fpage>167</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e664a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d22e671" publication-type="other">
+R., p. 63, n. 8.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e678a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d22e685" publication-type="other">
+S.Y., p. 79</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e691" publication-type="book">
+S. R. Driver and Adolf Neubauer, The Fifty-third Chapter of Isaiah Accord-
+ing to the Jewish Interpreters, 2 vols., reprint ed. (New York, 1969), 1:68<person-group>
+                     <string-name>
+                        <surname>Driver</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>68</fpage>
+                  <volume>1</volume>
+                  <source>The Fifty-third Chapter of Isaiah According to the Jewish Interpreters</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e722" publication-type="other">
+Milbemet misvah, fols. 112v and 158v, Driver-Neubauer, Fifty-third Chapter,
+1:323</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e732a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d22e739" publication-type="other">
+R., pp. 64-74.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e746a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d22e753" publication-type="other">
+n. 5 above</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e761a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d22e768" publication-type="other">
+MS 53, fols. 24r, 25r; R., pp. 70, 72.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e775a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d22e784" publication-type="other">
+MS 53, fol. 22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e790" publication-type="other">
+R., pp. 65-67. Regarding the use of ,porin see S. Y., pp. 29, 31, 33, 34,
+43, 69 and passim</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e800" publication-type="other">
+Nizzachon vetus, pp. 70, 81, 94, 98, 157, 174 and passim</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e806" publication-type="other">
+S. Y, pp. 125, 130-32 and passim</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e812" publication-type="other">
+Nizzachon vetus, pp. 188, 221, 231, 235 and passim</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e818" publication-type="book">
+Judah Rosenthal:
+"Biqqoret yehudit shel ha-berit ha-badashah min ha-me'ah ha-shelosh 'esreh," in Charles
+Berlin, ed., Studies in Jewish Bibliography, History and Literature in Honor of L Edward Kiev
+(New York, 1971), Hebrew sec., pp. 123-39<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Biqqoret yehudit shel ha-berit ha-badashah min ha-me'ah ha-shelosh 'esreh</comment>
+                  <fpage>123</fpage>
+                  <source>Studies in Jewish Bibliography, History and Literature in Honor of L Edward Kiev</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e855" publication-type="book">
+"Pirqei vikkuab," in Salo W. Baron Jubilee
+Volume, 3 vols. (Jerusalem, 1974), 3:357, 360, 362 and passim<comment content-type="section">Pirqei vikkuab</comment>
+                  <volume>3</volume>
+                  <source>Salo W. Baron Jubilee Volume</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e878a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d22e885" publication-type="other">
+R., p. 64, n. 27.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e892a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d22e899" publication-type="other">
+R., p. 65.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e906a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d22e913" publication-type="other">
+R., pp. 73-74.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e920a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d22e927" publication-type="other">
+MS 53, fol. 22v</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e933" publication-type="other">
+R., p. 66</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e941a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d22e948" publication-type="other">
+MS 53, fol. 25r</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e954" publication-type="other">
+R., p. 72</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e961a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d22e968" publication-type="other">
+MS 53, fol. 23v</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e974" publication-type="other">
+R., p. 69, n. 53</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e981a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d22e988" publication-type="other">
+R., p. 61, especially n. 9</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e994" publication-type="other">
+S. Y, pp. 16-28 (Hebrew), especially p. 23. Urbach,
+"etudes," pp. 58-60</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1004a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d22e1011" publication-type="other">
+Talmage, Book of the Covenant, p. 20.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1018a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d22e1025" publication-type="other">
+S. Y., p. 30 (Hebrew)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1032a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d22e1039" publication-type="other">
+R., p. 67. Urbach, "Etudes," p. 66</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1047a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d22e1054" publication-type="other">
+S.H., pp. 25-26.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1061a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d22e1068" publication-type="other">
+S.H., p. 21.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1075a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d22e1082" publication-type="other">
+MS 53, fol. 22v</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1088" publication-type="other">
+R., p. 68, especially n. 47.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1095a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d22e1102" publication-type="other">
+S.H., pp. 27-29</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1109a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d22e1116" publication-type="other">
+MS 53, fol. 23r, R., p. 68.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1123a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d22e1130" publication-type="other">
+S.H., p. 29.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1138a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d22e1145" publication-type="other">
+Talmage, Book of the Covenant, pp. 36-37.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1152a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d22e1159" publication-type="other">
+Abraham Berliner, ed., Sefer
+Nestor ha-komer (Altona, 1875), p. 1</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1168" publication-type="other">
+Vikkuah ha-RaDaQ, S.H., pp. 86-87</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1174" publication-type="other">
+Nizzachon vetus,
+pp. 40, 163-64</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1184" publication-type="other">
+Milbemet miSvah, fols. 26v-27r, 89</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1190" publication-type="other">
+Moshe Perlmann, ed., Ibn Kammana's
+Examination of the Three Faiths (Berkeley, 1971), pp. 86-87</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1199" publication-type="book">
+M. V. Anastos, "Por-
+phyry's Attack on the Bible," in Luitpold Wallach, ed., The Classical Tradition (Ithaca, 1966),
+pp. 436-37<person-group>
+                     <string-name>
+                        <surname>Anastos</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Porphyry's Attack on the Bible</comment>
+                  <fpage>436</fpage>
+                  <source>The Classical Tradition</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1233" publication-type="book">
+Macarius Magnes's notions on mother's blood and milk in Anastos, "Por-
+phyry," p. 441<comment content-type="section">Porphyry</comment>
+                  <fpage>441</fpage>
+                  <source>Macarius Magnes's notions on mother's blood and milk in Anastos</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1252a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d22e1259" publication-type="other">
+MS 53, fol. 24r; R., p. 70.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1266a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d22e1273" publication-type="other">
+S.H., pp. 37-38.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1280a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d22e1287" publication-type="other">
+Talmage, Book of the Covenant, pp. 46-47.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1294a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d22e1301" publication-type="book">
+Abraham Geiger, "Ma'amar 'al R. Yosef
+Qimbi," in Ludwig Geiger, ed., Abraham Geigers nachgelassene Schriften (Berlin, 1877), p. 11<person-group>
+                     <string-name>
+                        <surname>Geiger</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Ma'amar 'al R. Yosef Qimbi</comment>
+                  <fpage>11</fpage>
+                  <source>Abraham Geigers nachgelassene Schriften</source>
+                  <year>1877</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1332" publication-type="journal">
+idem, " Toledot ha-RaDaQ," in 'Osar nebmad, 2 (1857): 157-73, especially p. 168<person-group>
+                     <string-name>
+                        <surname>Geiger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>157</fpage>
+                  <volume>2</volume>
+                  <source>Osar nebmad</source>
+                  <year>1857</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1360" publication-type="other">
+Louis Finkel-
+stein, ed., The Commentary of David Kimbi on Isaiah (New York, 1926), pp. xvii-xcvi, especially
+xxiv</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1373" publication-type="other">
+S. W. Baron, A Social and
+Religious History of the Jews, 16 vols. to date (New York, 1952-1976), 6:280-81, 467-68</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1382" publication-type="other">
+Frank Talmage, David Kimbi: The Man and the Commentaries (Cambridge, Mass. and London,
+1975), pp. 54-134, especially pp. 118-25</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1391" publication-type="other">
+Milhemet miSvah, fols. 215v-216v</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1397" publication-type="other">
+Samuel Poznanski, Perush 'al yebezqe'el u-terei 'asar le-rabbi 'Eli'ezer mi-Belgeni (War-
+saw, 1913), pp. IX-CLXVI, especially pp. XX, LXV-LXVI</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1406" publication-type="book">
+Poznanski, Perush, p.
+LXIX<person-group>
+                     <string-name>
+                        <surname>Poznanski</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>LXIX</volume>
+                  <source>Perush</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1432a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d22e1439" publication-type="journal">
+Frank Talmage, "An Hebrew Polemical Treatise, Anti-Cathar and Anti-Ortho-
+dox," Harvard Theological Review 55 (1967): 323-48. The Vikkuah. was first published in the
+Milhbemet bovah, pp. 13a-18b<object-id pub-id-type="jstor">10.2307/1509060</object-id>
+                  <fpage>323</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1458a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d22e1465" publication-type="other">
+R., p. 71.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1472a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d22e1479" publication-type="other">
+S.H., p. 83.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1486a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d22e1493" publication-type="other">
+Talmage, "Hebrew Polemical Treatise," p. 338.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1500a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d22e1507" publication-type="other">
+S.H., pp. 83-84.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1514a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d22e1521" publication-type="other">
+MS 53, fol. 22r; R., p. 66.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1529a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d22e1536" publication-type="other">
+S.H., p. 85.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1543a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d22e1550" publication-type="other">
+Talmage, "Hebrew Polemical Treatise," p. 339.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1557a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d22e1564" publication-type="other">
+MS 53, fol. 22</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1570" publication-type="other">
+R., pp. 65, 66, 67</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1576" publication-type="other">
+These passages compare favorably with arguments
+noted in the Nizzachon vetus</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1586" publication-type="other">
+nn. 54-59.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1593a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d22e1602" publication-type="other">
+Geiger, "Toledot ha-RaDaQ," p. 165</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1608" publication-type="other">
+Talmage, "Hebrew Polemical Treatise," pp.
+323-26</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1618" publication-type="journal">
+Baron,
+History, 5:339, n. 38<person-group>
+                     <string-name>
+                        <surname>Baron</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>38</issue>
+                  <fpage>339</fpage>
+                  <volume>5</volume>
+                  <source>History</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1650a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d22e1657" publication-type="other">
+n. 52, above</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1664a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d22e1671" publication-type="other">
+Urbach, "Etudes," pp. 60, 72</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1677" publication-type="book">
+H. H. Ben-Sasson, ed., A History of the
+Jewish People (Cambridge, Mass., 1976), pp. 555-58<person-group>
+                     <string-name>
+                        <surname>Ben-Sasson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>555</fpage>
+                  <source>A History of the Jewish People</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1705" publication-type="journal">
+Albert Ehrman, "Confession of Sin to a
+Priest in the Sefer Nitzabon Yashan Noshan," Journal of Jewish Studies 28 (1977): 194<person-group>
+                     <string-name>
+                        <surname>Ehrman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <volume>28</volume>
+                  <source>Journal of Jewish Studies</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1737" publication-type="other">
+Mor-
+dechai Breuer, Sefer nigfahon yashan (Ramat Gan, 1978), pp. 21-23</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1746" publication-type="book">
+David Berger, The Jewish-
+Christian Debate in the High Middle Ages (Philadelphia, 1979), pp. 32-37<person-group>
+                     <string-name>
+                        <surname>Berger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>32</fpage>
+                  <source>The JewishChristian Debate in the High Middle Ages</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1774" publication-type="other">
+Urbach, "Ltudes," p. 77.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1782a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d22e1789" publication-type="other">
+R., p. 65.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1796a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d22e1803" publication-type="other">
+nn. 7 and 8 above</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1810a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d22e1817" publication-type="other">
+R., p. 66.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1824a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d22e1831" publication-type="other">
+R., p. 67.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1838a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d22e1845" publication-type="other">
+R., p. 67, especially n. 39.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1851" publication-type="other">
+n. 54</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1858a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d22e1865" publication-type="other">
+Urbach, "Etudes," passim; S. Y., p. 15 (Hebrew).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1873a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d22e1880" publication-type="book">
+Robert Chazan, Medieval Jewry in Northern France (Baltimore, 1973), pp. 149-53.<person-group>
+                     <string-name>
+                        <surname>Chazan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>149</fpage>
+                  <source>Medieval Jewry in Northern France</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1905a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d22e1912" publication-type="book">
+L. I. Newman, "Joseph ben Isaac Kimbi as a
+Religious Controversialist," in Jewish Studies in Memory of lsrael Abrahams (New York, 1927),
+p. 370<person-group>
+                     <string-name>
+                        <surname>Newman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Joseph ben Isaac Kimbi as a Religious Controversialist</comment>
+                  <fpage>370</fpage>
+                  <source>Jewish Studies in Memory of lsrael Abrahams</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1946" publication-type="other">
+Talmage, Book of the Covenant, pp. 18-19</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1953a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d22e1960" publication-type="other">
+Nizzachon vetus and the Sefer Yosef ha-meqanne see
+Urbach, "Ltudes," p. 77, and S. Y., pp. 13-15 (Hebrew)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1969" publication-type="other">
+Rembaum, "Sefer Nestor
+Hakomer," p. 181, n. 110</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1979a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d22e1986" publication-type="other">
+MS 53, fol. 23v, (R., p. 69)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1992" publication-type="other">
+R., p.
+69, n. 52</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2001" publication-type="other">
+Milhemet misvah. In A22, fol. 25v, (R., pp. 73-74)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2008" publication-type="other">
+Milbemet miSvah,
+fol. 103r</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2018a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d22e2025" publication-type="other">
+n. 26, above</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2031" publication-type="other">
+Ephraim E. Urbach, Ba'alei ha-tosafot (Jerusalem, 1955), pp. 141-94, 285-99, 401, 410-11,
+and passim</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

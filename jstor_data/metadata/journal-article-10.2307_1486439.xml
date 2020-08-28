@@ -1,0 +1,615 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486439</article-id>
+         <title-group>
+            <article-title>The Drama of Narration: Y. H. Brenner's "In Winter"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Jeffrey</given-names>
+                  <surname>Fleck</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1984</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">9</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i265515</issue-id>
+         <fpage>79</fpage>
+         <lpage>95</lpage>
+         <page-range>79-95</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1984 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486439"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1e121" publication-type="book">
+Dorrit Cohn, Transparent Minds: Narrative Modes for Presenting Consciousness in Fic-
+tion (Princeton: Princeton University Press, 1978).<person-group>
+                     <string-name>
+                        <surname>Cohn</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Transparent Minds: Narrative Modes for Presenting Consciousness in Fiction</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e146a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1e153" publication-type="journal">
+M. Y. Berdyczewski, "Shte ha'arakhot," Sefer ha-shanah 3 (1902): 268-271<person-group>
+                     <string-name>
+                        <surname>Berdyczewski</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>268</fpage>
+                  <volume>3</volume>
+                  <source>Sefer ha-shanah</source>
+                  <year>1902</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e181" publication-type="book">
+Yitshak Bakon, Yosef Haim Brenner: mivhar ma'amere bikoret al yetzirato hasifrutit (Tel Aviv:
+Am Oved, 1972), pp. 37-44<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>37</fpage>
+                  <source>Yosef Haim Brenner: mivhar ma'amere bikoret al yetzirato hasifrutit</source>
+                  <year>1972</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e210a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1e217" publication-type="book">
+H. N. Bialik, "Igeret al misaviv lanekudah," Igrot Bialik (Tel Aviv, 1931), I, pp.
+268-270<person-group>
+                     <string-name>
+                        <surname>Bialik</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Igeret al misaviv lanekudah</comment>
+                  <fpage>268</fpage>
+                  <volume>I</volume>
+                  <source>Igrot Bialik</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e251" publication-type="book">
+Bakon, Yosef Haim Brenner, pp. 45-46<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>45</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e273a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1e280" publication-type="book">
+Ahad Ha-Am, "Te'udat HaShiloah," Kol kitve Ahad Ha-Am (Tel Aviv: Hotsa'at Devir,
+1956), p. 127.<person-group>
+                     <string-name>
+                        <surname>Ha-Am</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Te'udat HaShiloah</comment>
+                  <fpage>127</fpage>
+                  <source>Kol kitve Ahad Ha-Am</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e313a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1e320" publication-type="book">
+Bakon in Yosef Haim Bren-
+ner, p. 16<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e345a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1e352" publication-type="other">
+Ibid., p. 21.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e359a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1e366" publication-type="book">
+H. Y. Katzenelson, "Sihot al davar hasifruit," reprinted in Bakon, YosefHaim Brenner,
+p. 54.<person-group>
+                     <string-name>
+                        <surname>Katzenelson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Sihot al davar hasifruit</comment>
+                  <fpage>54</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e395a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1e402" publication-type="journal">
+Ba'al Mahshavot, "Misaviv lanekudah," Ha-Zeman, February 27, 1905<person-group>
+                     <string-name>
+                        <surname>Mahshavot</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>February 27</issue>
+                  <source>Ha-Zeman</source>
+                  <year>1905</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e426" publication-type="book">
+Bakon, Yosef Haim Brenner, p. 61<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>61</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e448a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1e455" publication-type="book">
+Shimon Halkin, Mavo lasiporet ha'ivrit, ed. Tsofia Hillel (Jerusalem: Bet Hotsa'ah shel
+Histadrut haStudentim shel ha'Universitah ha'Ivrit, 1958), p. 334.<person-group>
+                     <string-name>
+                        <surname>Halkin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>334</fpage>
+                  <source>Mavo lasiporet ha'ivrit</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e484a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1e491" publication-type="book">
+Bakon, Yosef Haim Brenner, p. 15<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e514a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1e521" publication-type="book">
+H. N. Bialik, "Ta'ut ne'imah," Kol kitve H. N. Bialik (Tel Aviv: Hotsa'at Devir, 1971),
+p. 269.<person-group>
+                     <string-name>
+                        <surname>Bialik</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Ta'ut ne'imah</comment>
+                  <fpage>269</fpage>
+                  <source>Kol kitve H. N. Bialik</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e553a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1e560" publication-type="book">
+Bakon's introduction (esp. pp. 23-27) in his Yosef Haim Brenner<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e582a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d1e589" publication-type="journal">
+Dan Miron, "Al be'ayot signono shel Y. H. Brenner besipurav," Gazit 19, nos. 9-12
+(1961): 50-54<person-group>
+                     <string-name>
+                        <surname>Miron</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>9</issue>
+                  <fpage>50</fpage>
+                  <volume>19</volume>
+                  <source>Gazit</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e623" publication-type="book">
+Bakon, Yosef Haim Brenner, pp. 66-78<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>66</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e645a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1e652" publication-type="book">
+Gershon Shaked, "Omaut bilti beduyah," in his Lelo motsa (Tel Aviv: Hotsa'at
+haKibbutz haMeuhad, 1973), pp. 66-78.<person-group>
+                     <string-name>
+                        <surname>Shaked</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Omaut bilti beduyah</comment>
+                  <fpage>66</fpage>
+                  <source>Lelo motsa (Tel Aviv: Hotsa'at haKibbutz haMeuhad</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e684a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1e691" publication-type="book">
+William Cutter and Yosef Even, "Be'ikvot Brenner baderekh el shekhol vekishalon,"
+HaSifrut, 17 (1974): 127-144.<person-group>
+                     <string-name>
+                        <surname>Cutter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>127</fpage>
+                  <volume>17</volume>
+                  <source>Be'ikvot Brenner baderekh el shekhol vekishalon</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e723a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d1e730" publication-type="book">
+Yosef Even, Omanut hasipur shel Y. H. Brenner (Jerusalem: Mosad Bialik, 1977).<person-group>
+                     <string-name>
+                        <surname>Even</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Omanut hasipur shel Y. H. Brenner</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e753a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1e760" publication-type="other">
+"Psychological narrative," writes Tzvetan Todorov</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e766" publication-type="other">
+"regards each action as a means of
+access to the personality in question, as an expression if not a symptom." Tzvetan Todorov</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e775" publication-type="book">
+"Narrative-Men," in his The Poetics of Prose, trans. Richard Howard (Ithaca: Cornell Univer-
+sity Press, 1977), p. 67<person-group>
+                     <string-name>
+                        <surname>Howard</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Narrative-Men</comment>
+                  <fpage>67</fpage>
+                  <source>The Poetics of Prose</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e807a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1e814" publication-type="book">
+Leon Edel, The Modern Psychological Novel (New York: Grosset &amp; Dunlap, 1964), pp.
+11-26.<person-group>
+                     <string-name>
+                        <surname>Edel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11</fpage>
+                  <source>The Modern Psychological Novel</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e843a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1e850" publication-type="book">
+Y. H. Brenner, "HaGenre ha'arets yisraeli va'avizereyho," Kol kitve Y. H. Brenner, II
+(Tel Aviv: Hotsa'at haKibbutz haMeuhad, 1960), pp. 269, 270.<person-group>
+                     <string-name>
+                        <surname>Brenner</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">HaGenre ha'arets yisraeli va'avizereyho</comment>
+                  <fpage>269</fpage>
+                  <volume>II</volume>
+                  <source>Kol kitve Y. H. Brenner</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e885a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d1e892" publication-type="book">
+Gerard Genette, Narrative Discourse. An Essay in Method (Ithaca: Cornell University
+Press, 1979), pp. 212 ff.<person-group>
+                     <string-name>
+                        <surname>Genette</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>212</fpage>
+                  <source>Narrative Discourse: An Essay in Method</source>
+                  <year>1979</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e921a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d1e928" publication-type="journal">
+"Mendele in Pieces," Prooftexts 3 (1983): 169-188<fpage>169</fpage>
+                  <volume>3</volume>
+                  <source>Prooftexts</source>
+                  <year>1983</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e947a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d1e954" publication-type="book">
+Gershon Shaked, "Lifne cas hamishpat," in Lelo motsa, pp. 79-98<person-group>
+                     <string-name>
+                        <surname>Shaked</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Lifne cas hamishpat</comment>
+                  <fpage>79</fpage>
+                  <source>Lelo motsa</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e978" publication-type="book">
+Yosef Even,
+Omanut hasipur shel Y. H. Brenner, pp. 175-195<person-group>
+                     <string-name>
+                        <surname>Even</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>175</fpage>
+                  <source>Omanut hasipur shel Y. H. Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1004a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d1e1011" publication-type="book">
+Bertril Romberg, Studies in the Narrative Techniques of the First-Person Novel (Stock-
+holm, 1962).<person-group>
+                     <string-name>
+                        <surname>Romberg</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Studies in the Narrative Techniques of the First-Person Novel</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1036a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d1e1045" publication-type="book">
+Stephen Shapiro, "The Dark Continent of Literature: Autobiography," Compar-
+ative Literature Studies 5, no. 4 (December 1968): 447<person-group>
+                     <string-name>
+                        <surname>Shapiro</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Dark Continent of Literature: Autobiography</comment>
+                  <fpage>447</fpage>
+                  <volume>5</volume>
+                  <source>Comparative Literature Studies</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1079" publication-type="book">
+Roy Pascal, Design and Truth in
+Autobiography (Cambridge: Harvard University Press, 1960<person-group>
+                     <string-name>
+                        <surname>Pascal</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Design and Truth in Autobiography</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1104a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d1e1111" publication-type="book">
+Kol kitve Y. H. Brenner, I (Tel Aviv: Hotsa'at Devir, 1956), p. 25<person-group>
+                     <string-name>
+                        <surname>Brenner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <volume>1</volume>
+                  <source>Kol kitve Y. H. Brenner</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1140a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d1e1147" publication-type="book">
+Genette, Narrative Discourse, pp. 256-257.<person-group>
+                     <string-name>
+                        <surname>Genette</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>256</fpage>
+                  <source>Narrative Discourse</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1169a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d1e1176" publication-type="book">
+Miron, "Al be'ayot signono shel Y. H. Brenner besipurav," p. 176.<person-group>
+                     <string-name>
+                        <surname>Miron</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>176</fpage>
+                  <source>Al be'ayot signono shel Y. H. Brenner besipurav</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1198a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d1e1205" publication-type="book">
+Cohn, Transparent Minds, pp. 99 ff.<person-group>
+                     <string-name>
+                        <surname>Cohn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>99</fpage>
+                  <source>Transparent Minds</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1228a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d1e1235" publication-type="journal">
+Dov Sadan, "Perakim al hapsikhologia shel Y. H. Brenner," Ahdut ha-avodah 3, nos.
+1-2 (1931): 103-116<person-group>
+                     <string-name>
+                        <surname>Sadan</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <fpage>103</fpage>
+                  <volume>3</volume>
+                  <source>Ahdut ha-avodah</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e1269" publication-type="book">
+Bakon, Yosef Haim Brenner, pp. 113-132<person-group>
+                     <string-name>
+                        <surname>Bakon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>113</fpage>
+                  <source>Yosef Haim Brenner</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e1291a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d1e1298" publication-type="book">
+Gershon Shaked, Hasiporet ha'ivrit (Jerusalem: Hotsa'at Keter,
+1977), pp. 375-376<person-group>
+                     <string-name>
+                        <surname>Shaked</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>375</fpage>
+                  <source>Hasiporet ha'ivrit</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

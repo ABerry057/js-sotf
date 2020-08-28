@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">30</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i387654</issue-id>
+         <article-id pub-id-type="doi">10.2307/4131666</article-id>
+      
+         <title-group>
+            <article-title>Comic Books, Tragic Stories: Will Eisner's American Jewish History</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Jeremy</given-names>
+                  <surname>Dauber</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2006</year>
+         </pub-date>
+         <fpage>277</fpage>
+         <lpage>304</lpage>
+         <page-range>277-304</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2006 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4131666"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d2076e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d2076e121" publication-type="journal">
+Peter Schjeldahl, "Words and Pictures: Graphic Novels Come of Age,"
+New Yorker, October 17, 2005, 162-68<person-group>
+                     <string-name>
+                        <surname>Schjeldahl</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>October 17</issue>
+                  <fpage>162</fpage>
+                  <source>New Yorker</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e152" publication-type="journal">
+Chris Ware et al, "The Funny Pages," New York Times
+Magazine, September 18, 2005<person-group>
+                     <string-name>
+                        <surname>Ware</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>September 18</issue>
+                  <source>New York Times Magazine</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e180" publication-type="journal">
+Leah Finkelshteyn, "A Graphic Coming of Age," Hadassah
+Magazine, June/July 2005, 40-46<person-group>
+                     <string-name>
+                        <surname>Finkelshteyn</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>June</issue>
+                  <fpage>40</fpage>
+                  <source>Hadassah Magazine</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e212" publication-type="book">
+Scott McCloud, Under-
+standing Comics (New York: Kitchen Sink Press, 1993)<person-group>
+                     <string-name>
+                        <surname>McCloud</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Understanding Comics</source>
+                  <year>1993</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e236" publication-type="book">
+Greg S. McCue with Clive Bloom, Dark
+Knights: The New Comics in Context (London: Pluto Press, 1993), esp. 8-79<person-group>
+                     <string-name>
+                        <surname>McCue</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ark Knights: The New Comics in Context</source>
+                  <year>1993</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e260" publication-type="book">
+David Carrier, The
+Aesthetics of Comics (University Park: Pennsylvania State University Press, 2000)<person-group>
+                     <string-name>
+                        <surname>Carrier</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Aesthetics of Comics</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e284" publication-type="book">
+Mila
+Bongco, Reading Comics: Language, Culture, and the Concept of the Superhero in Comic Books
+(New York: Garland, 2000), esp. 45-83<person-group>
+                     <string-name>
+                        <surname>Bongco</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Reading Comics: Language, Culture, and the Concept of the Superhero in Comic Books</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e312" publication-type="book">
+Robert C. Harvey, The Art of the Funnies: An Aesthetic History (Jackson: University Press of
+Mississippi, 1994)<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Art of the Funnies: An Aesthetic History</source>
+                  <year>1994</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e336" publication-type="book">
+Roger Sabin, Adult Comics: An Introduction (New York: Routledge, 1993),
+esp. 5-13, 133-79<person-group>
+                     <string-name>
+                        <surname>Sabin</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Adult Comics: An Introduction</source>
+                  <year>1993</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e361" publication-type="book">
+Will Eisner, Graphic Storytelling and Visual Narrative (Tamarac, FL: Poorhouse
+Press, 1996), esp. 125-33<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Graphic Storytelling and Visual Narrative</source>
+                  <year>1996</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e385" publication-type="book">
+Martin Sheridan, Classic Comics and Their Creators: Life Stories of
+American Cartoonists from the Golden Age (Arcadia, CA: Post-Era, 1973)<person-group>
+                     <string-name>
+                        <surname>Sheridan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Classic Comics and Their Creators: Life Stories of American Cartoonists from the Golden Age</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e409" publication-type="book">
+Ron Goulart, Ron Goulart's
+Great History of Comic Books (Chicago: Contemporary Books, 1986)<person-group>
+                     <string-name>
+                        <surname>Goulart</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ron Goulart's Great History of Comic Books</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e433" publication-type="book">
+Arthur Asa Berger, The
+Comic-Stripped American (New York: Walker, 1973), 123-93<person-group>
+                     <string-name>
+                        <surname>Berger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>123</fpage>
+                  <source>The Comic-Stripped American</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e462a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d2076e469" publication-type="book">
+Michael Chabon, The Amazing Adventures of Kavalier and Clay
+(New York: Random House, 2000)<person-group>
+                     <string-name>
+                        <surname>Chabon</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Amazing Adventures of Kavalier and Clay</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e493" publication-type="book">
+Jonathan Lethem, The Fortress of Solitude (New York:
+Doubleday, 2003)<person-group>
+                     <string-name>
+                        <surname>Lethem</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Fortress of Solitude</source>
+                  <year>2003</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e518a1310">
+            <label>3</label>
+          
+          
+            <p>
+               <mixed-citation id="d2076e527" publication-type="book">
+Will Eisner, Will Eisner's
+Shop Talk (Milwaukie, OR: Dark Horse Comics, 2001), 45-50, 295-96<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>45</fpage>
+                  <source>Will Eisner's Shop Talk</source>
+                  <year>2001</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e555" publication-type="journal">
+Eisner, Shop Talk, 65<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>65</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e577a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d2076e584" publication-type="book">
+Gerard Jones, Men of Tomorrow: Geeks, Gangsters, and the Birth of the
+Comic Book (New York: Basic Books, 2004)<person-group>
+                     <string-name>
+                        <surname>Jones</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Men of Tomorrow: Geeks, Gangsters, and the Birth of the Comic Book</source>
+                  <year>2004</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e608" publication-type="journal">
+Arie Kaplan, "Kings of Comics: How Jews Transformed
+the Comic Book Industry," Reform Judaism 32, no. 1 (Fall 2003)<person-group>
+                     <string-name>
+                        <surname>Kaplan</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <volume>32</volume>
+                  <source>Reform Judaism</source>
+                  <year>2003</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e639" publication-type="other">
+no. 2 (Winter 2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e646" publication-type="other">
+no. 3
+(Spring 2004) www.uahc.org/rjmag</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e655" publication-type="journal">
+McCue and Bloom, Dark Knights, 19-20<person-group>
+                     <string-name>
+                        <surname>McCue</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Dark Knights</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e678a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d2076e685" publication-type="journal">
+Sabin, Adult Comics, 235-48<person-group>
+                     <string-name>
+                        <surname>Sabin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>235</fpage>
+                  <source>Adult Comics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e706" publication-type="journal">
+Eddie Campbell, "A Graphic Novelist's Manifesto," Comics Journal, no. 263 (October-November
+2004), 169<person-group>
+                     <string-name>
+                        <surname>Campbell</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>263</issue>
+                  <fpage>169</fpage>
+                  <source>Comics Journal</source>
+                  <year>2004</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e737" publication-type="journal">
+Sabin, Adult Comics, 238-39<person-group>
+                     <string-name>
+                        <surname>Sabin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>238</fpage>
+                  <source>Adult Comics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e759a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d2076e766" publication-type="other">
+note 1</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e773a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d2076e780" publication-type="book">
+Marjane Satrapi, Persepolis: The Story of a Childhood (New York: Pantheon, 2003)<person-group>
+                     <string-name>
+                        <surname>Satrapi</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Persepolis: The Story of a Childhood</source>
+                  <year>2003</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e801" publication-type="book">
+Joe
+Sacco, Palestine (Seattle: Fantagraphics, 1994)<person-group>
+                     <string-name>
+                        <surname>Sacco</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Palestine</source>
+                  <year>1994</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e825" publication-type="book">
+Safe Area Gorazde (Seattle: Fantagraphics,
+2000)<source>Safe Area Gorazde</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e841" publication-type="book">
+Art Spiegelman, Maus: A Survivor's Tale, 2 vols. (New York: Pantheon, 1986, 1991)<source>Art Spiegelman, Maus: A Survivor's Tale</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e854a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d2076e861" publication-type="journal">
+R. C. Harvey, "The Graphic Novel, Will Eisner, and Other Pioneers," pt. 2, Comics Journal,
+no. 234 (June 2001), 92-97<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>234</issue>
+                  <fpage>92</fpage>
+                  <source>Comics Journal</source>
+                  <year>2001</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e892" publication-type="journal">
+R. Fiore, "The Cult of Will," Comics Journal no. 267 (April-May 2005), 183-86<person-group>
+                     <string-name>
+                        <surname>Fiore</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>183</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e920" publication-type="journal">
+R. C. Harvey, "An Affectionate Appreciation," Comics Journal, no. 267
+(April-May 2005), 80<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>80</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e952a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d2076e959" publication-type="book">
+Bob
+Andelman, Will Eisner: A Spirited Life (Milwaukie, OR: M Press, 2005)<person-group>
+                     <string-name>
+                        <surname>Andelman</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Will Eisner: A Spirited Life</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e983" publication-type="journal">
+Jones, Men of Tomor-
+row, 129-30<person-group>
+                     <string-name>
+                        <surname>Jones</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>129</fpage>
+                  <source>Men of Tomorrow</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1007" publication-type="journal">
+Comics Journal published in memorial to Will Eisner (no. 267
+[April-May 2005], 72-197)<issue>267</issue>
+                  <fpage>72</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1030" publication-type="journal">
+Eisner, "Will Eisner:
+Before the Comics" (1, 72-77)<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>Will Eisner: Before the Comics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1054" publication-type="other">
+Michael Chabon (89)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1061a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d2076e1068" publication-type="book">
+Will Eisner, To the Heart
+of the Storm (New York: DC Comics, 1991)<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>To the Heart of the Storm</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1094a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d2076e1101" publication-type="journal">
+Eisner, Shop Talk, 106, 194-96<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>106</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1122" publication-type="journal">
+Eisner, Shop Talk, 54, 67, 285<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>54</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1144a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d2076e1151" publication-type="journal">
+Jones, Men of Tomorrow, 134-36<person-group>
+                     <string-name>
+                        <surname>Jones</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>134</fpage>
+                  <source>Men of Tomorrow</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1172" publication-type="journal">
+Eisner, Shop Talk, 108, 136<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>108</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1193" publication-type="journal">
+Comics Journal, no. 267 (April-May 2005), 74<issue>267</issue>
+                  <fpage>74</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1212a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d2076e1219" publication-type="journal">
+Eisner, "Before the Comics," 76-77<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>76</fpage>
+                  <source>Before the Comics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1240" publication-type="journal">
+Eisner, Shop Talk, 53-54<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>53</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1261" publication-type="other">
+Wow! magazine</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1268" publication-type="journal">
+Eisner, Shop Talk, 331-32<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>331</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1289" publication-type="journal">
+Eisner, Shop Talk, 115<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>115</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1310" publication-type="journal">
+Ron Goulart, "Before the Spirit," Comics
+Journal, no. 267 (April-May 2005), 99-103<person-group>
+                     <string-name>
+                        <surname>Goulart</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>99</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1342a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d2076e1349" publication-type="journal">
+R. C. Harvey, "Shop System: Interview
+with Will Eisner," Comics Journal, no. 249 (December 2002), 62-69<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>249</issue>
+                  <fpage>62</fpage>
+                  <source>Comics Journal</source>
+                  <year>2002</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1380" publication-type="journal">
+Jones, Men of Tomorrow, 137-40<person-group>
+                     <string-name>
+                        <surname>Jones</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>137</fpage>
+                  <source>Men of Tomorrow</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1401" publication-type="journal">
+Eisner, Shop
+Talk, 53, 154-56, 205<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>53</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1426" publication-type="journal">
+Harvey, "Shop System," 64<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>64</fpage>
+                  <source>Shop System</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1447" publication-type="book">
+The Dreamer (New York: DC Comics Printing 2000)<source>The Dreamer</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1459" publication-type="journal">
+Eisner
+and Iger become "Eyron and Samson" (12)<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <source>Eyron and Samson</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1484a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d2076e1491" publication-type="book">
+R. C. Harvey's detailed description of this process in "The Consummate Comic
+Book," in Will Eisner's The Spirit Archives, vol. 1 (New York: DC Comics, 2000), 14-20<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Consummate Comic Book</comment>
+                  <fpage>14</fpage>
+                  <volume>1</volume>
+                  <source>Will Eisner's The Spirit Archives</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1525" publication-type="journal">
+Eisner, The Dreamer, 20-21<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>The Dreamer</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1546" publication-type="journal">
+Eisner,
+Shop Talk, 96<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>96</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1571a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d2076e1578" publication-type="journal">
+Harvey, "Shop System," 66-68<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>66</fpage>
+                  <source>Shop System</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1599" publication-type="journal">
+Eisner,
+The Dreamer, 42-43<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <source>The Dreamer</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1625a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d2076e1632" publication-type="journal">
+Eisner's own account of this experience in "The Spirit: How It Came to Be," in
+Spirit Archives 1:7-10<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1660" publication-type="journal">
+Eisner, Shop Talk, 155<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>155</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1681" publication-type="journal">
+Jones,
+Men of Tomorrow, 194-95<person-group>
+                     <string-name>
+                        <surname>Jones</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>194</fpage>
+                  <source>Men of Tomorrow</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1706a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d2076e1713" publication-type="journal">
+Sabin, Adult Comics, 148<person-group>
+                     <string-name>
+                        <surname>Sabin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>148</fpage>
+                  <source>Adult Comics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1734" publication-type="journal">
+Comics Journal, no. 210 (February 1999), 83<issue>210</issue>
+                  <fpage>83</fpage>
+                  <source>Comics Journal</source>
+                  <year>1999</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1752" publication-type="journal">
+Spirit Archives, 1:8<fpage>8</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1768" publication-type="journal">
+Eisner, Shop Talk, 155<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>155</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1789" publication-type="other">
+The Spirit</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1795" publication-type="book">
+Ron Goulart, "The
+Spirit," in Comic Book Encyclopedia (New York: Harper Entertainment, 2004), 312-13<person-group>
+                     <string-name>
+                        <surname>Goulart</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Spirit</comment>
+                  <fpage>312</fpage>
+                  <source>Comic Book Encyclopedia</source>
+                  <year>2004</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1827a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d2076e1834" publication-type="journal">
+Eisner, Spirit Archives, 1:7.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1859a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d2076e1866" publication-type="other">
+The Spirit</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1872" publication-type="journal">
+Steven Grant, "The Spirit of Will Eisner," Comics Journal, no. 267 (April-May
+2005), 104-10<person-group>
+                     <string-name>
+                        <surname>Grant</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>104</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1904a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d2076e1911" publication-type="journal">
+Spirit Archives, 1:17<fpage>17</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1926" publication-type="book">
+Will Eisner, Comics and Sequential
+Art: Principles and Practice of the World's Most Popular Art Form, expanded ed. (Tamarac, FL: Poor-
+house Press, 1990), 62<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>62</fpage>
+                  <source>Comics and Sequential Art: Principles and Practice of the World's Most Popular Art Form</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1958a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d2076e1965" publication-type="other">
+The Spirit</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e1971" publication-type="journal">
+Eisner, Shop Talk, 170, 241<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>170</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e1994a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d2076e2001" publication-type="journal">
+"Killer McNobby" (June 1, 1941)<issue>June 1</issue>
+                  <source>Killer McNobby</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2016" publication-type="journal">
+Spirit Archives, 2:177-84<fpage>177</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2032a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d2076e2039" publication-type="journal">
+June 8, 1941, Spirit Archives, 2:185-92.<issue>June 8</issue>
+                  <fpage>185</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2062a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d2076e2069" publication-type="journal">
+"The Black Queen's Army" (July 7, 1940), Spirit Archives, 1:56<issue>July 7</issue>
+                  <fpage>56</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2091" publication-type="journal">
+Grant, "The Spirit of
+Will Eisner," 105<person-group>
+                     <string-name>
+                        <surname>Grant</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>105</fpage>
+                  <source>The Spirit of Will Eisner</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2115" publication-type="book">
+Danny Fingeroth,
+Superman on the Couch (New York: Continuum, 2004), 50-53<person-group>
+                     <string-name>
+                        <surname>Fingeroth</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>50</fpage>
+                  <source>Superman on the Couch</source>
+                  <year>2004</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2144a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d2076e2151" publication-type="journal">
+Kent Worcester, "Eisner and Instructional Comics," Comics Journal, no. 267 (April-
+May 2005), 133-36<person-group>
+                     <string-name>
+                        <surname>Worcester</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>133</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2182" publication-type="journal">
+Eisner, Shop Talk 145<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>145</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2204a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d2076e2211" publication-type="journal">
+Spirit Archives, 1:9<fpage>9</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2226" publication-type="other">
+Spirit daily strip published between 1941
+and 1944</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2235" publication-type="journal">
+Eisner, Shop Talk, 161<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>161</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2257a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d2076e2264" publication-type="journal">
+Spirit Archives, 1:9.<fpage>9</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2281a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d2076e2288" publication-type="journal">
+Eisner, Shop Talk, 21.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>21</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2310a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d2076e2317" publication-type="journal">
+Harvey, "The Graphic Novel, Will Eisner, and Other Pioneers," 234<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>234</fpage>
+                  <source>The Graphic Novel, Will Eisner, and Other Pioneers</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2339a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d2076e2346" publication-type="other">
+www.willeisner.com/bio (accessed July 12, 2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2352" publication-type="journal">
+Eisner, Shop Talk, 19-20, 132<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2374a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d2076e2381" publication-type="journal">
+Eisner, Shop Talk, 284<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>284</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2402" publication-type="journal">
+McCue and Bloom, Dark Knights, 50-53<person-group>
+                     <string-name>
+                        <surname>McCue</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>50</fpage>
+                  <source>Dark Knights</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2423" publication-type="other">
+Comics
+and Sequential Art, 141</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2433" publication-type="book">
+Matthew Pustz's book of the same name:
+Comic Book Culture: Fanboys and True Believers (Jackson: University of Mississippi Press, 1999),
+26-65, 110-56<person-group>
+                     <string-name>
+                        <surname>Pustz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>26</fpage>
+                  <source>Comic Book Culture: Fanboys and True Believers</source>
+                  <year>1999</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2464" publication-type="journal">
+Finkelshteyn, "A Graphic Coming of Age," 43-44<person-group>
+                     <string-name>
+                        <surname>Finkelshteyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <source>A Graphic Coming of Age</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2485" publication-type="book">
+Patrick
+Rosenkranz, Rebel Visions: The Underground Comix Revolution, 1963-1975 (Seattle, WA:
+Fantagraphics, 2002)<person-group>
+                     <string-name>
+                        <surname>Rosenkranz</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Rebel Visions: The Underground Comix Revolution, 1963-1975</source>
+                  <year>2002</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2514a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d2076e2521" publication-type="journal">
+Eisner, Shop Talk, 25-30, 43-44<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2542" publication-type="book">
+Dr. Fredric Wertham's anti-comic book treatise, Seduction of the Innocent (New York: Rinehart,
+1954)<person-group>
+                     <string-name>
+                        <surname>Wertham</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Seduction of the Innocent</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2566" publication-type="book">
+Amy Kiste Nyberg, Seal of Approval: The History of the Comics Code (Jackson: University
+of Mississippi, 1998), esp. 53-129<person-group>
+                     <string-name>
+                        <surname>Nyberg</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Seal of Approval: The History of the Comics Code</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2591" publication-type="journal">
+Jones, Men of Tomorrow, 238-41, 270-78<person-group>
+                     <string-name>
+                        <surname>Jones</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>238</fpage>
+                  <source>Men of Tomorrow</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2612" publication-type="journal">
+Eisner, Shop Talk,
+307-308<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>307</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2636" publication-type="journal">
+Fingeroth, Superman on the Couch, 22-23<person-group>
+                     <string-name>
+                        <surname>Fingeroth</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>22</fpage>
+                  <source>Superman on the Couch</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2657" publication-type="journal">
+McCue and Bloom, Dark Knights, 29-32<person-group>
+                     <string-name>
+                        <surname>McCue</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>29</fpage>
+                  <source>Dark Knights</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2678" publication-type="journal">
+Sabin, Adult Comics, 157-62<person-group>
+                     <string-name>
+                        <surname>Sabin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>157</fpage>
+                  <source>Adult Comics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2700a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d2076e2707" publication-type="other">
+Harvey Comics and in the Real Free Press by Dutch editor Olaf Stoop</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2713" publication-type="other">
+Alan Moore,
+"The Pioneering Spirit"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2722" publication-type="book">
+Will Eisner's The Spirit Archives, Vol. 1 (New York: DC Comics, 2000),
+11-13<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11</fpage>
+                  <volume>1</volume>
+                  <source>The Spirit Archives</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2754" publication-type="journal">
+Fiore, "The Cult of Will," 183<person-group>
+                     <string-name>
+                        <surname>Fiore</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>183</fpage>
+                  <source>The Cult of Will</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2777a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d2076e2784" publication-type="book">
+Will Eisner, preface to A Contract with God and Other Tenement Stories, 2nd ed.
+(New York: DC Comics, 1996)<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <source>A Contract with God and Other Tenement Stories</source>
+                  <year>1996</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2812" publication-type="other">
+first written in 1978</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2819a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d2076e2826" publication-type="journal">
+Eisner, Shop Talk, 67<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>67</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2847" publication-type="journal">
+McCloud, Understanding Comics, 5<person-group>
+                     <string-name>
+                        <surname>McCloud</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>Understanding Comics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2869a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d2076e2876" publication-type="other">
+Ibid., 259</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2882" publication-type="journal">
+Bill Sherman, "Return
+to Dropsie Avenue," Comics Journal, no. 267 (April-May 2005), 92-93<person-group>
+                     <string-name>
+                        <surname>Sherman</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>92</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2914a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d2076e2921" publication-type="other">
+Under-
+standing Comics, 175</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2930" publication-type="other">
+"great storytellers, creators who
+have something to say through comics and devote all their energies to controlling their medium, refin-
+ing its ability to convey messages effectively" (180)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e2942" publication-type="journal">
+Rich
+Kreiner, "Comics and the Man," Comics Journal, no. 267 (April-May 2005), 188-90<person-group>
+                     <string-name>
+                        <surname>Kreiner</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>188</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e2974a1310">
+            <label>41</label>
+          
+          
+            <p>
+               <mixed-citation id="d2076e2983" publication-type="journal">
+Eisner wrote, "In our culture, film and comics are the major conveyors of
+story through imagery, Each employ arranged graphics and text or dialogue. While film and theater
+have long ago established their credentials, comics still struggle for acceptance, and the art form,
+after more than ninety years of popular use, is still regarded as a problematic literary vehicle"
+(Graphic Storytelling and Visual Narrative, 3)<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>Graphic Storytelling and Visual Narrative</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3017" publication-type="other">
+Graphic Storytelling and Visual Narrative, 5</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3024" publication-type="journal">
+Carrier, The Aesthetics of Comics, 109-10<person-group>
+                     <string-name>
+                        <surname>Carrier</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>109</fpage>
+                  <source>The Aesthetics of Comics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3045" publication-type="book">
+Amy E. Spaulding,
+The Page as a Stage Set: Storyboard Picture Books (Metuchen, NJ: Scarecrow Press, 1995), 6-7<person-group>
+                     <string-name>
+                        <surname>Spaulding</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>6</fpage>
+                  <source>The Page as a Stage Set: Storyboard Picture Books</source>
+                  <year>1995</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3073" publication-type="journal">
+John Benson's interview, "Having Something to Say," Comics Journal,
+no. 267 (April-May 2005), 113-22, esp. 116<person-group>
+                     <string-name>
+                        <surname>Benson</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>113</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3105a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d2076e3112" publication-type="journal">
+Eisner, Shop Talk, 259.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>259</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3135a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d2076e3142" publication-type="other">
+Ibid., 159.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3149a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d2076e3156" publication-type="journal">
+"The Death Dolls" (August 4, 1940), Spirit Archives, 1:85.<issue>August 4</issue>
+                  <fpage>85</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3179a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d2076e3186" publication-type="journal">
+"Conscription Bill Signed!" (October 27, 1940), Spirit Archives, 1:168<issue>October 27</issue>
+                  <fpage>168</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3208" publication-type="journal">
+Spirit Archives, 1:170<fpage>170</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3223" publication-type="journal">
+Spirit Archives, 1:172<fpage>172</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3239a1310">
+            <label>46</label>
+          
+            <p>
+               <mixed-citation id="d2076e3246" publication-type="journal">
+Spirit Archives, 1:174.<fpage>174</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3262a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d2076e3269" publication-type="other">
+Ibid., 2:58</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3275" publication-type="journal">
+Eisner, Shop Talk, 114<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>114</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3297a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d2076e3304" publication-type="book">
+November 17, 1940, Spirit story, "Dr. Prince von Kalm,"<source>Spirit story, "Dr. Prince von Kalm,"</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3316" publication-type="journal">
+Spirit Archives, 1:189-95<fpage>189</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3331" publication-type="journal">
+"The Black Bow" (January 5, 1941),
+Spirit Archives, 2:10<issue>January 5</issue>
+                  <fpage>10</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3357" publication-type="journal">
+Spirit Archives,
+2:12<fpage>12</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3377a1310">
+            <label>49</label>
+          
+            <p>
+               <mixed-citation id="d2076e3384" publication-type="journal">
+"King Kohl, Emperor of the World" (May 4, 1941), Spirit Archives, 2:145-52, 146<issue>May 4</issue>
+                  <fpage>145</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3407a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d2076e3414" publication-type="journal">
+June 22, 1941, Spirit Archives, 2:201-208.<issue>June 22</issue>
+                  <fpage>201</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3437a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d2076e3444" publication-type="journal">
+Spirit Archives, 1:203<fpage>203</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3460a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d2076e3467" publication-type="journal">
+"Radio Station WLXK" (February 16, 1941), Spirit Archives 2:57-64<issue>February 16</issue>
+                  <fpage>57</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3489" publication-type="journal">
+"Toy Planes"
+(March 9, 1941), Spirit Archives, 2:81-88<issue>March 9</issue>
+                  <fpage>81</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3514" publication-type="journal">
+"Introducing Scarlett Brown" (April 6, 1941), Spirit
+Archives, 2:113-20<issue>April 6</issue>
+                  <fpage>113</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3540" publication-type="journal">
+"Ellen Dolan Detective Agency,"
+(April 27, 1941), Spirit Archives, 2:137-44, esp. 142<issue>April 27</issue>
+                  <fpage>137</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3566a1310">
+            <label>53</label>
+          
+            <p>
+               <mixed-citation id="d2076e3573" publication-type="journal">
+Spirit Archives, 2:69<fpage>69</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3589a1310">
+            <label>54</label>
+          
+            <p>
+               <mixed-citation id="d2076e3596" publication-type="journal">
+Chabon, Kavalier and Clay, 158-59<person-group>
+                     <string-name>
+                        <surname>Chabon</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>158</fpage>
+                  <source>Kavalier and Clay</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3619a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d2076e3626" publication-type="journal">
+Eisner, Shop Talk, 73, 170<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>73</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3647" publication-type="other">
+118, 236</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3654a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d2076e3661" publication-type="journal">
+Eisner, A Contract with God, ii<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>ii</fpage>
+                  <source>A Contract with God</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3682" publication-type="journal">
+Eisner, A Contract with God, iii<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>iii</fpage>
+                  <source>A Contract with God</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3704a1310">
+            <label>58</label>
+          
+            <p>
+               <mixed-citation id="d2076e3711" publication-type="journal">
+Prooftexts 18, no. 2-3 (May-September 1998)<issue>2</issue>
+                  <volume>18</volume>
+                  <source>Prooftexts</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3729" publication-type="journal">
+Jewish Quarterly Review 95, no. 1 (Winter 2005), esp. Marcus Moseley, "Jewish Autobiography:
+The Elusive Subject," 16-59<issue>1</issue>
+                  <volume>95</volume>
+                  <source>Jewish Quarterly Review</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3752a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d2076e3759" publication-type="journal">
+Eisner, A Contract with God, ii<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>ii</fpage>
+                  <source>A Contract with God</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3780" publication-type="journal">
+McCloud, Understanding Comics, 98-99<person-group>
+                     <string-name>
+                        <surname>McCloud</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>98</fpage>
+                  <source>Understanding Comics</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3801" publication-type="other">
+Graphic Story-
+telling and Visual Narrative, 151</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3811" publication-type="other">
+Comics and
+Sequential Art, 39</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3820" publication-type="journal">
+Carrier, The Aesthetics of Comics, 55-57<person-group>
+                     <string-name>
+                        <surname>Carrier</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>55</fpage>
+                  <source>The Aesthetics of Comics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3842a1310">
+            <label>60</label>
+          
+            <p>
+               <mixed-citation id="d2076e3849" publication-type="other">
+Harvey, "The Graphic Novel, Will Eisner, and Other Pioneers."</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3856a1310">
+            <label>61</label>
+          
+            <p>
+               <mixed-citation id="d2076e3863" publication-type="journal">
+Denny O'Neil, introduction to Eisner, A Contract with God, vii.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>vii</fpage>
+                  <source>A Contract with God</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3886a1310">
+            <label>62</label>
+          
+            <p>
+               <mixed-citation id="d2076e3893" publication-type="journal">
+Eisner, Shop Talk, 55.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>55</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3915a1310">
+            <label>63</label>
+          
+            <p>
+               <mixed-citation id="d2076e3922" publication-type="book">
+Will Eisner, City People Notebook (New York: DC Comics, 1989, 2000)<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>City People Notebook</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e3943" publication-type="book">
+Will Eisner's
+New York: The Big City (New York: DC Comics, 1986, 2000)<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>New York: The Big City</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3968a1310">
+            <label>64</label>
+          
+            <p>
+               <mixed-citation id="d2076e3975" publication-type="book">
+Eisner, City People Notebook, 3-4.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>City People Notebook</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e3997a1310">
+            <label>65</label>
+          
+            <p>
+               <mixed-citation id="d2076e4004" publication-type="book">
+"All the more poignant in a big city because it is so unex-
+pected," Eisner, City People Notebook, 82<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">All the more poignant in a big city because it is so unexpected</comment>
+                  <fpage>82</fpage>
+                  <source>City People Notebook</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4032" publication-type="book">
+"There is something about vacant
+streets that makes one uneasy," Eisner, City People Notebook, 83<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">There is something about vacant streets that makes one uneasy</comment>
+                  <fpage>83</fpage>
+                  <source>City People Notebook</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4061a1310">
+            <label>66</label>
+          
+          
+            <p>
+               <mixed-citation id="d2076e4070" publication-type="journal">
+Eisner,
+New York: The Big City, 5<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>New York: The Big City</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4094" publication-type="other">
+City People Notebook, 67</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4101a1310">
+            <label>67</label>
+          
+            <p>
+               <mixed-citation id="d2076e4108" publication-type="other">
+Comics and Sequential Art, 45-46</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4116a1310">
+            <label>68</label>
+          
+            <p>
+               <mixed-citation id="d2076e4123" publication-type="journal">
+Eisner, A Contract with God, ii.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>ii</fpage>
+                  <source>A Contract with God</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4145a1310">
+            <label>69</label>
+          
+            <p>
+               <mixed-citation id="d2076e4152" publication-type="other">
+Ibid., 52.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4159a1310">
+            <label>70</label>
+          
+            <p>
+               <mixed-citation id="d2076e4166" publication-type="other">
+Ibid., 57-58.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4173a1310">
+            <label>71</label>
+          
+            <p>
+               <mixed-citation id="d2076e4180" publication-type="book">
+"The Deal" in Martin Buber, Tales of the Hasidim
+(New York: Schocken Books, 1991), 1:209-10<person-group>
+                     <string-name>
+                        <surname>Buber</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Deal</comment>
+                  <fpage>209</fpage>
+                  <volume>1</volume>
+                  <source>Tales of the Hasidim</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4215a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d2076e4222" publication-type="journal">
+"The ideal writing process occurs where the
+writer and the artist are the same person. This, in effect, shortens the distance between the idea and
+its translation. It produces a product that more closely reflects the intent of the writer" (Graphic Story-
+telling and Visual Narrative, 111<fpage>111</fpage>
+                  <source>Graphic Storytelling and Visual Narrative</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4244" publication-type="journal">
+Eisner, Shop Talk, 87<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>87</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4265" publication-type="other">
+Comics and Sequential Art, 127</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4272a1310">
+            <label>73</label>
+          
+          
+            <p>
+               <mixed-citation id="d2076e4281" publication-type="other">
+A Contract with God, "The Super."</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4287" publication-type="other">
+"The Super"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4294" publication-type="other">
+The Spirit</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4302a1310">
+            <label>74</label>
+          
+            <p>
+               <mixed-citation id="d2076e4309" publication-type="book">
+Will Eisner, The Neighborhood: Dropsie Avenue (New York: DC Comics, 1995).<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Neighborhood: Dropsie Avenue</source>
+                  <year>1995</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4331a1310">
+            <label>75</label>
+          
+            <p>
+               <mixed-citation id="d2076e4338" publication-type="book">
+The Name of the Game (New York: DC Comics, 2001)<source>The Name of the Game</source>
+                  <year>2001</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4351a1310">
+            <label>76</label>
+          
+            <p>
+               <mixed-citation id="d2076e4358" publication-type="book">
+Will Eisner, A Life Force (New York: DC Comics, 2001).<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>A Life Force</source>
+                  <year>2001</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4380a1310">
+            <label>77</label>
+          
+            <p>
+               <mixed-citation id="d2076e4387" publication-type="other">
+A Contract with God</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4393" publication-type="journal">
+Yiddish-"a language in
+which I can think but cannot read or write" (A Contract with God, iii)<person-group>
+                     <string-name>
+                        <surname>Yiddish</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>iii</fpage>
+                  <source>A Contract with God</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4418a1310">
+            <label>78</label>
+          
+            <p>
+               <mixed-citation id="d2076e4425" publication-type="other">
+Ibid., 17-18</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4431" publication-type="other">
+"enchanted prince," on 59</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4438a1310">
+            <label>79</label>
+          
+            <p>
+               <mixed-citation id="d2076e4445" publication-type="other">
+Ibid., esp. 83-96.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4453a1310">
+            <label>80</label>
+          
+            <p>
+               <mixed-citation id="d2076e4460" publication-type="other">
+Ibid., 133</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4466" publication-type="other">
+113, 118, 122</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4472" publication-type="other">
+esp. 103</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4479a1310">
+            <label>81</label>
+          
+            <p>
+               <mixed-citation id="d2076e4486" publication-type="other">
+Ibid., 133ff.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4493a1310">
+            <label>82</label>
+          
+          
+            <p>
+               <mixed-citation id="d2076e4502" publication-type="other">
+Ibid., 31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4508" publication-type="book">
+Minor Miracles (New York: DC
+Comics, 2000)<source>Minor Miracles</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4524" publication-type="other">
+Minor Miracles, 19-26</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4530" publication-type="journal">
+"A New Kid on the
+Block" (Minor Miracles, 27-72)<fpage>27</fpage>
+                  <source>Minor Miracles</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4545" publication-type="journal">
+"A Very Special Wedding Ring" (Minor Miracles, 73-110)<fpage>73</fpage>
+                  <source>Minor Miracles</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4558a1310">
+            <label>83</label>
+          
+            <p>
+               <mixed-citation id="d2076e4565" publication-type="other">
+Ibid., 11.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4572a1310">
+            <label>84</label>
+          
+            <p>
+               <mixed-citation id="d2076e4579" publication-type="other">
+Ibid., 55.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4586a1310">
+            <label>85</label>
+          
+            <p>
+               <mixed-citation id="d2076e4593" publication-type="other">
+Eisner's father tells him, "From dreams... from
+dreams comes courage"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4602" publication-type="journal">
+Eisner, The Dreamer, 5<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>The Dreamer</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4625a1310">
+            <label>86</label>
+          
+            <p>
+               <mixed-citation id="d2076e4632" publication-type="journal">
+Eisner, To the Heart of the Storm, 3<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>To the Heart of the Storm</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4653" publication-type="book">
+Benson, "Having Something to Say," 128<person-group>
+                     <string-name>
+                        <surname>Benson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>128</fpage>
+                  <source>Having Something to Say</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4675a1310">
+            <label>87</label>
+          
+            <p>
+               <mixed-citation id="d2076e4682" publication-type="other">
+Ibid., 93-94</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4688" publication-type="journal">
+Eisner, Shop Talk, 90<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>90</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4709" publication-type="journal">
+Eisner,
+"Before the Comics," 72<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>72</fpage>
+                  <source>Before the Comics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4734a1310">
+            <label>88</label>
+          
+            <p>
+               <mixed-citation id="d2076e4741" publication-type="other">
+Ibid., 57-61.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4748a1310">
+            <label>89</label>
+          
+            <p>
+               <mixed-citation id="d2076e4755" publication-type="other">
+Ibid., 142.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4762a1310">
+            <label>90</label>
+          
+            <p>
+               <mixed-citation id="d2076e4769" publication-type="other">
+Ibid., 153-56, 182</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4775" publication-type="other">
+Ibid., 32-33</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4782a1310">
+            <label>91</label>
+          
+            <p>
+               <mixed-citation id="d2076e4789" publication-type="other">
+Ibid., 192-93.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4797a1310">
+            <label>92</label>
+          
+            <p>
+               <mixed-citation id="d2076e4804" publication-type="other">
+Ibid., 180-81</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4810" publication-type="other">
+The
+Name of the Game</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4820a1310">
+            <label>93</label>
+          
+            <p>
+               <mixed-citation id="d2076e4827" publication-type="other">
+Ibid., 42-56</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4834a1310">
+            <label>94</label>
+          
+            <p>
+               <mixed-citation id="d2076e4841" publication-type="other">
+Ibid., 169-71</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4847" publication-type="other">
+Ibid., 194-95</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4854a1310">
+            <label>95</label>
+          
+            <p>
+               <mixed-citation id="d2076e4861" publication-type="book">
+Eisner, Fagin the Jew (New York: Doubleday, 2003), 3.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>Fagin the Jew</source>
+                  <year>2003</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e4886a1310">
+            <label>96</label>
+          
+            <p>
+               <mixed-citation id="d2076e4893" publication-type="journal">
+"Voodoo in Manhattan" (June 23, 1940), Spirit Archives, 1:42-48<issue>June 23</issue>
+                  <fpage>42</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4915" publication-type="journal">
+"Ebony's X-Ray Eyes" (September 15, 1940), Spirit Archives, 1:126-32<issue>September 15</issue>
+                  <fpage>126</fpage>
+                  <volume>1</volume>
+                  <source>Spirit Archives</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4937" publication-type="journal">
+"Introducing Scarlett Brown" (April 6, 1941), Spirit Archives, 2:113-20<issue>April 6</issue>
+                  <fpage>113</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4960" publication-type="journal">
+"Pancho de Bool and Peppi Tamale" (January 19, 1941), Spirit Archives, 2:25-32<issue>January 19</issue>
+                  <fpage>25</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e4982" publication-type="journal">
+"Marta and The Renaissance Primitive" (May 18, 1941),
+Spirit Archives, 2:161-76, 166<issue>May 18</issue>
+                  <fpage>161</fpage>
+                  <volume>2</volume>
+                  <source>Spirit Archives</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5007" publication-type="journal">
+Milo George, "Coprolites
+under Glass: The Spirit Archives Volume One" Comics Journal, no. 225 (July 2000), 34-35<person-group>
+                     <string-name>
+                        <surname>George</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>225</issue>
+                  <fpage>34</fpage>
+                  <source>Comics Journal</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5039a1310">
+            <label>97</label>
+          
+            <p>
+               <mixed-citation id="d2076e5046" publication-type="journal">
+Eisner, Fagin the Jew, 3-4<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3</fpage>
+                  <source>Fagin the Jew</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5067" publication-type="journal">
+Benson in "Having Something to Say," 121<person-group>
+                     <string-name>
+                        <surname>Benson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>121</fpage>
+                  <source>Having Something to Say</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5090a1310">
+            <label>98</label>
+          
+          
+            <p>
+               <mixed-citation id="d2076e5099" publication-type="journal">
+Eisner, Graphic Storytelling and Visual Narrative, 17-20<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>17</fpage>
+                  <source>Graphic Storytelling and Visual Narrative</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5120" publication-type="journal">
+Eisner, Comics and Sequen-
+tial Art, 13-15<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>13</fpage>
+                  <source>Comics and Sequential Art</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5145" publication-type="journal">
+"personal observations and an inventory of gestures, common and com-
+prehensible to the reader" (Comics and Sequential Art, 101)<fpage>101</fpage>
+                  <source>Comics and Sequential Art</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5161a1310">
+            <label>99</label>
+          
+            <p>
+               <mixed-citation id="d2076e5168" publication-type="journal">
+Eisner, Graphic Storytelling and Visual Narrative, 18.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>18</fpage>
+                  <source>Graphic Storytelling and Visual Narrative</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5190a1310">
+            <label>100</label>
+          
+            <p>
+               <mixed-citation id="d2076e5197" publication-type="journal">
+Eisner, Shop Talk, 149, 239<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>149</fpage>
+                  <source>Shop Talk</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5218" publication-type="journal">
+McCloud, Understanding
+Comics, 42-44<person-group>
+                     <string-name>
+                        <surname>McCloud</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>42</fpage>
+                  <source>Understanding Comics</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5243a1310">
+            <label>102</label>
+          
+            <p>
+               <mixed-citation id="d2076e5250" publication-type="journal">
+Eisner, Fagin the Jew, 4.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <source>Fagin the Jew</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5272a1310">
+            <label>103</label>
+          
+            <p>
+               <mixed-citation id="d2076e5279" publication-type="compound">
+Kafka's The
+Trial, "The Appeal," appears in Graphic Storytelling and Visual Narrative, 116-23</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5289a1310">
+            <label>104</label>
+          
+            <p>
+               <mixed-citation id="d2076e5296" publication-type="journal">
+Eisner, Fagin the Jew, 15.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <source>Fagin the Jew</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5319a1310">
+            <label>105</label>
+          
+            <p>
+               <mixed-citation id="d2076e5326" publication-type="journal">
+R. C. Harvey, "Fagin
+the Jew: A Literary Expedition of Daring and Complexity," Comics Journal, no. 261 (July 2004),
+125-30<person-group>
+                     <string-name>
+                        <surname>Harvey</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>261</issue>
+                  <fpage>125</fpage>
+                  <source>Comics Journal</source>
+                  <year>2004</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5361a1310">
+            <label>106</label>
+          
+            <p>
+               <mixed-citation id="d2076e5368" publication-type="journal">
+Eisner, Fagin the Jew, 16-17, 23<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Fagin the Jew</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5390a1310">
+            <label>107</label>
+          
+            <p>
+               <mixed-citation id="d2076e5397" publication-type="other">
+Ibid., 25-34</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5403" publication-type="other">
+Ibid., 38</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5410a1310">
+            <label>108</label>
+          
+            <p>
+               <mixed-citation id="d2076e5417" publication-type="other">
+Ibid., 45.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5424a1310">
+            <label>109</label>
+          
+            <p>
+               <mixed-citation id="d2076e5431" publication-type="other">
+Ibid., 108.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5438a1310">
+            <label>110</label>
+          
+            <p>
+               <mixed-citation id="d2076e5445" publication-type="other">
+Ibid., 112-14.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5453a1310">
+            <label>111</label>
+          
+            <p>
+               <mixed-citation id="d2076e5460" publication-type="other">
+Ibid., 124 (afterword).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5467a1310">
+            <label>112</label>
+          
+            <p>
+               <mixed-citation id="d2076e5474" publication-type="other">
+Harvey's comments in Ibid., 127-28</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5481a1310">
+            <label>113</label>
+          
+            <p>
+               <mixed-citation id="d2076e5488" publication-type="book">
+Eisner, The Plot: The Secret Story of the Protocols of the Elders of Zion (New York: W. W.
+Norton, 2006), 1.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>The Plot: The Secret Story of the Protocols of the Elders of Zion</source>
+                  <year>2006</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5517a1310">
+            <label>114</label>
+          
+            <p>
+               <mixed-citation id="d2076e5524" publication-type="other">
+Ibid., 3.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5531a1310">
+            <label>115</label>
+          
+            <p>
+               <mixed-citation id="d2076e5538" publication-type="other">
+Ibid., 94-95.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5545a1310">
+            <label>116</label>
+          
+            <p>
+               <mixed-citation id="d2076e5552" publication-type="other">
+Ibid., 107.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5560a1310">
+            <label>117</label>
+          
+            <p>
+               <mixed-citation id="d2076e5567" publication-type="other">
+Ibid., 112.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5574a1310">
+            <label>118</label>
+          
+            <p>
+               <mixed-citation id="d2076e5581" publication-type="other">
+Ibid., 121</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5587" publication-type="other">
+Ibid., 122-24</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2076e5593" publication-type="other">
+Ibid.,
+127-28</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5603a1310">
+            <label>119</label>
+          
+            <p>
+               <mixed-citation id="d2076e5610" publication-type="other">
+Eisner, Ibid., 113-19</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5617a1310">
+            <label>121</label>
+          
+            <p>
+               <mixed-citation id="d2076e5624" publication-type="journal">
+Tom Underhill, "Hail Hydra," Comics Journal, no. 267 (April-May 2005), 191-93,
+193<person-group>
+                     <string-name>
+                        <surname>Underhill</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>267</issue>
+                  <fpage>191</fpage>
+                  <source>Comics Journal</source>
+                  <year>2005</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5656a1310">
+            <label>122</label>
+          
+            <p>
+               <mixed-citation id="d2076e5663" publication-type="journal">
+Finkelshteyn, "A Graphic Coming of Age," 44.<person-group>
+                     <string-name>
+                        <surname>Finkelshteyn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>44</fpage>
+                  <source>A Graphic Coming of Age</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5685a1310">
+            <label>123</label>
+          
+            <p>
+               <mixed-citation id="d2076e5692" publication-type="journal">
+Eisner, The Plot, 17.<person-group>
+                     <string-name>
+                        <surname>Eisner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>17</fpage>
+                  <source>The Plot</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5715a1310">
+            <label>124</label>
+          
+            <p>
+               <mixed-citation id="d2076e5722" publication-type="other">
+Ibid., 79.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d2076e5729a1310">
+            <label>125</label>
+          
+            <p>
+               <mixed-citation id="d2076e5736" publication-type="other">
+Ibid., 83.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

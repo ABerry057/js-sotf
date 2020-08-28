@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">37</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i24273486</issue-id>
+         <article-id pub-id-type="jstor">24273521</article-id>
+         <title-group>
+            <article-title>Literary Canonization at Work: The Authority of Aggadic Midrash and the Evolution of Havdalah Poetry in the Genizah</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Moshe</given-names>
+                  <surname>Lavee</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2013</year>
+         </pub-date>
+         <fpage>285</fpage>
+         <lpage>313</lpage>
+      
+         <permissions>
+            <copyright-statement>© Association for Jewish Studies 2013</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/24273521"/>
+      
+      
+         <abstract>
+            <p>Applying a social interaction approach to the study of the reception of different literary genres, this article focuses on an unnoticed Judeo-Arabic Genizah fragment whose contents deal with the relative cultural value of midrash and piyyut in medieval Mediterranean society. The fragment describes a debate concerning the identity of Elijah and his connection to the zealous act of Phineas. The debate, which probably took place in the early thirteenth century in Fustat, occurred in reaction to a synagogue performance of Havdalah liturgical poetry. The arguments for and against the poems were based on aggadic traditions. A survey of relevant piyyutim reveals that this debated motif was indeed subject to variations and alterations. A similar development can be traced in the evolution of another Havdalah piyyut composed by Rabbi Yehudah Ha-Levi. The fluidity of the poetic texts likely reflects the same literary hierarchy presented in the events recorded in the Genizah fragment (and at the same time reinforced by them): a growing appreciation of the authority of aggadic midrash, alongside the perception of the Havdalah piyyut as creative performance, and not as an authoritative source of knowledge.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d4940203e123a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d4940203e130" publication-type="other">
+Miriam Frenkel, "Kanon ve-hevrah; ha-kanon ha-sifruti ke-keli le-gibush ha-'illit ha-hevratit
+be-hevrat ha-genizah" in Ha-kanon ha-samuy min ha- 'avin, eds. Menahm Ben-Sasson et al. (Jerusalem:
+Magnes Press, 2010), 88.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e143a1310">
+            <label>2</label>
+          
+          
+            <p>
+               <mixed-citation id="d4940203e152" publication-type="other">
+Goitein's pioneering contribution is summarized in: Shelomo Dov Goitein, Jewish Education
+in in Muslim Countries Based on Records from the Cairo Geniza (Jerusalem: Ben-Zvi Institute, 1962)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e161" publication-type="other">
+Mediterranean Society, vol. 2, The Community (Berkeley: University of California Press, 1971),
+171-271.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e171" publication-type="other">
+Goitein, Mediterranean Society, vol.5,
+The The Individual (Berkeley: University of California Press, 1988), 415—496.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e181a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d4940203e188" publication-type="other">
+Nehemia Allony, The Jewish Library in the Middle Ages: Book Lists
+from from the Cairo Genizah, eds. Miriam Frenkel, Haggai Ben-Shammai, with the participation of
+Moshe Sokolow (Jerusalem: Ben-Zvi Institute, 2006).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e201a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d4940203e208" publication-type="other">
+Ephraim E. Urbach, Sefer 'arugat ha-bosem (Jerusalem: Mekize Nirdamin, 1939), 4:155 and
+the introduction, 1:11.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e217" publication-type="other">
+Avraham Grossman, Hakhmei Zarfat ha-rishonim (Jerusalem: Magnes Press,
+1995), 507-38</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e226" publication-type="other">
+Elizabeth Hollender, Piyyut Commentaries in Medieval Ashkenaz (Berlin: Walter de
+Greuyter, 2008), 89-107.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e237a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d4940203e244" publication-type="other">
+ENA 3051.12-13, ENA 3209.13, ENA 3240.28.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e250" publication-type="other">
+Aharon Shweka, Yaacov
+Choueka, Lior Wolf, and Nachum Dershowitz, "Ve-karev' otam 'ehad 'el 'ehad: zihuy ktivot yad
+ve-zerufve-zeruf kit'ey genizah be-'emza'ut mahshev," Ginze Kedem 7 (2011): 171-207.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e262" publication-type="other">
+David Sklare, "She'elot be-mikra: hibburim kedumim be-'aravit-yehudit" in Davar davor 'al'
+ofanav,ofanav, eds. Moshe Bar-Asher, Simon A. Hopkins, Sarah Stroumsa and Bruno Cheisa (Jerusalem:
+Ben-Zvi, 2007), 205-231.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e275" publication-type="other">
+Sklare (ENA 3240.28).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e282a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d4940203e289" publication-type="other">
+Bereshit Rabbah, Va-yeze Ya'akov, par. 71:9, to Genesis 30:11 (ed. Albeck, 3:833-835).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e296a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d4940203e303" publication-type="other">
+Numbered Aleph 5000 in Israel Davidson, 'Ozar ha-shirah ve-hapivyut (New York: Jewish
+Theological Seminary, 1924-1933), 1:230.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e313a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d4940203e320" publication-type="other">
+Aleph 819 in Davidson, 'Ozar, 1:40.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e327a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d4940203e334" publication-type="other">
+Ed. Albeck, 3:833^835.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e341a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d4940203e348" publication-type="other">
+Moshe Halbertal, People of the Book:
+Canon,Canon, Meaning, and Authority (Cambridge, MA: Harvard University Press, 1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e357" publication-type="other">
+Margalit Finkel-
+berg and Guy Stroumsa, Homer, the Bible and Beyond: Litera/y and Religious Canons in the Ancient
+World (Leiden: Brill, 2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e369" publication-type="other">
+Ha-kanon ha-samuv min ha- 'ayin, ed. M. Ben-Sasson et al.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e377a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d4940203e384" publication-type="other">
+Shlomoh ben Mordekhai, Mizbah ha-zahav (Basel, 1604), 12a, quoted by Halbertal, The
+People People of the Book, 99.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e394a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d4940203e401" publication-type="other">
+Amram ben Sheshna Gaon, quoted by Robert Brody, The Geonim of Babylonia and the
+Shaping of Medieval Jewish Culture (New Haven: Yale University Press, 1998), 167.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e411a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d4940203e418" publication-type="other">
+ENA 637.4b line 6.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e425a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d4940203e432" publication-type="other">
+Quoted in Sefer ha-'eshkol, eds. Shalom and Hanoeh Albeck (Jerusalem: Vagshal,
+19842), 60a.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e442a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d4940203e449" publication-type="other">
+Joshua Blau, A Dictionary of Medieval Judaeo-Arabic Texts (Jerusalem: The Academy
+of the Hebrew Language, 2006), 14.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e459a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d4940203e466" publication-type="other">
+Blau, Dictionary, 96.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e474a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d4940203e481" publication-type="other">
+Donna
+Bennet, "Conflicted Vision: A Consideration of Canon and Genre in English-Canadian Literature,"
+in Canadian Cations: Essays in Literary Values, ed. Robert Lecker (Toronto: University of Toronto
+Press, 1991), 131-149.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e496" publication-type="other">
+Moshe Lavee,
+"'Sefer haggadot yihiye le-fi ha-seder ha-'aharon: ma'amad ha-midrash ve-ha-'aggadah be-reshimot
+ha-sefarim shel Rav Yosef Rosh Ha-Seder," in Ha-kanon ha-samuy min ha- 'ayin, ed. Ben Sasson
+et al., 38-87.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e512a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d4940203e519" publication-type="other">
+Urbach, 'Arugat ha-bosem 4:155 and introduction; Grossman, Hakhmei Zarfal, 507-38</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e525" publication-type="other">
+Hollender, Piyyut Commentaries, 89-107.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e532a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d4940203e539" publication-type="other">
+Louis Ginz-
+burg, The Legends of the Jews, vol. 4 (Philadelphia: Jewish Publication Society, 1954), 195-97 and vol.
+6:316-317 n. 3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e551" publication-type="other">
+Theodor Albecks's comments to Bereshit Rabbah 71:9, to Genesis 30:11 (ed. Albeck,
+3:833-835)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e560" publication-type="other">
+Seder 'Eliyahu Rabbah (ed. Friedman): 2-11</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e567" publication-type="other">
+Louis H. Feldman, "The Portrayal of Phi-
+nehas by Philo, Pseudo-Philo, and Josephus," JQR 92 (2002): 315-45</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e576" publication-type="other">
+Robert Hayward,
+"Phinehas-The Same as Elijah: The Origins of a Rabbinic Tradition," Journal of Jewish Studies 29
+(1978): 22-34.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e589a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d4940203e596" publication-type="other">
+Hayward, "Phinehas-The Same as Elijah," Feldraan, "The Portrayal of Phineas"; Alex-
+ander Zeron, "The Martyrdom of Elijah-Phineas," Journal of Biblical Literature 98 (1979): 99-100</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e605" publication-type="other">
+John C. Poirier, "The End Time Return of Elijah and Moses at Qumran," Dead Sea Discoveries 10
+(2003): 221-42.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e614" publication-type="other">
+"The account of Phineas in Pseudo-Philo (Bib.
+Ant. 48:1-2) is filled with allusions to Elijah's ministry, making this our oldest source containing
+the Phineas-Elijah complex" (233).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e627a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d4940203e634" publication-type="other">
+YalkutShim 'oni, Phineas 771 (ed. Heiman): 512</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e640" publication-type="other">
+Midrash Ha-gadol (ed. Rabinovitch):
+450-451</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e649" publication-type="other">
+Midrash Aggadah, Numbers 25:13, (ed. Buber, 2:148).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e656" publication-type="other">
+Va-yikra Rabbah, Zav, par. 7:1, to Leviticus 6:2,
+Synopsys Schleiter-Milikowsky, http://www.biu.ac.il/JS/midrash/VR/outf11es/OUT07-01.htm.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e666a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d4940203e673" publication-type="other">
+Midrash Tehillim as found in T-S Or. 1080 13.2 published by Solomon Aaron Wertheimer,
+BateyBateyBatey Midrashot (Jerusalem: Mosad ha-Rav Kook, 1989), 1:296.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e684a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d4940203e691" publication-type="other">
+B. Bava Mezi'a 114a-b; Midrash Mishley, 9:2, (ed. Wisotzky, 68).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e697" publication-type="other">
+Israel
+Ta-Shma, "Zaddikim' eynam metma'in—'al halakha ve-aggadah," Jewish Studies, an International
+Journal Journal 1 (2002): 45-53.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e710a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d4940203e717" publication-type="other">
+Bereshit Rabbah, 71:9 (ed. Albeck, 3:833-835)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e723" publication-type="other">
+Tanhuma, Ki tissa 13</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e729" publication-type="other">
+Seder 'Eliyahu
+Rabbah 18 (ed. Friedman, 96-97)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e739" publication-type="other">
+T. Bava Mezi'a 114a-b, s.v. "Mahu she-yesadru</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e745" publication-type="other">
+Seder
+'Eliyahu Zuta 15 (ed. Friedman, 199)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e754" publication-type="other">
+quoted in Yalkut Shim'oni Nizavim 940</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e760" publication-type="other">
+Friedman
+in his comments to Seder 'Eliyahu Zuta, 200 n. 8 and his introduction, 6, and by Buber in his comments
+to Lekah Tov on Genesis 30:11, 76a n. 18.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e773a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d4940203e780" publication-type="other">
+Lekah Toy (ed. Buber) 76a; Sekhel Tov, Genesis 30:11 (ed. Buber, 138).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e786" publication-type="other">
+Midrash Aggadah, Genesis 30:11 (ed. Buber, 78)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e792" publication-type="other">
+Aggadat Bereshit 83:1 (ed. Buber 1903,
+162).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e802" publication-type="other">
+Benjamin: Midrash Aggadah, Deuteronomy 12:13, (ed. Buber, 190).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e809a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d4940203e816" publication-type="other">
+Targum Yonatan, Exodus 6:18, Numbers 25:12.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e822" publication-type="other">
+Robert Hayward, "Phinehas."</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e829a1310">
+            <label>29</label>
+          
+            <p>
+               <mixed-citation id="d4940203e836" publication-type="other">
+Israel M. Ta-Shma, Keneset mehkarim, vol. 3, Italy and Byzantium (Jerusalem: Bialik
+Institute, 2005), 188-201.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e845" publication-type="other">
+Israel Ta-Shma, "Le-toldot ha-kesharim ha-tarbutiyim beyn yehudey Bizant-
+yon ve-'Ashkenaz" in Me 'ah She 'arim, eds. Ezra Fleischer, Gerald Blidstein, Carmi Horowitz and
+Bernard Septimus (Jerusalem: Magnes Press, 2001), 61-70.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e857" publication-type="other">
+Hananael Mack, Sodo shel
+Rabbi Moshe Ha-darshan (Jerusalem: Bialik Institute, 2010), 37-9, 90.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e867a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d4940203e874" publication-type="other">
+Mahzor Vitry 209 (ed. S. Horowitz), 186</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e880" publication-type="other">
+MahzorMahzor Vitry 209 (ed. A Goldschmidt, vol. 2), 312.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e886" publication-type="other">
+Ernst Daniel Goldschmidt, Mahzor Vitry, in
+Encyclopedia Encyclopedia Judaica, vol. 13, ed. F. Skolnik, (Detroit: Macmillan Reference USA, 2007), 366-7.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e897a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d4940203e904" publication-type="other">
+Bezalel Ashkenazi, Shitah Mekubezet BM 114b (Jerusalem: 1952): 458.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e910" publication-type="other">
+Ephraim
+Urbach, Ba'alei ha-tosafot, vol. 1 (Jerusalem: Bialik Institute, 1980), 292.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e920a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d4940203e927" publication-type="other">
+Eran Viezel,
+Ha-perushHa-perush ha-meyuhas le-Rashi 'al divrei ha-yamim (Jerusalem: Bialik Institute, 2010), 317 (3)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e936" publication-type="other">
+Benjamin Ze'ev Benedict, Merkaz ha-torah be-Provans (Jerusalem: Mosad Ha-Rav Kook,
+1985), 162-165</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e945" publication-type="other">
+Israel Ta-Shma, Ha-sifrut ha-parshanit la-Talmud, vol. 2, 1200-1400 (Jerusalem;
+Magnes Press, 2004): 65, nn. 94-96.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e955" publication-type="other">
+Ezra Chwat (published as Makhon Ofek), "Perush R.
+Izhak Cracassone le-hilkhot ha-Rif," Yeshurun 6 (1999): 3^12, esp.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e964" publication-type="other">
+Ezra Chwat, "Studies in the Alfasi Gloss-Supplements," (PhD diss., Bar-Ilan University,
+1995), 60-65.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e973" publication-type="other">
+M. Bloy, Shitat
+ha-kadmonimha-kadmonim 'aI masekhet bava batra (New York: Simcha Graphic Association, 1980), 5-6.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e983a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d4940203e990" publication-type="other">
+T-S 16.133,T-SNS 184.68</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e996" publication-type="other">
+T-S 10J 28.7, T-S 13J 2.19</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1002" publication-type="other">
+Yevr.-Arab. I 3032</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1009" publication-type="other">
+MS Oxford 115, 198-202</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1016a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1023" publication-type="other">
+R. Shmu'el b. Me'ir, the Tosafot, and in Shma'aiah's commentary for piyyut quoted by
+Avraham Grossman, Hakhmei Zarfat ha-rishonim, 355-356.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1033a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1040" publication-type="other">
+Yosef Braslavi, "Kit'ei genizah
+'al hakhamim mi-Zarfat ve-'ashkenaz be-'Erez Yisra'el u-ve-mizrayim," 'Erez-Yisra 'el 4 (1956): 156-
+60</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1052" publication-type="other">
+Elhanan Reiner, '"Aliyah ve-'aliyah la-regel le-'Erez Yisra'el 1099-1517," (PhD Diss., The
+Hebrew University, 1988), 50-69</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1061" publication-type="other">
+Ephraim Kanarfogel, "The Aliyah of 'Three Hundred Rabbis' in
+1211: 1211: Tosafist Attitudes Toward Settling in the Land of Israel," JQR 76 (1985): 191-215</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1071" publication-type="other">
+Alexandra
+Cuffel, "Call and Response: European Jewish Emigration to Egypt and Palestine in the Middle
+Ages Ages,,'JQR 90 (1999): 61-101</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1083" publication-type="other">
+Israel Ta-Shma, Keneset Mehkarim, vol. 4 (Jerusalem: Bialik Institute,
+2010), ch. 5, esp. 45^49.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1093a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1100" publication-type="other">
+Numbered Aleph 2076 in Israel Davidson, 'Ozar ha-shirah ve-hapiyyut (New York: Jewish
+Theological Seminary, 1924-1933), 1:97.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1111a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1118" publication-type="other">
+Saul Lieberman called it "Tikkun moza'ei shabbat" in his Catalog of the Elkan Nathan Adler
+collection, ENA 3006.16.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1128a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1135" publication-type="other">
+Ezra Fleischer, '"Al siddur kadum ke-minhag' Erez Yisra'el," in Me 'ah She'arim, 39.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1142a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1149" publication-type="other">
+Ezra Fleischer, "Shiv'atot havdalah 'Erez Yisra'eliyot," Tarbiz 36
+(1967): 342-365.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1158" publication-type="other">
+T-S NS 271.6</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1164" publication-type="other">
+Fleischer's discus-
+sion in Ezra Fleischer, Eretz-lsrael Prayer and Prayer Rituals (Jerusalem: Magnes Press, 1988), 80-85</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1174" publication-type="other">
+Ezra Fleischer, "Ket'aim mi-kovzey tefillah," Kobez 'aI Yad 13, no. 23 (1996): 101 n. 34.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1180" publication-type="other">
+Siddur Rav Sa'adiah Gaon (eds. Davidson, Assaf, Joel), 123.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1186" publication-type="other">
+T-S NS
+271.60.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1196a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1203" publication-type="other">
+T-S 8H.15 (in a siddur(?)), T-S
+NS 229.15-16, T-S NS 159.69, T-S NS 235.192.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1213a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1220" publication-type="other">
+T-S NS 235.136 f.5.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1227a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1234" publication-type="other">
+Shulamit Elizur, '"Ibudey piyyutim ba-genizah ha-Kahirit,"
+Pe'amim 78 (1999), 100-127.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1245a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1252" publication-type="other">
+Ezra Fleischer, Shirat ha-kodesh ha- 'ivrit bi-yemey ha-beynayim (Jerusalem: Keter, 1975),
+49-51.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1262a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1269" publication-type="other">
+Abram Spiro, "The Ascension of Phinehas," Publications of the American Academy for
+Jewish Jewish Research 22 (1953): 103 n. 27.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1279a1310">
+            <label>46</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1286" publication-type="other">
+Ibn Ezra, Numbers 25:12</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1292" publication-type="other">
+R. Levi B. Gershom, Judges 5:35, 6:21</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1298" publication-type="other">
+R. David Kimhi, Judges
+20:28, 1 Kings 17:1, 19:4, Malakhi 2:4, 1 Chronicles 9:23.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1308a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1315" publication-type="other">
+Binyamin Bar-Tikva, "'Eliyahu ha-navi be-piyutey havdalah," in Le- 'ot zikaron: mehkarim
+ba-shirahba-shirah ha- 'ivrit u-ve-moreshet Yisra 'el, ed. Ephraim Hazan and Joseph Yahalom (Ramat-Gan: Bar
+Ilan University Press, 2006), 239-80.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1328a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1335" publication-type="other">
+Shulamit Elizur, "Ha-piyyutim be-mahzor 'Aram Zova," in Mevo 'ot le-mahzor 'Aram
+ZovaZova (Jerusalem: Yad Ha-Rav Nissim, 2008), 46 n. 38.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1345a1310">
+            <label>49</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1352" publication-type="other">
+T-S NS
+131.29</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1363a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1370" publication-type="other">
+Dov Yarden, Shirey ha-kodesh le-Rabbi Shelomo 'ibn Gabirol, vol. 2 (Jer-
+usalem: American Academy for Jewish Research, 1972), 512-513.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1380a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1387" publication-type="other">
+Bar-Tikva, "'Eliyahu ha-navi," 249. For the redactions of Ha-Levi's Diwan see: Joseph
+Yahalom, Yehudah Halevy: Poetry and Pilgrimage (Jerusalem: Magnes Press, 2009), 180-205.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1397a1310">
+            <label>53</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1404" publication-type="other">
+Numbered Aleph 3121 in: Davidson, 'Ozar, 1:146-147.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1411a1310">
+            <label>54</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1418" publication-type="other">
+T-S 8H.15, T-S NS 235.195, T-S NS 159.116, T-S NS 271.20, T-S NS 145.46, T-S NS
+235.192, T-S NS 201.6, London BL Or. 5557, 46, Paris AIU IV.374, Mosseri 11.244 f.2, Mosseri V
+138.1.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1431a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1438" publication-type="other">
+T-S NS 145.46.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1445a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1452" publication-type="other">
+Davidson, 'Ozar, vol. 1, 146-147.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1458" publication-type="other">
+Mahzor 'Aram Zova see Elizur, "Ha-piyyutim,"
+46 n. 38.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1469a1310">
+            <label>57</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1476" publication-type="other">
+Va-yikra Rabbah,
+Va-yikra 1:3 to Leviticus 1:1 (ed. Margulies), 10.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1486a1310">
+            <label>58</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1493" publication-type="other">
+T-S NS 271.20. Paris AIU IV.374 skips the letter tel.tel.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1500a1310">
+            <label>60</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1507" publication-type="other">
+T-S 8H 15.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1514a1310">
+            <label>61</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1521" publication-type="other">
+T-S NS 145.46.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1528a1310">
+            <label>62</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1535" publication-type="other">
+T-S NS 235.195a.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1541" publication-type="other">
+T-S NS 115.186.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1547" publication-type="other">
+Zvi Meir Rabinoviz, Mahzor
+piyuteypiyutey Yanai la-torah ve-la-mo 'adim, vol. 2 (Jerusalem: Bialik Insititute, 1985), 355 line 6.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1557" publication-type="other">
+Shekalim,
+line 30, in the Ma'agarim website on the basis of Oxford MS heb. d.41 ff. 29-56.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1567a1310">
+            <label>63</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1574" publication-type="other">
+T-S 8H18 f. 7.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1582a1310">
+            <label>64</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1589" publication-type="other">
+T-S NS 235.192.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1596a1310">
+            <label>65</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1603" publication-type="other">
+T-S NS 274.4f.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1609" publication-type="other">
+Va-yikra Rabbah 12:1 (ed. Margulies,
+140-141)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1619a1310">
+            <label>66</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1626" publication-type="other">
+T-S 10 H3.5, T-S NS 131.40, T-S NS 141.10, T-S NS 145.8a, T-S NS 159.69, T-S NS
+229.15, T-S NS 235.192, T-S NS 271.6, T-S NS 272.8, T-S Misc. 29.8a, T-S AS 116.387, Geneva
+119, Strasbourg 4078.146.5, Oxford heb. e.44.126.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1639a1310">
+            <label>68</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1646" publication-type="other">
+Strasbourg 4078.146.5, T-S 10 H3.5, T-S NS 235.192, T-S NS 141.10.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1653a1310">
+            <label>69</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1660" publication-type="other">
+fragment: Strasbourg 4078.146.5.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1667a1310">
+            <label>70</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1674" publication-type="other">
+Mahzor Vitry 203 (ed. S. Horowitz), 184.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4940203e1680" publication-type="other">
+Mahzor Vitry (ed. A Goldschmidt), 2:307.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1688a1310">
+            <label>71</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1695" publication-type="other">
+Two in the Mosseri collection (V. 252,11.244) and one partial (צ-ת) fragment in Cambridge
+(Or. 1080 15.39).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4940203e1705a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d4940203e1712" publication-type="other">
+Sa'adiah's poem אשנבי חרך שקפת presented in the
+Ma'agarim website on the basis of Genizah Fragment Oxford heb. c.20 f. 7-8.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

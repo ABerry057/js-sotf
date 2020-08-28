@@ -1,0 +1,66 @@
+<article dtd-version="1.0" article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">1486930</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Michael</given-names>
+                  <surname>Taub</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1998</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">23</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i265542</issue-id>
+         <fpage>318</fpage>
+         <lpage>321</lpage>
+         <page-range>318-321</page-range>
+         <product>
+            <source>Classic Yiddish Fiction</source>
+            <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+               <given-names>Ken</given-names>
+               <surname>Frieden</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1998 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/1486930"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

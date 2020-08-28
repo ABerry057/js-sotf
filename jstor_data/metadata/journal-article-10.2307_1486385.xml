@@ -1,0 +1,72 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486385</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Dwayne E.</given-names>
+                  <surname>Carpenter</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1987</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">12</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i265522</issue-id>
+         <fpage>290</fpage>
+         <lpage>292</lpage>
+         <page-range>290-292</page-range>
+         <product>
+            <source> "Romance al divín mártir, Judá Creyente [don Lope de Vera y Alarcón] martirizado en Valladolid por la Inquisición." A Critical Edition from Original Manuscript Sources </source>
+            <string-name> 
+               <given-names>Antonio Enríquez</given-names>
+               <surname>Gómez</surname> 
+            </string-name>
+            <string-name>
+               <given-names>Timothy</given-names>
+               <surname>Oelman</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1988 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486385"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03640094</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14754541</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">27</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i387648</issue-id>
+         <article-id pub-id-type="doi">10.2307/4131606</article-id>
+      
+         <title-group>
+            <article-title>"Designation Is Significant": An Analysis of the Conceptual Sugya in bSan 47b-48b</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Leib</given-names>
+                  <surname>Moscovitz</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2003</year>
+         </pub-date>
+         <fpage>227</fpage>
+         <lpage>252</lpage>
+         <page-range>227-252</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2004 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4131606"/>
+      
+      
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1925e114a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d1925e121" publication-type="book">
+Leib Moscovitz, Talmudic Reasoning: From Casuistics to Conceptualization
+(Tübingen: Mohr Siebeck, 2002), especially pp. 292-342<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>292</fpage>
+                  <source>Talmudic Reasoning: From Casuistics to Conceptualization</source>
+                  <year>2002</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e150a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d1925e157" publication-type="book">
+Binyamin De-Vries, Toledot Ha-Halakhah Ha-Talmudit, 2d ed. (Tel-
+Aviv: Avraham Zioni, 1966), pp. 152-153<person-group>
+                     <string-name>
+                        <surname>De-Vries</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>152</fpage>
+                  <source>Toledot Ha-Halakhah Ha-Talmudit</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e188" publication-type="book">
+Ephraim E. Urbach, Ha-Halakhah: Toledoteha
+Ve-Hitpattehutah (Givatayim: Yad La-Talmud, 1984), p. 128<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>128</fpage>
+                  <source>Ha-Halakhah: Toledoteha Ve-Hitpattehutah</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e216" publication-type="book">
+Louis Jacobs, The Talmudic Argu-
+ment (Cambridge: Cambridge University Press, 1984), pp. 122-132<person-group>
+                     <string-name>
+                        <surname>Jacobs</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>122</fpage>
+                  <source>The Talmudic Argument</source>
+                  <year>1984</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e245a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d1925e252" publication-type="other">
+Milha-
+mot Hashem on bSuk 9a (4b in the printed editions of Alfasi)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e261" publication-type="book">
+R. Abraham b. Azriel, ʿAruggat Ha-
+Bosem, vol. 2, ed. Ephraim E. Urbach (Jerusalem: Mekize Nirdamim, 1947), pp. 45-46, 49-50<person-group>
+                     <string-name>
+                        <surname>Azriel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>45</fpage>
+                  <volume>2</volume>
+                  <source>ʿAruggat HaBosem</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e292" publication-type="book">
+R. David Friedmann, Sheʾelat David (Pieterkow, 1913)<person-group>
+                     <string-name>
+                        <surname>Friedmann</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Sheʾelat David</source>
+                  <year>1913</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e314" publication-type="book">
+Orah Hayyim #3, s.v. ʿod sham and ve-attah
+ʾassig (pp. 3b and 4a)<person-group>
+                     <string-name>
+                        <surname>Hayyim</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3b</fpage>
+                  <source>s.v. ʿod sham and ve-attah ʾassig</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e339a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d1925e346" publication-type="book">
+Penei Moshe and Qorban
+Ha-ʾEdah ad loc. and R. Abraham Isaiah Karelitz, Hazon Ish, Orah Hayyim, Moʿed (Jerusalem, 1967),
+Hilkhot Tefillin 6:12, s.v. u-va-qodesh, p. 15a<person-group>
+                     <string-name>
+                        <surname>Moshe</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>12</fpage>
+                  <volume>6</volume>
+                  <source>Hazon Ish, Orah Hayyim, Moʿed</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e382a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d1925e389" publication-type="book">
+Zeʾev Wolf Rabinovitz, Shaʾarei Torat Eres Yisraʾel [Jerusalem, 1940], p. 250<person-group>
+                     <string-name>
+                        <surname>Rabinovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>250</fpage>
+                  <source>Shaʾarei Torat Eres Yisraʾel</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e413" publication-type="other">
+R. Jehiel
+Michel Epstein, Mikhal Ha-Mayim ad loc, s.v. amar R. Yoseh, although our reading is confirmed by
+the citations in Nahmanides [above, n. 4]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e425" publication-type="journal">
+R. Abraham b. Azriel, ʿAruggat Ha-Bosem, 2:46, 49<person-group>
+                     <string-name>
+                        <surname>Azriel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>46</fpage>
+                  <volume>2</volume>
+                  <source>ʿAruggat Ha-Bosem</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e450" publication-type="other">
+above, line 55 in the editio princeps</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e456" publication-type="journal">
+Leib Moscovitz, "Sugyot Maqbilot U-Masoret Nosaḥ Ha-Yerushalmi," Tarbis
+60 (1991): 543-544<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>543</fpage>
+                  <volume>60</volume>
+                  <source>Tarbis</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e488a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d1925e495" publication-type="book">
+Saul Lieberman, Tosefta Ki-Fshutah (New York: 1955-1988), 5:1154,
+1158<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1154</fpage>
+                  <volume>5</volume>
+                  <source>Tosefta Ki-Fshutah</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e527a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d1925e534" publication-type="other">
+Qorban Ha-ʿEdah ad loc, s.v. R. Hananyah</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e540" publication-type="journal">
+Leib
+Moscovitz, "Lishanei Aharinei Bi-Yerushalmi," Sidra 8 [1992]: p. 64 n. 8<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>64</fpage>
+                  <volume>8</volume>
+                  <source>Sidra</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e571" publication-type="other">
+above, n. 8</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e578a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d1925e585" publication-type="journal">
+Leib Moscovitz, "The Formation and Character of the Jerusalem Talmud,"
+in The Cambridge History of Judaism, vol. 4 (forthcoming)<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>4</volume>
+                  <source>The Cambridge History of Judaism</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e610a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d1925e617" publication-type="journal">
+Yaakov Sussmann, "Ve-Shuv Li-Yerushalmi Neziqin," Mehqerei Talmud 1 (1990): 91,
+n. 156<person-group>
+                     <string-name>
+                        <surname>Sussmann</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>156</issue>
+                  <fpage>91</fpage>
+                  <volume>1</volume>
+                  <source>Mehqerei Talmud</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e651" publication-type="journal">
+Leib Moscovitz, "Sugyot Mesutatot Ba-Yerushalmi," Teʿudah 10 (1996): 43<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>43</fpage>
+                  <volume>10</volume>
+                  <source>Teʿudah</source>
+                  <year>1996</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e680a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d1925e687" publication-type="journal">
+Leib Moscovitz, '"Od ʿA1 Ha-Baraitot Ha-Haserot Bi-Yerushalmi," PAAJR
+61 (1996): 4-8<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <volume>61</volume>
+                  <source>PAAJR</source>
+                  <year>1996</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e718" publication-type="book">
+Jeffrey L. Rubenstein, Talmudic Stories: Narrative Art, Com-
+position, and Culture (Baltimore and London: Johns Hopkins, 1999), pp. 264-265 and p. 369, n. 65<person-group>
+                     <string-name>
+                        <surname>Rubenstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>264</fpage>
+                  <source>Talmudic Stories: Narrative Art, Composition, and Culture</source>
+                  <year>1999</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e748a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d1925e755" publication-type="other">
+Sections 2-3 have a parallel in tMen 9.21 (ed. Zuckermandel, p. 526)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e761" publication-type="other">
+below, n. 17</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e768a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d1925e775" publication-type="journal">
+Lieberman, Tosefta Ki-Fshutah, 5:1153-1154<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1153</fpage>
+                  <volume>5</volume>
+                  <source>Tosefta Ki-Fshutah</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e800a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d1925e807" publication-type="other">
+The parallel in tMen 9.21 (ed. Zuckermandel, p. 526) reads kelei sharet ("ministering ves-
+sels")</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e816" publication-type="journal">
+Lieberman, Tosefta Ki-Fshutah, 5:1158<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1158</fpage>
+                  <volume>5</volume>
+                  <source>Tosefta Ki-Fshutah</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e841a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d1925e848" publication-type="journal">
+Lieberman, Tosefta Ki-Fshutah, 5:1160<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1160</fpage>
+                  <volume>5</volume>
+                  <source>Tosefta Ki-Fshutah</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e873a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d1925e880" publication-type="other">
+above, n. 11</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e887a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d1925e894" publication-type="journal">
+Moscovitz, Talmudic Reasoning, p. 324, n. 128.<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>324</fpage>
+                  <source>Talmudic Reasoning</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e917a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d1925e924" publication-type="book">
+Sheʿiltot de-Rav Ahai, Shelah, § 143 (ed. Mirsky, 5:38)<person-group>
+                     <string-name>
+                        <surname>Mirsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>38</fpage>
+                  <volume>5</volume>
+                  <source>Sheʿiltot de-Rav Ahai, Shelah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e948" publication-type="book">
+Ḥuqqat, § 150 (ibid.
+5:72)<person-group>
+                     <string-name>
+                        <surname>Mirsky</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>72</fpage>
+                  <volume>5</volume>
+                  <source>Ḥuqqat</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e976" publication-type="other">
+Note R. Naf-
+tali Zvi Yehudah Berlin's discussion ad loc</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e986" publication-type="other">
+Yad Ramah on our sugya, p. 46d, s.v. ʾittemar</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e993a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d1925e1000" publication-type="other">
+ySot 9.6, 24a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1006" publication-type="other">
+bQid 57a</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1013a1310">
+            <label>28</label>
+          
+          
+            <p>
+               <mixed-citation id="d1925e1022" publication-type="other">
+below, n. 30</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1028" publication-type="book">
+Yaakov
+Nahum Ha-Levi Epstein, Mavo Le-Nosaḥ Ha-Mishnah, 3d ed. (Jerusalem: Magnes; Tel-Aviv: Devir,
+2000), p. 549<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>3</edition>
+                  <fpage>549</fpage>
+                  <source>Mavo Le-Nosaḥ Ha-Mishnah</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1063" publication-type="other">
+R. Sam-
+son of Sens' commentary ad loc.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1072" publication-type="other">
+Melekhet Shelomoh. (Melekhet Shelomoh might just have
+followed R. Samson of Sens, although it is noteworthy that the former cites no other evidence of the
+reading netanattu le- in the Mishnah.)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1084" publication-type="book">
+R. Gershon Hanokh Leiner, Sidrei Ṭaharot, Massekhet Kelim
+(1873; reprint ed. with additions, New York: 1961), 255a<person-group>
+                     <string-name>
+                        <surname>Leiner</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>255a</fpage>
+                  <source>Sidrei Ṭaharot, Massekhet Kelim</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1112" publication-type="other">
+ibid., s.v. ʿal ha-
+sefer and 255b-256a, s.v. kippah</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1121" publication-type="other">
+Epstein, ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1127" publication-type="other">
+tKel BB 6.10 (ed. Zuckermandel p. 596)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1134" publication-type="other">
+Epstein, ibid</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1141a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d1925e1148" publication-type="other">
+above, n. 28</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1155a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d1925e1162" publication-type="journal">
+Sacha
+Stern, "Attribution and Authorship in the Babylonian Talmud," JJS 45 (1994): 37-38<person-group>
+                     <string-name>
+                        <surname>Stern</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>37</fpage>
+                  <volume>45</volume>
+                  <source>JJS</source>
+                  <year>1994</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1193" publication-type="journal">
+Yaakov (Jeffrey)
+Rubenstein, "R. Peloni Le-Taʿameh," Sidra 10 (1994): 111, n. 1<person-group>
+                     <string-name>
+                        <surname>Rubenstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>111</fpage>
+                  <volume>10</volume>
+                  <source>Sidra</source>
+                  <year>1994</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1224" publication-type="book">
+Sham-
+ma Yehudah Friedman, Talmud 'Arukh, Pereq Ha-Sokher 'Et Ha-'Ummanin: Ha-Nosaḥ (NewYork and
+Jerusalem: The Jewish Theological Seminary, 1997), p. 437<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>437</fpage>
+                  <source>Talmud 'Arukh, Pereq Ha-Sokher 'Et Ha-'Ummanin: Ha-Nosaḥ</source>
+                  <year>1997</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1256" publication-type="book">
+Leib
+Moscovitz, "Double Readings in the Yerushalmi," in The Talmud Yerushalmi and Graeco-Roman Cul-
+ture, vol. 1, ed. Peter Schäfer (Tübingen: Mohr Siebeck, 1998), p. 106<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Double Readings in the Yerushalmi</comment>
+                  <fpage>106</fpage>
+                  <volume>1</volume>
+                  <source>The Talmud Yerushalmi and Graeco-Roman Culture</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1294a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d1925e1301" publication-type="other">
+tʿEr 2.15 (ed. Lieberman, p. 97, according to MS Vi-
+enna; the strange reading of MSS Erfurt and London in this passage, gibbu, might reflect some sort of
+attempt to deal with this linguistic anomaly)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1315a1310">
+            <label>33</label>
+          
+            <p>
+               <mixed-citation id="d1925e1322" publication-type="other">
+below, 15</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1329a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d1925e1336" publication-type="journal">
+Moscovitz, Talmudic Reasoning, pp. 1-3<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <source>Talmudic Reasoning</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1358a1310">
+            <label>36</label>
+          
+          
+            <p>
+               <mixed-citation id="d1925e1367" publication-type="journal">
+Jacobs, The Talmudic Argument, pp. 122-123<person-group>
+                     <string-name>
+                        <surname>Jacobs</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>122</fpage>
+                  <source>The Talmudic Argument</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1388" publication-type="book">
+Shamma Yehudah
+Friedman, "Pereq Ha-Ishah Rabbah Ba-Bavli," in Mehqarim U-Meqorot, vol. 1, éd. H. Z. Dimitrovsky
+[New York: Jewish Theological Seminary], pp. 301-303<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Pereq Ha-Ishah Rabbah Ba-Bavli</comment>
+                  <fpage>301</fpage>
+                  <volume>1</volume>
+                  <source>Mehqarim U-Meqorot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1423" publication-type="other">
+bBer 26b and parallels and bShab
+50a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1432" publication-type="other">
+bBer 23b, bMeg 26b, and bMen 34b</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1439a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d1925e1446" publication-type="other">
+sugya, (1) and (15)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1453a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d1925e1460" publication-type="journal">
+Friedman, "Pereq Ha-Ishah
+Rabbah," pp. 283-300<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>283</fpage>
+                  <source>Pereq Ha-Ishah Rabbah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1484" publication-type="book">
+David Halivni, Meqorot U-
+Masorot, Shabbat (Jerusalem: The Jewish Theological Seminary, 1982), pp. 5-27<person-group>
+                     <string-name>
+                        <surname>Halivni</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>5</fpage>
+                  <source>Meqorot UMasorot, Shabbat</source>
+                  <year>1982</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1512" publication-type="book">
+idem, Meqorot
+U-Masorot, Bava Qamma (Jerusalem: Magnes, 1993), pp. 7-21<person-group>
+                     <string-name>
+                        <surname>Halivni</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <source>Meqorot U-Masorot, Bava Qamma</source>
+                  <year>1993</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1541" publication-type="journal">
+Sussmann, "Ve-Shuv," pp. 108-109,
+n. 204<person-group>
+                     <string-name>
+                        <surname>Sussmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>108</fpage>
+                  <source>Ve-Shuv</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1565" publication-type="journal">
+Friedman, Talmud ʿArukh, pp. 16-18, 22-23<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Talmud ʿArukh</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1586" publication-type="book">
+Robert Brody, The Geonim of Babylonia and the Shaping
+of Medieval Jewish Culture (New Haven: Yale University Press, 1998), p. 6, n. 12<person-group>
+                     <string-name>
+                        <surname>Brody</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>6</fpage>
+                  <source>The Geonim of Babylonia and the Shaping of Medieval Jewish Culture</source>
+                  <year>1998</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1615a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d1925e1622" publication-type="other">
+Tosafot ad loc., s.v.
+mai taʿama</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1633a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d1925e1640" publication-type="other">
+mQid 2.9 and especially mHul 5.3</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1646" publication-type="other">
+n. 42</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1653a1310">
+            <label>42</label>
+          
+            <p>
+               <mixed-citation id="d1925e1660" publication-type="other">
+ySot 9.6, 24a and bQid 57a and parallels</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1667a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d1925e1674" publication-type="other">
+ySot 9.6, 24a</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1681a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d1925e1688" publication-type="book">
+Abraham
+Bornstein, Sheʿelot U-Teshuvot Avnei Nezer, Orah Hayyim (reprint ed., New York, 1954), §493:15,
+pp. 124a-b<person-group>
+                     <string-name>
+                        <surname>Bornstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>124a</fpage>
+                  <source>Sheʿelot U-Teshuvot Avnei Nezer, Orah Hayyim</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1720a1310">
+            <label>46</label>
+          
+            <p>
+               <mixed-citation id="d1925e1727" publication-type="other">
+bʿAZ 44b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1733" publication-type="other">
+tʿAZ 5.10 (ed. Zuckermandel, p. 469)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1739" publication-type="other">
+tTem 5.3 (ed. Zuckerman-
+del, p. 555)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1749a1310">
+            <label>47</label>
+          
+            <p>
+               <mixed-citation id="d1925e1756" publication-type="other">
+above, n. 26</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1764a1310">
+            <label>48</label>
+          
+            <p>
+               <mixed-citation id="d1925e1771" publication-type="other">
+mZev 8.1, mTem 6.1, and very frequently</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1777" publication-type="other">
+tcAZ 5.9 [ed. Zuck-
+ermandel, p. 469]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1786" publication-type="book">
+Saul Lieberman, Hellenism in Jewish Palestine (New York: Jewish Theolog-
+ical Seminary of America, 1962), pp. 147-152<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>147</fpage>
+                  <source>Hellenism in Jewish Palestine</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1815a1310">
+            <label>50</label>
+          
+            <p>
+               <mixed-citation id="d1925e1822" publication-type="book">
+R. Jacob Ettlinger, ʿArukh La-Ner (Warsaw, 1873), 30b<person-group>
+                     <string-name>
+                        <surname>Ettlinger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>30b</fpage>
+                  <source>ʿArukh La-Ner</source>
+                  <year>1873</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1847a1310">
+            <label>51</label>
+          
+            <p>
+               <mixed-citation id="d1925e1854" publication-type="book">
+R. Akiba Eiger, Teshuvot Rabbi Alaba
+Eiger (Warsaw, 1834)<person-group>
+                     <string-name>
+                        <surname>Eiger</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Teshuvot Rabbi Alaba Eiger</source>
+                  <year>1834</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1878" publication-type="other">
+Mahadurah Qamma, #3, s.v. ve-nireh (3b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1884" publication-type="book">
+R. Shlomo Ganzfried, Qeset Ha-Sofer, Lishkat Ha-Sofer (reprint ed., Benei Braq, 1961), 48c<person-group>
+                     <string-name>
+                        <surname>Ganzfried</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>48c</fpage>
+                  <source>Qeset Ha-Sofer, Lishkat Ha-Sofer</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1909a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d1925e1916" publication-type="other">
+David Rosenthal, "Mishnah 'Avodah Zarah: Mahadurah Biqqortit Be-seruf Mavo,"
+Ph.D. thesis (Jerusalem, 1981), pp. 175-178</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1925" publication-type="book">
+Christine Elizabeth Hayes, Between the Babylonian
+and Palestinian Talmuds (New York and Oxford: Oxford University Press, 1997), pp. 35-42<person-group>
+                     <string-name>
+                        <surname>Hayes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>35</fpage>
+                  <source>Between the Babylonian and Palestinian Talmuds</source>
+                  <year>1997</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e1954a1310">
+            <label>53</label>
+          
+            <p>
+               <mixed-citation id="d1925e1961" publication-type="other">
+yʿAZ 4.4, 43d and
+b'AZ 52a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1970" publication-type="other">
+R. Jose in yʿAZ 4.4, 43d</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e1976" publication-type="journal">
+Ephraim E. Urbach, "Hilkhot 'Avo-
+dah Zarah Ve-Ha-Meṣi'ut Ha-Archeologit Ve-Ha-Historit Ba-Meʾah Ha-Sheniyyah U-Va-Me'ah Ha-
+Shelishit," Ereṣ Israel 5 [1958]: 193 and n. 39<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>193</fpage>
+                  <volume>5</volume>
+                  <source>Ereṣ Israel</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2011" publication-type="book">
+idem, Me-ʿOlamam Shel Hakhamim [Jerusalem:
+Magnes, 1988], pp. 137-138 and n. 39<person-group>
+                     <string-name>
+                        <surname>Urbach</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>137</fpage>
+                  <source>Me-ʿOlamam Shel Hakhamim</source>
+                  <year>1988</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2039" publication-type="journal">
+Gerald Blidstein, "Nullification of Idolatry in Rabbinic
+Law," PAAJR 41-42 [1973-1974]: 15-16 and n. 44<person-group>
+                     <string-name>
+                        <surname>Blidstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>15</fpage>
+                  <volume>41</volume>
+                  <source>PAAJR</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2071a1310">
+            <label>54</label>
+          
+            <p>
+               <mixed-citation id="d1925e2078" publication-type="journal">
+Friedman, Talmud ʿArukh,
+p. 419, s.v. baʿal gemara sheni<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>419</fpage>
+                  <source>Talmud ʿArukh</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2104a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d1925e2111" publication-type="other">
+Rabbenu Hananel ad loc.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2118a1310">
+            <label>57</label>
+          
+            <p>
+               <mixed-citation id="d1925e2125" publication-type="other">
+bʿAZ 19b and 52b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2131" publication-type="book">
+Moshe Goldstein, ed., Hiddushei Ha-Ritba, ʿAvodah Zarah (Jerusalem: Mossad Har-
+av Kook, 1978), cols. 220-221, n. 249<person-group>
+                     <string-name>
+                        <surname>Goldstein</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Hiddushei Ha-Ritba, ʿAvodah Zarah</source>
+                  <year>1978</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2155" publication-type="book">
+R. Abraham ben David, Perush ʿAl
+Massekhet ʿAvodah Zarah, ed. Abraham Sofer (New York, 1960), p. 114<person-group>
+                     <string-name>
+                        <surname>David</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>114</fpage>
+                  <source>Perush ʿAl Massekhet ʿAvodah Zarah</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2184" publication-type="other">
+n. 47, ibid</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2191a1310">
+            <label>58</label>
+          
+            <p>
+               <mixed-citation id="d1925e2198" publication-type="other">
+yʿAZ 3.9, 43b and parallels</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2205a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d1925e2212" publication-type="journal">
+Rosenthal, "Mishnah 'Avodah Zarah" (text), p. 48<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>48</fpage>
+                  <source>Mishnah 'Avodah Zarah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2233" publication-type="journal">
+Meiri, ʿAvodah Zarah, p. 169 and n. 11<person-group>
+                     <string-name>
+                        <surname>Meiri</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>169</fpage>
+                  <source>ʿAvodah Zarah</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2255a1310">
+            <label>60</label>
+          
+            <p>
+               <mixed-citation id="d1925e2262" publication-type="other">
+Tosafot on bʿAZ 47b, s.v. bayii</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2269a1310">
+            <label>61</label>
+          
+            <p>
+               <mixed-citation id="d1925e2276" publication-type="other">
+Marʾeh Ha-Panim ad loc., s.v. ha-mattikh</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2284a1310">
+            <label>62</label>
+          
+            <p>
+               <mixed-citation id="d1925e2291" publication-type="other">
+R. Eleazar cited in yʿAZ 3.9,
+43b</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2301a1310">
+            <label>63</label>
+          
+            <p>
+               <mixed-citation id="d1925e2308" publication-type="book">
+Berur Halakhah, in Talmud Bavliʿlm Halakhah Beru-
+rah... Massekhet Sanhedrin (Jerusalem: Makhon Halakhah Berurah U-Venir Halakhah, 1991), p. 147,
+§2 (the list there is incomplete)<fpage>147</fpage>
+                  <source>Berur Halakhah, in Talmud Bavliʿlm Halakhah Berurah... Massekhet Sanhedrin</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2330" publication-type="other">
+ibid., §3</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2337a1310">
+            <label>64</label>
+          
+            <p>
+               <mixed-citation id="d1925e2344" publication-type="book">
+Steven Fine, This Holy Place:
+On the Sanctity of the Synagogue During the Greco-Roman Period (Notre Dame: University of Notre
+Dame Press, 1997)<person-group>
+                     <string-name>
+                        <surname>Fine</surname>
+                     </string-name>
+                  </person-group>
+                  <source>This Holy Place: On the Sanctity of the Synagogue During the Greco-Roman Period</source>
+                  <year>1997</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2372" publication-type="book">
+Lee I. Levine, The Ancient Synagogue:
+The First Thousand Years (New Haven London: Yale University Press, 2000), pp. 185-188, 220-
+221<person-group>
+                     <string-name>
+                        <surname>Levine</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>185</fpage>
+                  <source>The Ancient Synagogue: The First Thousand Years</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2403" publication-type="book">
+Seth Schwartz, Imperialism and Jewish Society, 200
+B.C.E. to 650 C.E. [Princeton and Oxford: Princeton University Press, 2001], pp. 236-237<person-group>
+                     <string-name>
+                        <surname>Schwartz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>236</fpage>
+                  <source>Imperialism and Jewish Society, 200 B.C.E. to 650 C.E.</source>
+                  <year>2001</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2432a1310">
+            <label>65</label>
+          
+            <p>
+               <mixed-citation id="d1925e2439" publication-type="other">
+Yad Ramah, s.v. ta shema amar, 47c</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2445" publication-type="other">
+Yad
+Ramah, ibid.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2454" publication-type="other">
+Berur Halakhah, p. 148</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2461a1310">
+            <label>66</label>
+          
+            <p>
+               <mixed-citation id="d1925e2468" publication-type="other">
+above, n. 4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2474" publication-type="book">
+R. Naftali Zvi Yehudah Berlin, Haʿameq Sheʾalah (reprint ed.; Jerusalem: Mossad Har-
+av Kook, 1967), Ḥuqqat, §133, nn. 7 (3:116a-b) and 9 (118b)<person-group>
+                     <string-name>
+                        <surname>Naftali</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>116a</fpage>
+                  <volume>3</volume>
+                  <source>Haʿameq Sheʾalah</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2505" publication-type="other">
+ibid., Vayyaqhel, §67, n. 28
+(1:444b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2515" publication-type="other">
+Shelah §126, n. 8 (3:52b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2521" publication-type="journal">
+R. Shlomo Ganzfried, Qeset
+Ha-Sofer, 48c<person-group>
+                     <string-name>
+                        <surname>Ganzfried</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>48c</fpage>
+                  <source>Qeset Ha-Sofer</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2546a1310">
+            <label>67</label>
+          
+            <p>
+               <mixed-citation id="d1925e2553" publication-type="other">
+mKel 20.4 and 26.5-9</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2561a1310">
+            <label>69</label>
+          
+            <p>
+               <mixed-citation id="d1925e2568" publication-type="other">
+mMS 4.7, mYom 4.3, mBQ 8.1, and frequently</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2574" publication-type="other">
+mShevi 6.10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2580" publication-type="other">
+mShevi 8.2 and mMS 2.1</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2587a1310">
+            <label>70</label>
+          
+            <p>
+               <mixed-citation id="d1925e2594" publication-type="other">
+n. 32</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2601a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d1925e2608" publication-type="other">
+Hiddushei Ha-Ran on bSan 48a, s.v. motar (although he suggests this interpretation only
+with regard to motar ha-metim, not motar ha-met)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2617" publication-type="book">
+R. Abraham Isaiah Karelitz, Hazon Ish, Tohorot
+(Benei Beraq, 1974), Ohalot 22:31, s.v. sanhedrin, pp. 94-95<person-group>
+                     <string-name>
+                        <surname>Karelitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>31</fpage>
+                  <volume>22</volume>
+                  <source>Hazon Ish, Tohorot</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2649a1310">
+            <label>73</label>
+          
+            <p>
+               <mixed-citation id="d1925e2656" publication-type="other">
+Hiddushei Ha-Ran, ibid.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2663a1310">
+            <label>74</label>
+          
+            <p>
+               <mixed-citation id="d1925e2670" publication-type="journal">
+Epstein, Mavo, pp. 832, 857, 952<person-group>
+                     <string-name>
+                        <surname>Epstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>832</fpage>
+                  <source>Mavo</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2692a1310">
+            <label>75</label>
+          
+            <p>
+               <mixed-citation id="d1925e2699" publication-type="other">
+text at
+n. 82</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2710a1310">
+            <label>76</label>
+          
+            <p>
+               <mixed-citation id="d1925e2717" publication-type="other">
+our comments on (14a-b)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2724a1310">
+            <label>78</label>
+          
+            <p>
+               <mixed-citation id="d1925e2731" publication-type="book">
+Osar Ha-Geʾ onim, Shabbat, ed. B. M. Lewin (Jerusalem, 1930),
+p. 77 (Responsa), §250<person-group>
+                     <string-name>
+                        <surname>Lewin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>77</fpage>
+                  <source>Osar Ha-Geʾ onim, Shabbat</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2759" publication-type="other">
+ibid., p. 75</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2765" publication-type="other">
+nn. 4 and 5 ad loc</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2772a1310">
+            <label>79</label>
+          
+            <p>
+               <mixed-citation id="d1925e2779" publication-type="other">
+Tosafot on bSan 48b, s.v. af ʿal pi</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2785" publication-type="other">
+bQid 52a and
+parallels</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2795a1310">
+            <label>80</label>
+          
+            <p>
+               <mixed-citation id="d1925e2802" publication-type="other">
+Rabbenu Tarn's explanation is found in Yad Ramah ad loc. (47c), s.v.
+ta shema ʾamar</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2812a1310">
+            <label>81</label>
+          
+            <p>
+               <mixed-citation id="d1925e2819" publication-type="other">
+Yad Ramah, ibid</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2825" publication-type="journal">
+R. Abraham b. Azriel, ʿAruggat Ha-Bosem, 2:45<person-group>
+                     <string-name>
+                        <surname>Azriel</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>45</fpage>
+                  <volume>2</volume>
+                  <source>ʿAruggat Ha-Bosem</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2850a1310">
+            <label>82</label>
+          
+            <p>
+               <mixed-citation id="d1925e2857" publication-type="other">
+Milhamot Hashem on bSuk 9a, 4b in the printed editions of Alfasi.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2865a1310">
+            <label>84</label>
+          
+            <p>
+               <mixed-citation id="d1925e2872" publication-type="book">
+R. Abraham b. David, Katuv Sham (Jerusalem: Makhon Le-Heqer Kitvei Yad ʿA1
+Shem Maran Ha-Hatam Sofer Zatzal, 1990), on bSuk 9a, pp. 76-77<person-group>
+                     <string-name>
+                        <surname>David</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>76</fpage>
+                  <source>Katuv Sham</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2901a1310">
+            <label>85</label>
+          
+            <p>
+               <mixed-citation id="d1925e2908" publication-type="journal">
+Friedmann, Sheʾelat David, s.v. u-ve-voenu, p. 3b<person-group>
+                     <string-name>
+                        <surname>Friedmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3b</fpage>
+                  <source>Sheʾelat David, s.v. u-ve-voenu</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2929" publication-type="book">
+R. Chaim Soloveitchik, Hid-
+dushei Rabbenu Chaim Ha-Levi ʿAl Ha-Rambam (Brisk, 1936)<person-group>
+                     <string-name>
+                        <surname>Soloveitchik</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Hiddushei Rabbenu Chaim Ha-Levi ʿAl Ha-Rambam</source>
+                  <year>1936</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2953" publication-type="other">
+Hilkhot Tefillin 1:11, 3d, s.v. ve-hin-
+neh</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e2963" publication-type="other">
+text at n. 83</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2970a1310">
+            <label>86</label>
+          
+            <p>
+               <mixed-citation id="d1925e2977" publication-type="journal">
+Friedmann, Sheelat David, s.v. ʿodsham, p. 3b<person-group>
+                     <string-name>
+                        <surname>Friedmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3b</fpage>
+                  <source>Sheelat David, s.v. ʿodsham</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e2999a1310">
+            <label>87</label>
+          
+            <p>
+               <mixed-citation id="d1925e3006" publication-type="journal">
+David Rosenthal, "Pirqa De-Abbaye," Tarbis41 (1971): p. 100 n. 13<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>100</fpage>
+                  <volume>41</volume>
+                  <source>Tarbis</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3034" publication-type="journal">
+Fried-
+man, "Pereq Ha-Ishah Rabbah," pp. 327-329<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>327</fpage>
+                  <source>Pereq Ha-Ishah Rabbah</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3058" publication-type="book">
+David Halivni, Midrash, Mishnah, and Gemara (Cam-
+bridge, Mass., and London: Harvard University Press, 1986), pp. 87-89<person-group>
+                     <string-name>
+                        <surname>Halivni</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>87</fpage>
+                  <source>Midrash, Mishnah, and Gemara</source>
+                  <year>1986</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3087" publication-type="book">
+Shamma Yehudah Friedman,
+Talmud ʿArukh, Pereq Ha-Sokher Et Ha-Ummanin: Ha-Perush (Jerusalem: The Jewish Theological
+Seminary, 1990), p. 2, nn. 4, 6<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <source>Talmud ʿArukh, Pereq Ha-Sokher Et Ha-Ummanin: Ha-Perush</source>
+                  <year>1990</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3118" publication-type="journal">
+Sussmann, "Ve-Shuv," p. 99 n. 184<person-group>
+                     <string-name>
+                        <surname>Sussmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>99</fpage>
+                  <source>Ve-Shuv</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3139" publication-type="journal">
+Abraham Goldberg, "Hitpattehut Ha-Sugya Ba-
+Talmud Ha-Bavli U-Meqoroteha," Tarbis 32 (1963): 144<person-group>
+                     <string-name>
+                        <surname>Goldberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>144</fpage>
+                  <volume>32</volume>
+                  <source>Tarbis</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3171a1310">
+            <label>88</label>
+          
+            <p>
+               <mixed-citation id="d1925e3178" publication-type="other">
+R. Meir Ha-Levi Abulafia, Yad Ramah on bSan 48a, s.v.
+u-mefareqinan</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3187" publication-type="other">
+ibid. 47a, s.v. ta shema qever</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3194a1310">
+            <label>89</label>
+          
+            <p>
+               <mixed-citation id="d1925e3201" publication-type="other">
+tMeg 2.13 (ed. Lieberman, p. 351), line 41</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3207" publication-type="other">
+Tosefta Ki-Fshutah ad loc., p. 1154</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3215a1310">
+            <label>90</label>
+          
+            <p>
+               <mixed-citation id="d1925e3222" publication-type="journal">
+Rubenstein, Talmudic Stories,
+pp. 261-262<person-group>
+                     <string-name>
+                        <surname>Rubenstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>261</fpage>
+                  <source>Talmudic Stories</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3246" publication-type="book">
+Shamma Friedman, "Uncovering Literary Dependencies in the Talmudic Corpus,"
+in The Synoptic Problem in Rabbinic Literature, ed. Shaye J. D. Cohen (Providence, RI: Brown Uni-
+versity Press, 2000): 43 and n. 34<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Uncovering Literary Dependencies in the Talmudic Corpus</comment>
+                  <fpage>43</fpage>
+                  <source>The Synoptic Problem in Rabbinic Literature</source>
+                  <year>2000</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3281a1310">
+            <label>93</label>
+          
+            <p>
+               <mixed-citation id="d1925e3288" publication-type="other">
+n. 97</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3294" publication-type="other">
+tMeg 2.15 (ed. Lieberman, p. 352)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3300" publication-type="other">
+text at n. 17</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3307a1310">
+            <label>95</label>
+          
+            <p>
+               <mixed-citation id="d1925e3314" publication-type="journal">
+Jacobs, The Talmudic Argument, p. 132<person-group>
+                     <string-name>
+                        <surname>Jacobs</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>132</fpage>
+                  <source>The Talmudic Argument</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3336a1310">
+            <label>96</label>
+          
+            <p>
+               <mixed-citation id="d1925e3343" publication-type="other">
+text at n. 101</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3350a1310">
+            <label>97</label>
+          
+            <p>
+               <mixed-citation id="d1925e3357" publication-type="journal">
+Leib Moscovitz, '"Od ʿAl Ha-Baraitot,"
+p. 4 n. 19<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <source>Od ʿAl Ha-Baraitot</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3381" publication-type="journal">
+Rubenstein, Talmudic Stories, pp. 264-265 and p. 369 n. 65<person-group>
+                     <string-name>
+                        <surname>Rubenstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>264</fpage>
+                  <source>Talmudic Stories</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3403a1310">
+            <label>99</label>
+          
+            <p>
+               <mixed-citation id="d1925e3410" publication-type="journal">
+Moscovitz, Talmudic Reasoning, p. 234 n. 23<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>234</fpage>
+                  <source>Talmudic Reasoning</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3433a1310">
+            <label>100</label>
+          
+            <p>
+               <mixed-citation id="d1925e3440" publication-type="journal">
+David Rosenthal, '"Lo Itparesh Lan Mai Baʿei Hakha,' " Bar-Ilan 18-19 (1981): 159-
+160 n. 48<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>159</fpage>
+                  <volume>18</volume>
+                  <source>Bar-Ilan</source>
+                  <year>1981</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3471" publication-type="journal">
+Friedman, Talmud ʿArukh, pp. 9-16<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <source>Talmud ʿArukh</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3492" publication-type="journal">
+Rubenstein, Talmudic
+Stories, pp. 25-26<person-group>
+                     <string-name>
+                        <surname>Rubenstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>25</fpage>
+                  <source>Talmudic Stories</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3517" publication-type="other">
+accompanying notes (pp. 310-312)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3523" publication-type="journal">
+David
+Rosenthal, "Masorot Eres-Yisreʾeliyyot Ve-Darkan Le-Bavel," Cathedra 92 (1999): 7-48<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <volume>92</volume>
+                  <source>Cathedra</source>
+                  <year>1999</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3555a1310">
+            <label>101</label>
+          
+            <p>
+               <mixed-citation id="d1925e3562" publication-type="journal">
+Rosenthal, "Lo Itparesh," pp. 158-160<person-group>
+                     <string-name>
+                        <surname>Rosenthal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>158</fpage>
+                  <source>Lo Itparesh</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3583" publication-type="journal">
+Menahem Kister, "Masorot Aggadah Ve-
+Gilguleihen," Tarbis 60 (1991): 220<person-group>
+                     <string-name>
+                        <surname>Kister</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>220</fpage>
+                  <volume>60</volume>
+                  <source>Tarbis</source>
+                  <year>1991</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3615a1310">
+            <label>102</label>
+          
+            <p>
+               <mixed-citation id="d1925e3622" publication-type="other">
+the end of section II</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3629a1310">
+            <label>105</label>
+          
+            <p>
+               <mixed-citation id="d1925e3636" publication-type="other">
+Leib Moscovitz, "Kulho Sevira Leho," Sefer Ha-Zikkaron Le-Tirzah Lif-
+schitz (forthcoming), nn. 38-41</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3646a1310">
+            <label>106</label>
+          
+            <p>
+               <mixed-citation id="d1925e3653" publication-type="journal">
+Friedmann, Sheʾelat David, s.v. ʿod sham, p. 3b<person-group>
+                     <string-name>
+                        <surname>Friedmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3b</fpage>
+                  <source>Sheʾelat David, s.v. ʿod sham</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3675a1310">
+            <label>107</label>
+          
+            <p>
+               <mixed-citation id="d1925e3682" publication-type="other">
+tMeg 2.16 (text at n. 17ff.)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3688" publication-type="other">
+yYom 3.6, 40c, line 62</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3694" publication-type="other">
+ibid., lines 60-61</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3701" publication-type="other">
+n. 10</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3709a1310">
+            <label>108</label>
+          
+            <p>
+               <mixed-citation id="d1925e3716" publication-type="book">
+Louis Ginzberg, Ginzei Schechter, 2 (New York: Jewish Theological Seminary, 1929),
+p. 531<person-group>
+                     <string-name>
+                        <surname>Ginzberg</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>531</fpage>
+                  <volume>2</volume>
+                  <source>Ginzei Schechter</source>
+                  <year>1929</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3748a1310">
+            <label>109</label>
+          
+            <p>
+               <mixed-citation id="d1925e3755" publication-type="other">
+text at n. 23</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3762a1310">
+            <label>111</label>
+          
+            <p>
+               <mixed-citation id="d1925e3769" publication-type="other">
+above, n. 54</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3776a1310">
+            <label>114</label>
+          
+            <p>
+               <mixed-citation id="d1925e3783" publication-type="book">
+R. David Friedmann (Sheʾelat David, s.v. ʿod sham, p. 3b; q.v.)<person-group>
+                     <string-name>
+                        <surname>Friedmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>3b</fpage>
+                  <source>Sheʾelat David, s.v. ʿod sham</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3805a1310">
+            <label>115</label>
+          
+            <p>
+               <mixed-citation id="d1925e3812" publication-type="journal">
+Friedman, "Pereq Ha-Ishah Rabbah," pp. 316-319<person-group>
+                     <string-name>
+                        <surname>Friedman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>316</fpage>
+                  <source>Pereq Ha-Ishah Rabbah</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3834a1310">
+            <label>117</label>
+          
+            <p>
+               <mixed-citation id="d1925e3841" publication-type="other">
+mMaʿas 4.2 and mBes 1.3, 4.7</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3849a1310">
+            <label>118</label>
+          
+            <p>
+               <mixed-citation id="d1925e3856" publication-type="journal">
+R. Meir Simhah Ha-Kohen of Dvinsk, Or Sameah (Riga, 1926), HilkhotTefill-
+in 4:9, s.v. hinneh talei<person-group>
+                     <string-name>
+                        <surname>Dvinsk</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>9</fpage>
+                  <volume>4</volume>
+                  <source>Or Sameah</source>
+                  <year>1926</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3888a1310">
+            <label>119</label>
+          
+            <p>
+               <mixed-citation id="d1925e3895" publication-type="other">
+ʿeglah ʿarufah in ySot 9.6, 24a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3901" publication-type="journal">
+Moscovitz, Talmudic Reasoning, pp. 37-38<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>37</fpage>
+                  <source>Talmudic Reasoning</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1925e3922" publication-type="journal">
+Lieberman, Tosefta Kit-
+Fshutah, 5: 1158<person-group>
+                     <string-name>
+                        <surname>Lieberman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1158</fpage>
+                  <volume>5</volume>
+                  <source>Tosefta KitFshutah</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1925e3951a1310">
+            <label>120</label>
+          
+            <p>
+               <mixed-citation id="d1925e3958" publication-type="journal">
+Moscovitz, Talmudic Reasoning, p. 292 and n. 1<person-group>
+                     <string-name>
+                        <surname>Moscovitz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>292</fpage>
+                  <source>Talmudic Reasoning</source>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

@@ -1,0 +1,388 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">ajsreview</journal-id>
+         <journal-id journal-id-type="jstor">j100683</journal-id>
+         <journal-title-group>
+            <journal-title>AJS Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association for Jewish Studies</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03640094</issn>
+         <issn pub-type="epub">14754541</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1486305</article-id>
+         <title-group>
+            <article-title>Rabbinic Notes to Graeco-Coptica</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Daniel</given-names>
+                  <surname>Sperber</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1979</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"/>
+         <issue-id>i265511</issue-id>
+         <fpage>205</fpage>
+         <lpage>209</lpage>
+         <page-range>205-209</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1979 Association for Jewish Studies</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1486305"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1e121" publication-type="book">
+Alexander Souter, A Glossary of Later Latin (Oxford, 1949) col. 134a, s.v.
+"exceptor."<person-group>
+                     <string-name>
+                        <surname>Souter</surname>
+                     </string-name>
+                  </person-group>
+                  <source>A Glossary of Later Latin</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e145" publication-type="book">
+Adolf Berger, Encyclopedic Dictonary of Roman Law (Transactions of the
+American Philosophical Society, n.s. 43 [1953]): 461, s.v. "exceptor."<person-group>
+                     <string-name>
+                        <surname>Berger</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>461</fpage>
+                  <volume>43</volume>
+                  <source>Encyclopedic Dictonary of Roman Law (Transactions of the American Philosophical Society</source>
+                  <year>1953</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e177a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1e186" publication-type="book">
+Israel Böhmer, Kezad Maarichin, oder Beitrdge zur Chalddisch-Rabbinischen Lexico-
+graphie (Berlin, 1885), p. 4<person-group>
+                     <string-name>
+                        <surname>Böhmer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>4</fpage>
+                  <source>Beitrdge zur Chalddisch-Rabbinischen Lexicographie</source>
+                  <year>1885</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e214" publication-type="book">
+Jacob Levy, Neuhebrdisches und Chalddisches
+Worterbuch aber die Talmud und Midraschim, 4 vols. (Leipzig, 1883), 3: 582a<person-group>
+                     <string-name>
+                        <surname>Levy</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>582</fpage>
+                  <volume>3</volume>
+                  <source>Neuhebrdisches und Chalddisches Worterbuch aber die Talmud und Midraschim</source>
+                  <year>1883</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e246" publication-type="book">
+Aruch Com-
+pletum, ed. Alexander Kohut, 8 vols. (Vienna, 1878-92<person-group>
+                     <string-name>
+                        <surname>Kohut</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Aruch Completum</source>
+                  <year>1892</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e270" publication-type="other">
+reprint ed., New York, 1955), 6: 120b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e276" publication-type="book">
+Marcus Jastrow, A Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the Mid-
+rashic Literature (New York, 1903), col. 1020a<person-group>
+                     <string-name>
+                        <surname>Jastrow</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">A Dictionary of the Targumim</comment>
+                  <source>Midrashic Literature</source>
+                  <year>1903</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e304" publication-type="book">
+Samuel Krauss, Griechische und Lateinische
+Lehnwérter im Talmud, Midrasch und Talmud (Berlin, 1899; reprint ed., Hildesheim, 1964) 2:
+410b<person-group>
+                     <string-name>
+                        <surname>Krauss</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Griechische und Lateinische Lehnwérter im Talmud</comment>
+                  <fpage>410</fpage>
+                  <volume>2</volume>
+                  <source>Midrasch und Talmud</source>
+                  <year>1899</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e341" publication-type="book">
+Nehemiah Briill, Jahrbuch für Jiidische Geschichte und Literatur 1 (1874): 178<person-group>
+                     <string-name>
+                        <surname>Briill</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>178</fpage>
+                  <volume>1</volume>
+                  <source>Jahrbuch für Jiidische Geschichte und Literatur</source>
+                  <year>1874</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e369" publication-type="book">
+Michael Sachs, Beitraege zur Sprach- und Alterthumsforschung (Berlin, 1852),
+1: 170<person-group>
+                     <string-name>
+                        <surname>Sachs</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>170</fpage>
+                  <volume>1</volume>
+                  <source>Beitraege zur Sprach- und Alterthumsforschung</source>
+                  <year>1852</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e401" publication-type="book">
+Julius Fürst, Glossarium
+Graeco-Hebraeum (Strassburg, 1890) pp. 159-60 and 197<person-group>
+                     <string-name>
+                        <surname>Fürst</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>159</fpage>
+                  <source>Glossarium Graeco-Hebraeum</source>
+                  <year>1890</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e429" publication-type="book">
+Yosef ben Benyamin Dov Schénhak, Sefer
+ha-mashbir ('o he-'Arukh he-badash) (Warsaw, 1868), 2: 38b<person-group>
+                     <string-name>
+                        <surname>Benyamin</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>38</fpage>
+                  <volume>2</volume>
+                  <source>Sefer ha-mashbir ('o he-'Arukh he-badash)</source>
+                  <year>1868</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e461a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1e468" publication-type="book">
+James Drescher, Le museon 89 (1976): 320.<person-group>
+                     <string-name>
+                        <surname>Drescher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>320</fpage>
+                  <volume>89</volume>
+                  <source>Le museon</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e497a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1e504" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e512a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1e519" publication-type="journal">
+Saul Lieberman, "Roman Legal Institutions in Early Rabbinics and in the Acta Mar-
+tyrum," Jewish Quarterly Review, n.s. 35 (1944): 13.<object-id pub-id-type="doi">10.2307/1452222</object-id>
+                  <fpage>13</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e535a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1e542" publication-type="other">
+Parallels: B.T. Shabbat 119a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e548" publication-type="other">
+Pesiqta Rabbati, chap. 23, ed. Meir Friedmann (Vienna,
+1880), fol. 119b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e557" publication-type="other">
+Yalqut Shime'oni 1: 16</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e564a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1e571" publication-type="other">
+MS Munich 97 of Genesis Rabba</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e577" publication-type="other">
+'Arukh, ed. Constantinople, 1512; Venice, 1525, s.v</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e584a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1e591" publication-type="book">
+Samuel Krauss, Griechische und Lateinische Lehnwörter im Talmud, Midrasch und
+Targum (Berlin, 1899) (=LW) 2: 209ab, s.v. por 1<person-group>
+                     <string-name>
+                        <surname>Krauss</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>209</fpage>
+                  <volume>2</volume>
+                  <source>Griechische und Lateinische Lehnwörter im Talmud</source>
+                  <year>1899</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e623a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1e630" publication-type="other">
+Samuel Krauss, LW 2: 278a, s.v. Dolvo.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e637a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1e644" publication-type="other">
+above, n. 1</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e652a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1e659" publication-type="book">
+Drescher, Le musdon 82 (1969): 98.<person-group>
+                     <string-name>
+                        <surname>Drescher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>98</fpage>
+                  <volume>82</volume>
+                  <source>Le musdon</source>
+                  <year>1969</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e688a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d1e695" publication-type="other">
+Ibid., p. 99.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e702a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1e709" publication-type="other">
+Ibid.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e716a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d1e723" publication-type="book">
+"Greek and Latin Words in Rabbinic Literature" in Bar-llan (Annual of Bar-
+Ilan University-Studies in Judaica and the Humanities) 14-15 (1977): 34-38<comment content-type="section">Greek and Latin Words in Rabbinic Literature</comment>
+                  <fpage>34</fpage>
+                  <volume>14</volume>
+                  <source>Annual of BarIlan University-Studies in Judaica and the Humanities</source>
+                  <year>1977</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e748" publication-type="book">
+"Melilot 2," Sinai 79 (1976): 55-59<comment content-type="section">Melilot 2</comment>
+                  <fpage>55</fpage>
+                  <volume>79</volume>
+                  <source>Sinai</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e770" publication-type="book">
+"IJiqrei millim ve-girsa'ot," Leshonenu
+40 (1976): 58-61<comment content-type="section">IJiqrei millim ve-girsa'ot</comment>
+                  <fpage>58</fpage>
+                  <volume>40</volume>
+                  <source>Leshonenu</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e796a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1e803" publication-type="journal">
+Drescher, Le Musion 89 (1976): 100.<person-group>
+                     <string-name>
+                        <surname>Drescher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>100</fpage>
+                  <volume>89</volume>
+                  <source>Le Musion</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>
