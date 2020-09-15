@@ -34,7 +34,7 @@ This repository contains the code, description of workflows, and selected data f
 
 Our original plan was to "plug and play" with the scripts that Andrew Goldstone used for his [topic modelling of the *PMLA*](https://agoldst.github.io/dfr-browser/demo/).  This project is based on the [JSTOR Data for Research service](https://www.jstor.org/dfr/) (DfR).  It turns out that since the development of that set of scripts, DfR has changed the way in which they deliver their data, so we found, modified, and created several scripts (all found in this repository) that work with DfR data as it is currently (May, 2020) delivered.
 
-We requested the full data for the full run of *AJS Review*.  This required filling out a form and then agreeing to certain licensing restrictions for the data (e.g., we cannot redistribute it).  Once we agreed, we were sent a link to download a zipped file.  When extracted, the file unpacks into five folders: metadata; ngram1; ngram2; ngram3; and ocr.  The metadata folder contains xml files; the others are text files.  The names of all the files are, fortunately, identical other than their extension or ending (e.g., journal-article-10.2307.1486231.xml; journal-article-10.2307.1486231.ngram1.txt; journal-article-10.2307.1486231.txt).  All the files that share a particular id are a single research article, book review, or something else (called "miscellaneous," e.g., front matter) - the metadata xml files helpfully indicates which of these three types it is.  
+We requested the full data for the full run of *AJS Review*.  This required filling out a form and then agreeing to certain licensing restrictions for the data (e.g., we cannot redistribute it).  Once we agreed, we were sent a link to download a zipped file.  When extracted, the file unpacks into five folders: metadata; ngram1; ngram2; ngram3; and ocr.  The metadata folder contains XML files; the others are text files.  The names of all the files are, fortunately, identical other than their extension or ending (e.g., journal-article-10.2307.1486231.xml; journal-article-10.2307.1486231.ngram1.txt; journal-article-10.2307.1486231.txt).  All the files that share a particular id are a single research article, book review, or something else (called "miscellaneous," e.g., front matter) - the metadata xml files helpfully indicates which of these three types it is.  
 
 Ngram files consist of a list of words and the number of times that each word appears in the file, sorted by frequency and, within frequency, alphabetically.
 
@@ -66,17 +66,17 @@ The purpose of this analysis is to track the most popular significant words, by 
 
 For the unigram analysis, the first step was to separate the unigram files according to the type of article they summarize. This meant that book review unigram files were sorted into one directory and research article unigrams files into another. This was accomplished with the `data_separator` notebook. Please refer to the notebook for more details on this process.
 
-A second script, `unigram_analysis.py`, was used to read all of the unigrams in each category (book review or research article) and to create new spreadsheets, `research-article_unigrams.csv` and `book-review_unigrams.csv` .  These files have taken all of the unigrams in each category, stripped out numbers that are not dates;  filtered out the stopwords provided by the NLTK package and our own file of stopwords.txt; and has sorted them by frequency.  We ran the script, manually examined the output identify additional stopwords that we added to the stopwords.txt file [how???], and repeated until we had a stopword list that we thought did a good job of filtering the noise from our data.
+A second notebook, `data_cleaning`, was used to read all of the unigrams in each category (book review or research article), strip numbers that are not dates, filter out the stopwords provided by the NLTK package and our own file of stopwords.txt, and sort unigrams by frequency.  We ran the notebook, manually examined the output, identified additional stopwords that we then added to the `custom_stopwords.txt` file, and repeated until we had a stopword list that we thought did a good job of filtering the noise from our data.
 
-Methods Used
+To visualize the unigrams with sparklines, we used the `sparklines` notebook. Given an article type, time period, bin size, and the number of words to use, it creates a sparkline visualization showing the changes in unigram frequency. The visualization is quite simple and is created with matplotlib, which allows for extensive customization of the visualization.
 
-* To be decided...
-*
+### Topic Modeling
 
-### Analysis Process and Description of Contents
+### Citation Network
 
-1. 
-2. 
+The citation network analysis began with using the `csv_creation` notebook's secondary output, a CSV file of citations sourced from the original XML metadata files. To create CSV files for both nodes and edges, we used the `citation_network` notebook. The detailed process, which involves some manual cleaning and formatting, is documented in the notebook itself. The final result is two files: `nodes.csv` and `edges.csv`.
+
+To build a network and visualize it, we used the `network_visualization` notebook. This will generate a static rendering of the network and two optional, additional visualizations. The visualization code has many options to tweak the resulting network, including node size, node color, network layout, and more. The processed node and edge data can also be used as input to other visualization tools such as Gephi.
 
 ### Contributors
 * Michael Satlow
