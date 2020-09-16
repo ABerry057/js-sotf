@@ -30,6 +30,8 @@
 
 This repository contains the code, description of workflows, and selected data files for our project investigating the journal <i>AJS Review</i> (the official publication of the [Association for Jewish Studies](https://www.associationforjewishstudies.org/)) from its founding to 2014, the last date for which we could acquire data.  The project has two goals: (1) To conduct analyses - particularly about the gender of the authors; trending words; topic modelling; and citation analysis - of the AJS Review in order to see if we can learn anything about the state of the academic field of Jewish studies and the way it has changed through time, and (2) to create a toolkit that more generally can be used to do similar analyses on other journals.
 
+The website can be seen [here](http://www.jewishstudies.digitalscholarship.brown.edu/).
+
 ### Data
 
 Our original plan was to "plug and play" with the scripts that Andrew Goldstone used for his [topic modelling of the *PMLA*](https://agoldst.github.io/dfr-browser/demo/).  This project is based on the [JSTOR Data for Research service](https://www.jstor.org/dfr/) (DfR).  It turns out that since the development of that set of scripts, DfR has changed the way in which they deliver their data, so we found, modified, and created several scripts (all found in this repository) that work with DfR data as it is currently (May, 2020) delivered.
@@ -71,6 +73,12 @@ A second notebook, `data_cleaning`, was used to read all of the unigrams in each
 To visualize the unigrams with sparklines, we used the `sparklines` notebook. Given an article type, time period, bin size, and the number of words to use, it creates a sparkline visualization showing the changes in unigram frequency. The visualization is quite simple and is created with matplotlib, which allows for extensive customization of the visualization.
 
 ### Topic Modeling
+
+Topic modeling begins with a dataframe that contains the texts of the article.  The general strategy, in `DfRModeling`, is (1) to clean the text and put it in a form that can be modeled; (2) to determine the best number of topics to use and the best number of passes; (3) to chose a particular model and assign topics to it; and (4) to produce the files needed to visualize the topics through time.
+
+Once you determine the best number of topics and passes, `Topic Files Bulk Processing` can be used to run the models (assuming you want the same number of topics and passes for each) on multiple chunks of date ranges and types of articles.  You might, for example, want to create pyLDAvis files for research articles in five year chunks.
+
+
 
 ### Citation Network
 
