@@ -74,7 +74,7 @@ To visualize the unigrams with sparklines, we used the `sparklines` notebook. Gi
 
 ### Topic Modeling
 
-Topic modeling begins with a dataframe that contains the texts of the article.  The general strategy, in `DfRModeling`, is (1) to clean the text and put it in a form that can be modeled; (2) to determine the best number of topics to use and the best number of passes; (3) to chose a particular model and assign topics to it; and (4) to produce the files needed to visualize the topics through time.
+Topic modeling begins with a dataframe that contains the texts of the article, which we produced in the `Dataframe-with-text` notebook.  The general strategy, in `DfRModeling`, is (1) to clean the text and put it in a form that can be modeled; (2) to determine the best number of topics to use and the best number of passes; (3) to chose a particular model and assign topics to it; and (4) to produce the files needed to visualize the topics through time.
 
 Once you determine the best number of topics and passes, `Topic Files Bulk Processing` can be used to run the models (assuming you want the same number of topics and passes for each) on multiple chunks of date ranges and types of articles.  You might, for example, want to create pyLDAvis files for research articles in five year chunks.
 
